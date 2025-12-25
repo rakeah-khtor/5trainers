@@ -1,0 +1,46 @@
+<?php
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    // Collect form data
+    $name = htmlspecialchars($_POST['name']);
+    $email = htmlspecialchars($_POST['email']);
+    $phone = htmlspecialchars($_POST['phone_number']);
+    $course = htmlspecialchars($_POST['course']);
+    $batch = htmlspecialchars($_POST['batch']);
+    $qualification = htmlspecialchars($_POST['qualification']);
+
+    // Recipient email
+    $to = "info@5trainers.com, 5trainers.official@gmail.com";
+
+    // Email subject
+    $subject = "New Course Registration from $name";
+
+    // Email body
+    $message = "
+    <h2>New Registration Details</h2>
+    <p><strong>Full Name:</strong> $name</p>
+    <p><strong>Email:</strong> $email</p>
+    <p><strong>Phone Number:</strong> $phone</p>
+    <p><strong>Course:</strong> $course</p>
+    <p><strong>Batch:</strong> $batch</p>
+    <p><strong>Qualification:</strong> $qualification</p>
+    ";
+
+    // Headers
+    $headers = "MIME-Version: 1.0" . "\r\n";
+    $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
+    $headers .= "From: $name <$email>" . "\r\n";
+
+    // Send mail
+//     if (mail($to, $subject, $message, $headers)) {
+//     include 'thanku-page.php';
+// } else {
+//     echo "<h3>❌ Sorry, something went wrong. Please try again.</h3>";
+// }
+
+    if (mail($to, $subject, $message, $headers)) {
+        echo "Mail Sent Successfully!";
+    } else {
+        echo "Mail Sending Failed!";
+    }
+}
+?>
