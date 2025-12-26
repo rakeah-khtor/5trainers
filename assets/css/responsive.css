@@ -667,6 +667,9 @@
     margin: 40px 0px;
     text-align: center;
   }
+  .thankyou-box{
+        margin: 110px 10px 40px;
+  }
 }
 @media only screen and (min-device-width: 480px) and (max-device-width: 576px) {
   .logo {
