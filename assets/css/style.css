@@ -2761,3 +2761,83 @@ a:hover {
   color: #ff8503;
     font-size: 28px;
 }
+.main-thankyou{
+  display: flex;
+  justify-content: center;
+  background-color: #0f79be;
+
+}
+
+.thankyou-box {
+      background: #fff;
+      padding: 40px 50px;
+      border-radius: 20px;
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+      text-align: center;
+      max-width: 450px;
+      animation: fadeIn 1s ease-in-out;
+      margin-top: 200px;
+      margin-bottom: 80px;
+
+    }
+
+    .thankyou-box h1 {
+      font-size: 2.5rem;
+      color: #2D849E;
+      margin-bottom: 15px;
+    }
+
+    .thankyou-box p {
+      font-size: 1.1rem;
+      color: #555;
+      margin-bottom: 25px;
+      text-align: center;
+    }
+
+    .thankyou-box a {
+      display: inline-block;
+      padding: 12px 25px;
+      background: #2D849E;
+      color: #fff;
+      font-size: 1rem;
+      border-radius: 30px;
+      text-decoration: none;
+      transition: 0.3s;
+    }
+
+    .thankyou-box a:hover {
+      background: #2D849E;
+    }
+
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+        transform: translateY(30px);
+      }
+
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+    .checkmark {
+      width: 80px;
+      height: 80px;
+      border-radius: 50%;
+      display: inline-block;
+      border: 5px solid #2D849E;
+      position: relative;
+      margin-bottom: 20px;
+    }
+
+    .checkmark::after {
+      content: "";
+      position: absolute;
+      left: 27px;
+      top: 14px;
+      width: 20px;
+      height: 40px;
+      border-right: 5px solid #2D849E;
+      border-bottom: 5px solid #2D849E;
+      transform: rotate(45deg);
+    }
