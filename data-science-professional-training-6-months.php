@@ -749,6 +749,7 @@ $canonical_url = "https://www.5trainers.com/data-science-professional-training-6
             <!--/col-->
             <div class="col-lg-5">
                 <div class="faqImage"><img src="assets/image/other/faq.svg" class="img-fluid" alt=""></div>
+                <!-- <div class="faqImage"><img src="assets/image/other/faqs.png" class="img-fluid" alt=""></div> -->
             </div>
         </div>
     </div>

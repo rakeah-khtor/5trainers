@@ -639,7 +639,8 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
                         and Immigration Consultant service provider. Branches in Delhi and overseas state.</p>
                 </div>
                 <!--heading-->
-                <div class="faqimg"><img src="assets/image/services/faq-bg.png" alt="" class="img-fluid"></div>
+                <!-- <div class="faqimg"><img src="assets/image/services/faq-bg.png" alt="" class="img-fluid"></div> -->
+                <div class="faqimg"><img src="assets/image/services/Q-A.png" alt="" class="img-fluid"></div>
             </div>
             <div class="col-sm-7 col-lg-6">
                 <div class="accordion rpt mt-80">

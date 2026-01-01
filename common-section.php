@@ -255,8 +255,9 @@
                         with Stipend</h2>
                     <p data-aos="fade-up" data-aos-duration="800">6 Month Program, Placement Assistance after successful
                         Completing course.</p>
-                    <div class="freshersImage"><img src="assets/image/course/freshers.jpg" alt="Freshers"
-                            class="img-fluid"></div>
+                    <div class="freshersImage">
+                        <!-- <img src="assets/image/course/freshers.jpg" alt="Freshers" class="img-fluid"></div> -->
+                        <img src="assets/image/course/fresher.png" alt="Freshers" class="img-fluid"></div>
                 </div>
 
             </div>

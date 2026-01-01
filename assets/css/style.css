@@ -2841,3 +2841,11 @@ a:hover {
       border-bottom: 5px solid #2D849E;
       transform: rotate(45deg);
     }
+    .fa-x-twitter:before {
+    border-radius: 3px;
+    background-color: #ff8503;
+    font-size: 24px;
+}
+.fa-x-twitter:before {
+    color: #0f79be;
+}

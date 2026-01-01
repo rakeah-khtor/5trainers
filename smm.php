@@ -331,7 +331,7 @@ $canonical_url = "https://www.5trainers.com/smm.php";
 					<span class="section-subtitle section-subtitle-2">Let’s Do it Hurry</span>
 					<h3 data-aos="fade-up" data-aos-duration="1000" class="section-title aos-init">Haven't booked your
 						seat yet? <br> Get Seat now</h3>
-					<p data-aos="fade-up" data-aos-duration="1700" class="aos-init"><a href="#">book seat</a></p>
+					<p data-aos="fade-up" data-aos-duration="1700" class="aos-init text-center"><a href="#">book seat</a></p>
 				</div>
 			</div>
 		</div>
@@ -350,7 +350,8 @@ $canonical_url = "https://www.5trainers.com/smm.php";
 					<p data-aos="fade-up" data-aos-duration="1700" class="aos-init aos-animate">The Most Eminent Visas
 						and Immigration Consultant service provider. Branches in Delhi and overseas state.</p>
 				</div>
-				<div class="faqimg"><img src="assets/image/services/faq-digital.png" alt="" class="img-fluid"></div>
+				<!-- <div class="faqimg"><img src="assets/image/services/faq-digital.png" alt="" class="img-fluid"></div> -->
+				<div class="faqimg"><img src="assets/image/services/MAIN-FAQ.png" alt="" class="img-fluid"></div>
 			</div>
 			<div class="col-sm-7 col-lg-6">
 				<div class="accordion rpt">

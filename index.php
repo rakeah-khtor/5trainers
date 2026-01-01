@@ -193,7 +193,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
                     <div class="col-lg-6 col-md-6">
                         <div class="single-instructor-member mb-30">
                             <div class="member-content">
-                                <a href="google-ads-30days.php" target="_blank"><img
+                                <a href="google-ads-30days.php" target="_blank">+<img
                                         src="assets/image/icon/ContentStrategist.png" alt="Google Ads"></a>
                                 <h3><a href="google-ads-30days.php" target="_blank">Google Ads Course</a></h3>
                                 <p>Run profitable campaigns using Google Ads</p>
@@ -779,7 +779,8 @@ $canonical_url = "https://www.5trainers.com/index.php";
 
             <div class="col-lg-4">
                 <div class="placementAssistanceImage">
-                    <img src="assets/image/other/success-growing.png" alt="Success Growing" class="img-fluid">
+                    <!-- <img src="assets/image/other/success-growing.png" alt="Success Growing" class="img-fluid"> -->
+                    <img src="assets/image/other/Your-Career.png" alt="Success Growing" class="img-fluid">
                 </div>
             </div><!--/col-->
         </div><!--/row-->
@@ -999,7 +1000,8 @@ $canonical_url = "https://www.5trainers.com/index.php";
                         Visas and Immigration Consultant service provider. Branches in Delhi and overseas state.</p>
                 </div>
                 <!--heading-->
-                <div class="faqimg"><img src="assets/image/services/faq-bg.png" alt="" class="img-fluid"></div>
+                <!-- <div class="faqimg"><img src="assets/image/services/faq-bg.png" alt="" class="img-fluid"></div> -->
+                <div class="faqimg"><img src="assets/image/services/Q-A.png" alt="" class="img-fluid"></div>
             </div>
             <div class="col-sm-7 col-lg-6">
                 <div class="accordion rpt mt-80">

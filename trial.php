@@ -2,8 +2,8 @@
 	<div class="container">
 		<div class="row align-items-center">
 			<div class="col-lg-6 col-md-6 col-sm-5">
-				<div class="free-trial-img"><img class="img-fluid" src="assets/image/about/free-trial-img.png"
-						alt="image"></div>
+				<!-- <div class="free-trial-img"><img class="img-fluid" src="assets/image/about/free-trial-img.png" alt="image"></div> -->
+				<div class="free-trial-img"><img class="img-fluid" src="assets/image/about/free-trail.png" alt="image"></div>
 			</div>
 			<div class="col-lg-6 col-md-6 col-sm-7">
 				<div class="free-trial-text">

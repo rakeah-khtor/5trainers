@@ -271,7 +271,8 @@ $canonical_url = "https://5trainers.com/about-us.php";?>
 			<div class="col-lg-6 col-md-6 col-sm-12 WhyChoose">
 				<div class="about-left about-leftimg aos-init aos-animate" data-aos="flip-left"
 					data-aos-easing="ease-out-cubic" data-aos-duration="500">
-					<img src="assets/image/about/abtcomy.avif" alt="About 5Trainers" class="img-fluid">
+					<!-- <img src="assets/image/about/abtcomy.avif" alt="About 5Trainers" class="img-fluid"> -->
+					<img src="assets/image/about/abt.png" alt="About 5Trainers" class="img-fluid">
 				</div>
 			</div>
 		</div><!--/row-->

@@ -124,9 +124,9 @@
               <!-- <img src="assets/image/icon/f-fb.png" alt="icon"> -->
                   <i class="fa-brands fa-square-facebook footer-icon"></i>
                   </span>Facebook</a></li>
-            <li><a href="https://twitter.com/5trainers" target="_blank"><span>
+            <li><a href="https://x.com/_5trainers" target="_blank"><span>
               <!-- <img src="assets/image/icon/f-tw.png"alt="icon"> -->
-            <i class="fa-brands fa-square-twitter footer-icon"></i>
+           <i class="fa-brands fa-x-twitter footer-icon"></i>
             </span>Twitter</a></li>
             <li><a href="https://www.linkedin.com/company/5trainer" target="_blank"><span>
               <!-- <img style="width:30px"src="assets/image/icon/mdi_linkedin.png" alt="icon"> -->
