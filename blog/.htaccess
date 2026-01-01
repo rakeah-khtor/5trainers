@@ -1,0 +1,16 @@
+# blog/.htaccess
+Options -Indexes
+RewriteEngine On
+
+# Keep assets/admin working
+RewriteRule ^assets/ - [L]
+RewriteRule ^admin/ - [L]
+
+# Friendly URLs:
+# /blog/some-post-slug  -> /blog/post.php?slug=some-post-slug
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([^/]+)/?$ post.php?slug=$1 [L,QSA]
+
+# Default: /blog/ -> index.php
+RewriteRule ^$ index.php [L]

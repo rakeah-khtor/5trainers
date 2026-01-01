@@ -806,7 +806,7 @@ a:hover {
   position: relative;
   z-index: 1;
   background-color: #fff;
-  background: url(../image/bg-5.jpg) center no-repeat;
+  background: url(../image/bg5.jpg) center no-repeat;
   background-size: cover;
   overflow: hidden;
   margin: 110px 0px !important;

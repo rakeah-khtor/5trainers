@@ -1,16 +1,16 @@
+document.addEventListener("DOMContentLoaded", function () {
+  const boxes = document.querySelectorAll(".box");
+  if (!boxes.length) return;
 
-					    	let label = document.querySelectorAll(".box")
-							label.forEach((e)=>{
-							    e.addEventListener("click", ()=>{
-							        removeClass()
-							        e.classList.toggle("active")
-							    })
-							})
+  function removeClass() {
+    boxes.forEach((el) => el.classList.remove("active"));
+  }
 
-							function removeClass(){
-							    label.forEach((e)=>{
-							        e.classList.remove("active")
-							    })
-							}
-
+  boxes.forEach((el) => {
+    el.addEventListener("click", () => {
+      removeClass();
+      el.classList.toggle("active");
+    });
+  });
+});
 

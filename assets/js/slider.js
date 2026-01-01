@@ -1,50 +1,53 @@
-$(document).ready(function(){
-  var $prev = $('.previousx');
-  var $next = $('.nextx');
-  var mode = "auto";
-  $prev.on({
-    click: function(e){
+document.addEventListener("DOMContentLoaded", function () {
+  const prev = document.querySelector(".previousx");
+  const next = document.querySelector(".nextx");
+  const slides = Array.from(document.querySelectorAll(".slidex"));
+
+  if (!slides.length) return;
+
+  let mode = "auto";
+
+  function getActiveIndex() {
+    const current = document.querySelector(".slidex.activx");
+    return current ? slides.indexOf(current) : 0;
+  }
+
+  function setActive(index) {
+    slides.forEach((s) => s.classList.remove("activx"));
+    slides[index].classList.add("activx");
+  }
+
+  function showNextImage() {
+    let idx = getActiveIndex();
+    idx = (idx + 1) % slides.length;
+    setActive(idx);
+  }
+
+  function showPreviousImage() {
+    let idx = getActiveIndex();
+    idx = (idx - 1 + slides.length) % slides.length;
+    setActive(idx);
+  }
+
+  if (prev) {
+    prev.addEventListener("click", function (e) {
       e.preventDefault();
       mode = "manual";
       showPreviousImage();
-    }
-  });
-  $next.on({
-    click: function(e){
+    });
+  }
+
+  if (next) {
+    next.addEventListener("click", function (e) {
       e.preventDefault();
       mode = "manual";
       showNextImage();
-      
-    }
-  });
-  
-  setInterval(function(){
-    if(mode==="auto"){
+    });
+  }
+
+  setInterval(function () {
+    if (mode === "auto") {
       showNextImage();
     }
-  },5000);
-  
-  function showNextImage(){
-      var $actEl = $('.activx');
-      var $nextEl = $actEl.next('.slidex');
-      if($nextEl.length){
-        $actEl.removeClass('activx');
-        $nextEl.addClass('activx');
-      }else{
-        $actEl.removeClass('activx');
-        $('.slidex:first-child').addClass('activx');
-      }
-  }
-  
-  function showPreviousImage(){
-      var $actEl = $('.activx');
-      var $prevEl = $actEl.prev('.slidex');
-      if($prevEl.length){
-        $actEl.removeClass('activx');
-        $prevEl.addClass('activx');
-      }else{
-        $actEl.removeClass('activx');
-        $('.slidex.last').addClass('activx');
-      }
-  }
+  }, 5000);
 });

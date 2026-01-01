@@ -1,4 +1,9 @@
-<?php include('assets/include/floating-icon.php'); ?>
+<?php
+  // When included from /blog/, adjust asset paths and internal links one level up.
+  $footerAssetPrefix = !empty($is_blog) ? '../' : '';
+  $footerLinkPrefix  = !empty($is_blog) ? '../' : '';
+?>
+<?php include($footerAssetPrefix . 'assets/include/floating-icon.php'); ?>
 
 <span id="top"></span>
 
@@ -7,21 +12,21 @@
     <div class="row">
       <div class="col-sm-6 col-md-6 col-lg-4">
         <div class="footer-contact-two">
-          <div class="icon"><span><img src="assets/image/icon/ftr-phn.png" alt="call-request-training"></span></div>
+          <div class="icon"><span><img src="<?php echo $footerAssetPrefix; ?>assets/image/icon/ftr-phn.png" alt="call-request-training"></span></div>
           <div class="content">
             <h3>
               <a class="d-block" href="tel:+918283840606">+91 8283840606</a>
             </h3>
             <p> Give us a call </p>
           </div>
-          <div class="right"><span><img src="assets/image/icon/ftr-phn-light.png"
+          <div class="right"><span><img src="<?php echo $footerAssetPrefix; ?>assets/image/icon/ftr-phn-light.png"
                 alt="give-call-request-training"></span></div>
         </div>
       </div><!--/col-->
 
       <div class="col-sm-6 col-md-6 col-lg-4">
         <div class="footer-contact-two">
-          <div class="icon"><span><img src="assets/image/icon/ftr-email.png" alt="email us for query"></span></div>
+          <div class="icon"><span><img src="<?php echo $footerAssetPrefix; ?>assets/image/icon/ftr-email.png" alt="email us for query"></span></div>
           <div class="content">
             <h3>
               <a href="https://mail.google.com/mail/?view=cm&fs=1&to=info@5trainers.com"
@@ -29,19 +34,19 @@
             </h3>
             <p> Drop us a line</p>
           </div>
-          <div class="right"><span><img src="assets/image/icon/ftr-email-light.png" alt=""></span></div>
+          <div class="right"><span><img src="<?php echo $footerAssetPrefix; ?>assets/image/icon/ftr-email-light.png" alt=""></span></div>
         </div>
       </div><!--/col-->
 
       <div class="col-sm-12 col-md-12 col-lg-4">
         <div class="footer-contact-two">
-          <div class="icon"><span><img src="assets/image/icon/ftr-location.png" alt=""></span></div>
+          <div class="icon"><span><img src="<?php echo $footerAssetPrefix; ?>assets/image/icon/ftr-location.png" alt=""></span></div>
           <div class="content">
             <h3><a href="https://maps.app.goo.gl/6kAtYrE7bm3SqC4N9" target="_blank">Victory Tower, Phase 8B, Industrial
                 Area, Sector 74, SAS Nagar, Punjab 160055</a></h3>
 
           </div>
-          <div class="right"><span><img src="assets/image/icon/ftr-location-light.png" alt=""></span></div>
+          <div class="right"><span><img src="<?php echo $footerAssetPrefix; ?>assets/image/icon/ftr-location-light.png" alt=""></span></div>
         </div>
       </div><!--/col-->
 
@@ -55,20 +60,20 @@
     <div class="row">
       <div class="col-sm-6 col-lg-4 col-md-12">
         <div class="aboutts aos-init aos-animate" data-aos="zoom-in-right">
-          <div class="logodiv"><a href="index.php"><img src="assets/image/5trainer-logo.png" class="img-fluid" alt=""></a></div>
+          <div class="logodiv"><a href="<?php echo $footerLinkPrefix; ?>index.php"><img src="<?php echo $footerAssetPrefix; ?>assets/image/5trainer-logo.png" class="img-fluid" alt=""></a></div>
           <p class="">We Don't Just Teach—We Empower You With Market-Proven Techniques To Outperform The Competition</p>
           <div class="ftrlocation">
             <p>
-              <spna><img src="assets/image/icon/ftr-location.png" alt="icon"></spna><a
+              <spna><img src="<?php echo $footerAssetPrefix; ?>assets/image/icon/ftr-location.png" alt="icon"></spna><a
                 href="https://maps.app.goo.gl/6kAtYrE7bm3SqC4N9" target="_blank">Victory Tower Phase 8B, Industrial
                 Area, Sector 74, Mohali, Punjab 140308</a>
             </p>
             <p>
-              <spna><img src="assets/image/icon/ftr-phn.png" alt="icon"></spna><a class="d-block"
+              <spna><img src="<?php echo $footerAssetPrefix; ?>assets/image/icon/ftr-phn.png" alt="icon"></spna><a class="d-block"
                 href="tel:+918283840606">+91 8283840606</a>
             </p>
             <p>
-              <spna><img src="assets/image/icon/ftr-email.png" alt="icon"></spna><a
+              <spna><img src="<?php echo $footerAssetPrefix; ?>assets/image/icon/ftr-email.png" alt="icon"></spna><a
                 href="https://mail.google.com/mail/?view=cm&fs=1&to=info@5trainers.com"
                 target="_blank">info@5trainers.com</a>
             </p>
@@ -80,20 +85,20 @@
           <h4>Useful Links</h4>
           <ul class="footer-ul">
             <li>
-             <img src="assets/image/icon/bulb-white.png" alt="icon" class="footer-icon">   
-            <a href="about.php">About</a></li>
+             <img src="<?php echo $footerAssetPrefix; ?>assets/image/icon/bulb-white.png" alt="icon" class="footer-icon">   
+            <a href="<?php echo $footerLinkPrefix; ?>about.php">About</a></li>
             <li>
-             <img src="assets/image/icon/bulb-white.png" alt="icon" class="footer-icon">   
-            <a href="course.php">Courses</a></li>
+             <img src="<?php echo $footerAssetPrefix; ?>assets/image/icon/bulb-white.png" alt="icon" class="footer-icon">   
+            <a href="<?php echo $footerLinkPrefix; ?>course.php">Courses</a></li>
             <li>
-             <img src="assets/image/icon/bulb-white.png" alt="icon" class="footer-icon">   
-            <a href="career.php">Career</a></li>
+             <img src="<?php echo $footerAssetPrefix; ?>assets/image/icon/bulb-white.png" alt="icon" class="footer-icon">   
+            <a href="<?php echo $footerLinkPrefix; ?>career.php">Career</a></li>
             <li>
-             <img src="assets/image/icon/bulb-white.png" alt="icon" class="footer-icon">   
-            <a href="terms-conditions.php">Terms of Service</a></li>
+             <img src="<?php echo $footerAssetPrefix; ?>assets/image/icon/bulb-white.png" alt="icon" class="footer-icon">   
+            <a href="<?php echo $footerLinkPrefix; ?>terms-conditions.php">Terms of Service</a></li>
             <li>
-             <img src="assets/image/icon/bulb-white.png" alt="icon" class="footer-icon">   
-            <a href="privacy-policy.php">Privacy Policy</a></li>
+             <img src="<?php echo $footerAssetPrefix; ?>assets/image/icon/bulb-white.png" alt="icon" class="footer-icon">   
+            <a href="<?php echo $footerLinkPrefix; ?>privacy-policy.php">Privacy Policy</a></li>
           </ul>
         </div>
       </div><!--/col-->
@@ -102,17 +107,17 @@
           <h4>courses</h4>
           <ul class="footer-ul">
             <li>
-            <img src="assets/image/icon/bulb-white.png" alt="icon" class="footer-icon">  
-            <a href="digitalmarketingcourse.php">Digital Marketing</a></li>
+            <img src="<?php echo $footerAssetPrefix; ?>assets/image/icon/bulb-white.png" alt="icon" class="footer-icon">  
+            <a href="<?php echo $footerLinkPrefix; ?>digitalmarketingcourse.php">Digital Marketing</a></li>
             <li>
-             <img src="assets/image/icon/bulb-white.png" alt="icon" class="footer-icon">   
-            <a href="google-ads-30days.php">Google Ads</a></li>
+             <img src="<?php echo $footerAssetPrefix; ?>assets/image/icon/bulb-white.png" alt="icon" class="footer-icon">   
+            <a href="<?php echo $footerLinkPrefix; ?>google-ads-30days.php">Google Ads</a></li>
             <li>
-             <img src="assets/image/icon/bulb-white.png" alt="icon" class="footer-icon">   
-            <a href="seo-one-month.php">Search Engine Optimization</a></li>
+             <img src="<?php echo $footerAssetPrefix; ?>assets/image/icon/bulb-white.png" alt="icon" class="footer-icon">   
+            <a href="<?php echo $footerLinkPrefix; ?>seo-one-month.php">Search Engine Optimization</a></li>
             <li>
-             <img src="assets/image/icon/bulb-white.png" alt="icon" class="footer-icon">   
-            <a href="smm.php">Social Media Marketing</a></li>
+             <img src="<?php echo $footerAssetPrefix; ?>assets/image/icon/bulb-white.png" alt="icon" class="footer-icon">   
+            <a href="<?php echo $footerLinkPrefix; ?>smm.php">Social Media Marketing</a></li>
           </ul>
         </div>
       </div><!--/col-->
@@ -146,7 +151,7 @@
       </div>
     </div><!--row-->
     <div class="row btm-ftr">
-      <div class="scrolltop"><a href="#top" id="bottom"><span><img src="assets/image/icon/scroll-up.png"></span></a>
+      <div class="scrolltop"><a href="#top" id="bottom"><span><img src="<?php echo $footerAssetPrefix; ?>assets/image/icon/scroll-up.png"></span></a>
       </div>
       <div class="col-sm-12 col-lg-12 col-md-12">
         <div class="btm-ftr-left">
@@ -156,19 +161,14 @@
     </div>
   </div>
 </footer>
-<script src="assets/js/jquery.min.js"></script>
-<script src="assets/js/bootstrap.min.js"></script>
-<script src="assets/js/wow.js"></script>
-<script src="assets/js/aos.js"></script>
-<script src="assets/js/faq.js"></script>
-<script src="assets/js/scrolltop.js"></script>
-<script src="assets/js/fixed-header.js"></script>
-<script src="assets/js/faq.js"></script>
-<script src="assets/js/call-request.js"></script>
-<script src="landingpage/assets/js/vertical-tab.js"></script>
-
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="<?php echo $footerAssetPrefix; ?>assets/js/jquery.min.js"></script>
+<script src="<?php echo $footerAssetPrefix; ?>assets/js/wow.js"></script>
+<script src="<?php echo $footerAssetPrefix; ?>assets/js/aos.js"></script>
+<script src="<?php echo $footerAssetPrefix; ?>assets/js/faq.js"></script>
+<script src="<?php echo $footerAssetPrefix; ?>assets/js/scrolltop.js"></script>
+<script src="<?php echo $footerAssetPrefix; ?>assets/js/fixed-header.js"></script>
+<script src="<?php echo $footerAssetPrefix; ?>assets/js/call-request.js"></script>
+<script src="<?php echo $footerAssetPrefix; ?>landingpage/assets/js/vertical-tab.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.1.1/owl.carousel.min.js"></script>
 <script>
 

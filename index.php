@@ -895,7 +895,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
                         <div class="product-top-content">
                             <div class="product-category"><a href="#">Up &amp; Coming</a></div>
                             <h3><a href="#">Marketing in 2025: How to Build Seamless Customer Journeys</a></h3>
-                            <p><span><img src="assets/image/icon/loction.png" alt=""></span>In a world where your
+                            <p><span><img src="assets/image/icon/ftr-location.png" alt=""></span>In a world where your
                                 customers are constantly switching between devices...</p>
                             <div class="list-information">
                                 <ul>
@@ -926,7 +926,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
                         <div class="product-top-content">
                             <div class="product-category"><a href="#">Up &amp; Coming</a></div>
                             <h3><a href="#">Top SEO Trends in 2025: What You Need to Know to Stay Ahead</a></h3>
-                            <p><span><img src="assets/image/icon/loction.png" alt=""></span>In the ever-evolving
+                            <p><span><img src="assets/image/icon/ftr-location.png" alt=""></span>In the ever-evolving
                                 world of digital marketing, SEO remains the backbone of online visibility...</p>
                             <div class="list-information">
                                 <ul>
@@ -958,7 +958,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
                         <div class="product-top-content">
                             <div class="product-category"><a href="#">Up &amp; Coming</a></div>
                             <h3><a href="#">Web Design Trends of 2025: From Neo-Brutalism to AI-Driven UX</a></h3>
-                            <p><span><img src="assets/image/icon/loction.png" alt=""></span>The digital world never
+                            <p><span><img src="assets/image/icon/ftr-location.png" alt=""></span>The digital world never
                                 stands still, and web design...</p>
                             <div class="list-information">
                                 <ul>

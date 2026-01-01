@@ -69,7 +69,7 @@ $canonical_url = "https://www.5trainers.com/artificial-intelligence.php";
 						<div class="product-top-content">
 							<div class="product-category"><a href="#">Machine Learning</a></div>
 							<h3><a href="#">Introduction to Machine Learning</a></h3>
-							<p><span><img src="assets/image/icon/loction.png" alt=""></span>Learn how machines can
+							<p><span><img src="assets/image/icon/ftr-location.png" alt=""></span>Learn how machines can
 								analyze data and make predictions using algorithms.</p>
 							<div class="read-more">
 								<a href="#">Explore More <span><img src="assets/image/icon/arrow_15.png"
@@ -94,7 +94,7 @@ $canonical_url = "https://www.5trainers.com/artificial-intelligence.php";
 						<div class="product-top-content">
 							<div class="product-category"><a href="#">NLP</a></div>
 							<h3><a href="#">Natural Language Processing</a></h3>
-							<p><span><img src="assets/image/icon/loction.png" alt=""></span>Discover how AI understands
+							<p><span><img src="assets/image/icon/ftr-location.png" alt=""></span>Discover how AI understands
 								and processes human language in applications like chatbots.</p>
 							<div class="read-more">
 								<a href="#">Explore More <span><img src="assets/image/icon/arrow_15.png"
@@ -119,7 +119,7 @@ $canonical_url = "https://www.5trainers.com/artificial-intelligence.php";
 						<div class="product-top-content">
 							<div class="product-category"><a href="#">Robotics</a></div>
 							<h3><a href="#">AI in Robotics</a></h3>
-							<p><span><img src="assets/image/icon/loction.png" alt=""></span>Explore how robots use AI
+							<p><span><img src="assets/image/icon/ftr-location.png" alt=""></span>Explore how robots use AI
 								for automation, manufacturing, and even healthcare.</p>
 							<div class="read-more">
 								<a href="#">Explore More <span><img src="assets/image/icon/arrow_15.png"

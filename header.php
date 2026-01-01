@@ -9,6 +9,11 @@
   <link rel="canonical" href="<?php echo $canonical_url ?? ''; ?>">
   <meta name="keywords"
     content="Digital marketing institute in Mohali, Best IT training institute Mohali, Cyber security training Mohali, Data science course in Mohali, Full stack developer course Mohali, Job-oriented courses in Mohali, 5Trainers Mohali">
+  <?php
+    // When included from /blog/, adjust asset paths and internal links one level up.
+    $assetPrefix = !empty($is_blog) ? '../' : '';
+    $linkPrefix  = !empty($is_blog) ? '../' : '';
+  ?>
   <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -36,35 +41,35 @@
   ]
     }
     </script>
-  <link href="assets/css/hf.css" type="text/css" rel="stylesheet" />
-  <link href="assets/css/style.css" type="text/css" rel="stylesheet" />
-  <link href="assets/css/course.css" type="text/css" rel="stylesheet" />
-  <link href="assets/css/course.css" type="text/css" rel="stylesheet" />
-  <link href="assets/css/seo.css" type="text/css" rel="stylesheet" />
-  <link href="assets/css/smm.css" type="text/css" rel="stylesheet" />
-  <link href="assets/css/career.css" type="text/css" rel="stylesheet" />
-  <link href="assets/css/about.css" type="text/css" rel="stylesheet" />
-  <link href="assets/css/slider-new.css" type="text/css" rel="stylesheet" />
-  <link href="assets/css/contact.css" type="text/css" rel="stylesheet" />
-  <link href="assets/css/digital-marketing.css" type="text/css" rel="stylesheet" />
-  <link href="assets/css/blog-single.css" type="text/css" rel="stylesheet" />
-  <link href="assets/css/popup.css" type="text/css" rel="stylesheet" />
-  <link href="assets/css/404.css" type="text/css" rel="stylesheet" />
-  	<link href="assets/css/google-ads.css" type="text/css" rel="stylesheet" />
-  <link href="assets/css/faq.css" type="text/css" rel="stylesheet" />
-  <link href="assets/css/counseling-for-students.css" type="text/css" rel="stylesheet" />
-  <link href="assets/css/landingpage/landing-page.css" type="text/css" rel="stylesheet" />
-  <link href="assets/css/responsive.css" type="text/css" rel="stylesheet" />
-  <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+  <link href="<?php echo $assetPrefix; ?>assets/css/hf.css" type="text/css" rel="stylesheet" />
+  <link href="<?php echo $assetPrefix; ?>assets/css/style.css" type="text/css" rel="stylesheet" />
+  <link href="<?php echo $assetPrefix; ?>assets/css/course.css" type="text/css" rel="stylesheet" />
+  <link href="<?php echo $assetPrefix; ?>assets/css/course.css" type="text/css" rel="stylesheet" />
+  <link href="<?php echo $assetPrefix; ?>assets/css/seo.css" type="text/css" rel="stylesheet" />
+  <link href="<?php echo $assetPrefix; ?>assets/css/smm.css" type="text/css" rel="stylesheet" />
+  <link href="<?php echo $assetPrefix; ?>assets/css/career.css" type="text/css" rel="stylesheet" />
+  <link href="<?php echo $assetPrefix; ?>assets/css/about.css" type="text/css" rel="stylesheet" />
+  <link href="<?php echo $assetPrefix; ?>assets/css/slider-new.css" type="text/css" rel="stylesheet" />
+  <link href="<?php echo $assetPrefix; ?>assets/css/contact.css" type="text/css" rel="stylesheet" />
+  <link href="<?php echo $assetPrefix; ?>assets/css/digital-marketing.css" type="text/css" rel="stylesheet" />
+  <link href="<?php echo $assetPrefix; ?>assets/css/blog-single.css" type="text/css" rel="stylesheet" />
+  <link href="<?php echo $assetPrefix; ?>assets/css/popup.css" type="text/css" rel="stylesheet" />
+  <link href="<?php echo $assetPrefix; ?>assets/css/404.css" type="text/css" rel="stylesheet" />
+  <link href="<?php echo $assetPrefix; ?>assets/css/google-ads.css" type="text/css" rel="stylesheet" />
+  <link href="<?php echo $assetPrefix; ?>assets/css/faq.css" type="text/css" rel="stylesheet" />
+  <link href="<?php echo $assetPrefix; ?>assets/css/counseling-for-students.css" type="text/css" rel="stylesheet" />
+  <link href="<?php echo $assetPrefix; ?>assets/css/landingpage/landing-page.css" type="text/css" rel="stylesheet" />
+  <link href="<?php echo $assetPrefix; ?>assets/css/responsive.css" type="text/css" rel="stylesheet" />
+  <link href="<?php echo $assetPrefix; ?>assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
   <!-- course-page -->
 
 
   <!-- floating -->
-  <link href="assets/css/floating-icons.css" type="text/css" rel="stylesheet" />
+  <link href="<?php echo $assetPrefix; ?>assets/css/floating-icons.css" type="text/css" rel="stylesheet" />
 
-  <link href="assets/css/animate.css" rel="stylesheet">
-  <link href="assets/css/aos.css" rel="stylesheet">
-  <link rel="shortcut icon" href="assets/image/favicon32.png">
+  <link href="<?php echo $assetPrefix; ?>assets/css/animate.css" rel="stylesheet">
+  <link href="<?php echo $assetPrefix; ?>assets/css/aos.css" rel="stylesheet">
+  <link rel="shortcut icon" href="<?php echo $assetPrefix; ?>assets/image/favicon32.png">
   <meta name="msvalidate.01" content="7EDD16BE0E2EBADEEBC8AE5E6248694D" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
 
@@ -105,67 +110,67 @@
       <div class="nocontainer width90">
         <div class="wrapper">
           <div class="logo">
-            <a href="index.php"><img src="assets/image/Final-logo.png" alt="" class="img-fluid"></a>
+            <a href="<?php echo $linkPrefix; ?>index.php"><img src="<?php echo $assetPrefix; ?>assets/image/Final-logo.png" alt="" class="img-fluid"></a>
           </div>
 
           <input type="radio" name="slider" id="menu-btn">
           <input type="radio" name="slider" id="close-btn">
 
           <ul class="nav-links menu_box">
-            <label for="close-btn" class="btn close-btn close_icon"><img src="assets/image/icon/close.png"></label>
+            <label for="close-btn" class="btn close-btn close_icon"><img src="<?php echo $assetPrefix; ?>assets/image/icon/close.png"></label>
 
-            <li><a href="index.php" class="home">Home</a></li>
+            <li><a href="<?php echo $linkPrefix; ?>index.php" class="home">Home</a></li>
 
             <!-- About dropdown -->
             <li>
-              <a href="about.php" class="desktop-item">About <span><img
-                    src="assets/image/icon/expand_arrow.png"></span></a>
+              <a href="<?php echo $linkPrefix; ?>about.php" class="desktop-item">About <span><img
+                    src="<?php echo $assetPrefix; ?>assets/image/icon/expand_arrow.png"></span></a>
               <input type="checkbox" id="drop-about">
               <label for="drop-about" class="mobile-item">About <span><img
-                    src="assets/image/icon/expand_arrow.png"></span></label>
+                    src="<?php echo $assetPrefix; ?>assets/image/icon/expand_arrow.png"></span></label>
               <ul class="drop-menu">
-                <li><a href="about.php">About 5Trainer</a></li>
-                <li><a href="founder.php">Our Founder</a></li>
+                <li><a href="<?php echo $linkPrefix; ?>about.php">About 5Trainer</a></li>
+                <li><a href="<?php echo $linkPrefix; ?>founder.php">Our Founder</a></li>
               </ul>
             </li>
 
             <!--  Courses dropdown -->
             <li>
-              <a href="course.php" class="desktop-item">Courses <span><img
-                    src="assets/image/icon/expand_arrow.png"></span></a>
+              <a href="<?php echo $linkPrefix; ?>course.php" class="desktop-item">Courses <span><img
+                    src="<?php echo $assetPrefix; ?>assets/image/icon/expand_arrow.png"></span></a>
               <input type="checkbox" id="drop-courses">
               <label for="drop-courses" class="mobile-item">Courses <span><img
-                    src="assets/image/icon/expand_arrow.png"></span></label>
+                    src="<?php echo $assetPrefix; ?>assets/image/icon/expand_arrow.png"></span></label>
               <ul class="drop-menu">
-                <li><a href="digitalmarketingcourse.php">Digital Marketing Course</a></li>
-                <li><a href="seo-one-month.php">SEO Course</a></li>
-                <li><a href="google-ads-30days.php">Google Ads</a></li>
-                <li><a href="meta-ads-30days.php">Meta Ads</a></li>
-                <li><a href="smo-one-month.php">SMO Course</a></li>
-                <li><a href="smm.php">SMM Course</a></li>
-                <li><a href="full-stack-webdevelopment.php">Full Stack Development</a></li>
-                <li><a href="data-science-professional-training-6-months.php">Data Science Professional Training</a>
+                <li><a href="<?php echo $linkPrefix; ?>digitalmarketingcourse.php">Digital Marketing Course</a></li>
+                <li><a href="<?php echo $linkPrefix; ?>seo-one-month.php">SEO Course</a></li>
+                <li><a href="<?php echo $linkPrefix; ?>google-ads-30days.php">Google Ads</a></li>
+                <li><a href="<?php echo $linkPrefix; ?>meta-ads-30days.php">Meta Ads</a></li>
+                <li><a href="<?php echo $linkPrefix; ?>smo-one-month.php">SMO Course</a></li>
+                <li><a href="<?php echo $linkPrefix; ?>smm.php">SMM Course</a></li>
+                <li><a href="<?php echo $linkPrefix; ?>full-stack-webdevelopment.php">Full Stack Development</a></li>
+                <li><a href="<?php echo $linkPrefix; ?>data-science-professional-training-6-months.php">Data Science Professional Training</a>
                 </li>
-                <li><a href="artificial-intelligence.php">Artificial Intelligence</a></li>
-                <li><a href="data-analytics-6months.php">Data Analytics</a></li>
+                <li><a href="<?php echo $linkPrefix; ?>artificial-intelligence.php">Artificial Intelligence</a></li>
+                <li><a href="<?php echo $linkPrefix; ?>data-analytics-6months.php">Data Analytics</a></li>
               </ul>
             </li>
 
             <!--  Counseling dropdown -->
             <li>
               <a href="#" class="desktop-item">Counseling <span><img
-                    src="assets/image/icon/expand_arrow.png"></span></a>
+                    src="<?php echo $assetPrefix; ?>assets/image/icon/expand_arrow.png"></span></a>
               <input type="checkbox" id="drop-counseling">
               <label for="drop-counseling" class="mobile-item">Counseling <span><img
-                    src="assets/image/icon/expand_arrow.png"></span></label>
+                    src="<?php echo $assetPrefix; ?>assets/image/icon/expand_arrow.png"></span></label>
               <ul class="drop-menu">
-                <li><a href="counseling-for-students.php">For Students</a></li>
-                <li><a href="professionals.php">For Professionals</a></li>
-                <li><a href="institutions.php">For Institutions</a></li>
+                <li><a href="<?php echo $linkPrefix; ?>counseling-for-students.php">For Students</a></li>
+                <li><a href="<?php echo $linkPrefix; ?>professionals.php">For Professionals</a></li>
+                <li><a href="<?php echo $linkPrefix; ?>institutions.php">For Institutions</a></li>
               </ul>
             </li>
-            <li><a href="blog.php">Blog</a></li>
-            <li><a href="contact.php">Contact Us</a></li>
+            <li><a href="<?php echo $linkPrefix; ?>blog/">Blog</a></li>
+            <li><a href="<?php echo $linkPrefix; ?>contact.php">Contact Us</a></li>
             <button type="button" class="brochure-btn d-block" data-bs-toggle="modal"
               data-bs-target="#staticBackdrop">Brochure</button>
           </ul>
@@ -214,7 +219,7 @@
               </div>
             </div>
           </div>
-          <label for="menu-btn" class="btn menu-btn"><img src="assets/image/icon/toggle.png" alt=""></label>
+          <label for="menu-btn" class="btn menu-btn"><img src="<?php echo $assetPrefix; ?>assets/image/icon/toggle.png" alt=""></label>
         </div>
       </div>
     </nav>

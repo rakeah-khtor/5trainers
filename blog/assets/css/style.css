@@ -1,0 +1,470 @@
+/* blog page style */
+
+/* Small global improvements */
+* { box-sizing: border-box; }
+html, body { max-width: 100%; overflow-x: hidden; }
+img { 
+  max-width: 100%; 
+  /* display: block;  */
+}
+a { word-break: break-word; }
+
+/* ============ CARD STYLES ============ */
+.blog-container {
+  max-width: 1200px;
+  margin: auto;
+  margin-top: 120px; /* prevent cards from hiding behind fixed header */
+  padding: 40px 20px;
+}
+
+/* Responsive grid:
+   - mobile: 1 column
+   - tablet: 2 columns
+   - desktop: 3 columns (same as your layout)
+*/
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 25px;
+}
+
+/* Tablet */
+@media (max-width: 1024px){
+  .card-grid{
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+/* Mobile */
+@media (max-width: 640px){
+  .blog-container{
+    padding: 26px 14px;
+  }
+  .card-grid{
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+}
+
+/* Very small phones (320px / 360px) */
+@media (max-width: 380px){
+  .blog-container{ padding: 22px 10px; }
+}
+
+.card {
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  overflow: hidden;
+  background: #fff;
+  transition: transform 0.25s ease;
+  height: 100%;
+  box-shadow: 0 0 10px rgba(0,0,0,0.18);
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+/* image */
+.card-img {
+  width: 100%;
+  height: 240px;
+  object-fit: cover;
+  transition: transform 0.35s ease;
+}
+
+.card:hover .card-img {
+  transform: scale(1.03);
+}
+
+/* Reduce image height on smaller screens */
+@media (max-width: 640px){
+  .card-img{ height: 200px; }
+}
+@media (max-width: 380px){
+  .card-img{ height: 180px; }
+}
+
+/* content */
+.card-body {
+  padding: 18px;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.card-title {
+  font-size: 18px;
+  /* font-weight: bold; */
+  margin-bottom: 8px;
+  overflow-wrap: anywhere; /* prevents overflow on long titles */
+}
+
+.card-date {
+  font-size: 14px;
+  color: #777;
+  margin-bottom: 10px;
+}
+
+/* Typography scaling */
+@media (max-width: 640px){
+  .card-body{ padding: 14px; }
+  .card-title{ font-size: 18px; }
+  .card-date{ font-size: 13px; }
+}
+
+/* 3 line content */
+.card-text {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  margin-bottom: 15px;
+}
+
+/* buttons */
+.read-more-btn {
+  display: inline-block;
+  padding: 10px 14px;
+  border: 1px solid #0f79be;
+  border-radius: 6px;
+  text-decoration: none;
+  text-align: center;
+  color: #222;
+  transition: 0.25s ease;
+  margin-top: auto;
+}
+
+.read-more-btn:hover {
+  background: #0f79be;
+  color: #fff;
+}
+
+/* Touch-friendly buttons on small screens */
+@media (max-width: 640px){
+  .read-more-btn{
+    padding: 10px 14px;
+    width: 100%;
+    text-align: center;
+  }
+}
+
+/* =========== BLOG PAGE =========== */
+.blog-full {
+  max-width: 900px;
+  margin: auto;
+  padding: 40px 20px;
+}
+
+.blog-banner {
+  width: 100%;
+  height: 350px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+/* Banner scales down */
+@media (max-width: 980px){
+  .blog-full{ padding: 28px 16px; }
+  .blog-banner{ height: 300px; }
+}
+@media (max-width: 640px){
+  .blog-full{ padding: 22px 12px; }
+  .blog-banner{ height: 220px; border-radius: 12px; }
+}
+@media (max-width: 380px){
+  .blog-banner{ height: 190px; }
+}
+
+.blog-title {
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  overflow-wrap: anywhere;
+}
+
+.blog-date {
+  color: #777;
+  margin-bottom: 25px;
+}
+
+@media (max-width: 640px){
+  .blog-title{ font-size: 24px; }
+  .blog-date{ margin-bottom: 16px; }
+}
+
+.back-btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 8px 14px;
+  background: #0f79be;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 6px;
+}
+
+@media (max-width: 640px){
+  .back-btn{
+    width: 100%;
+    text-align: center;
+    padding: 10px 14px;
+  }
+}
+
+/* Load more button */
+.load-more-wrap {
+  text-align: center;
+  margin: 24px 0;
+}
+
+.load-more-btn {
+  padding: 10px 16px;
+  border-radius: 10px;
+  border: 1px solid #0f79be;
+  background: #0f79be;
+  color: #fff;
+  cursor: pointer;
+}
+
+@media (max-width: 640px){
+  .load-more-btn{
+    width: 100%;
+    max-width: 360px;
+  }
+}
+
+/* =========== BLOG DETAIL LAYOUT WITH SIDEBAR (layout unchanged) =========== */
+.blog-layout{
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 18px 16px 28px;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 320px;
+  gap: 18px;
+}
+
+/* Sidebar */
+.blog-sidebar{
+  width: 100%;
+  max-width: 320px;
+  background: #fff;
+  border: 1px solid #0f78be4b;
+  border-radius: 14px;
+  padding: 14px;
+  height: fit-content;
+  position: sticky;
+  top: 180px;
+}
+
+/* prevent sticky from causing issues on iOS */
+@supports (-webkit-touch-callout: none) {
+  .blog-sidebar { position: static; }
+}
+
+.sidebar-title{
+  margin: 0 0 10px 0;
+  font-size: 18px;
+}
+
+.latest-list{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.latest-item{
+  display: flex;
+  gap: 10px;
+  text-decoration: none;
+  color: inherit;
+  border: 1px solid #0f78be4b;
+  border-radius: 12px;
+  padding: 10px;
+  background: #fafafa;
+}
+
+.latest-thumb{
+  width: 68px;
+  height: 52px;
+  object-fit: cover;
+  border-radius: 10px;
+  border: 1px solid #eee;
+  flex: 0 0 auto;
+}
+
+.latest-meta{
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  min-width: 0;
+}
+
+.latest-title{
+  margin: 0;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 1.2;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.latest-date{
+  margin: 0;
+  font-size: 12px;
+  color: #666;
+}
+
+/* Tablet: sidebar below content */
+@media (max-width: 980px){
+  .blog-layout{
+    grid-template-columns: 1fr;
+  }
+  .blog-sidebar{
+    width: 100%;
+    max-width: none;
+    position: static;
+  }
+}
+
+/* Mobile: make latest list horizontal scroll (layout kept; still sidebar below) */
+@media (max-width: 640px){
+  .blog-layout{ padding: 14px 12px 22px; gap: 14px; }
+
+  .blog-sidebar{
+    padding: 12px;
+  }
+
+  /* Wrap instead of horizontal scroll */
+  .latest-list{
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px;
+  }
+
+  .latest-item{
+    width: 100%;
+  }
+
+  .latest-thumb{
+    width: 64px;
+    height: 52px;
+  }
+
+  .latest-title{
+    white-space: normal;       /* allow wrap */
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;     /* 2-line title */
+    -webkit-box-orient: vertical;
+  }
+}
+
+/* Extra small phones: 1 column latest list */
+@media (max-width: 420px){
+  .latest-list{
+    grid-template-columns: 1fr;
+  }
+  .latest-thumb{
+    width: 76px;
+    height: 60px;
+  }
+}
+
+
+/* =========== COMMENTS =========== */
+.comments-wrap{
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 16px 60px;
+}
+
+.comment-form{
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 14px;
+  border: 1px solid #eee;
+  border-radius: 14px;
+  background: #fff;
+}
+
+.comment-form label{
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  font-weight: 600;
+}
+
+.comment-form input,
+.comment-form textarea{
+  padding: 10px 12px;
+  border-radius: 10px;
+  border: 1px solid #ddd;
+  font-family: inherit;
+}
+
+.comments-list{
+  margin-top: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.comment-card{
+  background: #fff;
+  border: 1px solid #eee;
+  border-radius: 14px;
+  padding: 12px 14px;
+}
+
+.comment-card .c-top{
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  margin-bottom: 6px;
+  flex-wrap: wrap;
+}
+
+.comment-card .c-name{
+  font-weight: 800;
+}
+
+.comment-card .c-date{
+  color: #666;
+  font-size: 12px;
+}
+
+.comment-card .c-text{
+  margin: 0;
+  line-height: 1.5;
+}
+
+/* Better spacing on very small devices */
+@media (max-width: 640px){
+  .comments-wrap{ padding: 0 12px 44px; }
+  .comment-form{ padding: 12px; }
+  .comment-card{ padding: 12px; }
+}
+
+@media (max-width: 380px){
+  .comment-form input,
+  .comment-form textarea{ padding: 9px 10px; }
+}
+
+/* =========== Comment validation UI =========== */
+.field-error{
+  color:#b42318;
+  min-height: 16px;
+}
+
+.input-error{
+  border-color:#b42318 !important;
+  outline: none;
+}
