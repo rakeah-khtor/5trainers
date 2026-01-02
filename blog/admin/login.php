@@ -2,6 +2,7 @@
 // blog/admin/login.php
 session_start();
 $cfg = require __DIR__ . '/config.php';
+$site_cfg = require __DIR__ . '/../include/config.php';
 $error = '';
 $csrf = '';
 if (empty($_SESSION['blog_admin_csrf'])) {
@@ -136,9 +137,24 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
       outline:none;
     }
   </style>
+  <style>
+    .login-logo{
+      display:flex;
+      justify-content:center;
+      margin-bottom:14px;
+    }
+    .login-logo img{
+      height:40px;
+      max-width:160px;
+      object-fit:contain;
+    }
+  </style>
 </head>
 <body>
   <div class="login-wrap">
+    <div class="login-logo">
+      <img src="<?php echo htmlspecialchars($site_cfg['basePath']); ?>../assets/image/logo.png" alt="5Trainers">
+    </div>
     <h1>Admin Login</h1>
     <p class="subtitle">Sign in to manage blog posts</p>
     <?php if ($error): ?>
@@ -173,4 +189,3 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
   </script>
 </body>
 </html>
-

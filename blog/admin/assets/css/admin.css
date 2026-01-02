@@ -15,9 +15,9 @@
   margin: 0 auto;
   padding: 18px 16px;
   display:flex;
-  align-items:flex-end;
+  align-items:center;
   justify-content: space-between;
-  gap: 12px;
+  gap: 16px;
 }
 
 .admin-title{

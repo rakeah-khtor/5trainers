@@ -27,9 +27,14 @@ $admin_cfg = require __DIR__ . '/config.php';
 
 <header class="admin-header">
     <div class="admin-header-inner">
-      <div>
-        <h1 class="admin-title">Blog Admin</h1>
-        <p class="admin-subtitle">Create, edit, and delete blog posts</p>
+      <div style="display:flex;align-items:center;gap:12px;">
+        <a href="<?php echo htmlspecialchars($site_cfg['basePath']); ?>" style="display:inline-flex;align-items:center;">
+          <img src="<?php echo htmlspecialchars($site_cfg['basePath']); ?>../assets/image/logo.png" alt="5Trainers" style="height:40px;max-width:140px;object-fit:contain;">
+        </a>
+        <div>
+          <h1 class="admin-title">Blog Admin</h1>
+          <p class="admin-subtitle">Create, edit, and delete blog posts</p>
+        </div>
       </div>
       <div class="admin-actions">
         <a class="admin-link" href="<?php echo htmlspecialchars($site_cfg["basePath"]); ?>">View Blog</a>
