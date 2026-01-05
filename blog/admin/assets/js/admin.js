@@ -4,7 +4,11 @@ const BASE_PATH = (BLOG_CONFIG.basePath || "/blog/").replace(/([^\/])$/, "$1/");
 const ADMIN_TOKEN = window.__ADMIN_TOKEN || '';
 function authHeaders(extra = {}) {
   const h = { ...extra };
-  if (ADMIN_TOKEN) h['Authorization'] = `Bearer ${ADMIN_TOKEN}`;
+  if (ADMIN_TOKEN) {
+    // Send token in both Authorization and X-Admin-Token so it survives any proxy/header quirks.
+    h["Authorization"] = `Bearer ${ADMIN_TOKEN}`;
+    h["X-Admin-Token"] = ADMIN_TOKEN;
+  }
   return h;
 }
 

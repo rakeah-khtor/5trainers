@@ -19,28 +19,30 @@ $admin_cfg = require __DIR__ . '/config.php';
   </script>
 </head>
 <body>
-  <div style="max-width:1100px;margin:18px auto;padding:0 12px;">
-    <div style="display:flex;justify-content:flex-end;margin-bottom:10px;">
-      <a href="logout.php" style="text-decoration:none;">Logout</a>
-    </div>
-  </div>
 
 <header class="admin-header">
     <div class="admin-header-inner">
       <div style="display:flex;align-items:center;gap:12px;">
         <a href="<?php echo htmlspecialchars($site_cfg['basePath']); ?>" style="display:inline-flex;align-items:center;">
-          <img src="<?php echo htmlspecialchars($site_cfg['basePath']); ?>../assets/image/logo.png" alt="5Trainers" style="height:40px;max-width:140px;object-fit:contain;">
+          <img src="<?php echo htmlspecialchars($site_cfg['basePath']); ?>../assets/image/logo.png" alt="5Trainers" style="height:60px;max-width:140px;object-fit:contain;">
         </a>
-        <div>
-          <h1 class="admin-title">Blog Admin</h1>
-          <p class="admin-subtitle">Create, edit, and delete blog posts</p>
-        </div>
       </div>
+
+      <div style="display:table-coloum;text-align:center;gap:12px;">
+        <h1 class="admin-title">Blog Admin</h1>
+        <p class="admin-subtitle">Create, edit, and delete blog posts</p>
+      </div>
+
       <div class="admin-actions">
+        <div style="max-width:1100px;margin:18px auto;padding:0 12px;">
+          <div style="display:flex;justify-content:flex-end;margin-bottom:10px;">
+            <a href="logout.php" style="text-decoration:none; padding: 10px;">Logout</a>
+          </div>
+        </div>
         <a class="admin-link" href="<?php echo htmlspecialchars($site_cfg["basePath"]); ?>">View Blog</a>
       </div>
     </div>
-  </header>
+</header>
 
   <main class="admin-main">
     <!-- POSTS LIST PANEL (stays on page) -->
@@ -123,8 +125,10 @@ $admin_cfg = require __DIR__ . '/config.php';
 
           <label>
             Upload Image (PNG/JPG/JPEG)
-            <input id="postImageFile" type="file" accept="image/png,image/jpeg" />
-            <small>On Save, the server stores it under <code>assets/images</code> and returns the exact URL.</small>
+            <input id="postImageFile" type="file" accept="image/png,image/jpeg,image/webp" />
+            <small>Accepted formats: PNG, JPG, JPEG, WEBP. Recommended size: 1200 x 675px (landscape). Maximum file size: 5MB. 
+              <!-- On Save, the server stores it under <code>assets/images</code> and returns the exact URL. -->
+            </small>
           </label>
 
           <label>
