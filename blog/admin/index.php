@@ -34,12 +34,15 @@ $admin_cfg = require __DIR__ . '/config.php';
       </div>
 
       <div class="admin-actions">
+
         <div style="max-width:1100px;margin:18px auto;padding:0 12px;">
           <div style="display:flex;justify-content:flex-end;margin-bottom:10px;">
             <a href="logout.php" style="text-decoration:none; padding: 10px;">Logout</a>
           </div>
         </div>
+
         <a class="admin-link" href="<?php echo htmlspecialchars($site_cfg["basePath"]); ?>">View Blog</a>
+        
       </div>
     </div>
 </header>
