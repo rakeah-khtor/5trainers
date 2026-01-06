@@ -57,10 +57,10 @@
                 </div>
                 <div class="col-12 col-md-6 col-lg-6">
                     <div class="gotowebsite">
-                        <a href="tel:+918283840606"><span class="phnspan"><img src="assets/image/icon/ftr-phn.png"
+                        <a href="tel:+918283840606" style="text-decoration: none;"><span class="phnspan"><img src="assets/image/icon/ftr-phn.png"
                                     alt=""></span>+91-8283840606</a>
                     
-                        <a href="assets/uploads/5trainers_course.pdf" target="_blank">Download Brochure </a>
+                        <a href="assets/uploads/5trainers_course.pdf" target="_blank" style="text-decoration: none;">Download Brochure </a>
                     </div>
                 </div>
             </div>
@@ -79,8 +79,8 @@
                                 <div class="sliderHeading mb-20">
                                     <!-- <h2>Digital Marketing Courses</h2>
                             <h2> with AI</h2> -->
-                                    <h2>Digital Marketing Training in Chandigarh</h2>
-                                    <h4>Digital Marketing Training in Chandigarh – Best Institute 100% Placement</h4>
+                                    <h2 style="font-size: 45px ;">Digital Marketing Training in Chandigarh</h2>
+                                    <h4 class="mt-3">Digital Marketing Training in Chandigarh – Best Institute 100% Placement</h4>
                                 </div>
                                 <!-- <p class="coDetail">Digital Marketing Course with Guaranteed Placement Support <br> Perfect for Both Freshers &  Working Professionals.</p> -->
                                 <p class="coDetail">Join the best digital marketing institute in Chandigarh and learn SEO, Google Ads, Social Media & AI-powered tools with practical training and real projects.</p>
@@ -175,7 +175,7 @@
                     <div class="buildText">
                         <h2>You Are One Step Closer To Building A Thriving Career As <span>Digital Marketing
                                 Expert!</span></h2>
-                        <a href="#">Register Now </a>
+                        <a href="#" style="text-decoration: none;">Register Now </a>
                     </div>
                 </div><!--col-->
             </div><!--/row-->
@@ -261,7 +261,7 @@
                                 Marketing Course</span> Certification From 5Trainers?</h2>
                     </div>
                     <div class="registerstack"><a href="#" class="theme-btn mt-30 aos-init aos-animate"
-                            data-aos="fade-up" data-aos-delay="200">Register Now<span><img
+                            data-aos="fade-up" data-aos-delay="200" style="text-decoration: none;">Register Now<span><img
                                     src="assets/image/icon/reply_arrow.png" alt=""></span></a></div>
                 </div>
             </div>
@@ -339,98 +339,104 @@
             </div>
         </div>
     </section><!--/about -->
-
-    <section class="contaianer-fluid pt pb skill-cover">
-        <div class="cutom-container width90">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="section-title-area text-center centerhding">
-                        <h6 data-aos="fade-up" data-aos-duration="1000" class="section-subtitle section-subtitle-2">
-                            Skills</h6>
-                        <h2 data-aos="fade-up" data-aos-duration="1500" class="section-title">Skills Covered</h2>
-                        <p data-aos="fade-up" data-aos-duration="1700" class="aos-init aos-animate text-center">With
-                            over 10+ years of experience in the Digital and IT Training industry, we have successfully
-                            trained hundreds of students and professionals under our former name 5Trainers.</p>
-                    </div>
+  <section class="contaianer-fluid pt pb skill-cover">
+    <div class="cutom-container width80">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="section-title-area text-center centerhding">
+                    <h6 data-aos="fade-up" data-aos-duration="500" class="section-subtitle section-subtitle-2">Skills
+                    </h6>
+                    <h2 data-aos="fade-up" data-aos-duration="800" class="section-title">Skills Covered</h2>
+                    <p data-aos="fade-up" data-aos-duration="1100" class="aos-init aos-animate text-center">With over
+                        10+ years of experience in the Digital and IT Training industry, we have successfully trained
+                        hundreds of students and professionals under our former name 5Trainers.</p>
                 </div>
-            </div><!--/row-->
-            <div class="row mt-80">
-                <div class="col-6 col-md-3 col-lg-2">
-                    <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
-                        <div class="iconbox"><img src="assets/image/landing-page/icon1.png" alt=""></div>
-                        <h3>Search Engine Optimization (SEO)</h3>
-                    </div><!--/skillbox-->
-                </div><!--/col-->
-                <div class="col-6 col-md-3 col-lg-2">
-                    <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
-                        <div class="iconbox"><img src="assets/image/landing-page/icon2.png" alt=""></div>
-                        <h3>Search Engine Marketing (SEM) / Google Ads</h3>
-                    </div><!--/skillbox-->
-                </div><!--/col-->
-                <div class="col-6 col-md-3 col-lg-2">
-                    <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
-                        <div class="iconbox"><img src="assets/image/landing-page/icon3.png" alt=""></div>
-                        <h3>Social Media Marketing (SMM)</h3>
-                    </div><!--/skillbox-->
-                </div><!--/col-->
-                <div class="col-6 col-md-3 col-lg-2">
-                    <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
-                        <div class="iconbox"><img src="assets/image/landing-page/icon4.png" alt=""></div>
-                        <h3>Content Marketing</h3>
-                    </div><!--/skillbox-->
-                </div><!--/col-->
-                <div class="col-6 col-md-3 col-lg-2">
-                    <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
-                        <div class="iconbox"><img src="assets/image/landing-page/icon5.png" alt=""></div>
-                        <h3>Email Marketing</h3>
-                    </div><!--/skillbox-->
-                </div><!--/col-->
-                <div class="col-6 col-md-3 col-lg-2">
-                    <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
-                        <div class="iconbox"><img src="assets/image/landing-page/icon6.png" alt=""></div>
-                        <h3>Affiliate Marketing</h3>
-                    </div><!--/skillbox-->
-                </div><!--/col-->
-                <div class="col-6 col-md-3 col-lg-2">
-                    <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
-                        <div class="iconbox"><img src="assets/image/landing-page/icon1.png" alt=""></div>
-                        <h3>Influencer Marketing</h3>
-                    </div><!--/skillbox-->
-                </div><!--/col-->
-                <div class="col-6 col-md-3 col-lg-2">
-                    <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
-                        <div class="iconbox"><img src="assets/image/landing-page/icon2.png" alt=""></div>
-                        <h3>Google Analytics & Google Search Console</h3>
-                    </div><!--/skillbox-->
-                </div><!--/col-->
-                <div class="col-6 col-md-3 col-lg-2">
-                    <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
-                        <div class="iconbox"><img src="assets/image/landing-page/icon3.png" alt=""></div>
-                        <h3>Facebook Ads Manager</h3>
-                    </div><!--/skillbox-->
-                </div><!--/col-->
-                <div class="col-6 col-md-3 col-lg-2">
-                    <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
-                        <div class="iconbox"><img src="assets/image/landing-page/icon4.png" alt=""></div>
-                        <h3>YouTube Marketing & Video SEO</h3>
-                    </div><!--/skillbox-->
-                </div><!--/col-->
-                <div class="col-6 col-md-3 col-lg-2">
-                    <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
-                        <div class="iconbox"><img src="assets/image/landing-page/icon5.png" alt=""></div>
-                        <h3>WordPress Website Setup & Management</h3>
-                    </div><!--/skillbox-->
-                </div><!--/col-->
-                <div class="col-6 col-md-3 col-lg-2">
-                    <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
-                        <div class="iconbox"><img src="assets/image/landing-page/icon6.png" alt="" class="img-fluid">
-                        </div>
-                        <h3>E-commerce Marketing (Shopify, WooCommerce)</h3>
-                    </div><!--/skillbox-->
-                </div><!--/col-->
-            </div><!--/row-->
-        </div>
-    </section><!--/skill cover-->
+            </div>
+        </div><!--/row-->
+        <div class="row mt-80 mt-5">
+            <div class="col-6 col-md-3 col-lg-2">
+                <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
+                    <div class="iconbox"><img src="assets/image/landing-page/seo.png" alt="SEO"></div>
+                    <h3>Search Engine Optimization (SEO)</h3>
+                </div><!--/skillbox-->
+            </div><!--/col-->
+            <div class="col-6 col-md-3 col-lg-2">
+                <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
+                    <div class="iconbox"><img src="assets/image/landing-page/Google-Ads.png" alt="Google Ads"></div>
+                    <h3>Google Ads</h3>
+                </div><!--/skillbox-->
+            </div><!--/col-->
+            <div class="col-6 col-md-3 col-lg-2">
+                <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
+                    <div class="iconbox"><img src="assets/image/landing-page/smm.png" alt="Social Media Marketing">
+                    </div>
+                    <h3>Social Media Marketing (SMM)</h3>
+                </div><!--/skillbox-->
+            </div><!--/col-->
+            <div class="col-6 col-md-3 col-lg-2">
+                <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
+                    <div class="iconbox"><img src="assets/image/landing-page/Content-Marketing.png"
+                            alt="Content-Marketing"></div>
+                    <h3>Content Marketing</h3>
+                </div><!--/skillbox-->
+            </div><!--/col-->
+            <div class="col-6 col-md-3 col-lg-2">
+                <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
+                    <div class="iconbox"><img src="assets/image/landing-page/Email-Marketing.png" alt="Email-Marketing">
+                    </div>
+                    <h3>Email Marketing</h3>
+                </div><!--/skillbox-->
+            </div><!--/col-->
+            <div class="col-6 col-md-3 col-lg-2">
+                <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
+                    <div class="iconbox"><img src="assets/image/landing-page/Affiliate-Marketing.png"
+                            alt="Affiliate-Marketing"></div>
+                    <h3>Affiliate Marketing</h3>
+                </div><!--/skillbox-->
+            </div><!--/col-->
+            <div class="col-6 col-md-3 col-lg-2">
+                <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
+                    <div class="iconbox"><img src="assets/image/landing-page/analytics.png" alt="Analytics"></div>
+                    <h3>Google Analytics</h3>
+                </div><!--/skillbox-->
+            </div><!--/col-->
+            <div class="col-6 col-md-3 col-lg-2">
+                <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
+                    <div class="iconbox"><img src="assets/image/landing-page/Facebook-Ads.png" alt="Facebook-Ads"></div>
+                    <h3>Facebook Ads Manager</h3>
+                </div><!--/skillbox-->
+            </div><!--/col-->
+            <div class="col-6 col-md-3 col-lg-2">
+                <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
+                    <div class="iconbox"><img src="assets/image/landing-page/video-marketing.png" alt="Video Marketing">
+                    </div>
+                    <h3>YouTube Marketing & Video SEO</h3>
+                </div><!--/skillbox-->
+            </div><!--/col-->
+            <div class="col-6 col-md-3 col-lg-2">
+                <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
+                    <div class="iconbox"><img src="assets/image/landing-page/Website-Setup.png" alt="Website-Setup">
+                    </div>
+                    <h3>WordPress Website Setup & Management</h3>
+                </div><!--/skillbox-->
+            </div><!--/col-->
+            <div class="col-6 col-md-3 col-lg-2">
+                <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
+                    <div class="iconbox"><img src="assets/image/landing-page/ecommerce.png" alt="ecommerce"
+                            class="img-fluid"></div>
+                    <h3>E-commerce Marketing</h3>
+                </div><!--/skillbox-->
+            </div><!--/col-->
+            <div class="col-6 col-md-3 col-lg-2">
+                <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
+                    <div class="iconbox"><img src="assets/image/landing-page/Influencer-Marketing.png"
+                            alt="Influencer-Marketing"></div>
+                    <h3>Influencer Marketing</h3>
+                </div><!--/skillbox-->
+            </div><!--/col-->
+        </div><!--/row-->
+    </div>
+</section><!--/skill cover-->
 
     <!--  -->
     <section class="py-5 bg-light">
@@ -517,11 +523,11 @@
                 </div>
             </div>
 
-            <div class="text-center mt-5">
+            <!-- <div class="text-center mt-5">
                 <a href="#" class="btn slider px-4 py-2 text-white">
                     Enroll Now
                 </a>
-            </div>
+            </div> -->
         </div>
     </section>
 
@@ -541,7 +547,7 @@
                     </div>
                 </div>
             </div><!--/row-->
-            <div class="row mt-80">
+            <div class="row mt-80 mt-5">
                 <div class="col-6 col-md-3 col-lg-3">
                     <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
                         <div class="iconbox"><img src="assets/image/landing-page/HTML-logo.webp" alt=""
@@ -617,7 +623,7 @@
                     </div>
                 </div>
             </div><!--/row-->
-            <div class="row mt-80">
+            <div class="row mt-80 mt-5">
                 <div class="col-lg-6">
                     <div class="projectVideo">
                         <div class="wrap">
@@ -697,7 +703,7 @@
                     </div>
                 </div>
             </div><!--/row-->
-            <div class="row mt-80">
+            <div class="row mt-80 mt-5">
                 <div class="col-6 col-md-2 col-lg-2">
                     <div class="placementbox" data-aos="fade-up" data-aos-duration="1000">
                         <div class=""><img src="assets/image/landing-page/placement/microsoft.webp" alt=""
@@ -951,7 +957,7 @@
             </p>
 
             <a href="#" class="btn btn-warning btn-lg fw-semibold px-4">
-                👉 Enroll Now & Transform Your Future with SEO
+              Enroll Now
             </a>
 
         </div>
