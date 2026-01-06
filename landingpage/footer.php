@@ -49,11 +49,34 @@
                 </div><!--/col-->
                 <div class="col-md-5 col-lg-6">
                     <div class="social-icons">
-                        <ul>
+                        <!-- <ul>
                             <li><a href=""><img src="assets/image/landing-page/ftr-f.png" alt=""></a></li>
                             <li><a href=""><img src="assets/image/landing-page/ftr-tw.png" alt=""></a></li>
                             <li><a href=""><img src="assets/image/landing-page/ftr-YT.png" alt=""></a></li>
-                        </ul>
+                        </ul> -->
+
+                        <ul class="footer-ul">
+            <li><a href="https://www.facebook.com/profile.php?id=61576550454616" target="_blank"><span>
+            
+                  <i class="fa-brands fa-square-facebook footer-icon text-white"></i>
+                  </span></a></li>
+            <li><a href="https://x.com/_5trainers" target="_blank"><span>
+       
+           <i class="fa-brands fa-x-twitter footer-icon text-white"></i>
+            </span></a></li>
+            <li><a href="https://www.linkedin.com/company/5trainer" target="_blank"><span>
+        
+               <i class="fa-brands fa-linkedin  footer-icon text-white" ></i>
+            </span></a></li>
+            <li><a href="https://www.instagram.com/5_trainers/" target="_blank"><span>
+              
+               <i class="fa-brands fa-square-instagram footer-icon text-white"></i>
+            </span></a></li>
+            <li><a href="https://www.youtube.com/@5Trainers" target="_blank"><span>
+           
+                  <i class="fa-brands fa-square-youtube footer-icon text-white"></i>
+                  </span></a></li>
+          </ul>
                     </div>
                 </div><!--/col-->
             </div><!--/row-->

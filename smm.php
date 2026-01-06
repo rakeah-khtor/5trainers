@@ -317,7 +317,8 @@ $canonical_url = "https://www.5trainers.com/smm.php";
 			</div><!--/col-->
 			<div class="col-md-4 col-lg-6">
 				<div class="CI5-imag aos-item aos-init aos-animate" data-aos="zoom-out-down" data-aos-duration="1600">
-					<img src="assets/image/services/help-desk1.png" alt="" class="img-fluid"></div>
+					<!-- <img src="assets/image/services/help-desk1.png" alt="" class="img-fluid"></div> -->
+					<img src="assets/image/services/help-service.png" alt="help-service" class="img-fluid"></div>
 			</div><!--/col-->
 		</div>
 	</div>
@@ -331,7 +332,7 @@ $canonical_url = "https://www.5trainers.com/smm.php";
 					<span class="section-subtitle section-subtitle-2">Let’s Do it Hurry</span>
 					<h3 data-aos="fade-up" data-aos-duration="1000" class="section-title aos-init">Haven't booked your
 						seat yet? <br> Get Seat now</h3>
-					<p data-aos="fade-up" data-aos-duration="1700" class="aos-init text-center"><a href="#">book seat</a></p>
+					<p data-aos="fade-up" data-aos-duration="1700" class="aos-init text-center"><a href="#" style="text-decoration: none;">book seat</a></p>
 				</div>
 			</div>
 		</div>

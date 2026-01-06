@@ -19,6 +19,7 @@
     <link href="landingpage/assets/css/aos.css" rel="stylesheet">
     <link href="assets/css/faq.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
 
@@ -51,7 +52,7 @@
             <div class="row">
                 <div class="col-12 col-md-6 col-lg-6">
                     <div class="landing-logo">
-                        <a href="/"><img src="./assets/image/Final-logo.png" alt="5 Trainers Logo" class="img-fluid"></a>
+                        <a href="https://5trainers.com/"><img src="./assets/image/Final-logo.png" alt="5 Trainers Logo" class="img-fluid"></a>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-6">
