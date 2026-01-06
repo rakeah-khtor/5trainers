@@ -2393,7 +2393,8 @@ a:hover {
 /*Start Meet Our Expert */
 .meetOurExperts {
   position: relative;
-  background: url(../image/bg/leaders.jpg);
+  /* background: url(../image/bg/leaders.jpg); */
+  background: url(../image/bg/leaders.png);
   background-attachment: scroll;
   background-size: cover;
   background-repeat: no-repeat;

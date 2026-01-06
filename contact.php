@@ -58,7 +58,7 @@ $canonical_url = "https://www.5trainers.com/contact.php";
 							</div>
 							<div class="col-sm-9 col-md-9 col-12">
 								<h4>Email:</h4>
-								<a class="d-block" href="mailto:info@5trainers.com">info@5trainers.com</a>
+								<a class="d-block" href="mailto:info@5trainers.com" style="text-decoration: none;">info@5trainers.com</a>
 							</div>
 						</div>
 					</div><!--/contact box-->
@@ -71,7 +71,7 @@ $canonical_url = "https://www.5trainers.com/contact.php";
 							</div>
 							<div class="col-sm-9 col-md-9 col-12">
 								<h4>Phone:</h4>
-								<a class="d-block" href="tel:+918283840606">+91 8283840606</a>
+								<a class="d-block" href="tel:+918283840606" style="text-decoration: none;">+91 8283840606</a>
 							</div>
 						</div>
 					</div><!--/contact box-->
@@ -84,7 +84,7 @@ $canonical_url = "https://www.5trainers.com/contact.php";
 							</div>
 							<div class="col-sm-9 col-md-9 col-12">
 								<h4>Mailing Address:</h4>
-								<a href="https://maps.app.goo.gl/R7gEDDRGWu4rk8Xi9" target="_blank"><span
+								<a href="https://maps.app.goo.gl/R7gEDDRGWu4rk8Xi9" target="_blank" style="text-decoration: none;"><span
 										class="d-block">Victory Tower Phase 8B, Industrial Area, Sector 74, Mohali,
 										Punjab 140308</span></a>
 							</div>
@@ -96,8 +96,10 @@ $canonical_url = "https://www.5trainers.com/contact.php";
 				<div class="cont-info-details one aos-init aos-animate" data-aos="fade-right" data-aos-duration="800">
 					<div class="shape-img-2"><img class="img-fluid" src="assets/image/shape/shape-img-2.png"
 							alt="Image"></div>
-					<div class="get-image"><img class="img-fluid" src="assets/image/contact/contact-sec-img.png"
-							alt="image"></div>
+					<div class="get-image">
+						<!-- <img class="img-fluid" src="assets/image/contact/contact-sec-img.png" alt="image"> -->
+						<img src="assets/image/contact/contact-img1.png" alt="Image" class="img-fluid">
+					</div>
 				</div>
 			</div>
 		</div>
@@ -114,9 +116,10 @@ $canonical_url = "https://www.5trainers.com/contact.php";
 				<div class="contact-content">
 					<div class="contact-content-thumb aos-init aos-animate" data-aos="fade-down-right"
 						data-aos-duration="1000">
-						<img src="assets/image/contact/contact-img.png" alt="Image" class="img-fluid">
+						<!-- <img src="assets/image/contact/contact-img.png" alt="Image" class="img-fluid"> -->
+						 <img class="img-fluid" src="assets/image/contact/contact-us.png" alt="image">
 					</div>
-					<img src="assets/image/contact/contact-border.png" alt="Image" class="contact-content-border">
+					<!-- <img src="assets/image/contact/contact-border.png" alt="Image" class="contact-content-border"> -->
 				</div>
 			</div>
 			<div class="col-md-8 col-lg-6">

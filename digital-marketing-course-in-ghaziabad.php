@@ -5,9 +5,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title> Digital Marketing Training in Chandigarh | Best Institute 100% Placement</title>
+    <title>Digital Marketing Training in Ghaziabad | Best Institute with 100% Placement Support</title>
     <meta name="description"
-        content="Join Digital Marketing Training in Chandigarh. Best Institute with 100% Placement support. Learn SEO, Google Ads, Social Media & AI tools. Enroll now!">
+        content="Join the top Digital Marketing Course in Ghaziabad. Learn SEO, Google Ads, SMM, AI Tools with live projects. Get 100% placement assistance. Enroll now for a successful digital career!">
     <link href="landingpage/assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/toogle-slide.css" type="text/css" rel="stylesheet" />
@@ -19,7 +19,9 @@
     <link href="landingpage/assets/css/aos.css" rel="stylesheet">
     <link href="assets/css/faq.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
+        integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
 
@@ -47,19 +49,20 @@
             style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
-  <section class="container-fluid slider-landing">
+    <section class="container-fluid slider-landing">
         <div class="custom-container width90">
             <div class="row">
                 <div class="col-12 col-md-6 col-lg-6">
                     <div class="landing-logo">
-                        <a href="https://5trainers.com/"><img src="./assets/image/Final-logo.png" alt="5 Trainers Logo" class="img-fluid"></a>
+                        <a href="https://5trainers.com/"><img src="./assets/image/Final-logo.png" alt="5 Trainers Logo"
+                                class="img-fluid"></a>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-6">
                     <div class="gotowebsite">
                         <a href="tel:+918283840606"><span class="phnspan"><img src="assets/image/icon/ftr-phn.png"
                                     alt=""></span>+91-8283840606</a>
-                    
+
                         <a href="assets/uploads/5trainers_course.pdf" target="_blank">Download Brochure </a>
                     </div>
                 </div>
@@ -79,51 +82,69 @@
                                 <div class="sliderHeading mb-20">
                                     <!-- <h2>Digital Marketing Courses</h2>
                             <h2> with AI</h2> -->
-                                    <h2>Digital Marketing Training in Chandigarh</h2>
-                                    <h4>Digital Marketing Training in Chandigarh – Best Institute 100% Placement</h4>
+                                    <h2 style="font-size: 45px ;"><a href="https://5trainers.com/"
+                                            style="text-decoration: none; color:white;">Digital Marketing</a>Training in
+                                        Ghaziabad</h2>
+                                    <h4 class="mt-4"><a href="https://5trainers.com/"
+                                            style="text-decoration: none; color:white;">Digital Marketing</a>Training in
+                                        Ghaziabad – Premier Institute with 100% Placement Support</h4>
                                 </div>
                                 <!-- <p class="coDetail">Digital Marketing Course with Guaranteed Placement Support <br> Perfect for Both Freshers &  Working Professionals.</p> -->
-                                <p class="coDetail">Join the best digital marketing institute in Chandigarh and learn SEO, Google Ads, Social Media & AI-powered tools with practical training and real projects.</p>
+                                <p class="coDetail">Become a certified digital marketing expert with Ghaziabad's leading
+                                    practical training institute. Master SEO, Google Ads, Social Media Marketing,
+                                    AI-powered automation, and data analytics through a hands-on, project-driven
+                                    curriculum designed for immediate career impact.</p>
                                 <!--for Both Freshers &-->
+                                <h4 class="text-white">Build Market-Ready Skills for Ghaziabad's Digital Economy</h4>
                             </div><!--/slider text-->
 
 
-                            <div class="course-features mtb-40">
+                            <!-- <div class="course-features mtb-40">
                                 <div class="features">
                                     <img src="landingpage/assets/image/landing-page/live-one.png" alt="Icon">
                                     <div class="typo-pills"> Affordable Fees </div>
-                                </div><!--/features-->
+                                </div>
 
                                 <div class="features">
                                     <img src="assets/image/landing-page/live-one.png" alt="Icon">
                                     <div class="typo-pills"> Certified Trainers </div>
-                                </div><!--/features-->
+                                </div>
 
                                 <div class="features">
                                     <img src="assets/image/landing-page/live-one.png" alt="Icon">
                                     <div class="typo-pills"> Internship Opportunity </div>
-                                </div><!--/features-->
+                                </div>
 
                                 <div class="features">
                                     <img src="assets/image/landing-page/live-one.png" alt="Icon">
                                     <div class="typo-pills"> Placement assistance</div>
-                                </div><!--/features-->
+                                </div>
 
                                 <div class="features">
                                     <img src="assets/image/landing-page/live-one.png" alt="Icon">
                                     <div class="typo-pills"> Professional Resume Building </div>
-                                </div><!--/features-->
+                                </div>
                                 <div class="features">
                                     <img src="assets/image/landing-page/live-one.png" alt="Icon">
                                     <div class="typo-pills"> Mock Interviews & HR Rounds</div>
-                                </div><!--/features-->
+                                </div>
 
                                 <div class="features">
                                     <img src="assets/image/landing-page/live-one.png" alt="Icon">
                                     <div class="typo-pills"> Lifetime Access to Study Material</div>
-                                </div><!--/features-->
+                                </div>
 
-                            </div><!--/course-features-->
+                            </div> -->
+                            <div>
+                                <p class="coDetail text-white">5Trainers offers industry-aligned Digital Marketing
+                                    Training in Ghaziabad, structured to make you job-ready from the first module. We
+                                    focus on in-demand, practical skills that Ghaziabad's businesses, startups, and
+                                    growing corporate sector actively seek.
+                                    Learn through live campaigns, real client projects, and expert mentorship—gaining
+                                    the confidence and portfolio needed to succeed in today's competitive market.
+                                </p>
+                            </div>
+
                             <div class="course-metrics mt-15 mb-40">
                                 <div class="course-metric">
                                     <div class="metric-heading"> 95%</div>
@@ -192,8 +213,8 @@
                                 <div class="icon">
                                     <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
                                         class="without-hover">
-                                    <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions-white.png" alt="Icon"
-                                        class="with-hover">
+                                    <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions-white.png"
+                                        alt="Icon" class="with-hover">
                                 </div>
                                 <h4>Practical, expert - Led training </h4>
                             </div>
@@ -201,7 +222,8 @@
                         <div class="col-lg-4 col-md-4 col-6">
                             <div class="icon-box aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
                                 <div class="icon">
-                                    <img src="landingpage/assets/image/icon/Industry-skills.png" alt="Icon" class="without-hover">
+                                    <img src="landingpage/assets/image/icon/Industry-skills.png" alt="Icon"
+                                        class="without-hover">
                                     <img src="landingpage/assets/image/icon/Industry-skills-white.png" alt="Icon"
                                         class="with-hover">
 
@@ -213,8 +235,10 @@
                         <div class="col-lg-4 col-md-4 col-6">
                             <div class="icon-box aos-init aos-animate" data-aos="fade-up" data-aos-delay="150">
                                 <div class="icon">
-                                    <img src="landingpage/assets/image/icon/Flexibility.png" alt="Icon" class="without-hover">
-                                    <img src="landingpage/assets/image/icon/Flexibility-white.png" alt="Icon" class="with-hover">
+                                    <img src="landingpage/assets/image/icon/Flexibility.png" alt="Icon"
+                                        class="without-hover">
+                                    <img src="landingpage/assets/image/icon/Flexibility-white.png" alt="Icon"
+                                        class="with-hover">
                                 </div>
                                 <!--<h4>Flexibility</h4>-->
                                 <h4>Flexibile Training schedule</h4>
@@ -223,8 +247,10 @@
                         <div class="col-lg-4 col-md-4 col-6">
                             <div class="icon-box aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
                                 <div class="icon">
-                                    <img src="landingpage/assets/image/icon/High-demand.png" alt="Icon" class="without-hover">
-                                    <img src="landingpage/assets/image/icon/High-demand-white.png" alt="Icon" class="with-hover">
+                                    <img src="landingpage/assets/image/icon/High-demand.png" alt="Icon"
+                                        class="without-hover">
+                                    <img src="landingpage/assets/image/icon/High-demand-white.png" alt="Icon"
+                                        class="with-hover">
                                 </div>
                                 <!--<h4>High demand</h4>-->
                                 <h4>Affordable Training Program</h4>
@@ -235,8 +261,8 @@
                                 <div class="icon">
                                     <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
                                         class="without-hover">
-                                    <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions-white.png" alt="Icon"
-                                        class="with-hover">
+                                    <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions-white.png"
+                                        alt="Icon" class="with-hover">
                                 </div>
                                 <!--<h4>High demand</h4>-->
                                 <h4>Job Oriented Program</h4>
@@ -245,7 +271,8 @@
                         <div class="col-lg-4 col-md-4 col-6">
                             <div class="icon-box aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
                                 <div class="icon">
-                                    <img src="landingpage/assets/image/icon/Placement-support.png" alt="Icon" class="without-hover">
+                                    <img src="landingpage/assets/image/icon/Placement-support.png" alt="Icon"
+                                        class="without-hover">
                                     <img src="landingpage/assets/image/icon/Placement-support-white.png" alt="Icon"
                                         class="with-hover">
                                 </div>
@@ -257,8 +284,9 @@
                 </div>
                 <div class="col-12 col-xl-5 offset-xl-1 mt-5 mt-xl-0">
                     <div class="section-title">
-                        <h2 data-aos="fade-up" data-aos-delay="100" class="aos-init aos-animate">Why Get <span>Digital
-                                Marketing Course</span> Certification From 5Trainers?</h2>
+                        <h2 data-aos="fade-up" data-aos-delay="100" class="aos-init aos-animate">Why Get <a
+                                href="https://5trainers.com/" style="text-decoration: none;">Digital
+                                Marketing Course</a> Certification From 5Trainers?</h2>
                     </div>
                     <div class="registerstack"><a href="#" class="theme-btn mt-30 aos-init aos-animate"
                             data-aos="fade-up" data-aos-delay="200">Register Now<span><img
@@ -276,7 +304,9 @@
                         <div class="section-title-area">
                             <h6 data-aos="fade-up" data-aos-duration="1000" class="section-subtitle section-subtitle-2">
                                 Overview</h6>
-                            <h2 data-aos="fade-up" data-aos-duration="1500" class="section-title">Digital Marketing
+                            <h2 data-aos="fade-up" data-aos-duration="1500" class="section-title"><a
+                                    href="https://5trainers.com/" style="text-decoration: none; color:black;">Digital
+                                    Marketing</a>
                                 Course Overview</h2>
                             <p data-aos="fade-up" data-aos-duration="1700"></p>
                         </div>
@@ -291,12 +321,19 @@
                                     <div class="service-info">
                                         <h5>Digital Marketing Fundamentals</h5>
                                         <ul>
-                                            <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">  Introduction to Digital Marketing & Career Scope</li>
-                                            <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Website Planning & Structure</li>
-                                            <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> WordPress Website Designing (Hands-on)</li>
-                                            <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> SEO Fundamentals – On-Page & Off-Page SEO</li>
-                                            <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Keyword Research & Competitor Analysis</li>
-                                            <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Google Search Console & Analytics Setup</li>
+                                            <li><img src="assets/image/icon/bulb-blue.png" alt="icon"
+                                                    class="footer-icon"> Introduction to Digital Marketing & Career
+                                                Scope</li>
+                                            <li><img src="assets/image/icon/bulb-blue.png" alt="icon"
+                                                    class="footer-icon"> Website Planning & Structure</li>
+                                            <li><img src="assets/image/icon/bulb-blue.png" alt="icon"
+                                                    class="footer-icon"> WordPress Website Designing (Hands-on)</li>
+                                            <li><img src="assets/image/icon/bulb-blue.png" alt="icon"
+                                                    class="footer-icon"> SEO Fundamentals – On-Page & Off-Page SEO</li>
+                                            <li><img src="assets/image/icon/bulb-blue.png" alt="icon"
+                                                    class="footer-icon"> Keyword Research & Competitor Analysis</li>
+                                            <li><img src="assets/image/icon/bulb-blue.png" alt="icon"
+                                                    class="footer-icon"> Google Search Console & Analytics Setup</li>
                                         </ul>
                                         <div class="sview"><a href="#" title="View More"><img
                                                     src="assets/image/icon/sview.png" alt=""></a></div>
@@ -306,18 +343,23 @@
 
                             <div class="col-lg-6">
                                 <div class="servicecol">
-                                    <div class="service-imag">
+                                    <!-- <div class="service-imag">
                                         <img src="assets/image/course/digital-marketing.png" class="img-fluid"
                                             alt="Digital Marketing">
-                                    </div>
+                                    </div> -->
                                     <div class="service-info">
                                         <h5>Paid Advertising (PPC)</h5>
                                         <ul>
-                                            <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">  Google Ads Search Campaigns
-                                            <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">  Google Display Ads & YouTube Ads</li>
-                                            <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">  Meta (Facebook & Instagram) Ads</li>
-                                            <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">  Remarketing Campaigns</li>
-                                            <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">  Conversion Tracking & ROI Optimization</li>
+                                            <li><img src="assets/image/icon/bulb-blue.png" alt="icon"
+                                                    class="footer-icon"> Google Ads Search Campaigns
+                                            <li><img src="assets/image/icon/bulb-blue.png" alt="icon"
+                                                    class="footer-icon"> Google Display Ads & YouTube Ads</li>
+                                            <li><img src="assets/image/icon/bulb-blue.png" alt="icon"
+                                                    class="footer-icon"> Meta (Facebook & Instagram) Ads</li>
+                                            <li><img src="assets/image/icon/bulb-blue.png" alt="icon"
+                                                    class="footer-icon"> Remarketing Campaigns</li>
+                                            <li><img src="assets/image/icon/bulb-blue.png" alt="icon"
+                                                    class="footer-icon"> Conversion Tracking & ROI Optimization</li>
 
                                         </ul>
                                         <div class="sview"><a href="#" title="View More"><img
@@ -436,9 +478,9 @@
     <section class="py-5 bg-light">
         <div class="cutom-container width90">
             <div class="text-center mb-5">
-                <h2 class="fw-bold">Digital Marketing Course in Chandigarh – What You Will Learn</h2>
+                <h2 class="fw-bold">Digital Marketing Course in Ghaziabad – Complete Curriculum</h2>
                 <p class="text-muted">
-                   Our course covers all major digital marketing skills required in today’s market:
+                    Our comprehensive program covers every critical aspect of modern digital marketing:
                 </p>
             </div>
 
@@ -447,10 +489,18 @@
                 <div class="col-md-6 col-lg-4">
                     <div class="card h-100 shadow-sm">
                         <div class="card-body">
-                            <h5 class="card-title">SEO Training in Chandigarh</h5>
+                            <h5 class="card-title">SEO Training in Ghaziabad:</h5>
                             <p class="card-text">
-                               Learn how to rank websites on Google and drive organic traffic. Covers keyword research, on-page SEO, off-page SEO, technical SEO, and local SEO with live projects.
+                                Master on-page, off-page, technical, and local SEO. Conduct keyword research, competitor
+                                analysis, and perform live website optimization projects.
                             </p>
+                            <!-- <ul>
+                                <li>Keyword research</li>
+                                <li>On-page SEO</li>
+                                <li>Off-page SEO</li>
+                                <li>Technical SEO</li>
+                                <li>Local SEO</li>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
@@ -459,10 +509,19 @@
                 <div class="col-md-6 col-lg-4">
                     <div class="card h-100 shadow-sm">
                         <div class="card-body">
-                            <h5 class="card-title">SMM Training in Chandigarh (Social Media Marketing)  </h5>
+                            <h5 class="card-title">Social Media Marketing (SMM) Training in Ghaziabad:</h5>
                             <p class="card-text">
-                                Grow brands on Facebook, Instagram, LinkedIn, and YouTube. Learn content creation, paid campaigns, follower growth, and performance analysis.
+                                Plan and execute complete brand strategies across Facebook, Instagram, LinkedIn, and
+                                YouTube. Learn content creation, paid advertising, community management, and performance
+                                analytics.
                             </p>
+                            <!-- <ul>
+                                <li>Facebook</li>
+                                <li>Instagram</li>
+                                <li>LinkedIn</li>
+                                <li>YouTube</li>
+                               
+                            </ul> -->
                         </div>
                     </div>
                 </div>
@@ -471,10 +530,18 @@
                 <div class="col-md-6 col-lg-4">
                     <div class="card h-100 shadow-sm">
                         <div class="card-body">
-                            <h5 class="card-title">PPC Training in Chandigarh (Google Ads & Paid Marketing)</h5>
+                            <h5 class="card-title">PPC & Google Ads Training in Ghaziabad:</h5>
                             <p class="card-text">
-                                Create and manage paid ad campaigns on Google and social platforms. Learn targeting, ad creation, budgeting, conversion tracking, and optimization.
+                                Create, manage, and optimize high-ROI paid campaigns on Google Search, Display, and
+                                Video networks. Master budgeting, targeting strategies, ad copywriting, and conversion
+                                tracking.
                             </p>
+                            <!-- <ul>
+                                <li>Google Search Ads</li>
+                                <li>Display Ads</li>
+                                <li>YouTube Ads</li>
+                                <li>Social media paid campaigns</li>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
@@ -483,10 +550,17 @@
                 <div class="col-md-6 col-lg-4 mt-4">
                     <div class="card h-100 shadow-sm">
                         <div class="card-body">
-                            <h5 class="card-title">Content Marketing Training in Chandigarh</h5>
+                            <h5 class="card-title">Content Marketing Training in Ghaziabad:</h5>
                             <p class="card-text">
-                                Create content that attracts and converts—blogs, website content, social posts, and basic copywriting aligned with SEO goals.   
+                                Develop compelling content strategies that drive traffic and engagement. Learn blog
+                                writing, video content creation, SEO-optimized copy, and content calendar management.
                             </p>
+                            <!-- <ul>
+                                <li>Blogs</li>
+                                <li>Website content</li>
+                                <li>Social media posts</li>
+                                <li>Basic copywriting for ads and landing pages</li>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
@@ -495,10 +569,17 @@
                 <div class="col-md-6 col-lg-4 mt-4">
                     <div class="card h-100 shadow-sm">
                         <div class="card-body">
-                            <h5 class="card-title">Email Marketing Training in Chandigarh</h5>
+                            <h5 class="card-title">Email Marketing Training in Ghaziabad:</h5>
                             <p class="card-text">
-                                Understand Google Analytics, Search Console, and modern AI-powered marketing tools to track users and improve results.
+                                Build effective email marketing funnels, design engaging newsletters, write
+                                high-converting copy, and analyze campaign performance using industry-standard tools.
                             </p>
+                            <!-- <ul>
+                                <li>Build email lists</li>
+                                <li>Design email campaigns</li>
+                                <li>Write effective emails</li>
+                                <li>Track open rates and conversions</li>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
@@ -507,11 +588,18 @@
                 <div class="col-md-6 col-lg-4 mt-4">
                     <div class="card h-100 shadow-sm">
                         <div class="card-body">
-                            <h5 class="card-title">Analytics & AI Tools Training in Chandigarh</h5>
+                            <h5 class="card-title">Analytics & AI Tools Training in Ghaziabad: </h5>
                             <p class="card-text">
-                                Understand Google Analytics, Search Console, and modern AI-powered marketing tools to
-                                track users and improve results.
+                                Utilize Google Analytics 4 and Search Console to track user behavior and campaign
+                                performance. Learn to leverage AI tools for content generation, ad optimization, and
+                                data analysis.
                             </p>
+                            <!-- <ul>
+                                <li>Google Analytics</li>
+                                <li>Google Search Console</li>
+                                <li>AI-powered marketing tools</li>
+                                <li>Reporting & performance analysis</li>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
@@ -602,7 +690,128 @@
         </div><!--/container-->
     </section><!--/Tool Covered-->
 
+    <!--  -->
+    <section class="py-5 bg-light">
+        <div class="container">
+            <div class="text-center mb-5">
+                <h2 class="fw-bold">Why 5Trainers is the Trusted Choice for Digital Marketing Training in Ghaziabad</h2>
+                <p class="text-muted mt-2">
+                    We deliver a results-oriented learning experience tailored to Ghaziabad's professional landscape.
+                </p>
+            </div>
 
+            <div class="row g-4">
+                <!-- Card 1 -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card h-100 shadow-sm border-0 p-3">
+                        <h5 class="fw-semibold">Learn from Active Industry Practitioners: </h5>
+                        <p class="text-muted">
+                            Our trainers are certified professionals managing live campaigns for diverse industries,
+                            bringing current insights into the classroom.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Card 2 -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card h-100 shadow-sm border-0 p-3">
+                        <h5 class="fw-semibold">100% Live Project-Based Training:</h5>
+                        <p class="text-muted"> Execute real SEO audits, manage Google Ads campaigns with allocated
+                            budgets, and run social media strategies for actual businesses during your course.</p>
+                        <!-- <ul class="text-muted ps-3">
+            <li>Live websites</li>
+            <li>SEO audits</li>
+            <li>Google Ads campaigns</li>
+            <li>Social media marketing</li>
+            <li>Content creation & analytics</li>
+          </ul> -->
+                    </div>
+                </div>
+
+                <!-- Card 3 -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card h-100 shadow-sm border-0 p-3">
+                        <h5 class="fw-semibold">Beginner to Pro Learning Path:</h5>
+                        <p class="text-muted">
+                            No prior experience required. We start from absolute fundamentals and progress
+                            systematically to advanced digital strategies.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Card 4 -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card h-100 shadow-sm border-0 p-3">
+                        <h5 class="fw-semibold">Comprehensive Career & Freelance Launchpad:</h5>
+                        <p class="text-muted"> Receive dedicated placement support including resume building, mock
+                            interviews, freelancing setup, and job referrals within Ghaziabad and NCR.
+                        </p>
+                        <!-- <ul class="text-muted ps-3">
+            <li>Job interview preparation</li>
+            <li>Resume & portfolio building</li>
+            <li>Freelancing platform guidance</li>
+            <li>Client handling basics</li>
+          </ul> -->
+                    </div>
+                </div>
+
+                <!-- Card 5 -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card h-100 shadow-sm border-0 p-3">
+                        <h5 class="fw-semibold">Training Grounded in Real-World Application: </h5>
+                        <p class="text-muted">
+                            Curriculum is continuously updated based on live campaign data, algorithm changes, and
+                            current marketing trends—no outdated theory.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Card 6 -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card h-100 shadow-sm border-0 p-3">
+                        <h5 class="fw-semibold">Hands-On Mastery of Essential Tools:</h5>
+                        <p class="text-muted">
+                            Gain proficiency in Google Analytics 4, Google Ads, Meta Business Suite, Canva, SEO tools,
+                            and cutting-edge AI marketing platforms.
+                        </p>
+                    </div>
+                </div>
+                <!-- Card 7 -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card h-100 shadow-sm border-0 p-3">
+                        <h5 class="fw-semibold">Clear, Jargon-Free Instruction: </h5>
+                        <p class="text-muted">
+                            We break down complex digital concepts into simple, actionable steps that are easy to
+                            understand and implement immediately.
+                        </p>
+                    </div>
+                </div>
+                <!-- Card 8 -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card h-100 shadow-sm border-0 p-3">
+                        <h5 class="fw-semibold">Personalized Attention in Small Batches:</h5>
+                        <p class="text-muted">
+                            Limited class sizes ensure individual mentorship, regular doubt-clearing sessions, and
+                            direct trainer interaction.
+                        </p>
+                    </div>
+                </div>
+                <!-- Card 0-->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card h-100 shadow-sm border-0 p-3">
+                        <h5 class="fw-semibold">Transparent Career Roadmap: </h5>
+                        <p class="text-muted">
+                            Get honest guidance about Ghaziabad's digital job market, salary expectations, and realistic
+                            career progression pathways.
+                        </p>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+    </section>
+    <!--  -->
 
     <section class="contaianer-fluid pt pb studentParticipation" style="display:none;">
         <div class="cutom-container width90">
@@ -887,17 +1096,19 @@
                             <div class="icon aos-init aos-animate" data-aos="flip-left" data-aos-easing="ease-out-cubic"
                                 data-aos-duration="1500">
                             </div>
-                            <h3>Career Opportunities After Digital Marketing Course</h3>
+                            <h3>Career Opportunities After Certification</h3>
                             <!-- <h5 class="text-white">After completing the course, you can work as:</h5> -->
                             <ul class="p" style="padding: 0px;">
-                                <li>Digital Marketing Executive</li>
-                                <li>SEO Specialist</li>
-                                <li>Social Media Manager</li>
-                                <li>PPC / Google Ads Expert</li>
-                                <li>Content Marketer</li>
-                                <li>Freelancer or Consultant</li>
+                                <li>Digital Marketing Executive / Manager</li>
+                                <li>SEO Specialist / Analyst</li>
+                                <li>Social Media Marketing Manager</li>
+                                <li>PPC / Google Ads Specialist</li>
+                                <li>Content Marketing Manager</li>
+                                <li>Digital Marketing Consultant / Freelancer</li>
                             </ul>
-                            <p class="text-white">Digital marketing skills are in high demand across Chandigarh, IT companies, startups, agencies, and businesses.</p>
+                            <p class="text-white">Ghaziabad's rapidly developing commercial landscape and proximity to
+                                Delhi NCR offer excellent opportunities in local businesses, e-commerce companies,
+                                digital agencies, and corporate roles.</p>
                         </div>
                     </div>
                 </div><!--/col-->
@@ -908,15 +1119,18 @@
                                 data-aos-duration="1500">
                                 <!-- <img src="assets/image/icon/mission-about.png" class="img-fluid" alt="Icon"> -->
                             </div>
-                            <h3>Who Should Join This Digital Marketing Training in Chandigarh?</h3>
+                            <h3>Who Should Join This Digital Marketing Training in Ghaziabad?</h3>
                             <ul class="p mt-4" style="padding: 0px;">
-                                <li>Students & fresh graduates</li>
-                                <li>Job seekers & career switchers</li>
-                                <li>Business owners & entrepreneurs</li>
-                                <li>Freelancers & content creators </li>
-                                <li>Working professionals looking to upgrade skills</li>
+                                <li>Students and recent graduates looking to launch a digital career</li>
+                                <li>Job seekers and professionals aiming to transition into high-growth digital roles
+                                </li>
+                                <li>Local business owners, entrepreneurs, and shopkeepers wanting to grow online</li>
+                                <li>Freelancers, bloggers, and content creators seeking to monetize their skills</li>
+                                <li>Working professionals in marketing, sales, or IT looking to upgrade their digital
+                                    expertise</li>
                             </ul>
-                            <p class="text-white">No technical degree required—just the willingness to learn.</p>
+                            <p class="text-white"> No technical background or prior experience needed—just a willingness
+                                to learn.</p>
                         </div>
                     </div>
                 </div><!--/col-->
@@ -941,17 +1155,20 @@
     <section class="py-5 slider text-white text-center">
         <div class="container">
 
-            <h2 class="fw-bold mb-3 text-white">Start Your Digital Marketing Journey in Chandigarh Today</h2>
+            <h2 class="fw-bold mb-3 text-white">Start Your Digital Career in Ghaziabad Today</h2>
 
             <p class="lead mb-4 text-white">
-                Join 5Trainers – the best digital marketing institute in Chandigarh and gain skills that help you grow professionally and financially.
+                Join 5Trainers—Ghaziabad's trusted digital marketing institute—and gain the practical skills and
+                confidence
+                to excel in the digital world.
             </p>
             <p class="lead mb-4 text-white">
-               Contact us today to enroll in our Digital Marketing Training in Chandigarh and take the first step toward a successful digital career.
+                Contact us now to book a free demo session or enroll in our upcoming batch of Digital Marketing Training
+                in Ghaziabad.
             </p>
 
             <a href="#" class="btn btn-warning btn-lg fw-semibold px-4">
-                👉 Enroll Now & Transform Your Future with SEO
+                👉 Enroll Now & Transform Your Future with Digital Marketing
             </a>
 
         </div>
@@ -1052,16 +1269,19 @@
             <div class="row align-items-center">
                 <div class="col-lg-8 mx-auto text-center">
                     <h1 class="fw-bold mb-3">
-                        Learn Skills That Grow Careers & Businesses
+                        Launch Your Digital Career in Ghaziabad Today
                     </h1>
                     <p class="lead mb-3 text-white">
-                    
+                        Join 5Trainers—Ghaziabad's most trusted digital marketing institute—and gain the practical
+                        skills and confidence to excel in the digital domain.
 
-                        5Trainers offers professional <strong>Digital Marketing Training in Chandigarh</strong> designed to help you learn real-world skills that companies actually need today.
+
                     </p>
                     <p class="mb-4 text-white">
-                    Our digital marketing course in Chandigarh focuses on practical learning, live projects, and step-by-step guidance so you can confidently work on real campaigns—not just theory.
+                        Contact us now to book a free demo class or enroll in our upcoming batch of Digital Marketing
+                        Training in Ghaziabad.
                     </p>
+
                     <a href="#" class="btn btn-outline-light btn-lg px-4">Free Demo Class</a>
                 </div>
             </div>
@@ -1070,65 +1290,82 @@
     <!-- faq -->
     <section class="container-fluid pt pb faq">
         <div class="custom-container width80">
-            <span class="section-subtitle section-subtitle-2 text-center">Frequently Asked Questions (FAQs) – Chandigarh</span>
+            <span class="section-subtitle section-subtitle-2 text-center">Frequently Asked Questions (FAQs) –
+                Ghaziabad</span>
             <div class="row">
 
 
                 <div class="col-sm-12 col-lg-12">
                     <div class="accordion rpt mt-80">
                         <div class="box active">
-                            <div class="label">1. What is digital marketing?</div>
+                            <div class="label">1.What is digital marketing?</div>
                             <div class="content">
-                               Digital marketing is the promotion of products or services using online platforms like Google, social media, websites, email, and paid ads.
+                                Digital marketing is the strategic promotion of products, services, or brands using
+                                digital channels such as search engines, social media platforms, email, and websites to
+                                connect with potential customers online.
                             </div>
                         </div>
                         <div class="box">
-                            <div class="label">2. Who can join the digital marketing course in Chandigarh?</div>
+                            <div class="label">2. Who can join this course in Ghaziabad?
+                            </div>
                             <div class="content">
-                                Anyone can join—students, freshers, professionals, business owners, freelancers, or career switchers.
+                                The course is ideal for students, working professionals, business owners, freelancers,
+                                and anyone interested in building a successful career or business in the digital space.
                             </div>
                         </div>
                         <div class="box">
-                            <div class="label">3. Is this course suitable for beginners?</div>
-                            <div class="content">Yes. The training starts from basics and is easy to understand for beginners.</div>
-                        </div>
-                        <div class="box">
-                            <div class="label">4. What topics are covered?</div>
-                            <div class="content">
-                               SEO, social media marketing, Google Ads, content marketing, email marketing, analytics, and AI-based tools.
+                            <div class="label">3. I am a complete beginner. Is this course suitable for me?</div>
+                            <div class="content">Absolutely. The course is specifically designed for beginners, starting
+                                with fundamentals and progressing step-by-step to advanced concepts with practical
+                                implementation.
                             </div>
                         </div>
                         <div class="box">
-                            <div class="label">5. Is the training practical?</div>
+                            <div class="label">4. What topics are covered in the curriculum?</div>
                             <div class="content">
-                               Yes, it is highly practical with live projects and real campaigns.
+                                The complete curriculum covers SEO, Social Media Marketing, Google Ads (PPC), Content
+                                Marketing, Email Marketing, Web Analytics, and the application of AI tools in marketing.
+                            </div>
+                        </div>
+                        <div class="box">
+                            <div class="label">5. How practical is the training?</div>
+                            <div class="content">
+                                The training is 100% practical and hands-on. You will work on live projects, real
+                                websites, and active marketing campaigns throughout the program.
                             </div>
                         </div>
 
                         <div class="box">
-                            <div class="label">6. Will I get a certificate?</div>
-                            <div class="content">Yes, you will receive a course completion certificate from 5Trainers.
+                            <div class="label">6. Do you provide a certificate?</div>
+                            <div class="content">Yes, you will receive a recognized course completion certificate from
+                                5Trainers, valued by employers across Ghaziabad and the NCR.
                             </div>
                         </div>
 
                         <div class="box">
-                            <div class="label">7. Does this course help with jobs or freelancing?</div>
-                            <div class="content">Yes. We provide career guidance, interview preparation, and freelancing support.
+                            <div class="label">7.Do you offer placement assistance in Ghaziabad?</div>
+                            <div class="content">Yes, we provide 100% placement support, including interview
+                                preparation, resume workshops, and direct referrals to our network of partner companies
+                                in Ghaziabad and nearby regions.
                             </div>
                         </div>
                         <div class="box">
-                            <div class="label">8. Why choose 5Trainers in Chandigarh?</div>
-                            <div class="content">Experienced trainers, practical learning, small batches, affordable fees, and industry-focused training.
+                            <div class="label">8. Why should I choose 5Trainers in Ghaziabad?</div>
+                            <div class="content">For our industry-expert trainers, completely practical approach, strong
+                                local placement network, affordable fees, and proven track record of student success
                             </div>
                         </div>
                         <div class="box">
-                            <div class="label">9. How long is the course?</div>
-                            <div class="content">The duration depends on the learning plan you choose.
+                            <div class="label">9.What is the duration and schedule of the course?</div>
+                            <div class="content">We offer flexible weekday and weekend batches to suit your schedule.
+                                The duration typically ranges from 3 to 4 months. Contact us for the latest batch
+                                timetable.
                             </div>
                         </div>
                         <div class="box">
-                            <div class="label">10. How can I enroll?</div>
-                            <div class="content">You can contact us through our website or call our team to book your seat.
+                            <div class="label">10. How do I enroll or get more information?</div>
+                            <div class="content">You can call our Ghaziabad center directly, visit our website, or walk
+                                into our institute for a detailed counseling session and course overview.
                             </div>
                         </div>
                     </div>
@@ -1136,7 +1373,6 @@
                 </div>
             </div>
     </section>
-
 
     <?php include('landingpage/footer.php'); ?>
 </body>

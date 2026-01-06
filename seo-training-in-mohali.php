@@ -20,6 +20,7 @@
     <link href="landingpage/assets/css/animate.css" rel="stylesheet">
     <link href="landingpage/assets/css/aos.css" rel="stylesheet">
     <link href="assets/css/faq.css" type="text/css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
 </head>
@@ -32,7 +33,7 @@
             <div class="row">
                 <div class="col-12 col-md-6 col-lg-6">
                     <div class="landing-logo">
-                        <a href="/"><img src="./assets/image/Final-logo.png" alt="5 Trainers Logo" class="img-fluid"></a>
+                        <a href="https://5trainers.com/"><img src="./assets/image/Final-logo.png" alt="5 Trainers Logo" class="img-fluid"></a>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-6">
@@ -48,7 +49,7 @@
     </section>
     <!--/logo-->
     <section id="slide-show" class="setbg">
-        <div class="custom-container width80">
+        <div class="custom-container width90">
             <div class="">
                 <div class="row">
                     <div class="col-lg-7">
@@ -58,7 +59,7 @@
                                 <div class="sliderHeading mb-20">
                                     <!-- <h2>SEO One Month Course</h2>
                             <h2>Job Bootcamp with GenAI</h2> -->
-                                    <h1>SEO Training in Mohali – Learn From Certified Experts | 5Trainerss</h1>
+                                    <h2>SEO Training in Mohali – Learn From Certified Experts | 5Trainers</h2>
                                 </div>
                                 <!-- <h4 style="color:white; margin-bottom: 20px;">Want to start a high-income career in digital marketing?</h4> -->
                                 <p class="coDetail">At 5Trainers, we offer the most practical and job-oriented SEO

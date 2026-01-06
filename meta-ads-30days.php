@@ -159,7 +159,8 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
             <!--/col-->
             <div class="col-lg-5">
                 <div class="counselingAbout">
-                    <img src="assets/image/slider/counseling-for-students.png" class="img-fluid" alt="Counseling">
+                    <!-- <img src="assets/image/slider/counseling-for-students.png" class="img-fluid" alt="Counseling"> -->
+                    <img src="assets/image/slider/counseling-for-student.png" class="img-fluid" alt="Counseling">
                 </div>
             </div>
             <!--/col-->
