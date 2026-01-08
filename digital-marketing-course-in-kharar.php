@@ -1042,17 +1042,6 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
                     </div>
                 </div>
             </div><!--/col-->
-            <!-- <div class="colof col-sm-12 col-lg-4">
-                        <div class="features-list">
-                            <div class="li">
-                               <div class="icon aos-init aos-animate" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="1500">
-                                    <img src="assets/image/icon/vision-about.png" class="img-fluid" alt="Icon">
-                                </div>
-                                <h3>Our vision</h3>
-                                 <p class="p">Welcome to 5 trainers, a leading digital marketing institute in Mohali, dedicated to shaping the future of tomorrow’s marketers.</p>
-                            </div>														   	
-                        </div>
-                    </div> -->
         </div><!--/mission vission-->
     </div><!--/Container-->
 </section>
@@ -1189,6 +1178,66 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
             </div>
         </div>
     </div>
+</section>
+<!--  -->
+    <section class="our-location py-5">
+  <div class="no-container width80">
+    <h2 class="text-center mb-4 fw-bold">Our Location</h2>
+
+    <div class="row g-4">
+      <!-- Box -->
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <a href="digital-marketing-course-in-ropar.php" class="location-box"> Digital Marketing Course In Ropar <span> ›</span></a>
+      </div>
+
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <a href="digital-marketing-course-in-airport-road-chandigarh.php" class="location-box">Digital Marketing Course In Airport Road Chandigarh ›</a>
+      </div>
+
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <a href="digital-marketing-course-in-ambala.php" class="location-box"> Digital Marketing Course In Ambala<span>›</span></a>
+      </div>
+
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <a href="digital-marketing-course-in-faridabad.php" class="location-box">Digital Marketing Course In Faridabad <span>›</span></a>
+      </div>
+
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <a href="digital-marketing-course-in-ghaziabad.php" class="location-box">Digital Marketing Course In Ghaziabad <span>›</span></a>
+      </div>
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <a href="digital-marketing-course-in-gurgaon.php" class="location-box">Digital Marketing Course In Gurgaon <span>›</span></a>
+      </div>
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <a href="digital-marketing-course-in-kharar.php" class="location-box">Digital Marketing Course In Kharar <span>›</span></a>
+      </div>
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <a href="digital-marketing-course-in-noida.php" class="location-box">Digital Marketing Course In Noida <span>›</span></a>
+      </div>
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <a href="digital-marketing-course-in-panchkula.php" class="location-box">Digital Marketing Course In Panchkula <span>›</span></a>
+      </div>
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <a href="digital-marketing-course-in-zirakpur.php" class="location-box">Digital Marketing Course In Zirakpur <span>›</span></a>
+      </div>
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <a href="Digital-Marketing-Training-in-Chandigarh.php" class="location-box">Digital Marketing Training In Chandigarh <span>›</span></a>
+      </div>
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <a href="digital-marketing-training-in-delhi.php" class="location-box">Digital Marketing Training In Delhi <span>›</span></a>
+      </div>
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <a href="Digital-Marketing-Training-in-HimachalPradesh.php" class="location-box">Digital Marketing Training In Himachal Pradesh <span>›</span></a>
+      </div>
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <a href="Digital-Marketing-Training-in-Mohali.php" class="location-box">Digital Marketing Training In Mohali <span>›</span></a>
+      </div>
+      
+
+
+      <!-- copy more boxes as needed -->
+    </div>
+  </div>
 </section>
 <!-- faq -->
 <section class="container-fluid pt pb faq">

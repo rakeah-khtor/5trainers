@@ -464,13 +464,6 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-training-in-delhi.
                             <p class="card-text">
                                 Learn to rank websites on Google. Includes keyword research, on-page/off-page SEO, technical SEO, and local SEO with live projects.
                             </p>
-                            <!-- <ul>
-                                <li>Keyword research</li>
-                                <li>On-page SEO</li>
-                                <li>Off-page SEO</li>
-                                <li>Technical SEO</li>
-                                <li>Local SEO</li>
-                            </ul> -->
                         </div>
                     </div>
                 </div>
@@ -483,13 +476,6 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-training-in-delhi.
                             <p class="card-text">
                                  Master brand growth on Facebook, Instagram, LinkedIn, and YouTube. Cover content creation, paid campaigns, audience growth, and analytics.
                             </p>
-                            <!-- <ul>
-                                <li>Facebook</li>
-                                <li>Instagram</li>
-                                <li>LinkedIn</li>
-                                <li>YouTube</li>
-                               
-                            </ul> -->
                         </div>
                     </div>
                 </div>
@@ -502,12 +488,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-training-in-delhi.
                             <p class="card-text">
                                  Learn to create and manage paid campaigns on Google & social media. Focus on targeting, ad creation, budgeting, conversion tracking, and optimization.
                             </p>
-                            <!-- <ul>
-                                <li>Google Search Ads</li>
-                                <li>Display Ads</li>
-                                <li>YouTube Ads</li>
-                                <li>Social media paid campaigns</li>
-                            </ul> -->
+                           
                         </div>
                     </div>
                 </div>
@@ -520,12 +501,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-training-in-delhi.
                             <p class="card-text">
                                  Create compelling content that attracts and converts—blogs, website copy, social posts, and basic SEO-friendly copywriting.
                             </p>
-                            <!-- <ul>
-                                <li>Blogs</li>
-                                <li>Website content</li>
-                                <li>Social media posts</li>
-                                <li>Basic copywriting for ads and landing pages</li>
-                            </ul> -->
+                            
                         </div>
                     </div>
                 </div>
@@ -538,12 +514,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-training-in-delhi.
                             <p class="card-text">
                                 Build email lists, design campaigns, write effective emails, and track performance to nurture leads and customers.
                             </p>
-                            <!-- <ul>
-                                <li>Build email lists</li>
-                                <li>Design email campaigns</li>
-                                <li>Write effective emails</li>
-                                <li>Track open rates and conversions</li>
-                            </ul> -->
+                        
                         </div>
                     </div>
                 </div>
@@ -556,22 +527,13 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-training-in-delhi.
                             <p class="card-text">
                               Use Google Analytics, Search Console, and modern AI-powered marketing tools to track performance and optimize results.
                             </p>
-                            <!-- <ul>
-                                <li>Google Analytics</li>
-                                <li>Google Search Console</li>
-                                <li>AI-powered marketing tools</li>
-                                <li>Reporting & performance analysis</li>
-                            </ul> -->
+                          
                         </div>
                     </div>
                 </div>
             </div>
 
-            <!-- <div class="text-center mt-5">
-                <a href="#" class="btn slider px-4 py-2 text-white">
-                    Enroll Now
-                </a>
-            </div> -->
+          
         </div>
     </section>
 
@@ -678,13 +640,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-training-in-delhi.
                     <div class="card h-100 shadow-sm border-0 p-3">
                         <h5 class="fw-semibold">100% Hands-on Training:</h5>
                         <p class="text-muted"> Work on live websites, ad campaigns, SEO projects, and social media strategies throughout the course.</p>
-                        <!-- <ul class="text-muted ps-3">
-            <li>Live websites</li>
-            <li>SEO audits</li>
-            <li>Google Ads campaigns</li>
-            <li>Social media marketing</li>
-            <li>Content creation & analytics</li>
-          </ul> -->
+                       
                     </div>
                 </div>
 
@@ -703,12 +659,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-training-in-delhi.
                     <div class="card h-100 shadow-sm border-0 p-3">
                         <h5 class="fw-semibold">Career & Freelancing Support</h5>
                         <p class="text-muted">  Receive guidance on interview preparation, resume building, and launching your freelancing journey or client management.</p>
-                        <!-- <ul class="text-muted ps-3">
-            <li>Job interview preparation</li>
-            <li>Resume & portfolio building</li>
-            <li>Freelancing platform guidance</li>
-            <li>Client handling basics</li>
-          </ul> -->
+                    
                     </div>
                 </div>
 
@@ -1222,6 +1173,66 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-training-in-delhi.
             </div>
         </div>
     </section>
+    <!--  -->
+    <section class="our-location py-5">
+  <div class="no-container width80">
+    <h2 class="text-center mb-4 fw-bold">Our Location</h2>
+
+    <div class="row g-4">
+      <!-- Box -->
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <a href="digital-marketing-course-in-ropar.php" class="location-box"> Digital Marketing Course In Ropar <span> ›</span></a>
+      </div>
+
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <a href="digital-marketing-course-in-airport-road-chandigarh.php" class="location-box">Digital Marketing Course In Airport Road Chandigarh ›</a>
+      </div>
+
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <a href="digital-marketing-course-in-ambala.php" class="location-box"> Digital Marketing Course In Ambala<span>›</span></a>
+      </div>
+
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <a href="digital-marketing-course-in-faridabad.php" class="location-box">Digital Marketing Course In Faridabad <span>›</span></a>
+      </div>
+
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <a href="digital-marketing-course-in-ghaziabad.php" class="location-box">Digital Marketing Course In Ghaziabad <span>›</span></a>
+      </div>
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <a href="digital-marketing-course-in-gurgaon.php" class="location-box">Digital Marketing Course In Gurgaon <span>›</span></a>
+      </div>
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <a href="digital-marketing-course-in-kharar.php" class="location-box">Digital Marketing Course In Kharar <span>›</span></a>
+      </div>
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <a href="digital-marketing-course-in-noida.php" class="location-box">Digital Marketing Course In Noida <span>›</span></a>
+      </div>
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <a href="digital-marketing-course-in-panchkula.php" class="location-box">Digital Marketing Course In Panchkula <span>›</span></a>
+      </div>
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <a href="digital-marketing-course-in-zirakpur.php" class="location-box">Digital Marketing Course In Zirakpur <span>›</span></a>
+      </div>
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <a href="Digital-Marketing-Training-in-Chandigarh.php" class="location-box">Digital Marketing Training In Chandigarh <span>›</span></a>
+      </div>
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <a href="digital-marketing-training-in-delhi.php" class="location-box">Digital Marketing Training In Delhi <span>›</span></a>
+      </div>
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <a href="Digital-Marketing-Training-in-HimachalPradesh.php" class="location-box">Digital Marketing Training In Himachal Pradesh <span>›</span></a>
+      </div>
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <a href="Digital-Marketing-Training-in-Mohali.php" class="location-box">Digital Marketing Training In Mohali <span>›</span></a>
+      </div>
+      
+
+
+      <!-- copy more boxes as needed -->
+    </div>
+  </div>
+</section>
     <!-- faq -->
     <section class="container-fluid pt pb faq">
         <div class="custom-container width80">
