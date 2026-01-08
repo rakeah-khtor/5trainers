@@ -1,54 +1,23 @@
-<!DOCTYPE html>
-<html lang="en">
+<?php
+$meta_title = "Best SEO Training in Mohali | Advanced SEO Course – 5Trainers";
+$meta_description = "Join the best SEO training in Mohali at 5Trainers. Learn on-page, off-page, technical, and advanced SEO with live projects & certification. Enroll now!";
+$canonical_url = "https://www.5trainers.com/seo-training-in-mohali.php";
+?>
+<?php include('header.php'); ?>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Best SEO Training in Mohali | Advanced SEO Course – 5Trainers</title>
-    <meta name="description"
-        content="Join the best SEO training in Mohali at 5Trainers. Learn on-page, off-page, technical, and advanced SEO with live projects & certification. Enroll now!">
-    <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
-
+   <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
     <link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/toogle-slide.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/coursedetails.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/faq.css" type="text/css" rel="stylesheet" />
-
     <link rel="shortcut icon" href="assets/image/favicon32.png">
     <link href="landingpage/assets/css/animate.css" rel="stylesheet">
     <link href="landingpage/assets/css/aos.css" rel="stylesheet">
     <link href="assets/css/faq.css" type="text/css" rel="stylesheet" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
-</head>
 
-
-<body class="aos-all" id="transcroller-body">
-
-      <section class="container-fluid slider-landing">
-        <div class="custom-container width90">
-            <div class="row">
-                <div class="col-12 col-md-6 col-lg-6">
-                    <div class="landing-logo">
-                        <a href="https://5trainers.com/"><img src="./assets/image/Final-logo.png" alt="5 Trainers Logo" class="img-fluid"></a>
-                    </div>
-                </div>
-                <div class="col-12 col-md-6 col-lg-6">
-                    <div class="gotowebsite">
-                        <a href="tel:+918283840606"><span class="phnspan"><img src="assets/image/icon/ftr-phn.png"
-                                    alt=""></span>+91-8283840606</a>
-                    
-                        <a href="assets/uploads/5trainers_course.pdf" target="_blank">Download Brochure </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--/logo-->
-    <section id="slide-show" class="setbg">
+    <section class="setbg mtt" id="transcroller-body">
         <div class="custom-container width90">
             <div class="">
                 <div class="row">
@@ -1200,7 +1169,7 @@
             </p>
 
             <a href="#" class="btn btn-warning btn-lg fw-semibold px-4">
-                👉 Enroll Now & Transform Your Future with SEO
+                 Enroll Now 
             </a>
 
         </div>
@@ -1356,7 +1325,7 @@
             </div>
     </section>
 
-    <?php include('landingpage/footer.php'); ?>
+    <?php include('footer.php'); ?>
 
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 
@@ -1377,6 +1346,3 @@
             }
         });
     </script>
-</body>
-
-</html>

@@ -1,5 +1,5 @@
 <?php
-$meta_title = ">SEO Course in Mohali – Learn Search Engine Optimization at 5Trainers";
+$meta_title = "SEO Course in Mohali – Learn Search Engine Optimization at 5Trainers";
 $meta_description = "Boost your career with our SEO Course in Mohali. Learn on-page SEO, off-page SEO, technical SEO & keyword research with live projects.";
 $canonical_url = "https://www.5trainers.com/seo.php";
 ?>

@@ -1,14 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Digital Marketing Training in Ropar | Best Institute with Practical Training & Placement Support</title>
-    <meta name="description"
-        content=" Join the best Digital Marketing Course in Ropar. Learn SEO, Google Ads, SMM, AI Tools with live projects. Get placement support for local & remote jobs. Enroll now!">
-    <link href="landingpage/assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
+<?php
+$meta_title = "Digital Marketing Training in Ropar | Best Institute with Practical Training & Placement Support";
+$meta_description = "Join the best Digital Marketing Course in Ropar. Learn SEO, Google Ads, SMM, AI Tools with live projects. Get placement support for local & remote jobs. Enroll now!";
+$canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ropar.php";
+?>
+<?php include('header.php'); ?>
+<link href="landingpage/assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/toogle-slide.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/about.css" type="text/css" rel="stylesheet" />
@@ -19,11 +15,7 @@
     <link href="landingpage/assets/css/aos.css" rel="stylesheet">
     <link href="assets/css/faq.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
-        integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw=="
-        crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Google Tag Manager -->
     <script>(function (w, d, s, l, i) {
@@ -36,42 +28,14 @@
         })(window, document, 'script', 'dataLayer', 'GTM-K3N4DF4B');</script>
     <!-- End Google Tag Manager -->
 
-    <style>
-        .slider {
-            background-color: #1584a3;
-        }
-    </style>
-</head>
 
-<body class="aos-all" id="transcroller-body">
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K3N4DF4B" height="0" width="0"
             style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
-    <section class="container-fluid slider-landing">
-        <div class="custom-container width90">
-            <div class="row">
-                <div class="col-12 col-md-6 col-lg-6">
-                    <div class="landing-logo">
-                        <a href="https://5trainers.com/"><img src="./assets/image/Final-logo.png" alt="5 Trainers Logo"
-                                class="img-fluid"></a>
-                    </div>
-                </div>
-                <div class="col-12 col-md-6 col-lg-6">
-                    <div class="gotowebsite">
-                        <a href="tel:+918283840606" style="text-decoration: none;"><span class="phnspan"><img src="assets/image/icon/ftr-phn.png"
-                                    alt=""></span>+91-8283840606</a>
-
-                        <a href="assets/uploads/5trainers_course.pdf" target="_blank" style="text-decoration: none;">Download Brochure </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--/logo-->
     <!--Slider-->
-    <section id="slide-show" class="setbg">
+    <section  class="setbg mtt" id="transcroller-body">
         <div class="custom-container width90">
             <div class="">
                 <div class="row">
@@ -85,7 +49,7 @@
                                     <h2 style="font-size: 45px ;"><a href="https://5trainers.com/"
                                             style="text-decoration: none; color:white;">Digital Marketing </a> Training in
                                         Ropar</h2>
-                                    <h4 class="mt-4"><a href="https://5trainers.com/"
+                                    <h4 class="mt-4 text-white"><a href="https://5trainers.com/"
                                             style="text-decoration: none; color:white;">Digital Marketing </a> Training in
                                         Ropar – Best Institute with Practical Career-Focused Training</h4>
                                 </div>
@@ -99,42 +63,7 @@
                             </div><!--/slider text-->
 
 
-                            <!-- <div class="course-features mtb-40">
-                                <div class="features">
-                                    <img src="landingpage/assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Affordable Fees </div>
-                                </div>
-
-                                <div class="features">
-                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Certified Trainers </div>
-                                </div>
-
-                                <div class="features">
-                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Internship Opportunity </div>
-                                </div>
-
-                                <div class="features">
-                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Placement assistance</div>
-                                </div>
-
-                                <div class="features">
-                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Professional Resume Building </div>
-                                </div>
-                                <div class="features">
-                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Mock Interviews & HR Rounds</div>
-                                </div>
-
-                                <div class="features">
-                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Lifetime Access to Study Material</div>
-                                </div>
-
-                            </div> -->
+                          
                             <div>
                                 <p class="coDetail text-white">5Trainers offers professionally structured Digital
                                     Marketing Training in Ropar, designed to make you job-ready with practical skills
@@ -485,7 +414,7 @@
         <div class="cutom-container width90">
             <div class="text-center mb-5">
                 <h2 class="fw-bold">Digital Marketing Course in Ropar – Comprehensive Curriculum</h2>
-                <p class="text-muted">
+                <p class="text-muted text-center">
                     Our complete program covers all essential areas of modern digital marketing:
                 </p>
             </div>
@@ -689,10 +618,10 @@
 
     <!--  -->
     <section class="py-5 bg-light">
-        <div class="container">
+        <div class="cutom-container width90">
             <div class="text-center mb-5">
                 <h2 class="fw-bold">Why Choose 5Trainers for Digital Marketing Training in Ropar?</h2>
-                <p class="text-muted mt-2">
+                <p class="text-muted mt-2 text-center">
                     We provide a supportive, practical, and locally relevant learning experience.
                 </p>
             </div>
@@ -1086,12 +1015,12 @@
                             <h3>Career Opportunities After Certification</h3>
                             <!-- <h5 class="text-white">After completing the course, you can work as:</h5> -->
                             <ul class="p" style="padding: 0px;">
-                                <li>Digital Marketing Executive / Specialist</li>
-                                <li>SEO Specialist / Analyst</li>
-                                <li>Social Media Marketing Manager</li>
-                                <li>PPC / Google Ads Specialist</li>
-                                <li>Content Marketing Manager</li>
-                                <li>Digital Marketing Consultant / Freelancer</li>
+                                <li class="text-white">Digital Marketing Executive / Specialist</li>
+                                <li class="text-white">SEO Specialist / Analyst</li>
+                                <li class="text-white">Social Media Marketing Manager</li>
+                                <li class="text-white">PPC / Google Ads Specialist</li>
+                                <li class="text-white">Content Marketing Manager</li>
+                                <li class="text-white">Digital Marketing Consultant / Freelancer</li>
                             </ul>
                             <p class="text-white">Ropar’s growing educational and industrial ecosystem, combined with access to remote positions nationwide, offers diverse opportunities for skilled digital marketers.</p>
                         </div>
@@ -1106,11 +1035,11 @@
                             </div>
                             <h3>Who Should Join This Digital Marketing Training in Ropar?</h3>
                             <ul class="p mt-4" style="padding: 0px;">
-                                <li>Students and recent graduates looking to build a strong digital career</li>
-                                <li>Job seekers and professionals aiming to transition into high-growth digital roles </li>
-                                <li>Local business owners, entrepreneurs, and industrial unit operators wanting to grow online presence</li>
-                                <li>Freelancers, bloggers, and content creators seeking to expand their service offerings </li>
-                                <li>Working professionals looking to upgrade their digital expertise for better opportunities</li>
+                                <li class="text-white">Students and recent graduates looking to build a strong digital career</li>
+                                <li class="text-white">Job seekers and professionals aiming to transition into high-growth digital roles </li>
+                                <li class="text-white">Local business owners, entrepreneurs, and industrial unit operators wanting to grow online presence</li>
+                                <li class="text-white">Freelancers, bloggers, and content creators seeking to expand their service offerings </li>
+                                <li class="text-white">Working professionals looking to upgrade their digital expertise for better opportunities</li>
                             </ul>
                             <p class="text-white">No degree or experience required—just the willingness to learn.</p>
                         </div>
@@ -1139,10 +1068,10 @@
 
             <h2 class="fw-bold mb-3 text-white">Start Your Digital Career in Ropar Today</h2>
 
-            <p class="lead mb-4 text-white">
+            <p class="lead mb-4 text-white text-center">
                 Join 5Trainers—Ropar's trusted digital marketing institute—and gain the practical skills and confidence to excel in the digital world.
             </p>
-            <p class="lead mb-4 text-white">
+            <p class="lead mb-4 text-white text-center">
                  Contact us now to book a free demo session or enroll in our upcoming batch of Digital Marketing Training in Ropar.
             </p>
 
@@ -1251,13 +1180,13 @@
                         Learn <a href="https://5trainers.com/" style="text-decoration: none; color:white;">Digital
                             Marketing</a> Skills That Build Careers & Businesses
                     </h1>
-                    <p class="lead mb-3 text-white">
+                    <p class="lead mb-3 text-white text-center">
                         At 5Trainers, our <strong>Digital Marketing Course in Ropar</strong> focuses on hands-on
                         learning and industry-relevant skills that companies actually look for.
 
 
                     </p>
-                    <p class="mb-4 text-white">
+                    <p class="mb-4 text-white text-center">
                         We don’t just teach concepts—we help you <strong>work on live projects, real websites, and
                             active ad campaigns</strong>, so you gain confidence to handle real clients and job roles.
                     </p>
@@ -1337,7 +1266,4 @@
             </div>
     </section>
 
-    <?php include('landingpage/footer.php'); ?>
-</body>
-
-</html>
+    <?php include('footer.php'); ?>

@@ -1,14 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Digital Marketing Training in Ghaziabad | Best Institute with 100% Placement Support</title>
-    <meta name="description"
-        content="Join the top Digital Marketing Course in Ghaziabad. Learn SEO, Google Ads, SMM, AI Tools with live projects. Get 100% placement assistance. Enroll now for a successful digital career!">
-    <link href="landingpage/assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
+<?php
+$meta_title = "Digital Marketing Training in Ghaziabad | Best Institute with 100% Placement Support";
+$meta_description = "Join the top Digital Marketing Course in Ghaziabad. Learn SEO, Google Ads, SMM, AI Tools with live projects. Get 100% placement assistance. Enroll now for a successful digital career!";
+$canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ghaziabad.php";
+?>
+<?php include('header.php'); ?>
+<link href="landingpage/assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/toogle-slide.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/about.css" type="text/css" rel="stylesheet" />
@@ -19,11 +15,8 @@
     <link href="landingpage/assets/css/aos.css" rel="stylesheet">
     <link href="assets/css/faq.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
-        integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw=="
-        crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
 
     <!-- Google Tag Manager -->
     <script>(function (w, d, s, l, i) {
@@ -36,42 +29,14 @@
         })(window, document, 'script', 'dataLayer', 'GTM-K3N4DF4B');</script>
     <!-- End Google Tag Manager -->
 
-    <style>
-        .slider {
-            background-color: #1584a3;
-        }
-    </style>
-</head>
 
-<body class="aos-all" id="transcroller-body">
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K3N4DF4B" height="0" width="0"
             style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
-    <section class="container-fluid slider-landing">
-        <div class="custom-container width90">
-            <div class="row">
-                <div class="col-12 col-md-6 col-lg-6">
-                    <div class="landing-logo">
-                        <a href="https://5trainers.com/"><img src="./assets/image/Final-logo.png" alt="5 Trainers Logo"
-                                class="img-fluid"></a>
-                    </div>
-                </div>
-                <div class="col-12 col-md-6 col-lg-6">
-                    <div class="gotowebsite">
-                        <a href="tel:+918283840606" style="text-decoration: none;"><span class="phnspan"><img src="assets/image/icon/ftr-phn.png"
-                                    alt=""></span>+91-8283840606</a>
-
-                        <a href="assets/uploads/5trainers_course.pdf" target="_blank" style="text-decoration: none;"> Download Brochure </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--/logo-->
     <!--Slider-->
-    <section id="slide-show" class="setbg">
+    <section class="setbg mtt" id="transcroller-body">
         <div class="custom-container width90">
             <div class="">
                 <div class="row">
@@ -85,7 +50,7 @@
                                     <h2 style="font-size: 45px ;"><a href="https://5trainers.com/"
                                             style="text-decoration: none; color:white;">Digital Marketing </a> Training in
                                         Ghaziabad</h2>
-                                    <h4 class="mt-4"><a href="https://5trainers.com/"
+                                    <h4 class="mt-4 text-white"><a href="https://5trainers.com/"
                                             style="text-decoration: none; color:white;">Digital Marketing </a> Training in
                                         Ghaziabad – Premier Institute with 100% Placement Support</h4>
                                 </div>
@@ -99,42 +64,7 @@
                             </div><!--/slider text-->
 
 
-                            <!-- <div class="course-features mtb-40">
-                                <div class="features">
-                                    <img src="landingpage/assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Affordable Fees </div>
-                                </div>
-
-                                <div class="features">
-                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Certified Trainers </div>
-                                </div>
-
-                                <div class="features">
-                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Internship Opportunity </div>
-                                </div>
-
-                                <div class="features">
-                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Placement assistance</div>
-                                </div>
-
-                                <div class="features">
-                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Professional Resume Building </div>
-                                </div>
-                                <div class="features">
-                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Mock Interviews & HR Rounds</div>
-                                </div>
-
-                                <div class="features">
-                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Lifetime Access to Study Material</div>
-                                </div>
-
-                            </div> -->
+                          
                             <div>
                                 <p class="coDetail text-white">5Trainers offers industry-aligned Digital Marketing
                                     Training in Ghaziabad, structured to make you job-ready from the first module. We
@@ -1106,12 +1036,12 @@
                             <h3>Career Opportunities After Certification</h3>
                             <!-- <h5 class="text-white">After completing the course, you can work as:</h5> -->
                             <ul class="p" style="padding: 0px;">
-                                <li>Digital Marketing Executive / Manager</li>
-                                <li>SEO Specialist / Analyst</li>
-                                <li>Social Media Marketing Manager</li>
-                                <li>PPC / Google Ads Specialist</li>
-                                <li>Content Marketing Manager</li>
-                                <li>Digital Marketing Consultant / Freelancer</li>
+                                <li class="text-white">Digital Marketing Executive / Manager</li>
+                                <li class="text-white">SEO Specialist / Analyst</li>
+                                <li class="text-white">Social Media Marketing Manager</li>
+                                <li class="text-white">PPC / Google Ads Specialist</li>
+                                <li class="text-white">Content Marketing Manager</li>
+                                <li class="text-white">Digital Marketing Consultant / Freelancer</li>
                             </ul>
                             <p class="text-white">Ghaziabad's rapidly developing commercial landscape and proximity to
                                 Delhi NCR offer excellent opportunities in local businesses, e-commerce companies,
@@ -1128,12 +1058,12 @@
                             </div>
                             <h3>Who Should Join This Digital Marketing Training in Ghaziabad?</h3>
                             <ul class="p mt-4" style="padding: 0px;">
-                                <li>Students and recent graduates looking to launch a digital career</li>
-                                <li>Job seekers and professionals aiming to transition into high-growth digital roles
+                                <li class="text-white">Students and recent graduates looking to launch a digital career</li>
+                                <li  class="text-white">Job seekers and professionals aiming to transition into high-growth digital roles
                                 </li>
-                                <li>Local business owners, entrepreneurs, and shopkeepers wanting to grow online</li>
-                                <li>Freelancers, bloggers, and content creators seeking to monetize their skills</li>
-                                <li>Working professionals in marketing, sales, or IT looking to upgrade their digital
+                                <li class="text-white">Local business owners, entrepreneurs, and shopkeepers wanting to grow online</li>
+                                <li class="text-white">Freelancers, bloggers, and content creators seeking to monetize their skills</li>
+                                <li class="text-white">Working professionals in marketing, sales, or IT looking to upgrade their digital
                                     expertise</li>
                             </ul>
                             <p class="text-white"> No technical background or prior experience needed—just a willingness
@@ -1164,12 +1094,12 @@
 
             <h2 class="fw-bold mb-3 text-white">Start Your Digital Career in Ghaziabad Today</h2>
 
-            <p class="lead mb-4 text-white">
+            <p class="lead mb-4 text-white text-center">
                 Join 5Trainers—Ghaziabad's trusted digital marketing institute—and gain the practical skills and
                 confidence
                 to excel in the digital world.
             </p>
-            <p class="lead mb-4 text-white">
+            <p class="lead mb-4 text-white text-center">
                 Contact us now to book a free demo session or enroll in our upcoming batch of Digital Marketing Training
                 in Ghaziabad.
             </p>
@@ -1278,13 +1208,13 @@
                     <h1 class="fw-bold mb-3">
                         Launch Your Digital Career in Ghaziabad Today
                     </h1>
-                    <p class="lead mb-3 text-white">
+                    <p class="lead mb-3 text-white text-center">
                         Join 5Trainers—Ghaziabad's most trusted digital marketing institute—and gain the practical
                         skills and confidence to excel in the digital domain.
 
 
                     </p>
-                    <p class="mb-4 text-white">
+                    <p class="mb-4 text-white text-center">
                         Contact us now to book a free demo class or enroll in our upcoming batch of Digital Marketing
                         Training in Ghaziabad.
                     </p>
@@ -1381,7 +1311,5 @@
             </div>
     </section>
 
-    <?php include('landingpage/footer.php'); ?>
-</body>
 
-</html>
+<?php include('footer.php'); ?>

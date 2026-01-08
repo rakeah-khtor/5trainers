@@ -1,14 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
+<?php
+$meta_title = "Digital Marketing Training in Himachal Pradesh | 100% Job-Oriented Course";
+$meta_description = "Join Digital Marketing Training in Himachal Pradesh. 100% job-oriented course with placement support. Learn SEO, Google Ads, Social Media & AI tools. Enroll now!";
+$canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-HimachalPradesh.php";
+?>
+<?php include('header.php'); ?>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title> Digital Marketing Training in Himachal Pradesh | 100% Job-Oriented Course</title>
-    <meta name="description"
-        content="Join Digital Marketing Training in Himachal Pradesh. 100% job-oriented course with placement support. Learn SEO, Google Ads, Social Media & AI tools. Enroll now!">
-    <link href="landingpage/assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
+  <link href="landingpage/assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/toogle-slide.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/about.css" type="text/css" rel="stylesheet" />
@@ -19,9 +16,7 @@
     <link href="landingpage/assets/css/aos.css" rel="stylesheet">
     <link href="assets/css/faq.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Google Tag Manager -->
     <script>(function (w, d, s, l, i) {
@@ -32,43 +27,15 @@
                 j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
                     'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
         })(window, document, 'script', 'dataLayer', 'GTM-K3N4DF4B');</script>
-    <!-- End Google Tag Manager -->
+    <!-- End Google Tag Manager --> 
 
-    <style>
-        .slider {
-            background-color: #1584a3;
-        }
-    </style>
-</head>
-
-<body class="aos-all" id="transcroller-body">
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K3N4DF4B" height="0" width="0"
             style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
-  <section class="container-fluid slider-landing">
-        <div class="custom-container width90">
-            <div class="row">
-                <div class="col-12 col-md-6 col-lg-6">
-                    <div class="landing-logo">
-                        <a href="https://5trainers.com/"><img src="./assets/image/Final-logo.png" alt="5 Trainers Logo" class="img-fluid"></a>
-                    </div>
-                </div>
-                <div class="col-12 col-md-6 col-lg-6">
-                    <div class="gotowebsite">
-                        <a href="tel:+918283840606" style="text-decoration: none;"><span class="phnspan"><img src="assets/image/icon/ftr-phn.png"
-                                    alt=""></span>+91-8283840606</a>
-
-                        <a href="assets/uploads/5trainers_course.pdf" target="_blank" style="text-decoration: none;">Download Brochure </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--/logo-->
-    <!--Slider-->
-    <section id="slide-show" class="setbg">
+     <!--Slider-->
+    <section class="setbg mtt" id="transcroller-body">
         <div class="custom-container width90">
             <div class="">
                 <div class="row">
@@ -80,7 +47,7 @@
                                     <!-- <h2>Digital Marketing Courses</h2>
                             <h2> with AI</h2> -->
                                     <h2 style="font-size: 45px;"><a href="https://5trainers.com/" style="text-decoration: none; color:white;">Digital Marketing </a> Training in Himachal Pradesh</h2>
-                                    <h4><a href="https://5trainers.com/" style="text-decoration: none; color:white;">Digital Marketing </a> Training in Himachal Pradesh – 100% Job-Oriented Course</h4>
+                                    <h4 class="text-white"><a href="https://5trainers.com/" style="text-decoration: none; color:white;">Digital Marketing </a> Training in Himachal Pradesh – 100% Job-Oriented Course</h4>
                                 </div>
                                 <!-- <p class="coDetail">Digital Marketing Course with Guaranteed Placement Support <br> Perfect for Both Freshers &  Working Professionals.</p> -->
                                 <p class="coDetail">Best Digital Marketing Institute in Himachal Pradesh with Placement Support</p>
@@ -444,7 +411,7 @@
         <div class="cutom-container width90">
             <div class="text-center mb-5">
                 <h2 class="fw-bold">Digital Marketing Course in Himachal Pradesh – What You Will Learn</h2>
-                <p class="text-muted">
+                <p class="text-muted text-center">
                    Our course covers all major digital marketing modules required in today’s competitive market.
                 </p>
             </div>
@@ -648,10 +615,10 @@
 
 <!--  -->
     <section class="py-5 bg-light">
-  <div class="container">
+  <div class="nocontainer width80">
     <div class="text-center mb-5">
       <h2 class="fw-bold">Why Choose 5Trainers for <a href="https://5trainers.com/" style="text-decoration: none; color:black;">Digital Marketing</a> Training in Himachal Pradesh?</h2>
-      <p class="text-muted mt-2">
+      <p class="text-muted mt-2 text-center">
         We believe digital marketing should be simple, practical, and result-oriented.
       </p>
     </div>
@@ -1014,12 +981,12 @@
                             <h3>Career Opportunities After Digital Marketing Course</h3>
                             <!-- <h5 class="text-white">After completing the course, you can work as:</h5> -->
                             <ul class="p" style="padding: 0px;">
-                                <li>Digital Marketing Executive</li>
-                                <li>SEO Specialist</li>
-                                <li>Social Media Manager</li>
-                                <li>PPC / Google Ads Expert</li>
-                                <li>Content Marketer</li>
-                                <li>Freelancer or Digital Marketing Consultant</li>
+                                <li class="text-white">Digital Marketing Executive</li>
+                                <li class="text-white">SEO Specialist</li>
+                                <li class="text-white">Social Media Manager</li>
+                                <li class="text-white">PPC / Google Ads Expert</li>
+                                <li class="text-white">Content Marketer</li>
+                                <li class="text-white">Freelancer or Digital Marketing Consultant</li>
                             </ul>
                             <p class="text-white">Digital marketing professionals are in high demand across startups, agencies, and companies in India and abroad.</p>
                         </div>
@@ -1034,27 +1001,17 @@
                             </div>
                             <h3>Who Should Join This Digital Marketing Training in Himachal Pradesh?</h3>
                             <ul class="p mt-4" style="padding: 0px;">
-                                <li>Students & fresh graduates</li>
-                                <li>Job seekers & career switchers</li>
-                                <li>Business owners & entrepreneurs</li>
-                                <li>Freelancers & content creators </li>
-                                <li>Working professionals upgrading skills</li>
+                                <li class="text-white">Students & fresh graduates</li>
+                                <li class="text-white">Job seekers & career switchers</li>
+                                <li class="text-white">Business owners & entrepreneurs</li>
+                                <li class="text-white">Freelancers & content creators </li>
+                                <li class="text-white">Working professionals upgrading skills</li>
                             </ul>
                             <p class="text-white">No degree or experience required—just the willingness to learn.</p>
                         </div>
                     </div>
                 </div><!--/col-->
-                <!-- <div class="colof col-sm-12 col-lg-4">
-                        <div class="features-list">
-                            <div class="li">
-                               <div class="icon aos-init aos-animate" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="1500">
-                                    <img src="assets/image/icon/vision-about.png" class="img-fluid" alt="Icon">
-                                </div>
-                                <h3>Our vision</h3>
-                                 <p class="p">Welcome to 5 trainers, a leading digital marketing institute in Mohali, dedicated to shaping the future of tomorrow’s marketers.</p>
-                            </div>														   	
-                        </div>
-                    </div> -->
+           
             </div><!--/mission vission-->
         </div><!--/Container-->
     </section>
@@ -1063,14 +1020,14 @@
 
     <!--  -->
     <section class="py-5 slider text-white text-center">
-        <div class="container">
+        <div class="nocontainer width80">
 
             <h2 class="fw-bold mb-3 text-white">Start Your <a href="https://5trainers.com/" style="text-decoration: none; color:white;">Digital Marketing</a> Journey in Himachal Pradesh Today</h2>
 
-            <p class="lead mb-4 text-white">
+            <p class="lead mb-4 text-white text-center">
                Join 5Trainers, a trusted name for Digital Marketing Training in Himachal Pradesh, and gain skills that help you grow professionally and financially.
             </p>
-            <p class="lead mb-4 text-white">
+            <p class="lead mb-4 text-white text-center">
                 Contact us today to enroll and start your journey toward a successful digital career—whether you’re in Shimla, Kangra, Dharamshala, Hamirpur, Una, Mandi, Bilaspur, or Solan.
             </p>
 
@@ -1178,15 +1135,15 @@
                     <h1 class="fw-bold mb-3">
                        Learn <a href="https://5trainers.com/" style="text-decoration: none; color:white;">Digital Marketing</a>  Skills That Build Careers & Businesses
                     </h1>
-                    <p class="lead mb-3 text-white">
+                    <p class="lead mb-3 text-white text-center">
                     At 5Trainers, our <strong>Digital Marketing Course in Himachal Pradesh </strong> focuses on hands-on learning and industry-relevant skills that companies actually look for.
 
                         
                     </p>
-                    <p class="mb-4 text-white">
+                    <p class="mb-4 text-white text-center">
                     We don’t just teach concepts—we help you <strong>work on live projects, real websites, and active ad campaigns</strong>, so you gain confidence to handle real clients and job roles.
                     </p>
-                    <p class="mb-4 text-white">
+                    <p class="mb-4 text-white text-center">
                     Whether you are from <strong>Shimla, Dharamshala, Kangra, or any part of Himachal Pradesh</strong>, our training helps you build a strong digital career from anywhere.
                     </p>
                     <a href="#" class="btn btn-outline-light btn-lg px-4">Free Demo Class</a>
@@ -1264,7 +1221,4 @@
             </div>
     </section>
 
-    <?php include('landingpage/footer.php'); ?>
-</body>
-
-</html>
+    <?php include('footer.php'); ?>

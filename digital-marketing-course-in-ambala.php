@@ -1,14 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Digital Marketing Training in Ambala | Best Institute with Practical Training & Placement Support</title>
-    <meta name="description"
-        content="Join the best Digital Marketing Course in Ambala. Learn SEO, Google Ads, SMM, AI Tools with live projects. Get placement support for local & remote jobs. Enroll now">
-    <link href="landingpage/assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
+<?php
+$meta_title = "Digital Marketing Training in Ambala | Best Institute with Practical Training & Placement Support";
+$meta_description = "Join the best Digital Marketing Course in Ambala. Learn SEO, Google Ads, SMM, AI Tools with live projects. Get placement support for local & remote jobs. Enroll now!";
+$canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.php";
+?>
+<?php include('header.php'); ?>
+   <link href="landingpage/assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/toogle-slide.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/about.css" type="text/css" rel="stylesheet" />
@@ -19,12 +15,6 @@
     <link href="landingpage/assets/css/aos.css" rel="stylesheet">
     <link href="assets/css/faq.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
-        integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw=="
-        crossorigin="anonymous" referrerpolicy="no-referrer" />
-
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
-
     <!-- Google Tag Manager -->
     <script>(function (w, d, s, l, i) {
             w[l] = w[l] || []; w[l].push({
@@ -36,42 +26,13 @@
         })(window, document, 'script', 'dataLayer', 'GTM-K3N4DF4B');</script>
     <!-- End Google Tag Manager -->
 
-    <style>
-        .slider {
-            background-color: #1584a3;
-        }
-    </style>
-</head>
 
-<body class="aos-all" id="transcroller-body">
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K3N4DF4B" height="0" width="0"
             style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
-    <section class="container-fluid slider-landing">
-        <div class="custom-container width90">
-            <div class="row">
-                <div class="col-12 col-md-6 col-lg-6">
-                    <div class="landing-logo">
-                        <a href="https://5trainers.com/"><img src="./assets/image/Final-logo.png" alt="5 Trainers Logo"
-                                class="img-fluid"></a>
-                    </div>
-                </div>
-                <div class="col-12 col-md-6 col-lg-6">
-                    <div class="gotowebsite">
-                        <a href="tel:+918283840606" style="text-decoration: none;"><span class="phnspan"><img src="assets/image/icon/ftr-phn.png"
-                                    alt=""></span>+91-8283840606</a>
-
-                        <a href="assets/uploads/5trainers_course.pdf" target="_blank" style="text-decoration: none;">Download Brochure </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--/logo-->
-    <!--Slider-->
-    <section id="slide-show" class="setbg">
+    <section id="slide-show " class="setbg aos-all mtt" id="transcroller-body">
         <div class="custom-container width90">
             <div class="">
                 <div class="row">
@@ -85,7 +46,7 @@
                                     <h2 style="font-size: 45px ;"><a href="https://5trainers.com/"
                                             style="text-decoration: none; color:white;">Digital Marketing </a> Training in
                                         Ambala</h2>
-                                    <h4 class="mt-4"><a href="https://5trainers.com/"
+                                    <h4 class="mt-4 text-white"><a href="https://5trainers.com/"
                                             style="text-decoration: none; color:white;">Digital Marketing </a> Training in
                                         Ambala – Best Institute with Practical Career-Focused Training</h4>
                                 </div>
@@ -1091,12 +1052,12 @@
                             <h3>Career Opportunities After Certification</h3>
                             <!-- <h5 class="text-white">After completing the course, you can work as:</h5> -->
                             <ul class="p" style="padding: 0px;">
-                                <li>Digital Marketing Executive / Specialist</li>
-                                <li>SEO Specialist / Analyst</li>
-                                <li>Social Media Marketing Manager</li>
-                                <li>PPC / Google Ads Specialist</li>
-                                <li>Content Marketing Manager</li>
-                                <li>Digital Marketing Consultant / Freelancer</li>
+                                <li class="text-white">Digital Marketing Executive / Specialist</li>
+                                <li class="text-white">SEO Specialist / Analyst</li>
+                                <li class="text-white">Social Media Marketing Manager</li>
+                                <li class="text-white">PPC / Google Ads Specialist</li>
+                                <li class="text-white">Content Marketing Manager</li>
+                                <li class="text-white">Digital Marketing Consultant / Freelancer</li>
                             </ul>
                             <p class="text-white">Ambala’s growing commercial environment offers opportunities in local businesses, nearby industrial units, and access to remote positions with companies across India.</p>
                         </div>
@@ -1111,11 +1072,11 @@
                             </div>
                             <h3>Who Should Join This Digital Marketing Training in Ambala?</h3>
                             <ul class="p mt-4" style="padding: 0px;">
-                                <li>Students and recent graduates looking to build a strong digital career</li>
-                                <li>Job seekers and professionals aiming to transition into high-growth digital roles</li>
-                                <li>Local business owners, entrepreneurs, and shopkeepers wanting to grow their business online</li>
-                                <li>Freelancers, bloggers, and content creators seeking to monetize their skills </li>
-                                <li>Working professionals in marketing, sales, or IT looking to upgrade their digital expertise</li>
+                                <li class="text-white">Students and recent graduates looking to build a strong digital career</li>
+                                <li class="text-white">Job seekers and professionals aiming to transition into high-growth digital roles</li>
+                                <li class="text-white">Local business owners, entrepreneurs, and shopkeepers wanting to grow their business online</li>
+                                <li class="text-white">Freelancers, bloggers, and content creators seeking to monetize their skills </li>
+                                <li class="text-white">Working professionals in marketing, sales, or IT looking to upgrade their digital expertise</li>
                             </ul>
                             <p class="text-white">No degree or experience required—just the willingness to learn.</p>
                         </div>
@@ -1144,10 +1105,10 @@
 
             <h2 class="fw-bold mb-3 text-white">Start Your Digital Career in Ambala Today</h2>
 
-            <p class="lead mb-4 text-white">
+            <p class="lead mb-4 text-white text-center">
                Join 5Trainers—Ambala's most trusted digital marketing institute—and gain the practical skills and confidence to excel in the digital domain.
             </p>
-            <p class="lead mb-4 text-white">
+            <p class="lead mb-4 text-white text-center">
                 Contact us now to book a free demo session or enroll in our upcoming batch of Digital Marketing Training in Ambala.
             </p>
 
@@ -1251,18 +1212,18 @@
     <section class="py-5 slider text-white">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-lg-8 mx-auto text-center">
+                <div class="col-lg-12 text-center">
                     <h1 class="fw-bold mb-3">
                         Learn <a href="https://5trainers.com/" style="text-decoration: none; color:white;">Digital
                             Marketing</a> Skills That Build Careers & Businesses
                     </h1>
-                    <p class="lead mb-3 text-white">
+                    <p class="lead mb-3 text-white text-center">
                         At 5Trainers, our <strong>Digital Marketing Course in Ambala</strong> focuses on hands-on
                         learning and industry-relevant skills that companies actually look for.
 
 
                     </p>
-                    <p class="mb-4 text-white">
+                    <p class="mb-4 text-white text-center">
                         We don’t just teach concepts—we help you <strong>work on live projects, real websites, and
                             active ad campaigns</strong>, so you gain confidence to handle real clients and job roles.
                     </p>
@@ -1343,7 +1304,4 @@
             </div>
     </section>
 
-    <?php include('landingpage/footer.php'); ?>
-</body>
-
-</html>
+    <?php include('footer.php'); ?>

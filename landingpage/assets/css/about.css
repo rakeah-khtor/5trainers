@@ -105,7 +105,8 @@ span.aiImage {
   box-shadow: 0 15px 35px rgb(0 0 0 / 10%);
 }
 .misn-visin-row .darkfeature .li {
-  background: #1585a4 !important;
+  /* background: #1585a4 !important; */
+  background: #0f79be !important;
 }
 .misn-visin-row .darkfeature h3,
 .misn-visin-row .darkfeature .p {
@@ -124,7 +125,7 @@ span.aiImage {
   border-radius: 20px;
   -webkit-transition: 0.5s;
   transition: 0.5s;
-  background: #1585a4;
+  /* background: #1585a4; */
 }
 .misn-visin-row .features-list .li:hover .whoweimg {
   filter: brightness(0) invert(1);

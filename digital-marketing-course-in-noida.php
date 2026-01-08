@@ -1,13 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Digital Marketing Course in Noida | Best Institute with 100% Placement</title>
-    <meta name="description"
-        content=" Enroll in the best Digital Marketing Training in Noida. Learn SEO, Google Ads, SMM, Content Marketing & AI tools with live projects. Get 100% placement support. Join now!">
+<?php
+$meta_title = "Digital Marketing Course in Noida | Best Institute with 100% Placement";
+$meta_description = "Enroll in the best Digital Marketing Training in Noida. Learn SEO, Google Ads, SMM, Content Marketing & AI tools with live projects. Get 100% placement support. Join now!";
+$canonical_url = "https://www.5trainers.com/digital-marketing-course-in-noida.php";
+?>
+<?php include('header.php'); ?>
     <link href="landingpage/assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/toogle-slide.css" type="text/css" rel="stylesheet" />
@@ -19,13 +15,7 @@
     <link href="landingpage/assets/css/aos.css" rel="stylesheet">
     <link href="assets/css/faq.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
-        integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw=="
-        crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Google Tag Manager -->
     <script>(function (w, d, s, l, i) {
             w[l] = w[l] || []; w[l].push({
                 'gtm.start':
@@ -36,42 +26,21 @@
         })(window, document, 'script', 'dataLayer', 'GTM-K3N4DF4B');</script>
     <!-- End Google Tag Manager -->
 
-    <style>
+    <!-- <style>
         .slider {
             background-color: #1584a3;
         }
     </style>
 </head>
 
-<body class="aos-all" id="transcroller-body">
+<body class="aos-all" id="transcroller-body"> -->
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K3N4DF4B" height="0" width="0"
             style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
-    <section class="container-fluid slider-landing">
-        <div class="custom-container width90">
-            <div class="row">
-                <div class="col-12 col-md-6 col-lg-6">
-                    <div class="landing-logo">
-                        <a href="https://5trainers.com/"><img src="./assets/image/Final-logo.png" alt="5 Trainers Logo"
-                                class="img-fluid"></a>
-                    </div>
-                </div>
-                <div class="col-12 col-md-6 col-lg-6">
-                    <div class="gotowebsite">
-                        <a href="tel:+918283840606" style="text-decoration: none;"><span class="phnspan"><img src="assets/image/icon/ftr-phn.png"
-                                    alt=""></span>+91-8283840606</a>
-
-                        <a href="assets/uploads/5trainers_course.pdf" target="_blank" style="text-decoration: none;">Download Brochure </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--/logo-->
-    <!--Slider-->
-    <section id="slide-show" class="setbg">
+   
+    <section  class="setbg mtt" id="transcroller-body">
         <div class="custom-container width90">
             <div class="">
                 <div class="row">
@@ -85,7 +54,7 @@
                                     <h2 style="font-size: 45px ;"><a href="https://5trainers.com/"
                                             style="text-decoration: none; color:white;">Digital Marketing </a> Training in
                                         Noida</h2>
-                                    <h4 class="mt-4"><a href="https://5trainers.com/"
+                                    <h4 class="mt-4 text-white"><a href="https://5trainers.com/"
                                             style="text-decoration: none; color:white;">Digital Marketing </a> Training in
                                         Noida – Best Institute with 100% Placement Support</h4>
                                 </div>
@@ -99,42 +68,7 @@
                             </div><!--/slider text-->
 
 
-                            <!-- <div class="course-features mtb-40">
-                                <div class="features">
-                                    <img src="landingpage/assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Affordable Fees </div>
-                                </div>
-
-                                <div class="features">
-                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Certified Trainers </div>
-                                </div>
-
-                                <div class="features">
-                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Internship Opportunity </div>
-                                </div>
-
-                                <div class="features">
-                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Placement assistance</div>
-                                </div>
-
-                                <div class="features">
-                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Professional Resume Building </div>
-                                </div>
-                                <div class="features">
-                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Mock Interviews & HR Rounds</div>
-                                </div>
-
-                                <div class="features">
-                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Lifetime Access to Study Material</div>
-                                </div>
-
-                            </div> -->
+                         
                             <div>
                                 <p class="coDetail text-white">At 5Trainers, our Digital Marketing Training in Noida is
                                     structured to transform you into a job-ready professional. We focus on real-world
@@ -485,7 +419,7 @@
         <div class="cutom-container width90">
             <div class="text-center mb-5">
                 <h2 class="fw-bold">Digital Marketing Course in Noida – What You Will Learn</h2>
-                <p class="text-muted">
+                <p class="text-muted text-center">
                     Our comprehensive modules cover every pillar of successful digital marketing:
                 </p>
             </div>
@@ -698,7 +632,7 @@
         <div class="custom-container width90">
             <div class="text-center mb-5">
                 <h2 class="fw-bold">Why Choose 5Trainers for Digital Marketing Training in Noida?</h2>
-                <p class="text-muted mt-2">
+                <p class="text-muted mt-2 text-center">
                     We provide a learning ecosystem that bridges the gap between theoretical knowledge and industry
                     application.
                 </p>
@@ -1103,12 +1037,12 @@
                             <h3>Career Opportunities After Certification</h3>
                             <!-- <h5 class="text-white">After completing the course, you can work as:</h5> -->
                             <ul class="p" style="padding: 0px;">
-                                <li>Digital Marketing Executive / Manager</li>
-                                <li>SEO Specialist / Analyst</li>
-                                <li>Social Media Marketing Manager</li>
-                                <li>PPC / Google Ads Specialist</li>
-                                <li>Content Marketing Manager</li>
-                                <li>Digital Marketing Consultant / Freelancer</li>
+                                <li class="text-white">Digital Marketing Executive / Manager</li>
+                                <li class="text-white">SEO Specialist / Analyst</li>
+                                <li class="text-white">Social Media Marketing Manager</li>
+                                <li class="text-white">PPC / Google Ads Specialist</li>
+                                <li class="text-white">Content Marketing Manager</li>
+                                <li class="text-white">Digital Marketing Consultant / Freelancer</li>
                             </ul>
                             <p class="text-white">Noida, as a major IT and startup hub, offers immense opportunities in
                                 e-commerce companies, digital agencies, MNCs, and as independent consultants.</p>
@@ -1124,29 +1058,19 @@
                             </div>
                             <h3>Who Should Join This Digital Marketing Course in Noida?</h3>
                             <ul class="p mt-4" style="padding: 0px;">
-                                <li>Students and freshers aiming to start a career in Noida's corporate sector</li>
-                                <li>Working professionals from IT, sales, or other fields looking to switch to digital
+                                <li class="text-white">Students and freshers aiming to start a career in Noida's corporate sector</li>
+                                <li class="text-white">Working professionals from IT, sales, or other fields looking to switch to digital
                                     marketing
                                 </li>
-                                <li>Business owners and entrepreneurs who want to grow their brand online</li>
-                                <li>Freelancers, bloggers, and content creators seeking to monetize their skills</li>
-                                <li>Marketing executives wanting to upgrade to digital-centric roles</li>
+                                <li class="text-white">Business owners and entrepreneurs who want to grow their brand online</li>
+                                <li class="text-white">Freelancers, bloggers, and content creators seeking to monetize their skills</li>
+                                <li class="text-white">Marketing executives wanting to upgrade to digital-centric roles</li>
                             </ul>
                             <p class="text-white"> Absolutely no technical background or prior degree is required.</p>
                         </div>
                     </div>
                 </div><!--/col-->
-                <!-- <div class="colof col-sm-12 col-lg-4">
-                        <div class="features-list">
-                            <div class="li">
-                               <div class="icon aos-init aos-animate" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="1500">
-                                    <img src="assets/image/icon/vision-about.png" class="img-fluid" alt="Icon">
-                                </div>
-                                <h3>Our vision</h3>
-                                 <p class="p">Welcome to 5 trainers, a leading digital marketing institute in Mohali, dedicated to shaping the future of tomorrow’s marketers.</p>
-                            </div>														   	
-                        </div>
-                    </div> -->
+             
             </div><!--/mission vission-->
         </div><!--/Container-->
     </section>
@@ -1159,11 +1083,11 @@
 
             <h2 class="fw-bold mb-3 text-white">Start Your Digital Career in Ropar Today</h2>
 
-            <p class="lead mb-4 text-white">
+            <p class="lead mb-4 text-white text-center">
                 Join 5Trainers—Ropar's trusted digital marketing institute—and gain the practical skills and confidence
                 to excel in the digital world.
             </p>
-            <p class="lead mb-4 text-white">
+            <p class="lead mb-4 text-white text-center">
                 Contact us now to book a free demo session or enroll in our upcoming batch of Digital Marketing Training
                 in Ropar.
             </p>
@@ -1272,13 +1196,13 @@
                     <h1 class="fw-bold mb-3">
                         Kickstart Your Digital Career in Noida Today
                     </h1>
-                    <p class="lead mb-3 text-white">
+                    <p class="lead mb-3 text-white text-center">
                         Join 5Trainers, the most trusted digital marketing institute in Noida, and gain the confidence
                         and skills to succeed.
 
 
                     </p>
-                    <p class="mb-4 text-white">
+                    <p class="mb-4 text-white text-center">
                         Call now to book a demo class or enroll directly in our next batch of Digital Marketing Training
                         in Noida.
                     </p>
@@ -1373,7 +1297,4 @@
             </div>
     </section>
 
-    <?php include('landingpage/footer.php'); ?>
-</body>
-
-</html>
+ <?php include('footer.php'); ?>

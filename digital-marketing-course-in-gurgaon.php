@@ -1,14 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Digital Marketing Training in Gurgaon | Best Institute with 100% Placement</title>
-    <meta name="description"
-        content="Top Digital Marketing Training in Gurgaon with live projects & placement support. Learn SEO, Google Ads, SMM, AI tools from experts. Enroll now for a corporate-ready career.">
-    <link href="landingpage/assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
+<?php
+$meta_title = "Digital Marketing Training in Gurgaon | Best Institute with 100% Placement";
+$meta_description = "Top Digital Marketing Training in Gurgaon with live projects & placement support. Learn SEO, Google Ads, SMM, AI tools from experts. Enroll now for a corporate-ready career.";
+$canonical_url = "https://www.5trainers.com/digital-marketing-course-in-gurgaon.php";
+?>
+<?php include('header.php'); ?>
+   <link href="landingpage/assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/toogle-slide.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/about.css" type="text/css" rel="stylesheet" />
@@ -19,11 +15,6 @@
     <link href="landingpage/assets/css/aos.css" rel="stylesheet">
     <link href="assets/css/faq.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
-        integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw=="
-        crossorigin="anonymous" referrerpolicy="no-referrer" />
-
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Google Tag Manager -->
     <script>(function (w, d, s, l, i) {
@@ -36,42 +27,12 @@
         })(window, document, 'script', 'dataLayer', 'GTM-K3N4DF4B');</script>
     <!-- End Google Tag Manager -->
 
-    <style>
-        .slider {
-            background-color: #1584a3;
-        }
-    </style>
-</head>
-
-<body class="aos-all" id="transcroller-body">
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K3N4DF4B" height="0" width="0"
             style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
-    <section class="container-fluid slider-landing">
-        <div class="custom-container width90">
-            <div class="row">
-                <div class="col-12 col-md-6 col-lg-6">
-                    <div class="landing-logo">
-                        <a href="https://5trainers.com/"><img src="./assets/image/Final-logo.png" alt="5 Trainers Logo"
-                                class="img-fluid"></a>
-                    </div>
-                </div>
-                <div class="col-12 col-md-6 col-lg-6">
-                    <div class="gotowebsite">
-                        <a href="tel:+918283840606" style="text-decoration: none;"><span class="phnspan"><img src="assets/image/icon/ftr-phn.png"
-                                    alt=""></span>+91-8283840606</a>
-
-                        <a href="assets/uploads/5trainers_course.pdf" target="_blank" style="text-decoration: none;">Download Brochure </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--/logo-->
-    <!--Slider-->
-    <section id="slide-show" class="setbg">
+    <section class="setbg mtt"  id="transcroller-body">
         <div class="custom-container width90">
             <div class="">
                 <div class="row">
@@ -84,7 +45,7 @@
                             <h2> with AI</h2> -->
                                     <h2 style="font-size: 45px ;"><a href="https://5trainers.com/"
                                             style="text-decoration: none; color:white;">Digital Marketing </a> Training in Gurgaon </h2>
-                                    <h4 class="mt-4"><a href="https://5trainers.com/"
+                                    <h4 class="mt-4 text-white"><a href="https://5trainers.com/"
                                             style="text-decoration: none; color:white;">Digital Marketing </a> Training in Gurgaon –Premier Institute with 100% Placement Assistance</h4>
                                 </div>
                                 <!-- <p class="coDetail">Digital Marketing Course with Guaranteed Placement Support <br> Perfect for Both Freshers &  Working Professionals.</p> -->
@@ -94,42 +55,7 @@
                             </div><!--/slider text-->
 
 
-                            <!-- <div class="course-features mtb-40">
-                                <div class="features">
-                                    <img src="landingpage/assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Affordable Fees </div>
-                                </div>
-
-                                <div class="features">
-                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Certified Trainers </div>
-                                </div>
-
-                                <div class="features">
-                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Internship Opportunity </div>
-                                </div>
-
-                                <div class="features">
-                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Placement assistance</div>
-                                </div>
-
-                                <div class="features">
-                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Professional Resume Building </div>
-                                </div>
-                                <div class="features">
-                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Mock Interviews & HR Rounds</div>
-                                </div>
-
-                                <div class="features">
-                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Lifetime Access to Study Material</div>
-                                </div>
-
-                            </div> -->
+                            
                             <div>
                                 <p class="coDetail text-white">5Trainers provides industry-aligned Digital Marketing Training in Gurgaon, designed to equip you with practical, job-ready skills valued by top companies and dynamic startups.
                                  Our Gurgaon digital marketing course focuses on live campaign management, real-time analytics, and expert mentorship—ensuring you gain confidence and competence beyond textbook theory.    
@@ -478,7 +404,7 @@
         <div class="cutom-container width90">
             <div class="text-center mb-5">
                 <h2 class="fw-bold">Digital Marketing Course in Gurgaon – Comprehensive Modules</h2>
-                <p class="text-muted">
+                <p class="text-muted text-center">
                     Our curriculum covers the complete spectrum of skills required in today’s digital-first marketplace:
                 </p>
             </div>
@@ -685,7 +611,7 @@
         <div class="custom-container width90">
             <div class="text-center mb-5">
                 <h2 class="fw-bold">Why 5Trainers is the Top Choice for Digital Marketing Training in Gurgaon</h2>
-                <p class="text-muted mt-2">
+                <p class="text-muted mt-2 text-center">
                     We deliver a learning experience that’s practical, professional, and tailored for the fast-paced corporate landscape of Gurgaon.
                 </p>
             </div>
@@ -1080,12 +1006,12 @@
                             <h3>Career Paths After Digital Marketing Course in Gurgaon</h3>
                             <!-- <h5 class="text-white">After completing the course, you can work as:</h5> -->
                             <ul class="p" style="padding: 0px;">
-                                <li>Digital Marketing Executive/Specialist</li>
-                                <li>SEO Analyst / SEO Manager</li>
-                                <li>Social Media Strategist / Community Manager</li>
-                                <li>PPC Specialist / Google Ads Expert</li>
-                                <li>Content Strategist / Digital Copywriter</li>
-                                <li>Freelance Digital Marketing Consultant</li>
+                                <li class="text-white">Digital Marketing Executive/Specialist</li>
+                                <li class="text-white">SEO Analyst / SEO Manager</li>
+                                <li class="text-white">Social Media Strategist / Community Manager</li>
+                                <li class="text-white">PPC Specialist / Google Ads Expert</li>
+                                <li class="text-white">Content Strategist / Digital Copywriter</li>
+                                <li class="text-white">Freelance Digital Marketing Consultant</li>
                             </ul>
                             <p class="text-white">Gurgaon’s thriving corporate hubs, MNCs, startups, and digital agencies offer abundant opportunities for skilled digital marketers.</p>
                         </div>
@@ -1100,12 +1026,12 @@
                             </div>
                             <h3>Who is This Digital Marketing Training in Gurgaon For?</h3>
                             <ul class="p mt-4" style="padding: 0px;">
-                                <li>Students and recent graduates looking to start a corporate career</li>
-                                <li>Professionals aiming to upskill or switch to high-growth digital roles
+                                <li class="text-white">Students and recent graduates looking to start a corporate career</li>
+                                <li class="text-white">Professionals aiming to upskill or switch to high-growth digital roles
                                 </li>
-                                <li>Entrepreneurs and business owners seeking to grow their brand online</li>
-                                <li>Freelancers and consultants wanting to expand their service offerings</li>
-                                <li>Marketing professionals aiming to update their digital skill set</li>
+                                <li class="text-white">Entrepreneurs and business owners seeking to grow their brand online</li>
+                                <li class="text-white">Freelancers and consultants wanting to expand their service offerings</li>
+                                <li class="text-white">Marketing professionals aiming to update their digital skill set</li>
                             </ul>
                             <p class="text-white"> No prior experience or technical degree required.</p>
                         </div>
@@ -1134,11 +1060,11 @@
 
             <h2 class="fw-bold mb-3 text-white">Start Your Digital Career in Gurgaon Today</h2>
 
-            <p class="lead mb-4 text-white">
+            <p class="lead mb-4 text-white text-center">
                 Join 5Trainers—Gurgaon's trusted digital marketing institute—and gain the practical skills and confidence
                 to excel in the digital world.
             </p>
-            <p class="lead mb-4 text-white">
+            <p class="lead mb-4 text-white text-center">
                 Contact us now to book a free demo session or enroll in our upcoming batch of Digital Marketing Training
                 in Gurgaon.
             </p>
@@ -1247,12 +1173,12 @@
                     <h1 class="fw-bold mb-3">
                         Launch Your Digital Career in Gurgaon Today
                     </h1>
-                    <p class="lead mb-3 text-white">
+                    <p class="lead mb-3 text-white text-center">
                        Enroll with 5Trainers—the preferred digital marketing institute in Gurgaon—and gain the expertise to excel in the digital domain.
 
 
                     </p>
-                    <p class="mb-4 text-white">
+                    <p class="mb-4 text-white text-center">
                          Contact us now to secure your spot in the next batch of Digital Marketing Training in Gurgaon.
                     </p>
 
@@ -1332,8 +1258,4 @@
                 </div>
             </div>
     </section>
-
-    <?php include('landingpage/footer.php'); ?>
-</body>
-
-</html>
+<?php include('footer.php'); ?>

@@ -504,7 +504,7 @@ p {
 }
 
 .our-student-Into .logo {
-  max-height: 48px;
+  max-height: 100px;
   width: 100%;
   object-fit: contain;
   filter: grayscale(100%);

@@ -1,14 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Digital Marketing Course in Zirakpur | Learn SEO, Ads & AI Tools</title>
-    <meta name="description"
-        content=" Join the best Digital Marketing Course in Zirakpur. Learn SEO, Google Ads, SMM & AI tools with live projects and 100% placement support. Enroll now!">
-    <link href="landingpage/assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
+<?php
+$meta_title = "Digital Marketing Course in Zirakpur | Learn SEO, Ads & AI Tools";
+$meta_description = "Join the best Digital Marketing Course in Zirakpur. Learn SEO, Google Ads, SMM & AI tools with live projects and 100% placement support. Enroll now!";
+$canonical_url = "https://www.5trainers.com/digital-marketing-course-in-zirakpur.php";
+?>
+<?php include('header.php'); ?>
+ <link href="landingpage/assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/toogle-slide.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/about.css" type="text/css" rel="stylesheet" />
@@ -19,11 +15,7 @@
     <link href="landingpage/assets/css/aos.css" rel="stylesheet">
     <link href="assets/css/faq.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
-        integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw=="
-        crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Google Tag Manager -->
     <script>(function (w, d, s, l, i) {
@@ -36,42 +28,15 @@
         })(window, document, 'script', 'dataLayer', 'GTM-K3N4DF4B');</script>
     <!-- End Google Tag Manager -->
 
-    <style>
-        .slider {
-            background-color: #1584a3;
-        }
-    </style>
-</head>
-
-<body class="aos-all" id="transcroller-body">
+   
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K3N4DF4B" height="0" width="0"
             style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
-    <section class="container-fluid slider-landing">
-        <div class="custom-container width90">
-            <div class="row">
-                <div class="col-12 col-md-6 col-lg-6">
-                    <div class="landing-logo">
-                        <a href="https://5trainers.com/"><img src="./assets/image/Final-logo.png" alt="5 Trainers Logo"
-                                class="img-fluid"></a>
-                    </div>
-                </div>
-                <div class="col-12 col-md-6 col-lg-6">
-                    <div class="gotowebsite">
-                        <a href="tel:+918283840606" style="text-decoration: none;"><span class="phnspan"><img src="assets/image/icon/ftr-phn.png"
-                                    alt=""></span>+91-8283840606</a>
-
-                        <a href="assets/uploads/5trainers_course.pdf" target="_blank" style=" text-decoration: none;">Download Brochure </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--/logo-->
+    
     <!--Slider-->
-    <section id="slide-show" class="setbg">
+    <section  class="setbg mtt" id="transcroller-body">
         <div class="custom-container width90">
             <div class="">
                 <div class="row">
@@ -85,7 +50,7 @@
                                     <h2 style="font-size: 45px ;"><a href="https://5trainers.com/"
                                             style="text-decoration: none; color:white;">Digital Marketing </a> Course in
                                         Zirakpur </h2>
-                                    <h4 class="mt-4"><a href="https://5trainers.com/"
+                                    <h4 class="mt-4 text-white"><a href="https://5trainers.com/"
                                             style="text-decoration: none; color:white;">Digital Marketing </a> Course in
                                         Zirakpur | Learn SEO, Ads & AI Tools</h4>
                                 </div>
@@ -101,42 +66,7 @@
                             </div><!--/slider text-->
 
 
-                            <!-- <div class="course-features mtb-40">
-                                <div class="features">
-                                    <img src="landingpage/assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Affordable Fees </div>
-                                </div>
-
-                                <div class="features">
-                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Certified Trainers </div>
-                                </div>
-
-                                <div class="features">
-                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Internship Opportunity </div>
-                                </div>
-
-                                <div class="features">
-                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Placement assistance</div>
-                                </div>
-
-                                <div class="features">
-                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Professional Resume Building </div>
-                                </div>
-                                <div class="features">
-                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Mock Interviews & HR Rounds</div>
-                                </div>
-
-                                <div class="features">
-                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Lifetime Access to Study Material</div>
-                                </div>
-
-                            </div> -->
+                           
                             <div>
                                 <p class="coDetail text-white">At 5Trainers, our Digital Marketing Course in Zirakpur is
                                     built for students, job seekers, working professionals, and business owners who want
@@ -489,7 +419,7 @@
         <div class="cutom-container width90">
             <div class="text-center mb-5">
                 <h2 class="fw-bold">Digital Marketing Course in Zirakpur – Complete Curriculum</h2>
-                <p class="text-muted">
+                <p class="text-muted text-center">
                     Our comprehensive curriculum covers every essential digital marketing skill:
                 </p>
             </div>
@@ -699,10 +629,10 @@
 
     <!--  -->
     <section class="py-5 bg-light">
-        <div class="container">
+        <div class="cutom-container width90">
             <div class="text-center mb-5">
                 <h2 class="fw-bold">Why 5Trainers is the Best Choice for a Digital Marketing Course in Zirakpur</h2>
-                <p class="text-muted mt-2">
+                <p class="text-muted mt-2 text-center">
                     We don’t believe in theory-heavy training. Our learning model is practical, transparent, and
                     career-focused.
                 </p>
@@ -1103,12 +1033,12 @@
                             <h3>Career Opportunities After Digital Marketing Course</h3>
                             <!-- <h5 class="text-white">After completing the course, you can work as:</h5> -->
                             <ul class="p" style="padding: 0px;">
-                                <li>Digital Marketing Executive / Specialist</li>
-                                <li>SEO Analyst / Manager</li>
-                                <li>Social Media Manager</li>
-                                <li>PPC / Google Ads Expert</li>
-                                <li>Content Marketing Specialist</li>
-                                <li>Digital Marketing Consultant / Freelancer</li>
+                                <li class="text-white">Digital Marketing Executive / Specialist</li>
+                                <li class="text-white">SEO Analyst / Manager</li>
+                                <li class="text-white">Social Media Manager</li>
+                                <li class="text-white">PPC / Google Ads Expert</li>
+                                <li class="text-white">Content Marketing Specialist</li>
+                                <li class="text-white">Digital Marketing Consultant / Freelancer</li>
                             </ul>
                             <p class="text-white">With growing demand across Zirakpur, Chandigarh, Mohali, Panchkula,
                                 and remote roles, opportunities are vast and scalable.</p>
@@ -1124,28 +1054,18 @@
                             </div>
                             <h3>Who Should Join This Digital Marketing Course in Zirakpur?</h3>
                             <ul class="p mt-4" style="padding: 0px;">
-                                <li>Students & fresh graduates</li>
-                                <li>Job seekers & career switchers
+                                <li class="text-white">Students & fresh graduates</li>
+                                <li class="text-white">Job seekers & career switchers
                                 </li>
-                                <li>Business owners & entrepreneurs</li>
-                                <li>Freelancers, bloggers & influencers</li>
-                                <li>Sales, IT, or marketing professionals</li>
+                                <li class="text-white">Business owners & entrepreneurs</li>
+                                <li class="text-white">Freelancers, bloggers & influencers</li>
+                                <li class="text-white">Sales, IT, or marketing professionals</li>
                             </ul>
                             <p class="text-white">No technical background required</p>
                         </div>
                     </div>
                 </div><!--/col-->
-                <!-- <div class="colof col-sm-12 col-lg-4">
-                        <div class="features-list">
-                            <div class="li">
-                               <div class="icon aos-init aos-animate" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="1500">
-                                    <img src="assets/image/icon/vision-about.png" class="img-fluid" alt="Icon">
-                                </div>
-                                <h3>Our vision</h3>
-                                 <p class="p">Welcome to 5 trainers, a leading digital marketing institute in Mohali, dedicated to shaping the future of tomorrow’s marketers.</p>
-                            </div>														   	
-                        </div>
-                    </div> -->
+              
             </div><!--/mission vission-->
         </div><!--/Container-->
     </section>
@@ -1158,11 +1078,11 @@
 
             <h2 class="fw-bold mb-3 text-white">Start Your Digital Marketing Career in Zirakpur Today</h2>
 
-            <p class="lead mb-4 text-white">
+            <p class="lead mb-4 text-white text-center">
                 Join 5Trainers, the trusted institute for a Digital Marketing Course in Zirakpur, and gain the skills
                 needed to succeed in today’s digital economy.
             </p>
-            <p class="lead mb-4 text-white">
+            <p class="lead mb-4 text-white text-center">
                 Contact us today to book your seat or attend a free demo class.
             </p>
 
@@ -1264,17 +1184,17 @@
     <section class="py-5 slider text-white">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-lg-8 mx-auto text-center">
+                <div class="col-lg-12 text-center">
                     <h1 class="fw-bold mb-3">
                         Launch Your Digital Career in Zirakpur Today
                     </h1>
-                    <p class="lead mb-3 text-white">
+                    <p class="lead mb-3 text-white text-center">
                         Join 5Trainers—Zirakpur's most trusted digital marketing institute—and gain the practical
                         skills and confidence to excel in the digital domain.
 
 
                     </p>
-                    <p class="mb-4 text-white">
+                    <p class="mb-4 text-white text-center">
                         Contact us now to book a free demo class or enroll in our upcoming batch of Digital Marketing
                         Training in Zirakpur.
                     </p>
@@ -1343,7 +1263,4 @@
             </div>
     </section>
 
-    <?php include('landingpage/footer.php'); ?>
-</body>
-
-</html>
+    <?php include('footer.php'); ?>

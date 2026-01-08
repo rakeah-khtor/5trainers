@@ -1,14 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title> Digital Marketing Training in Delhi | Best Institute with 100% Placement Support</title>
-    <meta name="description"
-        content="Enroll in top Digital Marketing Training in Delhi. Best Institute offering 100% Placement. Learn SEO, Google Ads, SMM & AI tools with live projects. Join now!">
-    <link href="landingpage/assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
+<?php
+$meta_title = "Digital Marketing Training in Delhi | Best Institute with 100% Placement Support";
+$meta_description = "Enroll in top Digital Marketing Training in Delhi. Best Institute offering 100% Placement. Learn SEO, Google Ads, SMM & AI tools with live projects. Join now!";
+$canonical_url = "https://www.5trainers.com/digital-marketing-training-in-delhi.php";
+?>
+<?php include('header.php'); ?>
+<link href="landingpage/assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/toogle-slide.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/about.css" type="text/css" rel="stylesheet" />
@@ -19,11 +15,7 @@
     <link href="landingpage/assets/css/aos.css" rel="stylesheet">
     <link href="assets/css/faq.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
-        integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw=="
-        crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Google Tag Manager -->
     <script>(function (w, d, s, l, i) {
@@ -36,42 +28,15 @@
         })(window, document, 'script', 'dataLayer', 'GTM-K3N4DF4B');</script>
     <!-- End Google Tag Manager -->
 
-    <style>
-        .slider {
-            background-color: #1584a3;
-        }
-    </style>
-</head>
 
-<body class="aos-all" id="transcroller-body">
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K3N4DF4B" height="0" width="0"
             style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
-    <section class="container-fluid slider-landing">
-        <div class="custom-container width90">
-            <div class="row">
-                <div class="col-12 col-md-6 col-lg-6">
-                    <div class="landing-logo">
-                        <a href="https://5trainers.com/"><img src="./assets/image/Final-logo.png" alt="5 Trainers Logo"
-                                class="img-fluid"></a>
-                    </div>
-                </div>
-                <div class="col-12 col-md-6 col-lg-6">
-                    <div class="gotowebsite">
-                        <a href="tel:+918283840606" style=" text-decoration: none;"><span class="phnspan"><img src="assets/image/icon/ftr-phn.png"
-                                    alt=""></span>+91-8283840606</a>
-
-                        <a href="assets/uploads/5trainers_course.pdf" target="_blank" style="text-decoration: none;">Download Brochure </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--/logo-->
+   
     <!--Slider-->
-    <section id="slide-show" class="setbg">
+    <section class="setbg mtt" id="transcroller-body">
         <div class="custom-container width90">
             <div class="">
                 <div class="row">
@@ -85,7 +50,7 @@
                                     <h2 style="font-size: 45px ;"><a href="https://5trainers.com/"
                                             style="text-decoration: none; color:white;">Digital Marketing </a> Training in
                                         Delhi</h2>
-                                    <h4 class="mt-4"><a href="https://5trainers.com/"
+                                    <h4 class="mt-4 text-white"><a href="https://5trainers.com/"
                                             style="text-decoration: none; color:white;">Digital Marketing </a> Training in
                                         Delhi – Best Institute 100% Placement</h4>
                                 </div>
@@ -485,7 +450,7 @@
         <div class="cutom-container width90">
             <div class="text-center mb-5">
                 <h2 class="fw-bold">Digital Marketing Course in Delhi – Curriculum Overview</h2>
-                <p class="text-muted">
+                <p class="text-muted text-center">
                   Our comprehensive course covers all essential digital marketing skills for today’s market:
                 </p>
             </div>
@@ -689,10 +654,10 @@
 
     <!--  -->
     <section class="py-5 bg-light">
-        <div class="container">
+        <div class="cutom-container width90">
             <div class="text-center mb-5">
                 <h2 class="fw-bold">Why Choose 5Trainers for Digital Marketing Training in Delhi?</h2>
-                <p class="text-muted mt-2">
+                <p class="text-muted mt-2 text-center">
                     At 5Trainers, we believe digital marketing should be practical, straightforward, and results-driven.
                 </p>
             </div>
@@ -1086,12 +1051,12 @@
                             <h3>Career Opportunities After Digital Marketing Course in Delhi</h3>
                             <!-- <h5 class="text-white">After completing the course, you can work as:</h5> -->
                             <ul class="p" style="padding: 0px;">
-                                <li>Digital Marketing Executive</li>
-                                <li>SEO Specialist</li>
-                                <li>Social Media Manager</li>
-                                <li>PPC / Google Ads Expert</li>
-                                <li>Content Marketer</li>
-                                <li>Freelancer or Consultant</li>
+                                <li class="text-white">Digital Marketing Executive</li>
+                                <li class="text-white">SEO Specialist</li>
+                                <li class="text-white">Social Media Manager</li>
+                                <li class="text-white">PPC / Google Ads Expert</li>
+                                <li class="text-white">Content Marketer</li>
+                                <li class="text-white">Freelancer or Consultant</li>
                             </ul>
                             <p class="text-white">Digital marketing skills are highly sought-after across Delhi’s thriving IT sector, startups, marketing agencies, and businesses of all sizes.</p>
                         </div>
@@ -1106,27 +1071,17 @@
                             </div>
                             <h3>Who Should Join This Digital Marketing Training in Delhi?</h3>
                             <ul class="p mt-4" style="padding: 0px;">
-                                <li>Students & fresh graduates</li>
-                                <li>Job seekers & career switchers  </li>
-                                <li>Business owners & entrepreneurs</li>
-                                <li>Freelancers & content creators </li>
-                                <li>Working professionals aiming to upskill</li>
+                                <li class="text-white">Students & fresh graduates</li>
+                                <li class="text-white">Job seekers & career switchers  </li>
+                                <li class="text-white">Business owners & entrepreneurs</li>
+                                <li class="text-white">Freelancers & content creators </li>
+                                <li class="text-white">Working professionals aiming to upskill</li>
                             </ul>
                             <p class="text-white">No degree or experience required—just the willingness to learn.</p>
                         </div>
                     </div>
                 </div><!--/col-->
-                <!-- <div class="colof col-sm-12 col-lg-4">
-                        <div class="features-list">
-                            <div class="li">
-                               <div class="icon aos-init aos-animate" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="1500">
-                                    <img src="assets/image/icon/vision-about.png" class="img-fluid" alt="Icon">
-                                </div>
-                                <h3>Our vision</h3>
-                                 <p class="p">Welcome to 5 trainers, a leading digital marketing institute in Mohali, dedicated to shaping the future of tomorrow’s marketers.</p>
-                            </div>														   	
-                        </div>
-                    </div> -->
+              
             </div><!--/mission vission-->
         </div><!--/Container-->
     </section>
@@ -1139,10 +1094,10 @@
 
             <h2 class="fw-bold mb-3 text-white">Start Your Digital Marketing Journey in Delhi Today</h2>
 
-            <p class="lead mb-4 text-white">
+            <p class="lead mb-4 text-white text-center">
                Join 5Trainers – the leading digital marketing institute in Delhi – and acquire skills that drive professional and financial growth.
             </p>
-            <p class="lead mb-4 text-white">
+            <p class="lead mb-4 text-white text-center">
                  Contact us today to enroll in our Digital Marketing Training in Delhi and take your first step toward a successful digital career.
             </p>
 
@@ -1246,18 +1201,18 @@
     <section class="py-5 slider text-white">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-lg-8 mx-auto text-center">
+                <div class="col-lg-12 text-center">
                     <h1 class="fw-bold mb-3">
                         Learn <a href="https://5trainers.com/" style="text-decoration: none; color:white;">Digital
                             Marketing</a> Skills That Build Careers & Businesses
                     </h1>
-                    <p class="lead mb-3 text-white">
+                    <p class="lead mb-3 text-white text-center">
                         At 5Trainers, our <strong>Digital Marketing Course in Delhi</strong> focuses on hands-on
                         learning and industry-relevant skills that companies actually look for.
 
 
                     </p>
-                    <p class="mb-4 text-white">
+                    <p class="mb-4 text-white text-center">
                         We don’t just teach concepts—we help you <strong>work on live projects, real websites, and
                             active ad campaigns</strong>, so you gain confidence to handle real clients and job roles.
                     </p>
@@ -1338,7 +1293,4 @@
             </div>
     </section>
 
-    <?php include('landingpage/footer.php'); ?>
-</body>
-
-</html>
+    <?php include('footer.php'); ?>

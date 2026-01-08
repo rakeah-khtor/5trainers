@@ -113,6 +113,7 @@ p.ftrAuthorise {
     }
 
     .slider {
-        background-color: #1685a4;
+        /* background-color: #1685a4; */
+        background-color: #0f79bf;
         padding: 200px 0px;
     }

@@ -1,14 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title> Digital Marketing Training in Mohali | Best Institute 100% Placement</title>
-    <meta name="description"
-        content="Join Digital Marketing Training in Mohali. Best Institute with 100% Placement support. Learn SEO, Google Ads, Social Media & AI tools. Enroll now!">
-    <link href="landingpage/assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
+<?php
+$meta_title = " Digital Marketing Training in Mohali | Best Institute 100% Placement";
+$meta_description = "Join Digital Marketing Training in Mohali. Best Institute with 100% Placement support. Learn SEO, Google Ads, Social Media & AI tools. Enroll now!";
+$canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali.php";
+?>
+<?php include('header.php'); ?>
+<link href="landingpage/assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/toogle-slide.css" type="text/css" rel="stylesheet" />
     <link href="landingpage/assets/css/about.css" type="text/css" rel="stylesheet" />
@@ -18,10 +15,7 @@
     <link href="landingpage/assets/css/animate.css" rel="stylesheet">
     <link href="landingpage/assets/css/aos.css" rel="stylesheet">
     <link href="assets/css/faq.css" type="text/css" rel="stylesheet" />
-    <link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Google Tag Manager -->
     <script>(function (w, d, s, l, i) {
@@ -34,12 +28,7 @@
         })(window, document, 'script', 'dataLayer', 'GTM-K3N4DF4B');</script>
     <!-- End Google Tag Manager -->
 
-    <style>
-        .slider {
-            background-color: #1584a3;
-        }
-    </style>
-</head>
+    
 
 <body class="aos-all" id="transcroller-body">
     <!-- Google Tag Manager (noscript) -->
@@ -47,29 +36,9 @@
             style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
-    <section class="container-fluid slider-landing">
-        <div class="custom-container width90">
-            <div class="row">
-                <div class="col-12 col-md-6 col-lg-6">
-                    <div class="landing-logo">
-                        <a href="https://5trainers.com/"><img src="./assets/image/Final-logo.png" alt="5 Trainers Logo"
-                                class="img-fluid"></a>
-                    </div>
-                </div>
-                <div class="col-12 col-md-6 col-lg-6">
-                    <div class="gotowebsite">
-                        <a href="tel:+918283840606" style="text-decoration: none;"><span class="phnspan"><img src="assets/image/icon/ftr-phn.png"
-                                    alt=""></span>+91-8283840606</a>
 
-                        <a href="assets/uploads/5trainers_course.pdf" target="_blank" style="text-decoration: none;">Download Brochure </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--/logo-->
     <!--Slider-->
-    <section id="slide-show" class="setbg">
+    <section class="setbg mtt" id="transcroller-body">
         <div class="custom-container width90">
             <div class="">
                 <div class="row">
@@ -81,7 +50,7 @@
                                     <!-- <h2>Digital Marketing Courses</h2>
                             <h2> with AI</h2> -->
                                     <h2 style="font-size: 45px ;">Digital Marketing Training in Mohali</h2>
-                                    <h4 class="mt-3">Digital Marketing Training in Mohali – Best Institute 100% Placement</h4>
+                                    <h4 class="mt-3 text-white">Digital Marketing Training in Mohali – Best Institute 100% Placement</h4>
                                 </div>
                                 <!-- <p class="coDetail">Digital Marketing Course with Guaranteed Placement Support <br> Perfect for Both Freshers &  Working Professionals.</p> -->
                                 <p class="coDetail">Join the best digital marketing institute in Mohali and learn SEO,
@@ -465,7 +434,7 @@
         <div class="cutom-container width90">
             <div class="text-center mb-5">
                 <h2 class="fw-bold">Digital Marketing Course in Mohali – What You Will Learn</h2>
-                <p class="text-muted">
+                <p class="text-muted text-center">
                     Our course covers all major digital marketing skills required in today’s market.
                 </p>
             </div>
@@ -919,12 +888,12 @@
                             <h3>Career Opportunities After Digital Marketing Course</h3>
                             <!-- <h5 class="text-white">After completing the course, you can work as:</h5> -->
                             <ul class="p" style="padding: 0px;">
-                                <li>Digital Marketing Executive</li>
-                                <li>SEO Specialist</li>
-                                <li>Social Media Manager</li>
-                                <li>PPC / Google Ads Expert</li>
-                                <li>Content Marketer</li>
-                                <li>Freelancer or Consultant</li>
+                                <li class="text-white">Digital Marketing Executive</li>
+                                <li class="text-white">SEO Specialist</li>
+                                <li class="text-white">Social Media Manager</li>
+                                <li class="text-white">PPC / Google Ads Expert</li>
+                                <li class="text-white">Content Marketer</li>
+                                <li class="text-white">Freelancer or Consultant</li>
                             </ul>
                             <p class="text-white">Digital marketing skills are in demand across industries,</p>
                         </div>
@@ -939,27 +908,17 @@
                             </div>
                             <h3>Who Should Join This Digital Marketing Training?</h3>
                             <ul class="p mt-4" style="padding: 0px;">
-                                <li>Students & fresh graduates</li>
-                                <li>Job seekers & career switchers</li>
-                                <li>Business owners & entrepreneurs</li>
-                                <li>Freelancers & content creators </li>
-                                <li>Working professionals looking to upgrade skills</li>
+                                <li class="text-white">Students & fresh graduates</li>
+                                <li class="text-white">Job seekers & career switchers</li>
+                                <li class="text-white">Business owners & entrepreneurs</li>
+                                <li class="text-white">Freelancers & content creators </li>
+                                <li class="text-white">Working professionals looking to upgrade skills</li>
                             </ul>
                             <p class="text-white">No technical degree required—just the willingness to learn.</p>
                         </div>
                     </div>
                 </div><!--/col-->
-                <!-- <div class="colof col-sm-12 col-lg-4">
-                        <div class="features-list">
-                            <div class="li">
-                               <div class="icon aos-init aos-animate" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="1500">
-                                    <img src="assets/image/icon/vision-about.png" class="img-fluid" alt="Icon">
-                                </div>
-                                <h3>Our vision</h3>
-                                 <p class="p">Welcome to 5 trainers, a leading digital marketing institute in Mohali, dedicated to shaping the future of tomorrow’s marketers.</p>
-                            </div>														   	
-                        </div>
-                    </div> -->
+                
             </div><!--/mission vission-->
         </div><!--/Container-->
     </section>
@@ -972,11 +931,11 @@
 
             <h2 class="fw-bold mb-3 text-white">Start Your Digital Marketing Journey Today</h2>
 
-            <p class="lead mb-4 text-white">
+            <p class="lead mb-4 text-white text-center">
                 Join 5Trainers – the best digital marketing institute in Mohali and gain skills that help you grow
                 professionally and financially.
             </p>
-            <p class="lead mb-4 text-white">
+            <p class="lead mb-4 text-white text-center">
                 Contact us today to enroll in our Digital Marketing Training in Mohali and take the first step toward a
                 successful digital career.
             </p>
@@ -1085,11 +1044,11 @@
                     <h1 class="fw-bold mb-3">
                         Learn Skills That Grow Careers & Businesses
                     </h1>
-                    <p class="lead mb-3 text-white">
+                    <p class="lead mb-3 text-white text-center">
                         5Trainers offers professional <strong>Digital Marketing Training in Mohali</strong>
                         designed to help you learn real-world skills that companies actually need today.
                     </p>
-                    <p class="mb-4 text-white">
+                    <p class="mb-4 text-white text-center">
                         Our digital marketing course in Mohali focuses on practical learning, live projects,
                         and step-by-step guidance so you can confidently work on real campaigns — not just theory.
                     </p>
@@ -1176,7 +1135,4 @@
     </section>
 
 
-    <?php include('landingpage/footer.php'); ?>
-</body>
-
-</html>
+    <?php include('footer.php'); ?>

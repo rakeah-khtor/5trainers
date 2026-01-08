@@ -44,6 +44,10 @@
   width: 100%;
   background: #0f79be;
   padding: 70px 0;
+
+}
+.mtt{
+  margin-top: 150px;
 }
 .landignsetbg {
   margin: 90px 0 0;
@@ -417,6 +421,9 @@
   }
   .setbg {
     padding: 0;
+  }
+  .mtt{
+    margin-top: 70px;
   }
   #slide-show {
     height: auto !important;
