@@ -18,45 +18,6 @@ $canonical_url = "https://www.5trainers.com/digitalmarketingcourse.php";
 <link href="landingpage/assets/css/shorttermcourse.css" type="text/css" rel="stylesheet" />
 <link href="landingpage/assets/css/coursedetails.css" type="text/css" rel="stylesheet" />
 
-<style>
-    .our-location {
-  background: #fff;
-}
-
-.location-box {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  height: 70px;
-  border: 2px dashed #0f79bf;
-  border-radius: 10px;
-  color: #000;
-  font-weight: 500;
-  text-decoration: none;
-  transition: all 0.3s ease-in-out;
-  transform: scale(1);
-}
-
-.location-box span {
-  margin-left: 6px;
-  font-size: 18px;
-  transition: transform 0.3s ease;
-}
-
-/* Hover Effect */
-.location-box:hover {
-  transform: scale(1.08);
-  /* background-color: #ff7a18; */
-  /* color: #fff; */
-}
-
-/* .location-box:hover span {
-  transform: translateX(5px);
-} */
-
-</style>
-
 
 <section id="slide-show" class="setbg">
     <div class="custom-container width80">
