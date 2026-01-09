@@ -111,7 +111,7 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
             <div class="col-lg-12">
                 <div class="buildText">
                     <h2>You Are One Step Closer To Building A Thriving Career As <span>SEO Expert!</span></h2>
-                    <a href="">Register Now</a>
+                    <a href="contact.php">Register Now</a>
                 </div>
             </div><!--col-->
         </div><!--/row-->

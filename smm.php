@@ -332,7 +332,7 @@ $canonical_url = "https://www.5trainers.com/smm.php";
 					<span class="section-subtitle section-subtitle-2">Let’s Do it Hurry</span>
 					<h3 data-aos="fade-up" data-aos-duration="1000" class="section-title aos-init">Haven't booked your
 						seat yet? <br> Get Seat now</h3>
-					<p data-aos="fade-up" data-aos-duration="1700" class="aos-init text-center"><a href="#" style="text-decoration: none;">book seat</a></p>
+					<p data-aos="fade-up" data-aos-duration="1700" class="aos-init text-center"><a href="contact.php" style="text-decoration: none;">book seat</a></p>
 				</div>
 			</div>
 		</div>

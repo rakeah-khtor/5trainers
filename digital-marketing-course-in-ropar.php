@@ -124,7 +124,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ropar.ph
                     <div class="buildText">
                         <h2>You Are One Step Closer To Building A Thriving Career As <span>Digital Marketing
                                 Expert!</span></h2>
-                        <a href="#" style="text-decoration: none;">Register Now </a>
+                        <a href="contact.php" style="text-decoration: none;">Register Now </a>
                     </div>
                 </div><!--col-->
             </div><!--/row-->
@@ -911,7 +911,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ropar.ph
                 </div>
                 <div class="col-md-4 col-lg-6">
                     <div class="callbackButton">
-                        <a class="open-modal-btn requestCall" data-aos-duration="800" href="">Request Callback</a>
+                        <a class="open-modal-btn requestCall" data-aos-duration="800" href="contact.php">Request Callback</a>
 
                         <div class="modal" id="callbackModal" onclick="outsideClick(event)">
                             <div class="modal-content">

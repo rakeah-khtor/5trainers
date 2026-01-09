@@ -115,7 +115,7 @@ $canonical_url = "https://www.5trainers.com/data-analytics-6months.php";
                 <div class="buildText">
                     <h2>You Are One Step Closer To Building A Thriving Career As <span>Data Analytics Expert!</span>
                     </h2>
-                    <a href="">Register Now</a>
+                    <!-- <a href="contact.php">Register Now</a> -->
                 </div>
             </div><!--col-->
         </div><!--/row-->
@@ -691,7 +691,7 @@ $canonical_url = "https://www.5trainers.com/data-analytics-6months.php";
                     <h2 data-aos="fade-up" data-aos-delay="100" class="aos-init aos-animate"><span>Career
                             Opportunities</span> After This Course</h2>
                 </div>
-                <div class="registerstack"><a href="#" class="theme-btn mt-30 aos-init" data-aos="fade-up"
+                <div class="registerstack"><a href="contact.php" class="theme-btn mt-30 aos-init" data-aos="fade-up"
                         data-aos-delay="200">Register Now<span><img src="assets/image/icon/reply_arrow.png"
                                 alt=""></span></a></div>
             </div>

@@ -126,7 +126,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ghaziaba
                     <div class="buildText">
                         <h2>You Are One Step Closer To Building A Thriving Career As <span>Digital Marketing
                                 Expert!</span></h2>
-                        <a href="#" style="text-decoration: none;">Register Now </a>
+                        <!-- <a href="#" style="text-decoration: none;">Register Now </a> -->
                     </div>
                 </div><!--col-->
             </div><!--/row-->
@@ -218,7 +218,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ghaziaba
                                 href="https://5trainers.com/" style="text-decoration: none;">Digital
                                 Marketing Course</a> Certification From 5Trainers?</h2>
                     </div>
-                    <div class="registerstack"><a href="#" class="theme-btn mt-30 aos-init aos-animate"
+                    <div class="registerstack"><a href="contact.php" class="theme-btn mt-30 aos-init aos-animate"
                             data-aos="fade-up" data-aos-delay="200" style="text-decoration: none;">Register Now<span><img
                                     src="assets/image/icon/reply_arrow.png" alt=""></span></a></div>
                 </div>
@@ -932,7 +932,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ghaziaba
                 </div>
                 <div class="col-md-4 col-lg-6">
                     <div class="callbackButton">
-                        <a class="open-modal-btn requestCall" data-aos-duration="800" href="">Request Callback</a>
+                        <a class="open-modal-btn requestCall" data-aos-duration="800" href="contact.php">Request Callback</a>
 
                         <div class="modal" id="callbackModal" onclick="outsideClick(event)">
                             <div class="modal-content">

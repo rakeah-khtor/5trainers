@@ -121,7 +121,7 @@ $canonical_url = "https://www.5trainers.com/data-science-professional-training-6
             <div class="col-lg-12">
                 <div class="buildText">
                     <h2>You Are One Step Closer To Building A Thriving Career As <span>Data Science Expert!</span></h2>
-                    <a href="#" style="text-decoration: none;">Register Now</a>
+                    <a href="contact.php" style="text-decoration: none;">Register Now</a>
                 </div>
             </div>
             <!--col-->
@@ -159,9 +159,9 @@ $canonical_url = "https://www.5trainers.com/data-science-professional-training-6
                         student career guidance</li>
                     </ul>
                 </div>
-                <div class="counselingButn">
+                <!-- <div class="counselingButn">
                     <div class="yellowBtn"><a href="#">Get a Free Consultation</a></div>
-                </div>
+                </div> -->
             </div>
             <!--/col-->
             <div class="col-lg-5">
@@ -332,9 +332,9 @@ $canonical_url = "https://www.5trainers.com/data-science-professional-training-6
                             </div><!--/Image Content Container-->
 
                             <div class="getFreeConsultationButn">
-                                <div class="getFreeConsultation">
+                                <!-- <div class="getFreeConsultation">
                                     <a href="" style="text-decoration: none;">Get a Free Consultation</a>
-                                </div>
+                                </div> -->
                             </div>
                         </div><!--/Process Content-->
                     </div>

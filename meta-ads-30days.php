@@ -114,7 +114,7 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
             <div class="col-lg-12">
                 <div class="buildText">
                     <h2>You Are One Step Closer To Building A Thriving Career As <span>Meta Ads Expert</span></h2>
-                    <?php include('landingpage/registernow-popup.php'); ?>
+                    <a href="contact.php">Register Now</a>
                 </div>
             </div><!--col-->
         </div><!--/row-->
@@ -152,9 +152,9 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
                         student career guidance</li>
                     </ul>
                 </div>
-                <div class="counselingButn">
+                <!-- <div class="counselingButn">
                     <div class="yellowBtn"><a href="#">Get a Free Consultation</a></div>
-                </div>
+                </div> -->
             </div>
             <!--/col-->
             <div class="col-lg-5">
