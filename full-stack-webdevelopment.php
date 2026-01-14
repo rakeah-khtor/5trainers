@@ -11,7 +11,7 @@ $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
 <link href="landingpage/assets/css/coursedetails.css" type="text/css" rel="stylesheet" />
 <section id="slide-show" class="setbg landignsetbg">
     <div class="custom-container width80">
-        <div class="">
+        <div class="hero-main">
             <div class="row">
                 <div class="col-lg-7 full-stack-main">
                     <div class="intro-details">

@@ -8,7 +8,7 @@ $canonical_url = "https://www.5trainers.com/data-science-professional-training-6
 <!--Slider-->
 <section id="slide-show" class="setbg landignsetbg">
     <div class="custom-container width80">
-        <div class="">
+        <div class="hero-main">
             <div class="row">
                 <div class="col-lg-7 data-science">
                     <div class="intro-details">

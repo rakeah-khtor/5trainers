@@ -753,6 +753,7 @@ p.certip {
   padding: 20px;
   margin-bottom: 0px;
   width: 100%;
+  margin-top: 20px;
 }
 .haveQuestion .form-screen .form-group label {
   font-size: 16px;
@@ -794,7 +795,7 @@ p.certip {
 
 @media only screen and (min-device-width: 300px) and (max-device-width: 575px) {
       .slider-center {
-        top: 40% !important;
+        top: 43% !important;
     }
 }
 
@@ -846,7 +847,10 @@ p.certip {
   .slider-center {
     /* width: 100% !important; */
     left: 50% !important;
-    top: 30% !important;
+    top: 50% !important;
+  }
+  .key-point{
+    bottom: 15px;
   }
   .gotowebsite a {
     padding: 5px 5px;
@@ -1072,7 +1076,7 @@ p.certip {
   .slider-center {
     /* width: 100% !important; */
     left: 52% !important;
-    top: 50% !important;
+    top: 65% !important;
   }
   .gotowebsite a {
     padding: 10px 14px;
@@ -1344,7 +1348,7 @@ p.certip {
   .slider-center {
     /* width: 100% !important; */
     left: 50% !important;
-    top: 15% !important;
+    top: 25% !important;
   }
   .gotowebsite a {
     padding: 10px 14px;
@@ -1398,10 +1402,13 @@ p.certip {
     margin-top: -25px;
     justify-content: flex-end;
   }
-  .sliderHeading {
+  /* .sliderHeading {
     margin-top: 25px;
-  }
+  } */
   /*Slider*/
+  .slide-text h2{
+    line-height: 50px !important;
+  }
   .setbg {
     padding: 50px 0;
   }
@@ -1412,7 +1419,13 @@ p.certip {
     font-size: 16px;
   }
   .slide-text h2 {
-    font-size: 34px !important;
+    font-size: 30px !important;
+  }
+  .typo-pills{
+    font-size: 11px !important;
+  }
+  .hero-main{
+    width: 90% !important;
   }
   .slide-text .coDetail {
     letter-spacing: 0.02em;

@@ -35,8 +35,8 @@ $canonical_url = "https://www.5trainers.com/google-ads-30days.php";
 <!--Slider-->
 <section id="slide-show" class="setbg landignsetbg">
     <div class="custom-container width80">
-        <div class="">
-            <div class="row">
+        <div>
+            <div class="hero-main row">
                 <div class="col-lg-7 google-ads-main">
                     <div class="intro-details">
                         <div class="slide-text">

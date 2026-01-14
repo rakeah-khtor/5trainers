@@ -245,7 +245,7 @@ a:hover {
   color: white;
   font-weight: 600;
   font-size: 17px;
-  margin-left: 20px;
+  margin: 0px 15px;
 }
 
 .popup-form {
@@ -549,6 +549,7 @@ a:hover {
   z-index: 1;
   display: block;
   clear: both;
+  bottom: 80px;
 }
 .kabslt {
   position: absolute;
@@ -1858,14 +1859,15 @@ a:hover {
 
 /*Start Breadcumb*/
 .breadcumb {
-  padding: 120px 0 85px;
+  /* padding: 120px 0 85px; */
+  padding: 170px 0px 120px 0px;
   clip-path: polygon(0 0, 100% 0, 100% 74%, 50% 100%, 0 74%);
-  margin-top: 90px;
+  /* margin-top: 90px; */
   position: fixed;
   width: 100%;
   top: 0;
   z-index: 0;
-  height: 325px;
+  height: 410px;
   /* background-color: #1585A4; */
   background-color: #0f79be;
 }

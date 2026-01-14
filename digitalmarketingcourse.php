@@ -21,8 +21,8 @@ $canonical_url = "https://www.5trainers.com/digitalmarketingcourse.php";
 
 <section id="slide-show" class="setbg">
     <div class="custom-container width80">
-        <div class="">
-            <div class="row">
+        <div>
+            <div class="hero-main row">
                 <div class="col-lg-7 digital-main">
                     <div class="intro-details">
                         <div class="slide-text">
