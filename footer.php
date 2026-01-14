@@ -56,7 +56,7 @@
 
 <footer class="continer-fluid ftr">
   <!--div class="ftr-imag"></div-->
-  <div class="nocontainer width80">
+  <div class="nocontainer width90">
     <div class="row">
       <div class="col-sm-6 col-lg-4 col-md-12">
         <div class="aboutts aos-init aos-animate" data-aos="zoom-in-right">

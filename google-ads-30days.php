@@ -34,7 +34,7 @@ $canonical_url = "https://www.5trainers.com/google-ads-30days.php";
 
 <!--Slider-->
 <section id="slide-show" class="setbg landignsetbg">
-    <div class="custom-container width80">
+    <div class="custom-container width90">
         <div>
             <div class="hero-main row">
                 <div class="col-lg-7 google-ads-main">
@@ -203,7 +203,7 @@ $canonical_url = "https://www.5trainers.com/google-ads-30days.php";
 </section><!--/Slider-->
 <span id="top"></span>
 <section class="container-fluid slider-hding">
-    <div class="custom-container width80">
+    <div class="custom-container width90">
         <div class="row">
             <div class="col-lg-12">
                 <div class="buildText">
@@ -216,7 +216,7 @@ $canonical_url = "https://www.5trainers.com/google-ads-30days.php";
 </section><!--/slider Heading-->
 
 <section class="continer-fluid pt pb counseling">
-    <div class="no-container width80">
+    <div class="no-container width90">
         <div class="row">
             <div class="col-lg-7">
                 <div class="section-title-area">
@@ -269,7 +269,7 @@ $canonical_url = "https://www.5trainers.com/google-ads-30days.php";
 </section><!--/Course Overview-->
 
 <section class="contaianer-fluid pt pb courseModules">
-    <div class="cutom-container width80">
+    <div class="cutom-container width90">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area">
@@ -510,7 +510,7 @@ $canonical_url = "https://www.5trainers.com/google-ads-30days.php";
 </section><!--/courseModules-->
 
 <section class="contaianer-fluid pt pb courseModules">
-    <div class="cutom-container width80">
+    <div class="cutom-container width90">
         <div class="row">
             <div class="col-lg-4">
                 <div class="section-title-area">
@@ -656,7 +656,7 @@ $canonical_url = "https://www.5trainers.com/google-ads-30days.php";
 </section><!--/Course Modules-->
 
 <section class="container-fluid pt pb whyShould">
-    <div class="no-container width80">
+    <div class="no-container width90">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area text-center">
@@ -731,7 +731,7 @@ $canonical_url = "https://www.5trainers.com/google-ads-30days.php";
 <?php include('placement-certificate-havequestion.php'); ?>
 
 <section class="container-fluid pt pb faq">
-    <div class="custom-container width80">
+    <div class="custom-container width90">
         <div class="row">
             <div class="col-sm-5 col-lg-6">
                 <div class="section-title-area">

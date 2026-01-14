@@ -94,7 +94,7 @@
 <body class="aos-all" id="transcroller-body">
     <nav>
       
-     <div class="no-container width80 top-contact-bar pt-3 pb-3" style="border-bottom: 2px solid #ff8503; background-color: white;">
+     <div class="no-container width90 top-contact-bar pt-3 pb-3" style="border-bottom: 2px solid #ff8503; background-color: white;">
         <div class="width80 d-flex" style="justify-content: end;">
             <div>
             <i class="fa-solid fa-phone icon"></i>
@@ -107,7 +107,7 @@
         </div>
       </div>
 
-      <div class="nocontainer width80">
+      <div class="nocontainer width90">
         <div class="wrapper">
           <div class="logo">
             <a href="<?php echo $linkPrefix; ?>index.php"><img src="<?php echo $assetPrefix; ?>assets/image/Final-logo.png" alt="" class="img-fluid"></a>

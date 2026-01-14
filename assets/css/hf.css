@@ -186,7 +186,7 @@ nav {
   z-index: 99;
   width: 100%;
   /* background: #fff; */
-  top: 25px;
+  top: 10px;
 }
 
 nav .wrapper {
@@ -404,7 +404,7 @@ nav.fixed-header .logo {
   }
 
   nav {
-    top: 0;
+    top: 10px;
   }
 
   .wrapper .btn {

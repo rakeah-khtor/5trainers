@@ -2,7 +2,7 @@
   margin-bottom: 20px;
 }
 .mtb-40 {
-  margin: 40px 0;
+  margin: 25px 0;
 }
 .mb-40 {
   margin-bottom: 40px;
@@ -99,7 +99,7 @@
   font-family: "PoppinsBold";
   text-transform: capitalize;
   letter-spacing: 0.035em;
-  line-height: 70px;
+  line-height: 55px;
   margin: 0;
   color: #fff;
 }
@@ -187,7 +187,7 @@
 }
 .hero-main{
    position: absolute;
-   width: 80%;
+   width: 90%;
   /* top: 7%; */
   top: 22%;
 }

@@ -13,7 +13,7 @@ $canonical_url = "https://www.5trainers.com/smo-one-month.php";
 <link href="landingpage/assets/css/coursedetails.css" type="text/css" rel="stylesheet" />
 
 <section id="slide-show" class="setbg landignsetbg">
-    <div class="custom-container width80">
+    <div class="custom-container width90">
         <div class="hero-main">
             <div class="row">
                 <div class="col-lg-7 smo-main">
@@ -108,7 +108,7 @@ $canonical_url = "https://www.5trainers.com/smo-one-month.php";
 </section><!--/Slider-->
 <span id="top"></span>
 <section class="container-fluid slider-hding">
-    <div class="custom-container width80">
+    <div class="custom-container width90">
         <div class="row">
             <div class="col-lg-12">
                 <div class="buildText">
@@ -121,7 +121,7 @@ $canonical_url = "https://www.5trainers.com/smo-one-month.php";
 </section><!--/slider Heading-->
 
 <section class="container-fluid about-sec pt pb aos-all" id="transcroller-body">
-    <div class="no-container width80">
+    <div class="no-container width90">
         <div class="row">
             <div class="col-sm-12 col-md-12 col-lg-12 align-self-center">
                 <div class="about-us-info-wrap">
@@ -161,7 +161,7 @@ $canonical_url = "https://www.5trainers.com/smo-one-month.php";
 </section><!--/SEO Course Overview-->
 
 <section class="contaianer-fluid pt pb courseModules">
-    <div class="cutom-container width80">
+    <div class="cutom-container width90">
         <div class="row mt-80">
             <div class="col-lg-4">
                 <div class="courseMleft">
@@ -411,7 +411,7 @@ $canonical_url = "https://www.5trainers.com/smo-one-month.php";
 </section><!--/courseModules-->
 
 <section class="contaianer-fluid pt pb courseModules">
-    <div class="cutom-container width80">
+    <div class="cutom-container width90">
         <div class="row">
             <div class="col-lg-4">
                 <div class="section-title-area">
@@ -556,7 +556,7 @@ $canonical_url = "https://www.5trainers.com/smo-one-month.php";
 </section><!--/Course Modules-->
 
 <section class="container-fluid pt pb whyShould">
-    <div class="no-container width80">
+    <div class="no-container width90">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area text-center">
@@ -623,7 +623,7 @@ $canonical_url = "https://www.5trainers.com/smo-one-month.php";
 
 <section class="container-fluid pb pt keyHighlights" style="display: none;">
     <div class="content-wrapper">
-        <div class="nocontainer width80">
+        <div class="nocontainer width90">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area text-center width70">

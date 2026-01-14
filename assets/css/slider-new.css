@@ -1,6 +1,6 @@
 #slide-show {
-  height: 90vh;
-  min-height: 90vh;
+  height: 110vh;
+  min-height: 110vh;
   overflow: hidden;
   width: 100%;
   /* top: 90px; */
@@ -21,8 +21,8 @@
   background-attachment: scroll !important;
   /* background: rgba(21, 133, 164,0.8); */
   background-color: #0f79be;
-  height: 100vh;
-  min-height: 100vh;
+  height: 110vh;
+  min-height: 110vh;
   overflow: hidden;
   width: 100vw;
   min-width: 100vw !important;
@@ -47,7 +47,7 @@
 .slide-text h2 {
   margin: 15px 0;
   font-family: "PoppinsBold";
-  font-size: 42px;
+  font-size: 42px !important;
   text-align: left;
   line-height: 65px;
   letter-spacing: 0.03em;
@@ -180,9 +180,9 @@ a.contb:hover {
 .slider-center {
   position: absolute;
   /* height: 15%; */
-  width: 80%;
+  width: 90%;
   left: 50%;
-  top: 60%;
+  top: 58%;
   background-color: transparent;
   transform: translate(-50%, -50%);
   -webkit-transform: translate(-50%, -50%);

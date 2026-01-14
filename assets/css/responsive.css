@@ -161,7 +161,7 @@
   .slider-center {
     /* width: 100%; */
     left: 55%;
-    top: 48% !important;
+    top: 44% !important;
   }
   .slideshow-nav a span img {
     width: 20px;
@@ -439,7 +439,7 @@
     font-size: 20px !important;
   }
   .breadcumb__title {
-    font-size: 27px;
+    font-size: 20px;
   }
   .breadcumb__list {
     padding: 0px;
@@ -3692,9 +3692,9 @@
     max-width: 222px;
   }
   .slider-center {
-    left: 55%;
+    /* left: 55%; */
     /* top: 35%; */
-    top: 50%;
+    top: 55%;
   }
   .slideshow-nav a span img {
     width: 20px;
