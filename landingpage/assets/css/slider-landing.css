@@ -49,9 +49,9 @@
 .mtt{
   margin-top: 150px;
 }
-.landignsetbg {
+/* .landignsetbg {
   margin: 90px 0 0;
-}
+} */
 .setbg::before {
   position: absolute;
   content: "";
@@ -104,7 +104,7 @@
   color: #fff;
 }
 .slide-text h2 {
-  font-size: 51px;
+  font-size: 45px;
   font-family: "PoppinsBold";
   letter-spacing: 0.026em;
   margin: 0;
@@ -184,6 +184,12 @@
   -ms-transform: translate(-50%, -50%);
   text-align: left;
   letter-spacing: 2px;
+}
+.hero-main{
+   position: absolute;
+   width: 80%;
+  /* top: 7%; */
+  top: 22%;
 }
 
 .nav-link {
@@ -426,8 +432,8 @@
     margin-top: 70px;
   }
   #slide-show {
-    height: auto !important;
-    min-height: auto !important;
+    height: 150vh !important;
+    min-height: 150vh !important;
     top: 0px;
     padding: 20px 0;
   }
@@ -479,7 +485,7 @@
   }
   .slide-text h2 {
     font-size: 35px;
-    line-height: 40px;
+    line-height: 30px;
     margin: 15px 0;
     color: #feb600;
   }

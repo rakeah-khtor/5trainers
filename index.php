@@ -167,7 +167,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
                                         alt="Digital Marketing Course"></a>
                                 <h3><a href="digitalmarketingcourse.php" target="_blank">Digital Marketing
                                         Course</a></h3>
-                                <p>Master complete digital marketing skill set</p>
+                                <p class="text-center">Master complete digital marketing skill set</p>
                             </div>
                         </div>
                     </div><!--/col-->
@@ -177,7 +177,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
                                 <a href="seo-one-month.php" target="_blank"><img src="assets/image/icon/seo.png"
                                         alt="SEO"></a>
                                 <h3><a href="seo-one-month.php" target="_blank">SEO Course</a></h3>
-                                <p>Rank websites higher on search engines</p>
+                                <p class="text-center">Rank websites higher on search engines</p>
                             </div>
 
                         </div>
@@ -188,7 +188,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
                             <div class="member-content">
                                 <img src="assets/image/icon/SocialMediaManager.png" alt="Social Media Optimizatio">
                                 <h3><a href="smo-one-month.php" target="_blank">SMO Course</a></h3>
-                                <p>Boost Your Brand Visibility with SMO</p>
+                                <p class="text-center">Boost Your Brand Visibility with SMO</p>
                             </div>
                         </div>
                     </div><!--/col-->
@@ -198,7 +198,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
                                 <a href="google-ads-30days.php" target="_blank">+<img
                                         src="assets/image/icon/ContentStrategist.png" alt="Google Ads"></a>
                                 <h3><a href="google-ads-30days.php" target="_blank">Google Ads Course</a></h3>
-                                <p>Run profitable campaigns using Google Ads</p>
+                                <p class="text-center">Run profitable campaigns using Google Ads</p>
                             </div>
                         </div>
                     </div><!--/col-->
@@ -208,7 +208,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
                                 <a href="meta-ads-30days.php" target="_blank"><img
                                         src="assets/image/icon/AIMarketingExpert.png" alt="Meta Ads"></a>
                                 <h3><a href="meta-ads-30days.php" target="_blank">Meta Ads Course</a></h3>
-                                <p>Beginner to Pro: Learn Meta Ads the Smart Way.</p>
+                                <p class="text-center">Beginner to Pro: Learn Meta Ads the Smart Way.</p>
                             </div>
                         </div>
                     </div><!--/col-->
@@ -219,7 +219,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
                                         src="assets/image/icon/seo.png" alt="Iocn"></a>
                                 <h3><a href="data-science-professional-training-6-months.php" target="_blank">Data
                                         Science Course</a></h3>
-                                <p>Shape the Future with the Power of Data Science.</p>
+                                <p class="text-center">Shape the Future with the Power of Data Science.</p>
                             </div>
                         </div>
                     </div><!--/col-->

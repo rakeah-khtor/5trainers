@@ -2277,7 +2277,7 @@ p.certip {
   }
   .width80 {
     width: 90% !important;
-    margin-top: 60px;
+    /* margin-top: 60px; */
   }
   .slideshow-nav {
     display: none;
@@ -2340,7 +2340,7 @@ p.certip {
     justify-content: flex-end;
   }
   .sliderHeading {
-    margin-top: 25px;
+    margin-top: 10px;
   }
   /*Slider*/
   .setbg {
@@ -2353,7 +2353,10 @@ p.certip {
     font-size: 16px;
   }
   .slide-text h2 {
-    font-size: 34px !important;
+    font-size: 28px !important;
+  }
+  .hero-main{
+    width: 90% !important;
   }
   .slide-text .coDetail {
     letter-spacing: 0.02em;
@@ -2450,6 +2453,7 @@ p.certip {
   }
   .course-metrics {
     gap: 12px !important;
+    margin: 10px 0px !important;
   }
   .metric-heading {
     font-size: 16px !important;

@@ -35,7 +35,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
     <section class="continer-fluid pb pt course-sec1 comm-margin">
         <div class="service-circle"></div>
         <div class="shape1"><img src="assets/image/shape/arrow-three.png"></div>
-        <div class="no-container width90">
+        <div class="no-container width80">
             <div class="row service-sec-rw mt-80">
                 <div class="col-md-12 mb-5">
                     <div class="section-title-area width200 mb-5">
@@ -45,8 +45,8 @@ $canonical_url = "https://www.5trainers.com/index.php";
                         <h2 data-aos="fade-up" data-aos-duration="1300"
                             class="section-title aos-init aos-animate d-flex justify-content-center">Perfect Education
                             Courses</h2>
-                        <p data-aos="fade-up" data-aos-duration="1600"
-                            class="aos-init aos-animate d-flex justify-content-center mb-5">At 5Trainers, we specialize
+                        <p data-aos="fade-ups" data-aos-duration="1600"
+                            class="aos-init aos-animate d-flex mb-5 text-center">At 5Trainers, we specialize
                             in offering industry-relevant digital marketing courses designed to equip learners with
                             practical skills and strategic thinking. Our curriculum encompasses a wide range of topics,
                             including SEO training, social media marketing, Google Ads certification, email marketing,
@@ -56,76 +56,96 @@ $canonical_url = "https://www.5trainers.com/index.php";
                 </div>
                
                 <section class="container-fluid whyChooseUsContent mt-5">
-                    <div class="">
+                    <div class="no-container ">
                         <div class="row">
                             <div class="col-lg-3 col-md-6 ">
+                                <a href="digitalmarketingcourse.php" style="text-decoration: none;">
                                 <div data-aos="fade-up" data-aos-duration="800"
                                     class="aos-init aos-animate chooseContentBox whitebg ">
                                     <h5>Digital Marketing Course</h5>
-                                    <p>Master complete digital marketing skill set</p>
+                                    <p class="text-center">Master complete digital marketing skill set</p>
                                 </div>
+                                </a>
                             </div><!--/col-->
                             <div class="col-lg-3 col-md-6">
+                                <a href="seo-one-month.php" style="text-decoration: none;">
                                 <div data-aos="fade-up" data-aos-duration="1000"
                                     class="aos-init aos-animate chooseContentBox whitebg">
                                     <h5>SEO Course </h5>
-                                    <p>Rank websites higher on search engines</p>
+                                    <p class="text-center">Rank websites higher on search engines</p>
                                 </div>
+                                </a>
                             </div><!--/col-->
                             <div class="col-lg-3 col-md-6">
+                                <a href="smo-one-month.php" style="text-decoration: none;">
                                 <div data-aos="fade-up" data-aos-duration="1200"
                                     class="aos-init aos-animate chooseContentBox whitebg">
                                     <h5>SMO Course</h5>
-                                    <p>Boost Your Brand Visibility with SMO</p>
+                                    <p class="text-center">Boost Your Brand Visibility with SMO</p>
                                 </div>
+                                </a>
                             </div><!--/col-->
                             <div class="col-lg-3 col-md-6">
+                                <a href="google-ads-30days.php" style="text-decoration: none;">
                                 <div data-aos="fade-up" data-aos-duration="1400"
                                     class="aos-init aos-animate chooseContentBox whitebg">
                                     <h5>Google Ads Course</h5>
-                                    <p>Run profitable campaigns using Google Ads</p>
+                                    <p class="text-center">Run profitable campaigns using Google Ads</p>
                                 </div>
+                                </a>
                             </div><!--/col-->
                             <div class="col-lg-3 col-md-6">
+                                <a href="meta-ads-30days.php" style="text-decoration: none;">
                                 <div data-aos="fade-up" data-aos-duration="1600"
                                     class="aos-init aos-animate chooseContentBox whitebg">
                                     <h5>Meta Ads Course</h5>
-                                    <p>Beginner to Pro: Learn Meta Ads the Smart Way.</p>
+                                    <p class="text-center">Beginner to Pro: Learn Meta Ads the Smart Way.</p>
                                 </div>
+
+                                </a>
                             </div><!--/col-->
                             <div class="col-lg-3 col-md-6">
+                                <a href="smm.php" style="text-decoration: none;">
                                 <div data-aos="fade-up" data-aos-duration="1800"
                                     class="aos-init aos-animate chooseContentBox whitebg">
                                     <h5>SMM Course</h5>
-                                    <p>Shape the Future with the Power of Data Science.</p>
+                                    <p class="text-center">Shape the Future with the Power of Data Science.</p>
                                 </div>
+                                </a>
                             </div><!--/col-->
                             <div class="col-lg-3 col-md-6">
+                                <a href="full-stack-webdevelopment.php" style="text-decoration: none;">
                                 <div data-aos="fade-up" data-aos-duration="1800"
                                     class="aos-init aos-animate chooseContentBox whitebg">
                                     <h5>Full Stack Development</h5>
-                                    <p>Shape the Future with the Power of Data Science.</p>
+                                    <p class="text-center">Shape the Future with the Power of Data Science.</p>
                                 </div>
+                                </a>
                             </div><!--/col-->
                             <div class="col-lg-3 col-md-6">
+                                <a href="data-science-professional-training-6-months.php" style="text-decoration: none;">
                                 <div data-aos="fade-up" data-aos-duration="1800"
                                     class="aos-init aos-animate chooseContentBox whitebg">
                                     <h5>Data Science Course</h5>
-                                    <p>Shape the Future with the Power of Data Science.</p>
+                                    <p class="text-center">Shape the Future with the Power of Data Science.</p>
                                 </div>
+                                </a>
                             </div><!--/col-->
                             <div class="col-lg-3 col-md-6">
+                                <a href="artificial-intelligence.php" style="text-decoration: none;">
                                 <div data-aos="fade-up" data-aos-duration="1800"
                                     class="aos-init aos-animate chooseContentBox whitebg">
                                     <h5>Artificial intelligence</h5>
-                                    <p>Shape the Future with the Power of Data Science.</p>
+                                    <p class="text-center">Shape the Future with the Power of Data Science.</p>
                                 </div>
+                                </a>
                             </div><!--/col-->
                             <div class="col-lg-3 col-md-6">
+                                <a href="data-analytics-6months.php" style="text-decoration: none;">
                                 <div data-aos="fade-up" data-aos-duration="1800"
                                     class="aos-init aos-animate chooseContentBox whitebg">
                                     <h5>Data analytics</h5>
-                                    <p>Shape the Future with the Power of Data Science.</p>
+                                    <p class="text-center">Shape the Future with the Power of Data Science.</p>
                                 </div>
                             </div><!--/col-->
                         </div><!--/row-->
@@ -135,7 +155,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
             </div>
         </div>
 
-        <div class="container">
+        <div class="no-container width80">
             <div class="row service-sec-rw mt-80">
                 <div class="col-lg-12 col-md-12">
                     <div class="section-title-area">
