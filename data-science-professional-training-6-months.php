@@ -4,7 +4,7 @@ $meta_description = "Get hands-on Data Science training in Mohali. Learn Python,
 $canonical_url = "https://www.5trainers.com/data-science-professional-training-6-months.php";
 ?>
 <?php include('header.php'); ?>
-<link href="landingpage/assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
+<link href="assets/landingpage/css/slider-landing.css" type="text/css" rel="stylesheet" />
 <!--Slider-->
 <section id="slide-show" class="setbg landignsetbg">
     <div class="custom-container width80">

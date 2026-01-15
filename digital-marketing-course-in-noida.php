@@ -3,18 +3,18 @@ $meta_title = "Digital Marketing Course in Noida | Best Institute with 100% Plac
 $meta_description = "Enroll in the best Digital Marketing Training in Noida. Learn SEO, Google Ads, SMM, Content Marketing & AI tools with live projects. Get 100% placement support. Join now!";
 $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-noida.php";
 ?>
-<?php include('header.php'); ?>
-    <link href="landingpage/assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
-    <link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
-    <link href="landingpage/assets/css/toogle-slide.css" type="text/css" rel="stylesheet" />
-    <link href="landingpage/assets/css/about.css" type="text/css" rel="stylesheet" />
-    <link href="landingpage/assets/css/shorttermcourse.css" type="text/css" rel="stylesheet" />
-    <link href="landingpage/assets/image/favicon32.png" rel="shortcut icon">
-    <link href="landingpage/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
-    <link href="landingpage/assets/css/animate.css" rel="stylesheet">
-    <link href="landingpage/assets/css/aos.css" rel="stylesheet">
+<<?php $use_local_bootstrap = true; include('header.php'); ?>
+    <link href="assets/landingpage/css/slider-landing.css" type="text/css" rel="stylesheet" />
+    <link href="assets/landingpage/css/landing-page.css" type="text/css" rel="stylesheet" />
+    <link href="assets/landingpage/css/toogle-slide.css" type="text/css" rel="stylesheet" />
+    <link href="assets/landingpage/css/about.css" type="text/css" rel="stylesheet" />
+    <link href="assets/landingpage/css/shorttermcourse.css" type="text/css" rel="stylesheet" />
+    <link href="assets/landingpage/image/favicon32.png" rel="shortcut icon">
+    <link href="assets/landingpage/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="assets/landingpage/css/animate.css" rel="stylesheet">
+    <link href="assets/landingpage/css/aos.css" rel="stylesheet">
     <link href="assets/css/faq.css" type="text/css" rel="stylesheet" />
-    <link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
+    <link href="assets/landingpage/css/landing-page.css" type="text/css" rel="stylesheet" />
 
     <script>(function (w, d, s, l, i) {
             w[l] = w[l] || []; w[l].push({
@@ -137,9 +137,9 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-noida.ph
                         <div class="col-lg-4 col-md-4 col-6">
                             <div class="icon-box aos-init aos-animate" data-aos="fade-up" data-aos-delay="50">
                                 <div class="icon">
-                                    <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
+                                    <img src="assets/landingpage/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
                                         class="without-hover">
-                                    <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions-white.png"
+                                    <img src="assets/landingpage/image/icon/Doubt-Clearing-Sessions-white.png"
                                         alt="Icon" class="with-hover">
                                 </div>
                                 <h4>Practical, expert - Led training </h4>
@@ -148,9 +148,9 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-noida.ph
                         <div class="col-lg-4 col-md-4 col-6">
                             <div class="icon-box aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
                                 <div class="icon">
-                                    <img src="landingpage/assets/image/icon/Industry-skills.png" alt="Icon"
+                                    <img src="assets/landingpage/image/icon/Industry-skills.png" alt="Icon"
                                         class="without-hover">
-                                    <img src="landingpage/assets/image/icon/Industry-skills-white.png" alt="Icon"
+                                    <img src="assets/landingpage/image/icon/Industry-skills-white.png" alt="Icon"
                                         class="with-hover">
 
                                 </div>
@@ -161,9 +161,9 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-noida.ph
                         <div class="col-lg-4 col-md-4 col-6">
                             <div class="icon-box aos-init aos-animate" data-aos="fade-up" data-aos-delay="150">
                                 <div class="icon">
-                                    <img src="landingpage/assets/image/icon/Flexibility.png" alt="Icon"
+                                    <img src="assets/landingpage/image/icon/Flexibility.png" alt="Icon"
                                         class="without-hover">
-                                    <img src="landingpage/assets/image/icon/Flexibility-white.png" alt="Icon"
+                                    <img src="assets/landingpage/image/icon/Flexibility-white.png" alt="Icon"
                                         class="with-hover">
                                 </div>
                                 <!--<h4>Flexibility</h4>-->
@@ -173,9 +173,9 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-noida.ph
                         <div class="col-lg-4 col-md-4 col-6">
                             <div class="icon-box aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
                                 <div class="icon">
-                                    <img src="landingpage/assets/image/icon/High-demand.png" alt="Icon"
+                                    <img src="assets/landingpage/image/icon/High-demand.png" alt="Icon"
                                         class="without-hover">
-                                    <img src="landingpage/assets/image/icon/High-demand-white.png" alt="Icon"
+                                    <img src="assets/landingpage/image/icon/High-demand-white.png" alt="Icon"
                                         class="with-hover">
                                 </div>
                                 <!--<h4>High demand</h4>-->
@@ -185,9 +185,9 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-noida.ph
                         <div class="col-lg-4 col-md-4 col-6">
                             <div class="icon-box aos-init aos-animate" data-aos="fade-up" data-aos-delay="250">
                                 <div class="icon">
-                                    <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
+                                    <img src="assets/landingpage/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
                                         class="without-hover">
-                                    <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions-white.png"
+                                    <img src="assets/landingpage/image/icon/Doubt-Clearing-Sessions-white.png"
                                         alt="Icon" class="with-hover">
                                 </div>
                                 <!--<h4>High demand</h4>-->
@@ -197,9 +197,9 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-noida.ph
                         <div class="col-lg-4 col-md-4 col-6">
                             <div class="icon-box aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
                                 <div class="icon">
-                                    <img src="landingpage/assets/image/icon/Placement-support.png" alt="Icon"
+                                    <img src="assets/landingpage/image/icon/Placement-support.png" alt="Icon"
                                         class="without-hover">
-                                    <img src="landingpage/assets/image/icon/Placement-support-white.png" alt="Icon"
+                                    <img src="assets/landingpage/image/icon/Placement-support-white.png" alt="Icon"
                                         class="with-hover">
                                 </div>
                                 <!--<h4>Placement support</h4>-->

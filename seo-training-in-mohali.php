@@ -3,17 +3,17 @@ $meta_title = "Best SEO Training in Mohali | Advanced SEO Course – 5Trainers";
 $meta_description = "Join the best SEO training in Mohali at 5Trainers. Learn on-page, off-page, technical, and advanced SEO with live projects & certification. Enroll now!";
 $canonical_url = "https://www.5trainers.com/seo-training-in-mohali.php";
 ?>
-<?php include('header.php'); ?>
+<<?php $use_local_bootstrap = true; include('header.php'); ?>
 
    <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
-    <link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
-    <link href="landingpage/assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
-    <link href="landingpage/assets/css/toogle-slide.css" type="text/css" rel="stylesheet" />
-    <link href="landingpage/assets/css/coursedetails.css" type="text/css" rel="stylesheet" />
-    <link href="landingpage/assets/css/faq.css" type="text/css" rel="stylesheet" />
+    <link href="assets/landingpage/css/landing-page.css" type="text/css" rel="stylesheet" />
+    <link href="assets/landingpage/css/slider-landing.css" type="text/css" rel="stylesheet" />
+    <link href="assets/landingpage/css/toogle-slide.css" type="text/css" rel="stylesheet" />
+    <link href="assets/landingpage/css/coursedetails.css" type="text/css" rel="stylesheet" />
+    <link href="assets/landingpage/css/faq.css" type="text/css" rel="stylesheet" />
     <link rel="shortcut icon" href="assets/image/favicon32.png">
-    <link href="landingpage/assets/css/animate.css" rel="stylesheet">
-    <link href="landingpage/assets/css/aos.css" rel="stylesheet">
+    <link href="assets/landingpage/css/animate.css" rel="stylesheet">
+    <link href="assets/landingpage/css/aos.css" rel="stylesheet">
     <link href="assets/css/faq.css" type="text/css" rel="stylesheet" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
 
@@ -181,7 +181,7 @@ $canonical_url = "https://www.5trainers.com/seo-training-in-mohali.php";
                 <div class="col-sm-7 col-md-7 col-lg-7 align-self-center">
                     <div data-aos="fade-up" data-aos-duration="800"
                         class="about-us-img-wrap about-img-left aos-init aos-animate">
-                        <img src="landingpage/assets/image/course/seodetails.jpg" alt="About Us Image"
+                        <img src="assets/landingpage/image/course/seodetails.jpg" alt="About Us Image"
                             class="img-fluid">
                     </div>
                 </div>
@@ -228,7 +228,7 @@ $canonical_url = "https://www.5trainers.com/seo-training-in-mohali.php";
                                     <li class="icon-list-item tab active one">
                                         <a href="">
                                             <span class="icon-list-icon"><img
-                                                    src="landingpage/assets/image/icon/arrow22.png" alt="Arrow"></span>
+                                                    src="assets/landingpage/image/icon/arrow22.png" alt="Arrow"></span>
                                             <div class="weekdivision">
                                                 <span class="icon-list-text">Week 1</span>
                                                 <h6>SEO Fundamentals & Website Optimization</h6>
@@ -238,7 +238,7 @@ $canonical_url = "https://www.5trainers.com/seo-training-in-mohali.php";
                                     <li class="icon-list-item tab two">
                                         <a href="">
                                             <span class="icon-list-icon"><img
-                                                    src="landingpage/assets/image/icon/arrow22.png" alt="Arrow"></span>
+                                                    src="assets/landingpage/image/icon/arrow22.png" alt="Arrow"></span>
                                             <div class="weekdivision">
                                                 <span class="icon-list-text">Week 2</span>
                                                 <h6>Advanced SEO & Link Building</h6>
@@ -248,7 +248,7 @@ $canonical_url = "https://www.5trainers.com/seo-training-in-mohali.php";
                                     <li class="icon-list-item tab three">
                                         <a href="">
                                             <span class="icon-list-icon"><img
-                                                    src="landingpage/assets/image/icon/arrow22.png" alt="Arrow"></span>
+                                                    src="assets/landingpage/image/icon/arrow22.png" alt="Arrow"></span>
                                             <div class="weekdivision">
                                                 <span class="icon-list-text">Week 3</span>
                                                 <h6>UX Optimization, Local SEO & Practice</h6>
@@ -258,7 +258,7 @@ $canonical_url = "https://www.5trainers.com/seo-training-in-mohali.php";
                                     <li class="icon-list-item tab four">
                                         <a href="">
                                             <span class="icon-list-icon"><img
-                                                    src="landingpage/assets/image/icon/arrow22.png" alt="Arrow"></span>
+                                                    src="assets/landingpage/image/icon/arrow22.png" alt="Arrow"></span>
                                             <div class="weekdivision">
                                                 <span class="icon-list-text">Week 4</span>
                                                 <h6>Advanced Practice, Projects & Certification</h6>
@@ -480,9 +480,9 @@ $canonical_url = "https://www.5trainers.com/seo-training-in-mohali.php";
                         <div class="col-lg-4 col-md-4 col-6">
                             <div class="icon-box aos-init aos-animate" data-aos="fade-up" data-aos-delay="50">
                                 <div class="icon">
-                                    <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
+                                    <img src="assets/landingpage/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
                                         class="without-hover">
-                                    <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions-white.png"
+                                    <img src="assets/landingpage/image/icon/Doubt-Clearing-Sessions-white.png"
                                         alt="Icon" class="with-hover">
                                 </div>
                                 <h4>Practical, expert - Led training </h4>
@@ -491,9 +491,9 @@ $canonical_url = "https://www.5trainers.com/seo-training-in-mohali.php";
                         <div class="col-lg-4 col-md-4 col-6">
                             <div class="icon-box aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
                                 <div class="icon">
-                                    <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
+                                    <img src="assets/landingpage/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
                                         class="without-hover">
-                                    <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions-white.png"
+                                    <img src="assets/landingpage/image/icon/Doubt-Clearing-Sessions-white.png"
                                         alt="Icon" class="with-hover">
                                 </div>
                                 <h4>Industry - relevant skills</h4>
@@ -502,9 +502,9 @@ $canonical_url = "https://www.5trainers.com/seo-training-in-mohali.php";
                         <div class="col-lg-4 col-md-4 col-6">
                             <div class="icon-box aos-init aos-animate" data-aos="fade-up" data-aos-delay="150">
                                 <div class="icon">
-                                    <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
+                                    <img src="assets/landingpage/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
                                         class="without-hover">
-                                    <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions-white.png"
+                                    <img src="assets/landingpage/image/icon/Doubt-Clearing-Sessions-white.png"
                                         alt="Icon" class="with-hover">
                                 </div>
                                 <h4>Flexibility</h4>
@@ -513,9 +513,9 @@ $canonical_url = "https://www.5trainers.com/seo-training-in-mohali.php";
                         <div class="col-lg-4 col-md-4 col-6">
                             <div class="icon-box aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
                                 <div class="icon">
-                                    <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
+                                    <img src="assets/landingpage/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
                                         class="without-hover">
-                                    <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions-white.png"
+                                    <img src="assets/landingpage/image/icon/Doubt-Clearing-Sessions-white.png"
                                         alt="Icon" class="with-hover">
                                 </div>
                                 <h4>High demand</h4>
@@ -524,9 +524,9 @@ $canonical_url = "https://www.5trainers.com/seo-training-in-mohali.php";
                         <div class="col-lg-4 col-md-4 col-6">
                             <div class="icon-box aos-init aos-animate" data-aos="fade-up" data-aos-delay="250">
                                 <div class="icon">
-                                    <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
+                                    <img src="assets/landingpage/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
                                         class="without-hover">
-                                    <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions-white.png"
+                                    <img src="assets/landingpage/image/icon/Doubt-Clearing-Sessions-white.png"
                                         alt="Icon" class="with-hover">
                                 </div>
                                 <h4>High demand</h4>
@@ -535,9 +535,9 @@ $canonical_url = "https://www.5trainers.com/seo-training-in-mohali.php";
                         <div class="col-lg-4 col-md-4 col-6">
                             <div class="icon-box aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
                                 <div class="icon">
-                                    <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
+                                    <img src="assets/landingpage/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
                                         class="without-hover">
-                                    <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions-white.png"
+                                    <img src="assets/landingpage/image/icon/Doubt-Clearing-Sessions-white.png"
                                         alt="Icon" class="with-hover">
                                 </div>
                                 <h4>Placement support</h4>
@@ -552,7 +552,7 @@ $canonical_url = "https://www.5trainers.com/seo-training-in-mohali.php";
                     </div>
                     <div class="registerstack"><a href="#" class="theme-btn mt-30 aos-init aos-animate"
                             data-aos="fade-up" data-aos-delay="200">Register Now<span><img
-                                    src="landingpage/assets/image/icon/reply_arrow.png" alt=""></span></a></div>
+                                    src="assets/landingpage/image/icon/reply_arrow.png" alt=""></span></a></div>
                 </div>
             </div>
         </div>
@@ -574,7 +574,7 @@ $canonical_url = "https://www.5trainers.com/seo-training-in-mohali.php";
                             <div class="col-lg-6">
                                 <div class="servicecol">
                                     <div class="service-imag">
-                                        <img src="landingpage/assets/image/course/digital-marketing.png"
+                                        <img src="assets/landingpage/image/course/digital-marketing.png"
                                             class="img-fluid" alt="Digital Marketing">
                                     </div>
                                     <div class="service-info">
@@ -588,7 +588,7 @@ $canonical_url = "https://www.5trainers.com/seo-training-in-mohali.php";
                                             <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">  Google Search Console & Analytics for Performance Tracking</li>
                                         </ul>
                                         <div class="sview"><a href="../digitalmarketingcourse.php" target="_blank"
-                                                title="View More"><img src="landingpage/assets/image/icon/sview.png"
+                                                title="View More"><img src="assets/landingpage/image/icon/sview.png"
                                                     alt=""></a>
                                         </div>
                                     </div>
@@ -598,7 +598,7 @@ $canonical_url = "https://www.5trainers.com/seo-training-in-mohali.php";
                             <div class="col-lg-6">
                                 <div class="servicecol">
                                     <div class="service-imag">
-                                        <img src="landingpage/assets/image/course/digital-marketing.png"
+                                        <img src="assets/landingpage/image/course/digital-marketing.png"
                                             class="img-fluid" alt="Digital Marketing">
                                     </div>
                                     <div class="service-info">
@@ -613,7 +613,7 @@ $canonical_url = "https://www.5trainers.com/seo-training-in-mohali.php";
                                             <!-- <li>Schema Markup, Structured Data & SEO Best Practices</li> -->
                                         </ul>
                                         <div class="sview"><a href="../seoonemonth.php" target="_blank"
-                                                title="View More"><img src="landingpage/assets/image/icon/sview.png"
+                                                title="View More"><img src="assets/landingpage/image/icon/sview.png"
                                                     alt=""></a>
                                         </div>
                                     </div>
@@ -623,7 +623,7 @@ $canonical_url = "https://www.5trainers.com/seo-training-in-mohali.php";
                             <div class="col-lg-6">
                                 <div class="servicecol">
                                     <div class="service-imag">
-                                        <img src="landingpage/assets/image/course/digital-marketing.png"
+                                        <img src="assets/landingpage/image/course/digital-marketing.png"
                                             class="img-fluid" alt="Digital Marketing">
                                     </div>
                                     <div class="service-info">
@@ -638,7 +638,7 @@ $canonical_url = "https://www.5trainers.com/seo-training-in-mohali.php";
 
                                         </ul>
                                         <div class="sview"><a href="../onemonth.php" target="_blank"
-                                                title="View More"><img src="landingpage/assets/image/icon/sview.png"
+                                                title="View More"><img src="assets/landingpage/image/icon/sview.png"
                                                     alt=""></a>
                                         </div>
                                     </div>
@@ -647,7 +647,7 @@ $canonical_url = "https://www.5trainers.com/seo-training-in-mohali.php";
                             <div class="col-lg-6">
                                 <div class="servicecol">
                                     <div class="service-imag">
-                                        <img src="landingpage/assets/image/course/digital-marketing.png"
+                                        <img src="assets/landingpage/image/course/digital-marketing.png"
                                             class="img-fluid" alt="Digital Marketing">
                                     </div>
                                     <div class="service-info">
@@ -662,14 +662,14 @@ $canonical_url = "https://www.5trainers.com/seo-training-in-mohali.php";
                                             <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">  Brand Mentions, PR Links & Reputation Building Techniques</li>
                                         </ul>
                                         <div class="sview"><a href="#" title="View More"><img
-                                                    src="landingpage/assets/image/icon/sview.png" alt=""></a></div>
+                                                    src="assets/landingpage/image/icon/sview.png" alt=""></a></div>
                                     </div>
                                 </div><!--/courseModules-->
                             </div><!--/col-->
                             <div class="col-lg-6">
                                 <div class="servicecol">
                                     <div class="service-imag">
-                                        <img src="landingpage/assets/image/course/digital-marketing.png"
+                                        <img src="assets/landingpage/image/course/digital-marketing.png"
                                             class="img-fluid" alt="Digital Marketing">
                                     </div>
                                     <div class="service-info">
@@ -683,14 +683,14 @@ $canonical_url = "https://www.5trainers.com/seo-training-in-mohali.php";
                                             <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">  Enhancing Mobile User Experience for Better Engagement & Rankings</li>
                                         </ul>
                                         <div class="sview"><a href="#" title="View More"><img
-                                                    src="landingpage/assets/image/icon/sview.png" alt=""></a></div>
+                                                    src="assets/landingpage/image/icon/sview.png" alt=""></a></div>
                                     </div>
                                 </div><!--/courseModules-->
                             </div>
                             <div class="col-lg-6">
                                 <div class="servicecol">
                                     <div class="service-imag">
-                                        <img src="landingpage/assets/image/course/digital-marketing.png"
+                                        <img src="assets/landingpage/image/course/digital-marketing.png"
                                             class="img-fluid" alt="Digital Marketing">
                                     </div>
                                     <div class="service-info">
@@ -705,7 +705,7 @@ $canonical_url = "https://www.5trainers.com/seo-training-in-mohali.php";
                                             <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">  Tracking Local Search Performance Using Maps & Local SEO Tools</li>
                                         </ul>
                                         <div class="sview"><a href="#" title="View More"><img
-                                                    src="landingpage/assets/image/icon/sview.png" alt=""></a></div>
+                                                    src="assets/landingpage/image/icon/sview.png" alt=""></a></div>
                                     </div>
                                 </div><!--/courseModules-->
                             </div>
@@ -715,7 +715,7 @@ $canonical_url = "https://www.5trainers.com/seo-training-in-mohali.php";
 
                 <div class="col-sm-3 col-md-3 col-lg-3 align-self-center">
                     <div data-aos="fade-up" data-aos-duration="800" class="about-us-img-wrap about-img-left">
-                        <img src="landingpage/assets/image/about/about-2.png" alt="About Us Image" class="img-fluid">
+                        <img src="assets/landingpage/image/about/about-2.png" alt="About Us Image" class="img-fluid">
                     </div>
                 </div><!--/col-->
             </div>
@@ -866,7 +866,7 @@ $canonical_url = "https://www.5trainers.com/seo-training-in-mohali.php";
                 </div><!--/col-->
                 <div class="col-lg-5">
                     <div class="cerfificateImage" data-aos="fade-up" data-aos-duration="1000">
-                        <img src="landingpage/assets/image/landing-page/Certificate.jpeg" class="img-fluid" alt="">
+                        <img src="assets/landingpage/image/landing-page/Certificate.jpeg" class="img-fluid" alt="">
                     </div>
                 </div><!--/col-->
             </div><!--/row-->
@@ -893,82 +893,82 @@ $canonical_url = "https://www.5trainers.com/seo-training-in-mohali.php";
             <div class="row mt-80">
                 <div class="col-6 col-md-2 col-lg-2">
                     <div class="placementbox" data-aos="fade-up" data-aos-duration="1000">
-                        <div class=""><img src="landingpage/assets/image/landing-page/placement/microsoft.webp" alt=""
+                        <div class=""><img src="assets/landingpage/image/landing-page/placement/microsoft.webp" alt=""
                                 class="img-fluid"></div>
                     </div>
                 </div><!--/col-->
                 <div class="col-6 col-md-2 col-lg-2">
                     <div class="placementbox" data-aos="fade-up" data-aos-duration="1000">
-                        <div class=""><img src="landingpage/assets/image/landing-page/placement/IBM_logo.png" alt=""
+                        <div class=""><img src="assets/landingpage/image/landing-page/placement/IBM_logo.png" alt=""
                                 class="img-fluid"></div>
                     </div>
                 </div><!--/col-->
                 <div class="col-6 col-md-2 col-lg-2">
                     <div class="placementbox" data-aos="fade-up" data-aos-duration="1000">
-                        <div class=""><img src="landingpage/assets/image/landing-page/placement/CSB-logo.webp" alt=""
+                        <div class=""><img src="assets/landingpage/image/landing-page/placement/CSB-logo.webp" alt=""
                                 class="img-fluid"></div>
                     </div>
                 </div><!--/col-->
                 <div class="col-6 col-md-2 col-lg-2">
                     <div class="placementbox" data-aos="fade-up" data-aos-duration="1000">
-                        <div class=""><img src="landingpage/assets/image/landing-page/placement/Cisco_logo_blue.webp"
+                        <div class=""><img src="assets/landingpage/image/landing-page/placement/Cisco_logo_blue.webp"
                                 alt="" class="img-fluid"></div>
                     </div>
                 </div><!--/col-->
                 <div class="col-6 col-md-2 col-lg-2">
                     <div class="placementbox" data-aos="fade-up" data-aos-duration="1000">
-                        <div class=""><img src="landingpage/assets/image/landing-page/placement/ESB_Logo.webp" alt=""
+                        <div class=""><img src="assets/landingpage/image/landing-page/placement/ESB_Logo.webp" alt=""
                                 class="img-fluid"></div>
                     </div>
                 </div><!--/col-->
                 <div class="col-6 col-md-2 col-lg-2">
                     <div class="placementbox" data-aos="fade-up" data-aos-duration="1000">
-                        <div class=""><img src="landingpage/assets/image/landing-page/placement/Autodesk_Logo.webp"
+                        <div class=""><img src="assets/landingpage/image/landing-page/placement/Autodesk_Logo.webp"
                                 alt="" class="img-fluid"></div>
                     </div>
                 </div><!--/col-->
                 <div class="col-6 col-md-2 col-lg-2">
                     <div class="placementbox" data-aos="fade-up" data-aos-duration="1000">
                         <div class=""><img
-                                src="landingpage/assets/image/landing-page/placement/Adobe_Corporate_logo.webp" alt=""
+                                src="assets/landingpage/image/landing-page/placement/Adobe_Corporate_logo.webp" alt=""
                                 class="img-fluid"></div>
                     </div>
                 </div><!--/col-->
                 <div class="col-6 col-md-2 col-lg-2">
                     <div class="placementbox" data-aos="fade-up" data-aos-duration="1000">
-                        <div class=""><img src="landingpage/assets/image/landing-page/placement/Unity_2021.webp" alt=""
+                        <div class=""><img src="assets/landingpage/image/landing-page/placement/Unity_2021.webp" alt=""
                                 class="img-fluid"></div>
                     </div>
                 </div><!--/col-->
                 <div class="col-6 col-md-2 col-lg-2">
                     <div class="placementbox" data-aos="fade-up" data-aos-duration="1000">
-                        <div class=""><img src="landingpage/assets/image/landing-page/placement/Intuit_Logo.webp" alt=""
+                        <div class=""><img src="assets/landingpage/image/landing-page/placement/Intuit_Logo.webp" alt=""
                                 class="img-fluid"></div>
                     </div>
                 </div><!--/col-->
 
                 <div class="col-6 col-md-2 col-lg-2">
                     <div class="placementbox" data-aos="fade-up" data-aos-duration="1000">
-                        <div class=""><img src="landingpage/assets/image/landing-page/placement/xin.webp" alt=""
+                        <div class=""><img src="assets/landingpage/image/landing-page/placement/xin.webp" alt=""
                                 class="img-fluid">
                         </div>
                     </div>
                 </div><!--/col-->
                 <div class="col-6 col-md-2 col-lg-2">
                     <div class="placementbox" data-aos="fade-up" data-aos-duration="1000">
-                        <div class=""><img src="landingpage/assets/image/landing-page/placement/microsoft-office.webp"
+                        <div class=""><img src="assets/landingpage/image/landing-page/placement/microsoft-office.webp"
                                 alt="" class="img-fluid"></div>
                     </div>
                 </div><!--/col-->
                 <div class="col-6 col-md-2 col-lg-2">
                     <div class="placementbox" data-aos="fade-up" data-aos-duration="1000">
-                        <div class=""><img src="landingpage/assets/image/landing-page/placement/IABAC.webp" alt=""
+                        <div class=""><img src="assets/landingpage/image/landing-page/placement/IABAC.webp" alt=""
                                 class="img-fluid"></div>
                     </div>
                 </div><!--/col-->
                 <div class="col-6 col-md-2 col-lg-2">
                     <div class="placementbox" data-aos="fade-up" data-aos-duration="1000">
-                        <div class=""><img src="landingpage/assets/image/landing-page/placement/IC3.webp" alt=""
+                        <div class=""><img src="assets/landingpage/image/landing-page/placement/IC3.webp" alt=""
                                 class="img-fluid">
                         </div>
                     </div>
@@ -1188,7 +1188,7 @@ $canonical_url = "https://www.5trainers.com/seo-training-in-mohali.php";
                 </div>
                 <div class="col-lg-5">
                     <div class="haveQues-image">
-                        <img src="landingpage/assets/image/landing-page/request-call.png" alt="" class="img-fluid">
+                        <img src="assets/landingpage/image/landing-page/request-call.png" alt="" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-lg-7">

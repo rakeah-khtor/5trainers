@@ -5,11 +5,11 @@ $meta_description = "Learn Meta Ads & Instagram Ads marketing with real campaign
 $canonical_url = "https://www.5trainers.com/seo-one-month.php";
 ?>
 <?php include('header.php'); ?>
-<link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/toogle-slide.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/shorttermcourse.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/coursedetails.css" type="text/css" rel="stylesheet" />
+<link href="assets/landingpage/css/landing-page.css" type="text/css" rel="stylesheet" />
+<link href="assets/landingpage/css/slider-landing.css" type="text/css" rel="stylesheet" />
+<link href="assets/landingpage/css/toogle-slide.css" type="text/css" rel="stylesheet" />
+<link href="assets/landingpage/css/shorttermcourse.css" type="text/css" rel="stylesheet" />
+<link href="assets/landingpage/css/coursedetails.css" type="text/css" rel="stylesheet" />
 
 <!--Slider-->
 <section id="slide-show" class="setbg landignsetbg">
@@ -193,7 +193,7 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
                                 <li class="icon-list-item tab active one">
                                     <a href="">
                                         <span class="icon-list-icon"><img
-                                                src="landingpage/assets/image/icon/arrow22.png" alt="Arrow"></span>
+                                                src="assets/landingpage/image/icon/arrow22.png" alt="Arrow"></span>
                                         <div class="weekdivision">
                                             <span class="icon-list-text">Week 1</span>
                                             <h6>Introduction to Meta Ads & Account Setup</h6>
@@ -203,7 +203,7 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
                                 <li class="icon-list-item tab two">
                                     <a href="">
                                         <span class="icon-list-icon"><img
-                                                src="landingpage/assets/image/icon/arrow22.png" alt="Arrow"></span>
+                                                src="assets/landingpage/image/icon/arrow22.png" alt="Arrow"></span>
                                         <div class="weekdivision">
                                             <span class="icon-list-text">Week 2</span>
                                             <h6>Campaign Creation & Ad Design</h6>
@@ -213,7 +213,7 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
                                 <li class="icon-list-item tab three">
                                     <a href="">
                                         <span class="icon-list-icon"><img
-                                                src="landingpage/assets/image/icon/arrow22.png" alt="Arrow"></span>
+                                                src="assets/landingpage/image/icon/arrow22.png" alt="Arrow"></span>
                                         <div class="weekdivision">
                                             <span class="icon-list-text">Week 3</span>
                                             <h6>Optimization & Advanced Targeting</h6>
@@ -223,7 +223,7 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
                                 <li class="icon-list-item tab four">
                                     <a href="">
                                         <span class="icon-list-icon"><img
-                                                src="landingpage/assets/image/icon/arrow22.png" alt="Arrow"></span>
+                                                src="assets/landingpage/image/icon/arrow22.png" alt="Arrow"></span>
                                         <div class="weekdivision">
                                             <span class="icon-list-text">Week 4</span>
                                             <h6>Scaling & Final Project</h6>
@@ -427,7 +427,7 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
                     <div class="course-journey-card-desktop one">
                         <div class="course-journey-card-desktop-wrapper">
                             <div class="emoji">
-                                <img alt="Iocn" src="landingpage/assets/image/icon/Certification-Ready.png">
+                                <img alt="Iocn" src="assets/landingpage/image/icon/Certification-Ready.png">
                                 <div class="gesture-notch notch-0 zen-typo-pills"> Meta Ads Certification Prep</div>
                             </div>
                             <div class="side-tracker-container">
@@ -453,7 +453,7 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
                     <div class="course-journey-card-desktop two">
                         <div class="course-journey-card-desktop-wrapper">
                             <div class="emoji">
-                                <img alt="Iocn" class="" src="landingpage/assets/image/icon/Hands-on-Assignments.png">
+                                <img alt="Iocn" class="" src="assets/landingpage/image/icon/Hands-on-Assignments.png">
                                 <div class="gesture-notch notch-0 zen-typo-pills"> Hands-on Assignments</div>
                             </div>
                             <div class="side-tracker-container">
@@ -478,7 +478,7 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
                     <div class="course-journey-card-desktop three">
                         <div class="course-journey-card-desktop-wrapper">
                             <div class="emoji">
-                                <img alt="Iocn" class="" src="landingpage/assets/image/icon/Live-Q&A.png">
+                                <img alt="Iocn" class="" src="assets/landingpage/image/icon/Live-Q&A.png">
                                 <div class="gesture-notch notch-0 zen-typo-pills"> Live Q&A Sessions</div>
                             </div>
                             <div class="side-tracker-container">
@@ -503,7 +503,7 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
                     <div class="course-journey-card-desktop four">
                         <div class="course-journey-card-desktop-wrapper">
                             <div class="emoji">
-                                <img alt="Iocn" src="landingpage/assets/image/icon/SMO-Tool-Access.png">
+                                <img alt="Iocn" src="assets/landingpage/image/icon/SMO-Tool-Access.png">
                                 <div class="gesture-notch notch-0 zen-typo-pills"> Access to Tools</div>
                             </div>
                             <div class="side-tracker-container">
@@ -528,7 +528,7 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
                     <div class="course-journey-card-desktop five">
                         <div class="course-journey-card-desktop-wrapper">
                             <div class="emoji">
-                                <img alt="Iocn" class="" src="landingpage/assets/image/icon/access.png">
+                                <img alt="Iocn" class="" src="assets/landingpage/image/icon/access.png">
                                 <div class="gesture-notch notch-0 zen-typo-pills"> Lifetime Access </div>
                             </div>
                             <div class="side-tracker-container">
@@ -685,4 +685,4 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
     </div>
 </section><!--/FAQ-->
 <?php include('footer.php'); ?>
-<script src="landingpage/assets/js/vertical-tab.js"></script>
+<script src="assets/landingpage/js/vertical-tab.js"></script>

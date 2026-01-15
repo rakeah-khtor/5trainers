@@ -4,11 +4,11 @@ $meta_description = "Boost your career with our One Month SEO Course in Mohali. 
 $canonical_url = "https://www.5trainers.com/seo-one-month.php";
 ?>
 <?php include('header.php'); ?>
-<link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/toogle-slide.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/shorttermcourse.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/coursedetails.css" type="text/css" rel="stylesheet" />
+<link href="assets/landingpage/css/landing-page.css" type="text/css" rel="stylesheet" />
+<link href="assets/landingpage/css/slider-landing.css" type="text/css" rel="stylesheet" />
+<link href="assets/landingpage/css/toogle-slide.css" type="text/css" rel="stylesheet" />
+<link href="assets/landingpage/css/shorttermcourse.css" type="text/css" rel="stylesheet" />
+<link href="assets/landingpage/css/coursedetails.css" type="text/css" rel="stylesheet" />
 <!--Slider-->
 <section id="slide-show" class="setbg landignsetbg">
     <div class="custom-container width90">
@@ -179,7 +179,7 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
                                 <li class="icon-list-item tab active one">
                                     <a href="">
                                         <span class="icon-list-icon"><img
-                                                src="landingpage/assets/image/icon/arrow22.png" alt="Arrow"></span>
+                                                src="assets/landingpage/image/icon/arrow22.png" alt="Arrow"></span>
                                         <div class="weekdivision">
                                             <span class="icon-list-text">Week 1</span>
                                             <h6>SEO Fundamentals & Website Optimization</h6>
@@ -189,7 +189,7 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
                                 <li class="icon-list-item tab two">
                                     <a href="">
                                         <span class="icon-list-icon"><img
-                                                src="landingpage/assets/image/icon/arrow22.png" alt="Arrow"></span>
+                                                src="assets/landingpage/image/icon/arrow22.png" alt="Arrow"></span>
                                         <div class="weekdivision">
                                             <span class="icon-list-text">Week 2</span>
                                             <h6>Advanced SEO & Link Building</h6>
@@ -199,7 +199,7 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
                                 <li class="icon-list-item tab three">
                                     <a href="">
                                         <span class="icon-list-icon"><img
-                                                src="landingpage/assets/image/icon/arrow22.png" alt="Arrow"></span>
+                                                src="assets/landingpage/image/icon/arrow22.png" alt="Arrow"></span>
                                         <div class="weekdivision">
                                             <span class="icon-list-text">Week 3</span>
                                             <h6>UX Optimization, Local SEO & Practice</h6>
@@ -209,7 +209,7 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
                                 <li class="icon-list-item tab four">
                                     <a href="">
                                         <span class="icon-list-icon"><img
-                                                src="landingpage/assets/image/icon/arrow22.png" alt="Arrow"></span>
+                                                src="assets/landingpage/image/icon/arrow22.png" alt="Arrow"></span>
                                         <div class="weekdivision">
                                             <span class="icon-list-text">Week 4</span>
                                             <h6>Advanced Practice, Projects & Certification</h6>
@@ -428,9 +428,9 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
                     <div class="col-lg-4 col-md-4 col-6">
                         <div class="icon-box cyangreenbg aos-init aos-animate" data-aos="fade-up" data-aos-delay="50">
                             <div class="icon">
-                                <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions-white.png" alt="Icon"
+                                <img src="assets/landingpage/image/icon/Doubt-Clearing-Sessions-white.png" alt="Icon"
                                     class="without-hover">
-                                <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
+                                <img src="assets/landingpage/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
                                     class="with-hover">
                             </div>
                             <h4>Practical, expert - Led training </h4>
@@ -439,9 +439,9 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
                     <div class="col-lg-4 col-md-4 col-6">
                         <div class="icon-box whitebg aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
                             <div class="icon">
-                                <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
+                                <img src="assets/landingpage/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
                                     class="without-hover">
-                                <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions-white.png" alt="Icon"
+                                <img src="assets/landingpage/image/icon/Doubt-Clearing-Sessions-white.png" alt="Icon"
                                     class="with-hover">
                             </div>
                             <h4>Industry - relevant skills</h4>
@@ -450,9 +450,9 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
                     <div class="col-lg-4 col-md-4 col-6">
                         <div class="icon-box cyangreenbg aos-init aos-animate" data-aos="fade-up" data-aos-delay="150">
                             <div class="icon">
-                                <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions-white.png" alt="Icon"
+                                <img src="assets/landingpage/image/icon/Doubt-Clearing-Sessions-white.png" alt="Icon"
                                     class="without-hover">
-                                <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
+                                <img src="assets/landingpage/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
                                     class="with-hover">
                             </div>
                             <h4>Flexibility</h4>
@@ -461,9 +461,9 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
                     <div class="col-lg-4 col-md-4 col-6">
                         <div class="icon-box whitebg aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
                             <div class="icon">
-                                <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
+                                <img src="assets/landingpage/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
                                     class="without-hover">
-                                <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions-white.png" alt="Icon"
+                                <img src="assets/landingpage/image/icon/Doubt-Clearing-Sessions-white.png" alt="Icon"
                                     class="with-hover">
                             </div>
                             <h4>High demand</h4>
@@ -472,9 +472,9 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
                     <div class="col-lg-4 col-md-4 col-6">
                         <div class="icon-box cyangreenbg aos-init aos-animate" data-aos="fade-up" data-aos-delay="250">
                             <div class="icon">
-                                <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions-white.png" alt="Icon"
+                                <img src="assets/landingpage/image/icon/Doubt-Clearing-Sessions-white.png" alt="Icon"
                                     class="without-hover">
-                                <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
+                                <img src="assets/landingpage/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
                                     class="with-hover">
                             </div>
                             <h4>High demand</h4>
@@ -483,9 +483,9 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
                     <div class="col-lg-4 col-md-4 col-6">
                         <div class="icon-box whitebg aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
                             <div class="icon">
-                                <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
+                                <img src="assets/landingpage/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
                                     class="without-hover">
-                                <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions-white.png" alt="Icon"
+                                <img src="assets/landingpage/image/icon/Doubt-Clearing-Sessions-white.png" alt="Icon"
                                     class="with-hover">
                             </div>
                             <h4>Placement support</h4>

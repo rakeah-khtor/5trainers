@@ -18,7 +18,7 @@
     <link href="assets/css/animate.css" rel="stylesheet">
     <link href="assets/css/aos.css" rel="stylesheet">
     <link href="../assets/css/faq.css" type="text/css" rel="stylesheet" />
-    <link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
+    <link href="assets/landingpage/css/landing-page.css" type="text/css" rel="stylesheet" />
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
 

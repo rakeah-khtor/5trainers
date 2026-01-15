@@ -3,33 +3,17 @@ $meta_title = " Digital Marketing Training in Mohali | Best Institute 100% Place
 $meta_description = "Join Digital Marketing Training in Mohali. Best Institute with 100% Placement support. Learn SEO, Google Ads, Social Media & AI tools. Enroll now!";
 $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali.php";
 ?>
-<?php include('header.php'); ?>
-<link href="landingpage/assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/toogle-slide.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/about.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/shorttermcourse.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/image/favicon32.png" rel="shortcut icon">
-<link href="landingpage/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
-<link href="landingpage/assets/css/animate.css" rel="stylesheet">
-<link href="landingpage/assets/css/aos.css" rel="stylesheet">
-<link href="assets/css/faq.css" type="text/css" rel="stylesheet" />
-
-
-<!-- Google Tag Manager -->
-<script>(function (w, d, s, l, i) {
-        w[l] = w[l] || []; w[l].push({
-            'gtm.start':
-                new Date().getTime(), event: 'gtm.js'
-        }); var f = d.getElementsByTagName(s)[0],
-            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-                'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-K3N4DF4B');</script>
-<!-- End Google Tag Manager -->
-
-
-
-<body class="aos-all" id="transcroller-body">
+<<?php $use_local_bootstrap = true; include('header.php'); ?>
+<link href="assets/landingpage/css/slider-landing.css" type="text/css" rel="stylesheet" />
+<link href="assets/landingpage/css/landing-page.css" type="text/css" rel="stylesheet" />
+<link href="assets/landingpage/css/toogle-slide.css" type="text/css" rel="stylesheet" />
+<link href="assets/landingpage/css/about.css" type="text/css" rel="stylesheet" />
+<link href="assets/landingpage/css/shorttermcourse.css" type="text/css" rel="stylesheet" />
+<link href="assets/landingpage/image/favicon32.png" rel="shortcut icon">
+<link href="assets/landingpage/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="assets/landingpage/css/animate.css" rel="stylesheet">
+<link href="assets/landingpage/css/aos.css" rel="stylesheet">
+<link href="assets/css/faq.css" type="text/css" rel="stylesheet" />\n<body class="aos-all" id="transcroller-body">
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K3N4DF4B" height="0" width="0"
             style="display:none;visibility:hidden"></iframe></noscript>
@@ -62,7 +46,7 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
 
                             <div class="course-features mtb-40">
                                 <div class="features">
-                                    <img src="landingpage/assets/image/landing-page/live-one.png" alt="Icon">
+                                    <img src="assets/landingpage/image/landing-page/live-one.png" alt="Icon">
                                     <div class="typo-pills"> Affordable Fees </div>
                                 </div><!--/features-->
 
@@ -162,9 +146,9 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
                         <div class="col-lg-4 col-md-4 col-6">
                             <div class="icon-box aos-init aos-animate" data-aos="fade-up" data-aos-delay="50">
                                 <div class="icon">
-                                    <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
+                                    <img src="assets/landingpage/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
                                         class="without-hover">
-                                    <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions-white.png"
+                                    <img src="assets/landingpage/image/icon/Doubt-Clearing-Sessions-white.png"
                                         alt="Icon" class="with-hover">
                                 </div>
                                 <h4>Practical, expert - Led training </h4>
@@ -173,9 +157,9 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
                         <div class="col-lg-4 col-md-4 col-6">
                             <div class="icon-box aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
                                 <div class="icon">
-                                    <img src="landingpage/assets/image/icon/Industry-skills.png" alt="Icon"
+                                    <img src="assets/landingpage/image/icon/Industry-skills.png" alt="Icon"
                                         class="without-hover">
-                                    <img src="landingpage/assets/image/icon/Industry-skills-white.png" alt="Icon"
+                                    <img src="assets/landingpage/image/icon/Industry-skills-white.png" alt="Icon"
                                         class="with-hover">
 
                                 </div>
@@ -186,9 +170,9 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
                         <div class="col-lg-4 col-md-4 col-6">
                             <div class="icon-box aos-init aos-animate" data-aos="fade-up" data-aos-delay="150">
                                 <div class="icon">
-                                    <img src="landingpage/assets/image/icon/Flexibility.png" alt="Icon"
+                                    <img src="assets/landingpage/image/icon/Flexibility.png" alt="Icon"
                                         class="without-hover">
-                                    <img src="landingpage/assets/image/icon/Flexibility-white.png" alt="Icon"
+                                    <img src="assets/landingpage/image/icon/Flexibility-white.png" alt="Icon"
                                         class="with-hover">
                                 </div>
                                 <!--<h4>Flexibility</h4>-->
@@ -198,9 +182,9 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
                         <div class="col-lg-4 col-md-4 col-6">
                             <div class="icon-box aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
                                 <div class="icon">
-                                    <img src="landingpage/assets/image/icon/High-demand.png" alt="Icon"
+                                    <img src="assets/landingpage/image/icon/High-demand.png" alt="Icon"
                                         class="without-hover">
-                                    <img src="landingpage/assets/image/icon/High-demand-white.png" alt="Icon"
+                                    <img src="assets/landingpage/image/icon/High-demand-white.png" alt="Icon"
                                         class="with-hover">
                                 </div>
                                 <!--<h4>High demand</h4>-->
@@ -210,9 +194,9 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
                         <div class="col-lg-4 col-md-4 col-6">
                             <div class="icon-box aos-init aos-animate" data-aos="fade-up" data-aos-delay="250">
                                 <div class="icon">
-                                    <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
+                                    <img src="assets/landingpage/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
                                         class="without-hover">
-                                    <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions-white.png"
+                                    <img src="assets/landingpage/image/icon/Doubt-Clearing-Sessions-white.png"
                                         alt="Icon" class="with-hover">
                                 </div>
                                 <!--<h4>High demand</h4>-->
@@ -222,9 +206,9 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
                         <div class="col-lg-4 col-md-4 col-6">
                             <div class="icon-box aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
                                 <div class="icon">
-                                    <img src="landingpage/assets/image/icon/Placement-support.png" alt="Icon"
+                                    <img src="assets/landingpage/image/icon/Placement-support.png" alt="Icon"
                                         class="without-hover">
-                                    <img src="landingpage/assets/image/icon/Placement-support-white.png" alt="Icon"
+                                    <img src="assets/landingpage/image/icon/Placement-support-white.png" alt="Icon"
                                         class="with-hover">
                                 </div>
                                 <!--<h4>Placement support</h4>-->
@@ -1216,3 +1200,4 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
 
 
     <?php include('footer.php'); ?>
+

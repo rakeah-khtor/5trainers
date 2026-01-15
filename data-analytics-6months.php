@@ -5,11 +5,11 @@ $canonical_url = "https://www.5trainers.com/data-analytics-6months.php";
 ?>
 <?php include('header.php'); ?>
 
-<link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/toogle-slide.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/shorttermcourse.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/coursedetails.css" type="text/css" rel="stylesheet" />
+<link href="assets/landingpage/css/landing-page.css" type="text/css" rel="stylesheet" />
+<link href="assets/landingpage/css/slider-landing.css" type="text/css" rel="stylesheet" />
+<link href="assets/landingpage/css/toogle-slide.css" type="text/css" rel="stylesheet" />
+<link href="assets/landingpage/css/shorttermcourse.css" type="text/css" rel="stylesheet" />
+<link href="assets/landingpage/css/coursedetails.css" type="text/css" rel="stylesheet" />
 <!--Slider-->
 <section id="slide-show" class="setbg landignsetbg">
     <div class="custom-container width90">
@@ -188,7 +188,7 @@ $canonical_url = "https://www.5trainers.com/data-analytics-6months.php";
                                 <li class="icon-list-item tab active one">
                                     <a href="#">
                                         <span class="icon-list-icon"><img
-                                                src="landingpage/assets/image/icon/arrow22.png" alt="Arrow"></span>
+                                                src="assets/landingpage/image/icon/arrow22.png" alt="Arrow"></span>
                                         <div class="weekdivision">
                                             <span class="icon-list-text">Module A</span>
                                             <h6>Python Training for Data Analytics</h6>
@@ -198,7 +198,7 @@ $canonical_url = "https://www.5trainers.com/data-analytics-6months.php";
                                 <li class="icon-list-item tab two">
                                     <a href="#">
                                         <span class="icon-list-icon"><img
-                                                src="landingpage/assets/image/icon/arrow22.png" alt="Arrow"></span>
+                                                src="assets/landingpage/image/icon/arrow22.png" alt="Arrow"></span>
                                         <div class="weekdivision">
                                             <span class="icon-list-text">Module B</span>
                                             <h6>SQL Training</h6>
@@ -208,7 +208,7 @@ $canonical_url = "https://www.5trainers.com/data-analytics-6months.php";
                                 <li class="icon-list-item tab three">
                                     <a href="#">
                                         <span class="icon-list-icon"><img
-                                                src="landingpage/assets/image/icon/arrow22.png" alt="Arrow"></span>
+                                                src="assets/landingpage/image/icon/arrow22.png" alt="Arrow"></span>
                                         <div class="weekdivision">
                                             <span class="icon-list-text">Module C</span>
                                             <h6>Power BI Training</h6>
@@ -218,7 +218,7 @@ $canonical_url = "https://www.5trainers.com/data-analytics-6months.php";
                                 <li class="icon-list-item tab four">
                                     <a href="#">
                                         <span class="icon-list-icon"><img
-                                                src="landingpage/assets/image/icon/arrow22.png" alt="Arrow"></span>
+                                                src="assets/landingpage/image/icon/arrow22.png" alt="Arrow"></span>
                                         <div class="weekdivision">
                                             <span class="icon-list-text">Module D</span>
                                             <h6>Tableau Training</h6>
@@ -228,7 +228,7 @@ $canonical_url = "https://www.5trainers.com/data-analytics-6months.php";
                                 <li class="icon-list-item tab four">
                                     <a href="#">
                                         <span class="icon-list-icon"><img
-                                                src="landingpage/assets/image/icon/arrow22.png" alt="Arrow"></span>
+                                                src="assets/landingpage/image/icon/arrow22.png" alt="Arrow"></span>
                                         <div class="weekdivision">
                                             <span class="icon-list-text">Module E</span>
                                             <h6>Advanced Excel Training</h6>
@@ -369,7 +369,7 @@ $canonical_url = "https://www.5trainers.com/data-analytics-6months.php";
                     <div class="course-journey-card-desktop one">
                         <div class="course-journey-card-desktop-wrapper">
                             <div class="emoji">
-                                <img alt="Iocn" src="landingpage/assets/image/icon/Certification-Ready.png">
+                                <img alt="Iocn" src="assets/landingpage/image/icon/Certification-Ready.png">
                                 <div class="gesture-notch notch-0 zen-typo-pills"> Expert Trainers </div>
                             </div>
                             <div class="side-tracker-container">
@@ -394,7 +394,7 @@ $canonical_url = "https://www.5trainers.com/data-analytics-6months.php";
                     <div class="course-journey-card-desktop two">
                         <div class="course-journey-card-desktop-wrapper">
                             <div class="emoji">
-                                <img alt="Iocn" class="" src="landingpage/assets/image/icon/Hands-on-Assignments.png">
+                                <img alt="Iocn" class="" src="assets/landingpage/image/icon/Hands-on-Assignments.png">
                                 <div class="gesture-notch notch-0 zen-typo-pills"> Live Projects </div>
                             </div>
                             <div class="side-tracker-container">
@@ -419,7 +419,7 @@ $canonical_url = "https://www.5trainers.com/data-analytics-6months.php";
                     <div class="course-journey-card-desktop three">
                         <div class="course-journey-card-desktop-wrapper">
                             <div class="emoji">
-                                <img alt="Iocn" class="" src="landingpage/assets/image/icon/Live-Q&A.png">
+                                <img alt="Iocn" class="" src="assets/landingpage/image/icon/Live-Q&A.png">
                                 <div class="gesture-notch notch-0 zen-typo-pills"> Career Support </div>
                             </div>
                             <div class="side-tracker-container">
@@ -445,7 +445,7 @@ $canonical_url = "https://www.5trainers.com/data-analytics-6months.php";
                     <div class="course-journey-card-desktop four">
                         <div class="course-journey-card-desktop-wrapper">
                             <div class="emoji">
-                                <img alt="Iocn" class="" src="landingpage/assets/image/icon/SMO-Tool-Access.png">
+                                <img alt="Iocn" class="" src="assets/landingpage/image/icon/SMO-Tool-Access.png">
                                 <div class="gesture-notch notch-0 zen-typo-pills"> Certification </div>
                             </div>
                             <div class="side-tracker-container">
@@ -472,7 +472,7 @@ $canonical_url = "https://www.5trainers.com/data-analytics-6months.php";
                     <div class="course-journey-card-desktop five">
                         <div class="course-journey-card-desktop-wrapper">
                             <div class="emoji">
-                                <img alt="Iocn" class="" src="landingpage/assets/image/icon/access.png">
+                                <img alt="Iocn" class="" src="assets/landingpage/image/icon/access.png">
                                 <div class="gesture-notch notch-0 zen-typo-pills"> Lifetime Access </div>
                             </div>
                             <div class="side-tracker-container">
@@ -632,9 +632,9 @@ $canonical_url = "https://www.5trainers.com/data-analytics-6months.php";
                     <div class="col-lg-4 col-md-4 col-6">
                         <div class="icon-box aos-init aos-animate" data-aos="fade-up" data-aos-delay="50">
                             <div class="icon">
-                                <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
+                                <img src="assets/landingpage/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
                                     class="without-hover">
-                                <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions-white.png" alt="Icon"
+                                <img src="assets/landingpage/image/icon/Doubt-Clearing-Sessions-white.png" alt="Icon"
                                     class="with-hover">
                             </div>
                             <h4>Data Analyst</h4>
@@ -643,9 +643,9 @@ $canonical_url = "https://www.5trainers.com/data-analytics-6months.php";
                     <div class="col-lg-4 col-md-4 col-6">
                         <div class="icon-box aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
                             <div class="icon">
-                                <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
+                                <img src="assets/landingpage/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
                                     class="without-hover">
-                                <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions-white.png" alt="Icon"
+                                <img src="assets/landingpage/image/icon/Doubt-Clearing-Sessions-white.png" alt="Icon"
                                     class="with-hover">
                             </div>
                             <h4>Business Intelligence Analyst</h4>
@@ -654,9 +654,9 @@ $canonical_url = "https://www.5trainers.com/data-analytics-6months.php";
                     <div class="col-lg-4 col-md-4 col-6">
                         <div class="icon-box aos-init aos-animate" data-aos="fade-up" data-aos-delay="150">
                             <div class="icon">
-                                <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
+                                <img src="assets/landingpage/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
                                     class="without-hover">
-                                <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions-white.png" alt="Icon"
+                                <img src="assets/landingpage/image/icon/Doubt-Clearing-Sessions-white.png" alt="Icon"
                                     class="with-hover">
                             </div>
                             <h4>Reporting Analyst</h4>
@@ -665,9 +665,9 @@ $canonical_url = "https://www.5trainers.com/data-analytics-6months.php";
                     <div class="col-lg-4 col-md-4 col-6">
                         <div class="icon-box aos-init" data-aos="fade-up" data-aos-delay="200">
                             <div class="icon">
-                                <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
+                                <img src="assets/landingpage/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
                                     class="without-hover">
-                                <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions-white.png" alt="Icon"
+                                <img src="assets/landingpage/image/icon/Doubt-Clearing-Sessions-white.png" alt="Icon"
                                     class="with-hover">
                             </div>
                             <h4>Data Visualization Specialist</h4>
@@ -676,9 +676,9 @@ $canonical_url = "https://www.5trainers.com/data-analytics-6months.php";
                     <div class="col-lg-4 col-md-4 col-6">
                         <div class="icon-box aos-init" data-aos="fade-up" data-aos-delay="250">
                             <div class="icon">
-                                <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
+                                <img src="assets/landingpage/image/icon/Doubt-Clearing-Sessions.png" alt="Icon"
                                     class="without-hover">
-                                <img src="landingpage/assets/image/icon/Doubt-Clearing-Sessions-white.png" alt="Icon"
+                                <img src="assets/landingpage/image/icon/Doubt-Clearing-Sessions-white.png" alt="Icon"
                                     class="with-hover">
                             </div>
                             <h4>SQL Developer</h4>
