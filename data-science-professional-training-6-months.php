@@ -7,7 +7,7 @@ $canonical_url = "https://www.5trainers.com/data-science-professional-training-6
 <link href="landingpage/assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
 <!--Slider-->
 <section id="slide-show" class="setbg landignsetbg">
-    <div class="custom-container width80">
+    <div class="custom-container width90">
         <div class="hero-main">
             <div class="row">
                 <div class="col-lg-7 data-science">
@@ -116,7 +116,7 @@ $canonical_url = "https://www.5trainers.com/data-science-professional-training-6
 </section>
 <!--/Slider-->
 <section class="container-fluid slider-hding">
-    <div class="custom-container width80">
+    <div class="custom-container width90">
         <div class="row">
             <div class="col-lg-12">
                 <div class="buildText">
@@ -132,7 +132,7 @@ $canonical_url = "https://www.5trainers.com/data-science-professional-training-6
 </section>
 
 <section class="continer-fluid pt pb counseling">
-    <div class="no-container width80">
+    <div class="no-container width90">
         <div class="row">
             <div class="col-lg-7">
                 <div class="section-title-area">
@@ -177,7 +177,7 @@ $canonical_url = "https://www.5trainers.com/data-science-professional-training-6
 </section>
 <section class="container-fluid pb learning-paths dataScience">
     <div class="content-wrapper">
-        <div class="nocontainer width80">
+        <div class="nocontainer width90">
             <div class="row serviceProcess">
                 <div class="col-lg-4">
                     <div class="servicePBox">
@@ -346,7 +346,7 @@ $canonical_url = "https://www.5trainers.com/data-science-professional-training-6
 
 <section class="container-fluid pb pt keyHighlights">
     <div class="content-wrapper">
-        <div class="nocontainer width80">
+        <div class="nocontainer width90">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area text-center width70">
@@ -401,7 +401,7 @@ $canonical_url = "https://www.5trainers.com/data-science-professional-training-6
 </section><!--/Key Highlights -->
 
 <section class="container-fluid pt pb whyShould">
-    <div class="no-container width80">
+    <div class="no-container width90">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area text-center">
@@ -509,7 +509,7 @@ $canonical_url = "https://www.5trainers.com/data-science-professional-training-6
 
 
 <section class="container-fluid pt pb learning-paths batchDetails">
-    <div class="no-container width80">
+    <div class="no-container width90">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area text-center">
@@ -695,7 +695,7 @@ $canonical_url = "https://www.5trainers.com/data-science-professional-training-6
 <!--/Our Student Got Into-->
 
 <section class="container-fluid pt pb faqSection">
-    <div class="no-container width80">
+    <div class="no-container width90">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area white-heading">

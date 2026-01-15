@@ -930,7 +930,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-airport-
 
     <!--/breadcrumbs start-->
     <section class="continer-fluid pb about5trainer ">
-        <div class="nocontainer width80">
+        <div class="nocontainer width90">
             <div class="row aboutrowhding">
                 <div class="col-lg-5 col-md-12 col-sm-12">
                     <div class="about5trainerImage">
@@ -1186,7 +1186,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-airport-
     </section>
     <!--  -->
     <section class="our-location py-5">
-  <div class="no-container width80">
+  <div class="no-container width90">
     <h2 class="text-center mb-4 fw-bold">Our Location</h2>
 
     <div class="row g-4">
@@ -1246,7 +1246,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-airport-
 </section>
     <!-- faq -->
     <section class="container-fluid pt pb faq">
-        <div class="custom-container width80">
+        <div class="custom-container width90">
             <span class="section-subtitle section-subtitle-2 text-center">Frequently Asked Questions (FAQs) –
                 Airport Road Chandigarh</span>
             <div class="row">

@@ -35,7 +35,7 @@ $canonical_url = "https://www.5trainers.com/contact.php";
 		</section>
 <!--/breadcrumbs-->
 <section class="continer-fluid pb pt contact-info comm-margin over-dm">
-	<div class="no-container width80 ">
+	<div class="no-container width90 ">
 		<div class="row">
 			<div class="col-md-7 col-lg-6">
 				<div class="contact-outer">
@@ -107,7 +107,7 @@ $canonical_url = "https://www.5trainers.com/contact.php";
 </section><!--/contact info-->
 
 <section class="continer-fluid pb pt contactform">
-	<div class="no-container width80 ">
+	<div class="no-container width90 ">
 		<div class="row">
 			<div class="col-lg-12"></div>
 		</div><!--/row-->

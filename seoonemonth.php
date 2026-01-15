@@ -12,7 +12,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
 <link href="landingpage/assets/css/coursedetails.css" type="text/css" rel="stylesheet" />
 <!--Slider-->
 <section id="slide-show" class="setbg landignsetbg">
-    <div class="custom-container width80">
+    <div class="custom-container width90">
         <div class="">
             <div class="row">
                 <div class="col-lg-7">
@@ -171,7 +171,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
 </section><!--/Slider-->
 <span id="top"></span>
 <section class="container-fluid slider-hding">
-    <div class="custom-container width80">
+    <div class="custom-container width90">
         <div class="row">
             <div class="col-lg-12">
                 <div class="buildText">
@@ -184,7 +184,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
 </section><!--/slider Heading-->
 
 <section class="container-fluid about-sec pt pb aos-all" id="transcroller-body">
-    <div class="no-container width80">
+    <div class="no-container width90">
         <div class="row">
             <div class="col-sm-12 col-md-12 col-lg-12 align-self-center">
                 <div class="about-us-info-wrap">
@@ -221,7 +221,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
 </section><!--/SEO Course Overview-->
 
 <section class="contaianer-fluid pt pb courseModules">
-    <div class="cutom-container width80">
+    <div class="cutom-container width90">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area text-center centerhding">
@@ -491,7 +491,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
 
 
 <section class="features-2 pt pb">
-    <div class="custom-container width80">
+    <div class="custom-container width90">
         <div class="row align-items-center">
             <div class="col-12 col-xl-6">
                 <div class="row mtm-30">
@@ -576,7 +576,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
     </div>
 </section>
 <section class="contaianer-fluid pt pb skill-cover">
-    <div class="cutom-container width80">
+    <div class="cutom-container width90">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area text-center centerhding">
@@ -678,7 +678,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
 </section><!--/placement-->
 
 <section class="container-fluid download">
-    <div class="custom-container width80">
+    <div class="custom-container width90">
         <div class="row">
             <div class="col-md-8 col-lg-6">
                 <h1 data-aos="fade-up" data-aos-duration="800" class="section-title">Take your career to the next
@@ -705,7 +705,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
     </div>
 </section>
 <section class="container-fluid pt pb certificateProgram">
-    <div class="custom-container width80">
+    <div class="custom-container width90">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area">
@@ -765,7 +765,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
 </section><!--/Globally recognized certificate program-->
 
 <section class="container-fluid pt haveQuestion">
-    <div class="custom-container width80">
+    <div class="custom-container width90">
         <div class="row">
             <div class="col-lg-5">
                 <div class="haveQues-image">
@@ -852,7 +852,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
         </div>
 </section><!--/have any questions-->
 <section id="faqSec" class="container-fluid pt pb faq">
-    <div class="custom-container width80">
+    <div class="custom-container width90">
         <div class="row">
             <div class="col-sm-12 col-lg-12">
                 <div class="section-title-area text-center">

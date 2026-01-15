@@ -118,7 +118,7 @@ $canonical_url = "https://www.5trainers.com/digitalmarketingcourse.php";
 <!--?php include ('landingpage/shorttermcourse.php'); ?-->
 
 <section class="container-fluid slider-hding">
-    <div class="custom-container width80">
+    <div class="custom-container width90">
         <div class="row">
             <div class="col-lg-12">
                 <div class="buildText">
@@ -132,7 +132,7 @@ $canonical_url = "https://www.5trainers.com/digitalmarketingcourse.php";
 </section><!--/slider Heading-->
 
 <section class="features-2 pt pb">
-    <div class="custom-container width80">
+    <div class="custom-container width90">
         <div class="row align-items-center">
             <div class="col-12 col-xl-6">
                 <div class="row mtm-30">
@@ -218,7 +218,7 @@ $canonical_url = "https://www.5trainers.com/digitalmarketingcourse.php";
 </section>
 
 <section class="container-fluid about-sec digitalcourse pt pb aos-all" id="transcroller-body">
-    <div class="no-container width80">
+    <div class="no-container width90">
         <div class="row">
             <div class="col-sm-9 col-md-12 col-lg-9 align-self-center">
                 <div class="about-us-info-wrap">
@@ -373,7 +373,7 @@ $canonical_url = "https://www.5trainers.com/digitalmarketingcourse.php";
 <?php include('placement-certificate-havequestion.php'); ?>
 
 <section class="our-location py-5">
-  <div class="no-container width80">
+  <div class="no-container width90">
     <h2 class="text-center mb-4 fw-bold">Our Location</h2>
 
     <div class="row g-4">
@@ -435,7 +435,7 @@ $canonical_url = "https://www.5trainers.com/digitalmarketingcourse.php";
 
 
 <section id="faqSec" class="container-fluid pt pb faq">
-    <div class="custom-container width80">
+    <div class="custom-container width90">
         <div class="row">
             <div class="col-sm-12 col-lg-12">
                 <div class="section-title-area text-center">

@@ -38,7 +38,7 @@ $canonical_url = "https://5trainers.com/about-us.php"; ?>
 </section><!--/breadcrumbs-->
 
 <section class="continer-fluid pb about5trainer comm-margin">
-	<div class="nocontainer width80">
+	<div class="nocontainer width90">
 		<div class="row aboutrowhding">
 			<div class="col-lg-5 col-md-12 col-sm-12 Digital-about">
 				<div class="about5trainerImage">
@@ -161,7 +161,7 @@ $canonical_url = "https://5trainers.com/about-us.php"; ?>
 </section><!--/about 5Trainer-->
 
 <section class="container-fluid pt pb whyChooseUs passionMeets" style="display: none;">
-	<div class="no-container width80">
+	<div class="no-container width90">
 		<div class="row">
 			<div class="col-lg-12">
 				<div class="section-title-area white-heading">
@@ -213,10 +213,10 @@ $canonical_url = "https://5trainers.com/about-us.php"; ?>
 	</div>
 </section><!--/Where Passion Meets Culinary Mastery-->
 <section class="container-fluid pt pb consultExpert">
-	<div class="no-container width80">
+	<div class="no-container width90">
 		<div class="row">
 			<div class="col-lg-6">
-				<div class="section-title-area setwidth80">
+				<div class="section-title-area setwidth90">
 					<span class="section-subtitle section-subtitle-2">5Trainers?</span>
 					<h3 data-aos="fade-up" data-aos-duration="500" class="section-title aos-init aos-animate">Why Choose
 						5Trainers?</h3>
@@ -284,7 +284,7 @@ $canonical_url = "https://5trainers.com/about-us.php"; ?>
 </section><!--/why choose 5Triners-->
 
 <section class="continer-fluid pt pb how-to-work">
-	<div class="nocontainer width80">
+	<div class="nocontainer width90">
 		<div class="row">
 			<div class="col-lg-12">
 				<div class="section-title-area centerhding">
@@ -417,7 +417,7 @@ $canonical_url = "https://5trainers.com/about-us.php"; ?>
 </section><!--/how to work-->
 
 <!-- <section class="continer-fluid pt pb our-team">
-	<div class="no-container width80">
+	<div class="no-container width90">
 		<div class="row">
 			<div class="col-lg-12">
 				<div class="section-title-area centerhding">
@@ -516,7 +516,7 @@ $canonical_url = "https://5trainers.com/about-us.php"; ?>
 
 
 <section class="container-fluid pt pb our-team">
-	<div class="no-container width80">
+	<div class="no-container width90">
 		<div class="row">
 			<div class="col-lg-12">
 				<div class="section-title-area centerhding">

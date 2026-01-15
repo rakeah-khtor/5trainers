@@ -1,5 +1,5 @@
 <section class="contaianer-fluid pt pb skill-cover">
-    <div class="cutom-container width80">
+    <div class="cutom-container width90">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area text-center centerhding">
@@ -98,7 +98,7 @@
 </section><!--/skill cover-->
 
 <section class="contaianer-fluid pt pb howitwork">
-    <div class="cutom-container width80">
+    <div class="cutom-container width90">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area whitetext centerhding">
@@ -178,7 +178,7 @@
 </section><!--/Tool Covered-->
 
 <section class="contaianer-fluid pt pb studentParticipation" style="display:none;">
-    <div class="cutom-container width80">
+    <div class="cutom-container width90">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area text-center">
@@ -254,7 +254,7 @@
 </section><!--/Project Agile Activity with Student Participation-->
 
 <section class="container-fluid pt pb fresherJob">
-    <div class="custom-container width80">
+    <div class="custom-container width90">
         <div class="row">
             <!-- Fixed Left Column -->
             <div class="col-lg-4 col-md-5 left-fixed">
