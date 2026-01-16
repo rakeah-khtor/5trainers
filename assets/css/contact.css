@@ -65,7 +65,7 @@
 }
 /*.contactbanner {background:url(../image/slider/contact-page.jpg) no-repeat center;}*/
 .contactform {
-  background: url(../image/bg/bg3.png) no-repeat top right;
+  /* background: url(../image/bg/bg3.png) no-repeat top right; */
   background-color: #f4feff;
   position: relative;
   overflow: hidden;

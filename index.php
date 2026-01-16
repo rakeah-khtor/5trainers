@@ -19,7 +19,8 @@ $canonical_url = "https://www.5trainers.com/index.php";
                 </div>
                 <div class="col-sm-6 col-md-6 col-lg-5">
                     <div class="banner-img-box">
-                        <img src="assets/image/slider/hero-benner.png" loading="lazy" class="bannerimg img-fluid" alt="image">
+                        <!-- <img src="assets/image/slider/benner.png" loading="lazy" class="bannerimg img-fluid" alt="image"> -->
+                        <img src="assets/image/slider/benners.png" loading="lazy" class="bannerimg img-fluid" alt="image">
                     </div>
                 </div>
             </div>
@@ -143,11 +144,11 @@ $canonical_url = "https://www.5trainers.com/index.php";
         </div>
     </div>
 </section><!--/about -->
-<section class="container-fluid pt pb meetOurExperts">
+<section class="container-fluid pt pb meetOurExperts loading='lazy' ">
     <div class="no-container width90">
         <div class="row">
             <div class="col-lg-7">
-                <div class="section-title-area white-heading">
+                <div class="section-title-area white-heading ">
                     <h3 data-aos="fade-up" data-aos-duration="1000" class="section-title">Explore Our Courses</h3>
                     <p data-aos="fade-up" data-aos-duration="1700" class="aos-init aos-animate">At 5Trainers, we
                         offer practical, job-ready digital marketing courses designed to empower beginners and

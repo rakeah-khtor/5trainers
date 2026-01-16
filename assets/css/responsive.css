@@ -651,9 +651,7 @@
   .courseModules .feature-card .unordered-list {
     white-space: normal;
   }
-  .digital-main {
-    /* margin-top: 110px !important; */
-  }
+
   .seo-main {
     margin-top: 50px !important;
   }
@@ -829,13 +827,7 @@
     line-height: 18px;
     margin: 0;
   }
-  .bg1,
-  .bg2,
-  .bg3,
-  .bg4 {
-    /* height: 50vh; */
-    /* top: 115px; */
-  }
+
   nav{
     top: 25px;
   }
@@ -2235,12 +2227,7 @@
   .banner-img-box .circle1 {
     top: 90px;
   }
-  .bg1,
-  .bg2,
-  .bg3,
-  .bg4 {
-    /* top: 115px; */
-  }
+
   nav {
     top: 25px;
   }
@@ -2353,9 +2340,7 @@
   .ftr {
     padding-top: 0px;
   }
-  .breadcumb {
-    /* margin-top: 80px; */
-  }
+
   .abtinfo p.highlight-p {
     margin-bottom: 0 !important;
     font-size: 16px !important;
@@ -3528,12 +3513,7 @@
   .menu {
     height: 80px;
   }
-  .bg1,
-  .bg2,
-  .bg3,
-  .bg4 {
-    /* top: 130px; */
-  }
+
   #slide-show{
     height: 100vh;
     min-height: 100vh;
