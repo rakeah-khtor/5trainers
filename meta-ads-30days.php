@@ -160,7 +160,7 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
             <div class="col-lg-5">
                 <div class="counselingAbout">
                     <!-- <img src="assets/image/slider/counseling-for-students.png" class="img-fluid" alt="Counseling"> -->
-                    <img src="assets/image/slider/counseling-for-student.png" class="img-fluid" alt="Counseling">
+                    <img src="assets/image/slider/counseling-for-student.png" loading="lazy" class="img-fluid" alt="Counseling">
                 </div>
             </div>
             <!--/col-->
@@ -641,7 +641,7 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
                 </div>
                 <!--heading-->
                 <!-- <div class="faqimg"><img src="assets/image/services/faq-bg.png" alt="" class="img-fluid"></div> -->
-                <div class="faqimg"><img src="assets/image/services/Q-A.png" alt="" class="img-fluid"></div>
+                <div class="faqimg"><img src="assets/image/services/Q-A.png" loading="lazy" alt="" class="img-fluid"></div>
             </div>
             <div class="col-sm-7 col-lg-6">
                 <div class="accordion rpt mt-80">

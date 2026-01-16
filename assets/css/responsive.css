@@ -4216,14 +4216,14 @@
     width: 180px;
   }
   #slide-show{
-        height: 100vh;
-    min-height: 100vh;
+        height: 110vh;
+    min-height: 110vh;
   }
   .mtb-40{
         margin: 10px 0 !important;
   }
   .slide-text h2 {
-    font-size: 35px !important;
+    font-size: 28px !important;
   }
 
   .nav-links li a {

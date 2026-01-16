@@ -318,7 +318,7 @@ $canonical_url = "https://www.5trainers.com/smm.php";
 			<div class="col-md-4 col-lg-6">
 				<div class="CI5-imag aos-item aos-init aos-animate" data-aos="zoom-out-down" data-aos-duration="1600">
 					<!-- <img src="assets/image/services/help-desk1.png" alt="" class="img-fluid"></div> -->
-					<img src="assets/image/services/help-service.png" alt="help-service" class="img-fluid"></div>
+					<img src="assets/image/services/help-service.png" loading="lazy" alt="help-service" class="img-fluid"></div>
 			</div><!--/col-->
 		</div>
 	</div>
@@ -352,7 +352,7 @@ $canonical_url = "https://www.5trainers.com/smm.php";
 						and Immigration Consultant service provider. Branches in Delhi and overseas state.</p>
 				</div>
 				<!-- <div class="faqimg"><img src="assets/image/services/faq-digital.png" alt="" class="img-fluid"></div> -->
-				<div class="faqimg"><img src="assets/image/services/MAIN-FAQ.png" alt="" class="img-fluid"></div>
+				<div class="faqimg"><img src="assets/image/services/MAIN-FAQ.png" loading="lazy" alt="" class="img-fluid"></div>
 			</div>
 			<div class="col-sm-7 col-lg-6">
 				<div class="accordion rpt">

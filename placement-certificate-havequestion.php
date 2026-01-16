@@ -1,5 +1,5 @@
 <section class="contaianer-fluid pt pb skill-cover">
-    <div class="cutom-container width90">
+    <div class="cutom-container width80">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area text-center centerhding">
@@ -95,7 +95,7 @@
 </section><!--/placement-->
 
 <section class="container-fluid download">
-    <div class="custom-container width90">
+    <div class="custom-container width80">
         <div class="row">
             <div class="col-md-8 col-lg-6">
                 <h2 data-aos="fade-up" data-aos-duration="800" class="section-title">Take your career to the next level!
@@ -108,7 +108,7 @@
     </div>
 </section>
 <section class="container-fluid pt pb certificateProgram">
-    <div class="custom-container width90">
+    <div class="custom-container width80">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area">
@@ -167,7 +167,7 @@
     </div>
 </section><!--/Globally recognized certificate program-->
 <section class="container-fluid pt haveQuestion">
-    <div class="custom-container width90">
+    <div class="custom-container width80">
         <div class="row">
             <div class="col-lg-5">
                 <div class="section-title-area">

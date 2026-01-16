@@ -19,7 +19,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
                 </div>
                 <div class="col-sm-6 col-md-6 col-lg-5">
                     <div class="banner-img-box">
-                        <img src="assets/image/slider/hero-benner.png " class="bannerimg img-fluid" alt="image">
+                        <img src="assets/image/slider/hero-benner.png" loading="lazy" class="bannerimg img-fluid" alt="image">
                     </div>
                 </div>
             </div>
@@ -110,7 +110,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
         <div class="row">
             <div class="col-sm-5 col-md-12 col-lg-5 align-self-center">
                 <div data-aos="fade-up" data-aos-duration="800" class="about-us-img-wrap about-img-left">
-                    <img src="assets/image/about/about-2.png" alt="About Us Image" class="img-fluid">
+                    <img src="assets/image/about/about-2.png" loading="lazy" alt="About Us Image" class="img-fluid">
                 </div>
             </div>
             <div class="col-sm-7 col-md-12 col-lg-7 align-self-center">
@@ -276,7 +276,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
             </div>
             <div class="col-lg-5 col-md-12">
                 <div data-aos="zoom-out-left" data-aos-duration="1700" class="features-image">
-                    <img class="img-fluid" src="assets/image/about/features1.png  " alt="image" />
+                    <img class="img-fluid" src="assets/image/about/features1.png " loading="lazy"    alt="image" />
                 </div>
             </div>
         </div>
@@ -782,7 +782,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
             <div class="col-lg-4">
                 <div class="placementAssistanceImage">
                     <!-- <img src="assets/image/other/success-growing.png" alt="Success Growing" class="img-fluid"> -->
-                    <img src="assets/image/other/Your-Career.png" alt="Success Growing" class="img-fluid">
+                    <img src="assets/image/other/Your-Career.png" loading="lazy" alt="Success Growing" class="img-fluid">
                 </div>
             </div><!--/col-->
         </div><!--/row-->
@@ -1003,7 +1003,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
                 </div>
                 <!--heading-->
                 <!-- <div class="faqimg"><img src="assets/image/services/faq-bg.png" alt="" class="img-fluid"></div> -->
-                <div class="faqimg mt-5"><img src="assets/image/services/Q-A.png" alt="" class="img-fluid"></div>
+                <div class="faqimg mt-5"><img src="assets/image/services/Q-A.png" loading="lazy" alt="" class="img-fluid"></div>
             </div>
             <div class="col-sm-7 col-lg-6">
                 <div class="accordion rpt mt-80">

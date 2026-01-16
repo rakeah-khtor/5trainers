@@ -94,11 +94,11 @@ $canonical_url = "https://www.5trainers.com/contact.php";
 			</div><!--/col-->
 			<div class="col-md-5 col-lg-6">
 				<div class="cont-info-details one aos-init aos-animate" data-aos="fade-right" data-aos-duration="800">
-					<div class="shape-img-2"><img class="img-fluid" src="assets/image/shape/shape-img-2.png"
+					<div class="shape-img-2"><img class="img-fluid" src="assets/image/shape/shape-img-2.png" loading="lazy"
 							alt="Image"></div>
 					<div class="get-image">
 						<!-- <img class="img-fluid" src="assets/image/contact/contact-sec-img.png" alt="image"> -->
-						<img src="assets/image/contact/contact-img1.png" alt="Image" class="img-fluid">
+						<img src="assets/image/contact/contact-img1.png" loading="lazy" alt="Image" class="img-fluid">
 					</div>
 				</div>
 			</div>
@@ -117,7 +117,7 @@ $canonical_url = "https://www.5trainers.com/contact.php";
 					<div class="contact-content-thumb aos-init aos-animate" data-aos="fade-down-right"
 						data-aos-duration="1000">
 						<!-- <img src="assets/image/contact/contact-img.png" alt="Image" class="img-fluid"> -->
-						 <img class="img-fluid" src="assets/image/contact/contact-us.png" alt="image">
+						 <img class="img-fluid" src="assets/image/contact/contact-us.png" loading="lazy" alt="image">
 					</div>
 					<!-- <img src="assets/image/contact/contact-border.png" alt="Image" class="contact-content-border"> -->
 				</div>

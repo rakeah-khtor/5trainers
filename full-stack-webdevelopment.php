@@ -199,7 +199,7 @@ $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
         <div class="row">
             <div class="col-sm-5 col-md-12 col-lg-5 align-self-center">
                 <div data-aos="fade-up" data-aos-duration="800" class="about-us-img-wrap about-img-left">
-                    <img src="assets/image/about/about-2.png" alt="About Us Image" class="img-fluid">
+                    <img src="assets/image/about/about-2.png" loading="lazy"     alt="About Us Image" class="img-fluid">
                 </div>
             </div>
             <div class="col-sm-7 col-md-12 col-lg-7 align-self-center">
