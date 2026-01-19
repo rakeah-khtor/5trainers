@@ -598,9 +598,10 @@
                             <div class="modal-content">
                                 <span class="close-btn" onclick="closeModal()">&times;</span>
                                 <h2>Request Callback</h2>
-                                <form action="https://formsubmit.co/sejalneedleads@gmail.com" method="POST">
-                                    <input type="text" placeholder="Your Name">
-                                    <input type="tel" placeholder="Phone Number">
+                                <form action="sendmail.php" method="POST">
+                                    <input type="hidden" name="form_type" value="Callback Request">
+                                    <input type="text" name="name" placeholder="Your Name" required>
+                                    <input type="tel" name="phone_number" placeholder="Phone Number" required>
                                     <button>Submit</button>
                                 </form>
                             </div>
@@ -762,7 +763,7 @@
                             <br>Request a call from our counselors.</h3>
                     </div><!--heading-->
                     <div class="form-screen">
-                        <form>
+                        <form action="sendmail.php" method="POST">
                             <div class="row">
                                 <div class="hAdjust">
                                     <div class="col-lg-12 col-md-12">

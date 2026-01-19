@@ -50,26 +50,26 @@
         <div class="formAlign">
             <div class="form-screen">
                 <div class="title">Book a <span class="talert">Course</span> <span class="more">Now</span></div>
-                <form action="mailto:info@5trainers.com" method="POST" enctype="text/plain">
+                <form action="sendmail.php" method="POST">
                     <div class="row">
                         <div class="col-lg-12 col-md-12">
                             <div class="form-group">
                                 <label>name</label>
-                                <input type="text" name="Name" required="required" placeholder="Name"
+                                <input type="text" name="name" required="required" placeholder="Name"
                                     class="form-control">
                             </div>
                         </div>
                         <div class="col-lg-12 col-md-12">
                             <div class="form-group">
                                 <label>email</label>
-                                <input type="email" name="Email" required="required" placeholder="Email"
+                                <input type="email" name="email" required="required" placeholder="Email"
                                     class="form-control">
                             </div>
                         </div>
                         <div class="col-lg-12 col-md-12">
                             <div class="form-group">
                                 <label>phone number</label>
-                                <input type="tel" name="Phone Number" required="required" placeholder="Phone Number"
+                                <input type="tel" name="phone_number" required="required" placeholder="Phone Number"
                                     class="form-control">
                             </div>
                         </div>

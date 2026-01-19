@@ -10,8 +10,7 @@ require __DIR__ . '/PHPMailer/src/SMTP.php';
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     // Sanitize inputs
-    
-    $email = htmlspecialchars($_POST['email']);
+    $email = isset($_POST['email']) ? htmlspecialchars(trim($_POST['email'])) : '';
 
 
     // Email body
@@ -19,6 +18,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         <h2>Build your Future Today</h2>
         <p><strong>Email:</strong> $email</p>
     ";
+    $subject = "Newsletter Signup";
 
     try {
         $mail = new PHPMailer(true);
@@ -28,7 +28,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $mail->Host       = 'smtp.hostinger.com';
         $mail->SMTPAuth   = true;
         $mail->Username   = 'no-reply@5trainers.com';   // your email
-        $mail->Password   = 'Reset@101010!#';           // email password
+        $mail->Password   = 'Reset@1010!#';           // email password
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
         $mail->Port       = 465;
 
@@ -38,9 +38,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $mail->addAddress('5trainers.official@gmail.com');
 
         // Reply-to user
-        if (!empty($email)) {
-            $mail->addReplyTo($email,);
-            
+        if (!empty($email) && filter_var($email, FILTER_VALIDATE_EMAIL)) {
+            $mail->addReplyTo($email);
         }
 
         // Email content

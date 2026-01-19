@@ -37,7 +37,7 @@ include 'header.php';
     <div class="container">
         <div class="contact-card" data-animate>
             <h3>Registration Form</h3>
-            <form>
+            <form action="form.php" method="POST">
                 <label for="name">Full Name</label>
                 <input type="text" id="name" name="name" placeholder="Your full name">
 

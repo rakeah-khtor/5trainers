@@ -158,7 +158,7 @@ include 'header.php';
             <div data-animate>
                 <div class="contact-card">
                     <h3>Request a Callback</h3>
-                    <form action="https://formsubmit.co/contact.visa@5trainers.com" method="POST">
+                    <form action="form.php" method="POST">
                         <label for="name">Full Name</label>
                         <input type="text" id="name" name="name" placeholder="Your full name">
 

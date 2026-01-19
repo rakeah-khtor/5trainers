@@ -82,7 +82,7 @@
             <div class="form-screen">
               <div class="title">Book a <span class="talert">Free consultancy</span> <span class="more">to know
                   more</span></div>
-              <form>
+              <form action="sendmail.php" method="POST">
                 <div class="row">
                   <div class="col-lg-12 col-md-12">
                     <div class="form-group">

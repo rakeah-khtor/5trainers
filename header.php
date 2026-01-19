@@ -94,7 +94,8 @@
 <body class="aos-all" id="transcroller-body">
     <nav>
       
-     <div class="no-container width90 top-contact-bar pt-3 pb-3" style="border-bottom: 2px solid #ff8503; background-color: white;">
+     <!-- <div class="no-container width90 top-contact-bar " style=" background-color: white; justify-content: end ;display:flex;">
+      <div class="" style="background-color: #ff8503; width:40%; border-radius:0px 0px 0px 0px; justify-content: end; margin-right: 16px; padding: 10px 15px;     clip-path: polygon(4% 0, 101% 0, 100% 100%, 0% 100%, 0 100%);">
         <div class="width90 d-flex" style="justify-content: end;">
             <div>
             <i class="fa-solid fa-phone icon"></i>
@@ -106,6 +107,8 @@
           </div>
         </div>
       </div>
+       
+      </div> -->
 
       <div class="nocontainer width90">
         <div class="wrapper">
@@ -116,7 +119,47 @@
           <input type="radio" name="slider" id="menu-btn">
           <input type="radio" name="slider" id="close-btn">
 
-          <ul class="nav-links menu_box">
+          <div>
+            <div class="no-container  top-contact-bar " style=" background-color: white; justify-content: end ;display:flex;">
+      <div class="" style="background-color: #ff8503; width:75%; justify-content: end; margin-right: 16px; clip-path: polygon(5% 0, 100% 0, 100% 100%, 0% 100%, 0 100%);">
+        <div class="width90 d-flex" style="justify-content: end;height:40px; align-items: center;">
+            <div>
+            <i class="fa-solid fa-phone icon"></i>
+            <a href="tel:+91 8283840606" class="text-black mr-4" style="text-decoration: none;" >+91 8283840606</a>
+          </div>
+          <div>
+            <i class="fa-solid fa-envelope"></i>
+            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=info@5trainers.com" class="text-black" style="text-decoration: none;" target="_blank">info@5trainers.com</a>
+          </div>
+           <!-- <ul class="footer-ul">
+            <li><a href="https://www.facebook.com/profile.php?id=61576550454616" target="_blank"><span>
+             
+                  <i class="fa-brands fa-square-facebook footer-icon"></i>
+                  </span>Facebook</a></li>
+            <li><a href="https://x.com/_5trainers" target="_blank"><span>
+           
+           <i class="fa-brands fa-x-twitter footer-icon"></i>
+            </span></a></li>
+            <li><a href="https://www.linkedin.com/company/5trainer" target="_blank"><span>
+          
+               <i class="fa-brands fa-linkedin  footer-icon" ></i>
+            </span></a></li>
+            <li><a href="https://www.instagram.com/5_trainers/" target="_blank"><span>
+          
+               <i class="fa-brands fa-square-instagram footer-icon"></i>
+            </span></a></li>
+            <li><a href="https://www.youtube.com/@5Trainers" target="_blank"><span>
+             
+                  <i class="fa-brands fa-square-youtube footer-icon"></i>
+                  </span></a></li>
+          </ul> -->
+        </div>
+      </div>
+       
+      </div>
+          
+
+          <ul class="nav-links menu_box  py-2 ">
             <label for="close-btn" class="btn close-btn close_icon"><img src="<?php echo $assetPrefix; ?>assets/image/icon/close.png"></label>
 
             <li><a href="<?php echo $linkPrefix; ?>index.php" class="home">Home</a></li>
@@ -174,7 +217,7 @@
             <button type="button" class="brochure-btn d-block" data-bs-toggle="modal"
               data-bs-target="#staticBackdrop">Brochure</button>
           </ul>
-
+          </div>
           <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
             aria-labelledby="staticBackdropLabel" aria-hidden="true">
             <div class="modal-dialog">
