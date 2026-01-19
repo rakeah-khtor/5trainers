@@ -39,11 +39,13 @@
   width: 80%;
   margin: 0 auto;
 }
-.setbg {
+.setbgs {
   position: relative;
   width: 100%;
   background: #0f79be;
   padding: 200px 0px 70px 0;
+   height: 90vh !important;
+  min-height: 90vh !important;
 
 }
 /* .mtt{
@@ -52,7 +54,7 @@
 /* .landignsetbg {
   margin: 90px 0 0;
 } */
-.setbg::before {
+.setbgs::before {
   position: absolute;
   content: "";
   width: 100%;
@@ -189,7 +191,7 @@
    position: absolute;
    width: 90%;
   /* top: 7%; */
-  top: 22%;
+  top: 20%;
 }
 
 .nav-link {
@@ -380,7 +382,14 @@
 /*End Form Screen*/
 /* Responsive Styles */
 /*  Smartphones (portrait and landscape) */
-@media only screen and (min-device-width: 300px) and (max-device-width: 767px) {
+
+@media only screen and (min-device-width: 300px) and (max-device-width: 400px) {
+
+
+  .setbgs{
+      height: 175vh !important;
+  min-height: 175vh !important;
+  }
   /*Slider*/
   .mb-20 {
     margin-bottom: 7px;
@@ -403,7 +412,7 @@
   }
   .mtb-40,
   .mb-40 {
-    margin: 20px 0;
+    margin: 10px 0;
   }
   .metric-heading {
     font-size: 16px;
@@ -425,8 +434,121 @@
     justify-content: center;
     align-content: space-around;
   }
-  .setbg {
+  .mtt{
+    margin-top: 70px;
+  }
+  /* #slide-show {
+    height: 150vh !important;
+    min-height: 150vh !important;
+    top: 0px;
+    padding: 20px 0;
+  } */
+  .formAlign {
+    justify-content: center;
+    align-items: center;
+  }
+  .webinar-text p {
+    font-size: 10px;
+    text-align: center;
+    margin: 0 0 11px;
+  }
+  .form-screen {
+    padding: 15px;
+    border: 10px solid #15181a;
+    border-radius: 10px;
+  }
+  .form-screen .title {
+    font-size: 14px;
+    margin: 0 0 10px;
+  }
+  .form-screen .basic-container label {
+    font-size: 11px !important;
+  }
+  .form-screen .submitbtn {
+    font-size: 12px;
+    padding: 10px 0;
+  }
+  .buildText {
+    flex-direction: column;
+  }
+  .section-title h2 {
+    line-height: 30px;
+    font-size: 20px;
+  }
+  .features-2 .theme-btn {
+    padding: 15px 40px;
+    font-size: 16px;
+    display: block;
+    text-align: center;
+    margin: 20px 0 0;
+  }
+  .placementbox {
+    margin: 0 0 25px;
+    padding: 20px 12px;
+    margin-bottom: 20px;
+    min-height: 110px;
+    max-height: 110px;
+  }
+  .slide-text h2 {
+    font-size: 35px;
+    line-height: 30px;
+    margin: 5px 0;
+    color: #feb600;
+  }
+  .sliderHeading h1{
+    font-size: 20px;
+  }
+}
+
+@media only screen and (min-device-width: 401px) and (max-device-width: 767px) {
+  /*Slider*/
+  .mb-20 {
+    margin-bottom: 7px;
+  }
+  .slide-text .topP {
+    font-size: 16px;
+  }
+  .slide-text h2 {
+    font-size: 20px;
+    margin: 15px 0;
+  }
+  .slide-text .coDetail {
+    letter-spacing: 0.02em;
+    font-size: 14px;
+    text-align: justify;
+    line-height: 23px;
+  }
+  .course-features {
+    gap: 15px 5px;
+  }
+  .mtb-40,
+  .mb-40 {
+    margin: 10px 0;
+  }
+  .metric-heading {
+    font-size: 16px;
+  }
+  .metric-sub-heading {
+    font-size: 11px;
+    text-align: center;
+  }
+  #slide-show {
+    height: 100%;
+    min-height: 100%;
+  }
+  .course-metrics {
+    gap: 7px;
+    padding: 7px;
+    width: 100%;
+    flex-direction: row;
+    align-items: stretch;
+    justify-content: center;
+    align-content: space-around;
+  }
+  .setbgs {
     padding: 0;
+    height: 150vh !important;
+    min-height: 150vh !important;
   }
   .mtt{
     margin-top: 70px;

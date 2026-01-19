@@ -139,7 +139,7 @@
     font-size: 11px !important;
   }
   .hero-main{
-    top: 7% !important;
+    top: 11% !important;
     width: 86% !important;
   }
   .breadcumb{
@@ -150,7 +150,7 @@
   .slide-text p {
     font-size: 14px;
     line-height: 18px;
-    margin-top: 10px !important;
+    /* margin-top: 10px !important; */
   }
   #slide-show {
     height: 80vh !important;

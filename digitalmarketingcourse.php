@@ -19,7 +19,7 @@ $canonical_url = "https://www.5trainers.com/digitalmarketingcourse.php";
 <link href="landingpage/assets/css/coursedetails.css" type="text/css" rel="stylesheet" />
 
 
-<section id="slide-show" class="setbg">
+<section id="slide-shows " class="setbgs ">
     <div class="custom-container width90">
         <div>
             <div class="hero-main row">

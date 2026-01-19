@@ -9,11 +9,11 @@ $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
 <link href="landingpage/assets/css/toogle-slide.css" type="text/css" rel="stylesheet" />
 <link href="landingpage/assets/css/shorttermcourse.css" type="text/css" rel="stylesheet" />
 <link href="landingpage/assets/css/coursedetails.css" type="text/css" rel="stylesheet" />
-<section id="slide-show" class="setbg landignsetbg">
+<section id="slide-shows" class="setbgs landignsetbg">
     <div class="custom-container width90">
         <div class="hero-main">
             <div class="row">
-                <div class="col-lg-7 full-stack-main">
+                <div class="col-lg-7 ">
                     <div class="intro-details">
                         <div class="slide-text">
                             <p class="topP mb-15">Restricted by opportunities?</p>

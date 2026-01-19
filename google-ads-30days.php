@@ -33,11 +33,11 @@ $canonical_url = "https://www.5trainers.com/google-ads-30days.php";
 <link href="landingpage/assets/css/coursedetails.css" type="text/css" rel="stylesheet" />
 
 <!--Slider-->
-<section id="slide-show" class="setbg landignsetbg">
+<section id="slide-shows" class="setbgs landignsetbg">
     <div class="custom-container width90">
         <div>
             <div class="hero-main row">
-                <div class="col-lg-7 google-ads-main">
+                <div class="col-lg-7 ">
                     <div class="intro-details">
                         <div class="slide-text">
                             <p class="topP mb-15">Restricted by opportunities?</p>
