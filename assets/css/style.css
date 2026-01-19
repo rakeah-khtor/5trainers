@@ -236,10 +236,9 @@ a:hover {
 }
 
 .brochure-btn {
-  /* background-color: #2c849e; */
   background-color: #0f79be;
   border-radius: 3px;
-  padding: 0px 40px;
+  padding: 0px 20px;
   height: 60px;
   border: none;
   color: white;

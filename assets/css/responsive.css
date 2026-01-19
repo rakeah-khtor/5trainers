@@ -2047,6 +2047,25 @@
     padding: 10px 0px 10px 0px;
     margin-bottom: 20px;
   }
+  /* Hide header brochure button at 1024 width */
+  .brochure-btn {
+    display: none !important;
+  }
+  /* Align expand arrows next to labels in header menu */
+  .nav-links .desktop-item {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .nav-links .desktop-item span {
+    display: inline-flex;
+    align-items: center;
+  }
+  .nav-links .desktop-item span img {
+    width: 10px;
+    height: auto;
+    margin-top: 0;
+  }
   .viewport a {
     font-size: 14px;
     letter-spacing: 0.05em;
@@ -2236,6 +2255,7 @@
 
   nav {
     top: 25px;
+    font-size: 13px;
   }
   .slide-text h2 {
     font-size: 32px;
