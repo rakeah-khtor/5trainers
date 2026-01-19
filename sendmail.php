@@ -17,6 +17,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $phone = htmlspecialchars(trim($_POST['phone']));
     }
 
+    $profession = isset($_POST['profession']) ? htmlspecialchars(trim($_POST['profession'])) : '';
+    $query = isset($_POST['query']) ? htmlspecialchars(trim($_POST['query'])) : '';
     $course = '';
     if (!empty($_POST['basic'])) {
         $course = htmlspecialchars(trim($_POST['basic']));
@@ -50,6 +52,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         <p><strong>Phone Number:</strong> $safePhone</p>
         <p><strong>Course/Type:</strong> $course</p>
     ";
+    if ($profession !== '') {
+        $message .= "<p><strong>Profession:</strong> {$profession}</p>";
+    }
+    if ($query !== '') {
+        $message .= "<p><strong>Query:</strong> {$query}</p>";
+    }
 
     try {
         $mail = new PHPMailer(true);

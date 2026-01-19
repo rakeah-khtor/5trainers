@@ -14,7 +14,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
                     <p class="mt-5">Guiding you towards success, every step of the way</p>
 
                     <div class="two-btns text-center  mt-5">
-                        <a class="getst btn" href="javascript:void(0)">Get a Free Consultation</a>
+                        <a class="getst btn" id="openConsultationModal" href="#">Get a Free Consultation</a>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-6 col-lg-5">
@@ -1170,6 +1170,184 @@ $canonical_url = "https://www.5trainers.com/index.php";
             alert("Failed: " + error.message);
         }
     });
+</script>
+
+<style>
+    .consultation-modal {
+        display: none;
+        position: fixed;
+        inset: 0;
+        background: rgba(4, 49, 70, 0.7);
+        z-index: 9999;
+        align-items: center;
+        justify-content: center;
+        padding: 20px;
+    }
+
+    .consultation-modal.is-open {
+        display: flex;
+    }
+
+    .consultation-modal .modal-content {
+        background: #ffffff;
+        max-width: 640px;
+        width: 100%;
+        border-radius: 16px;
+        padding: 28px 28px 24px;
+        position: relative;
+        border: 1px solid rgba(15, 121, 190, 0.25);
+        box-shadow: 0 20px 45px rgba(4, 49, 70, 0.35);
+    }
+
+    .consultation-modal .modal-content::before {
+        content: "";
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 6px;
+        border-radius: 16px 16px 0 0;
+        background: linear-gradient(90deg, #0f79be 0%, #0f3564 100%);
+    }
+
+    .consultation-modal .modal-close {
+        position: absolute;
+        top: 12px;
+        right: 12px;
+        font-size: 24px;
+        border: none;
+        background: transparent;
+        cursor: pointer;
+        color: #0f3564;
+    }
+
+    .consultation-modal h3 {
+        margin: 8px 0 18px;
+        color: #043146;
+        font-weight: 700;
+    }
+
+    .consultation-modal label {
+        display: block;
+        margin-bottom: 6px;
+        font-weight: 600;
+        color: #043146;
+        text-transform: capitalize;
+    }
+
+    .consultation-modal .form-control,
+    .consultation-modal select,
+    .consultation-modal textarea {
+        width: 100%;
+        margin-bottom: 12px;
+        border: 1px solid rgba(15, 121, 190, 0.35);
+        border-radius: 8px;
+        padding: 10px 12px;
+    }
+
+    .consultation-modal .form-control:focus,
+    .consultation-modal select:focus,
+    .consultation-modal textarea:focus {
+        outline: none;
+        border-color: #0f79be;
+        box-shadow: 0 0 0 3px rgba(15, 121, 190, 0.15);
+    }
+
+    .consultation-modal .submitbtn {
+        background: linear-gradient(90deg, #0f79be 0%, #0f3564 100%);
+        border: none;
+        padding: 12px 18px;
+        font-weight: 600;
+        letter-spacing: 0.3px;
+    }
+
+    .consultation-modal .submitbtn:hover {
+        background: linear-gradient(90deg, #0f3564 0%, #0f79be 100%);
+    }
+
+    @media (max-width: 640px) {
+        .consultation-modal .modal-content {
+            padding: 22px 18px 18px;
+        }
+    }
+</style>
+
+<div class="consultation-modal" id="consultationModal" aria-hidden="true">
+    <div class="modal-content" role="dialog" aria-modal="true" aria-labelledby="consultationTitle">
+        <button type="button" class="modal-close" id="closeConsultationModal" aria-label="Close">&times;</button>
+        <h3 id="consultationTitle">Get a Free Consultation</h3>
+        <form action="sendmail.php" method="POST">
+            <input type="hidden" name="form_type" value="Free Consultation">
+            <div class="form-group">
+                <label>Full Name</label>
+                <input type="text" name="name" class="form-control" placeholder="Full Name" required>
+            </div>
+            <div class="form-group">
+                <label>Email ID</label>
+                <input type="email" name="email" class="form-control" placeholder="Email ID" required>
+            </div>
+            <div class="form-group">
+                <label>Mobile Number</label>
+                <input type="tel" name="phone_number" class="form-control" placeholder="Mobile Number" required>
+            </div>
+            <div class="form-group">
+                <label>Select Course</label>
+                <select name="course" class="form-control" required>
+                    <option value="">Select Course</option>
+                    <option value="Digital Marketing">Digital Marketing</option>
+                    <option value="Google Ads">Google Ads</option>
+                    <option value="Meta Ads">Meta Ads</option>
+                    <option value="SEO">SEO</option>
+                    <option value="SMM">SMM</option>
+                    <option value="Artificial Intelligence">Artificial Intelligence</option>
+                    <option value="Data Science">Data Science</option>
+                    <option value="Data Analytics">Data Analytics</option>
+                    <option value="Full Stack Web Development">Full Stack Web Development</option>
+                    <option value="Web Development">Web Development</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label>Profession</label>
+                <input type="text" name="profession" class="form-control" placeholder="Profession" required>
+            </div>
+            <div class="form-group">
+                <label>Other Query (optional)</label>
+                <textarea name="query" class="form-control" maxlength="250" rows="3"
+                    placeholder="Your query (max 250 characters)"></textarea>
+            </div>
+            <input type="submit" class="submitbtn btn btn-primary" value="Submit">
+        </form>
+    </div>
+</div>
+
+<script>
+    (function () {
+        const openBtn = document.getElementById('openConsultationModal');
+        const modal = document.getElementById('consultationModal');
+        const closeBtn = document.getElementById('closeConsultationModal');
+
+        if (!openBtn || !modal || !closeBtn) return;
+
+        const openModal = (e) => {
+            if (e) e.preventDefault();
+            modal.classList.add('is-open');
+            modal.setAttribute('aria-hidden', 'false');
+        };
+
+        const closeModal = () => {
+            modal.classList.remove('is-open');
+            modal.setAttribute('aria-hidden', 'true');
+        };
+
+        openBtn.addEventListener('click', openModal);
+        closeBtn.addEventListener('click', closeModal);
+        modal.addEventListener('click', (e) => {
+            if (e.target === modal) closeModal();
+        });
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') closeModal();
+        });
+    })();
 </script>
 
 <?php include('footer.php'); ?>
