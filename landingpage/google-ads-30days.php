@@ -122,7 +122,7 @@
                             <div class="form-screen">
                                 <div class="title">Book a <span class="talert">Course</span> <span
                                         class="more">Now</span></div>
-                                <form action="mailto:info@5trainers.com" method="POST" enctype="text/plain">
+                                <form action="sendmail.php" method="POST">
                                     <div class="row">
                                         <div class="col-lg-12 col-md-12">
                                             <div class="form-group">
@@ -954,7 +954,7 @@
                             <br>Request a call from our counselors.</h3>
                     </div><!--heading-->
                     <div class="form-screen">
-                        <form>
+                        <form action="sendmail.php" method="POST">
                             <div class="row">
                                 <div class="hAdjust">
                                     <div class="col-lg-12 col-md-12">

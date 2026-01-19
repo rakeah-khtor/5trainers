@@ -38,7 +38,7 @@ include 'header.php';
     <!--<div class="container Registration-Form" style="display:flex; gap :30px">-->
         <div class="contact-card" data-animate>
             <h3>Registration Form</h3>
-            <form>
+            <form action="form.php" method="POST">
                 <label for="name">Full Name</label>
                 <input type="text" id="name" name="name" placeholder="Your full name">
 
@@ -72,7 +72,7 @@ include 'header.php';
         <!---->
         <!--<div class="contact-card" data-animate>-->
         <!--    <h3>Registration</h3>-->
-        <!--    <form>-->
+        <!--    <form action="form.php" method="POST">-->
         <!--        <label for="name">Full Name</label>-->
         <!--        <input type="text" id="name" name="name" placeholder="Your full name">-->
 

@@ -38,7 +38,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $mail->Host       = 'smtp.hostinger.com';
         $mail->SMTPAuth   = true;
         $mail->Username   = 'no-reply@5trainers.com';   // your Hostinger email
-        $mail->Password   = 'Reset@101010!#'; // that email's password
+        $mail->Password   = 'Reset@1010!#'; // that email's password
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
         $mail->Port       = 465;
 

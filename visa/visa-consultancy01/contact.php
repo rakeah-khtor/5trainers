@@ -70,7 +70,7 @@ include 'header.php';
             <div data-animate data-animate-delay="2">
                 <div class="contact-card">
                     <h3>Request a Callback</h3>
-                    <form>
+                    <form action="form.php" method="POST">
                         <label for="name">Full Name</label>
                         <input type="text" id="name" name="name" placeholder="Your full name">
 

@@ -182,6 +182,7 @@
 
                 <div class="form-screen">
                     <form action="sendmail.php" method="POST">
+                        <input type="hidden" name="form_type" value="Callback Request">
                         <div class="row">
                             <div class="hAdjust">
                                 <div class="col-lg-12 col-md-12">

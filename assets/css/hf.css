@@ -192,8 +192,8 @@ nav {
 nav .wrapper {
   position: relative;
   max-width: initial;
-  padding: 45px 0px;
-  height: 60px;
+  /* padding: 38px 0px; */
+  /* height: 60px; */
   line-height: 60px;
   margin: auto;
   display: flex;

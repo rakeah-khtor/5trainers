@@ -138,6 +138,7 @@ $canonical_url = "https://www.5trainers.com/google-ads-30days.php";
                             ?>
 
                             <form action="sendmail.php" method="POST">
+                                <input type="hidden" name="form_type" value="Callback Request">
                                 <div class="row">
                                     <div class="col-lg-12 col-md-12">
                                         <div class="form-group">

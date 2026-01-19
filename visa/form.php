@@ -1,27 +1,34 @@
 <?php
-if ($_SERVER["REQUEST_METHOD"] === "POST") {
 
-    // Collect form data safely
-    $name        = isset($_POST['name']) ? htmlspecialchars(trim($_POST['name'])) : '';
-    $email       = isset($_POST['email']) ? htmlspecialchars(trim($_POST['email'])) : '';
-    $phone       = isset($_POST['phone']) ? htmlspecialchars(trim($_POST['phone'])) : '';
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\Exception;
+
+require __DIR__ . '/PHPMailer/src/Exception.php';
+require __DIR__ . '/PHPMailer/src/PHPMailer.php';
+require __DIR__ . '/PHPMailer/src/SMTP.php';
+
+if ($_SERVER["REQUEST_METHOD"] === "POST") {
+    $name = isset($_POST['name']) ? htmlspecialchars(trim($_POST['name'])) : '';
+    $email = isset($_POST['email']) ? htmlspecialchars(trim($_POST['email'])) : '';
+    $phone = isset($_POST['phone']) ? htmlspecialchars(trim($_POST['phone'])) : '';
     $country = isset($_POST['country']) ? htmlspecialchars(trim($_POST['country'])) : '';
-    $service  = isset($_POST['service']) ? htmlspecialchars(trim($_POST['service'])) : '';
+    $service = isset($_POST['service']) ? htmlspecialchars(trim($_POST['service'])) : '';
+    $interest = isset($_POST['interest']) ? htmlspecialchars(trim($_POST['interest'])) : '';
+    $city = isset($_POST['city']) ? htmlspecialchars(trim($_POST['city'])) : '';
     $messageText = isset($_POST['message']) ? htmlspecialchars(trim($_POST['message'])) : '';
 
-    // Validate essential fields
-    if (empty($name) || empty($email) || empty($phone)) {
-        echo "<h3>❌ Please complete all required fields.</h3>";
+    if ($name === '' || $email === '' || $phone === '') {
+        echo "<h3>Please complete all required fields.</h3>";
         exit;
     }
 
-    // Email recipient
-    $to = "contact.visa@5trainers.com";    // <-- Add your email here
-    
-    // Email subject
     $subject = "New Callback Request from $name";
 
-    // Email body (HTML)
+    $interestValue = trim($service);
+    if ($interest !== '') {
+        $interestValue = $interestValue !== '' ? $interestValue . ' / ' . $interest : $interest;
+    }
+
     $body = "
         <html>
         <body>
@@ -29,24 +36,41 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
             <p><strong>Full Name:</strong> {$name}</p>
             <p><strong>Email:</strong> {$email}</p>
             <p><strong>Phone Number:</strong> {$phone}</p>
+            <p><strong>City:</strong> {$city}</p>
             <p><strong>Country:</strong> {$country}</p>
-            <p><strong>interested:</strong> {$service}</p>
+            <p><strong>Interested:</strong> {$interestValue}</p>
             <p><strong>Message:</strong> {$messageText}</p>
         </body>
         </html>
     ";
 
-    // Email headers
-    $headers  = "MIME-Version: 1.0\r\n";
-    $headers .= "Content-type: text/html; charset=UTF-8\r\n";
-    $headers .= "From: {$name} <{$email}>\r\n";
-    $headers .= "Reply-To: {$email}\r\n";
+    try {
+        $mail = new PHPMailer(true);
 
-    // Send email
-    if (mail($to, $subject, $body, $headers)) {
+        $mail->isSMTP();
+        $mail->Host       = 'smtp.hostinger.com';
+        $mail->SMTPAuth   = true;
+        $mail->Username   = 'no-reply@5trainers.com';
+        $mail->Password   = 'Reset@1010!#';
+        $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
+        $mail->Port       = 465;
+
+        $mail->setFrom('no-reply@5trainers.com', '5Trainers Visa');
+        $mail->addAddress('contact.visa@5trainers.com');
+
+        if (filter_var($email, FILTER_VALIDATE_EMAIL)) {
+            $mail->addReplyTo($email, $name);
+        }
+
+        $mail->isHTML(true);
+        $mail->Subject = $subject;
+        $mail->Body    = $body;
+
+        $mail->send();
+
         include 'thanku-page.php';
-    } else {
-        echo "<h3>❌ Email sending failed. Please contact support.</h3>";
+    } catch (Exception $e) {
+        echo "Mail sending failed: " . $mail->ErrorInfo;
     }
 }
 ?>

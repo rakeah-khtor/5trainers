@@ -13,7 +13,7 @@
             <div class="col-lg-7">
 
                 <div class="form-screen">
-                    <form>
+                    <form action="sendmail.php" method="POST">
                         <div class="row">
                             <div class="hAdjust">
                                 <div class="col-lg-12 col-md-12">
