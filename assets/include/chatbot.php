@@ -76,6 +76,13 @@
     const sendBtn = chatbot.querySelector(".vt-chatbot-send");
     const bodyEl = chatbot.querySelector(".vt-chatbot-body");
 
+    // Simple state for contact capture
+    let hasAskedContact = false;
+    let awaitingContactDetails = false;
+    let firstIntentText = "";
+
+    const sendmailUrl = "<?php echo $chatbotAssetPrefix; ?>sendmail.php";
+
     function appendMessage(text, from = "user") {
       const msg = document.createElement("div");
       msg.className =
@@ -119,11 +126,134 @@
       appendMessage(reply, "bot");
     }
 
+    function isValidEmail(email) {
+      return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
+    }
+
+    function isValidPhone(phone) {
+      const digits = phone.replace(/[^\d]/g, "");
+      return digits.length >= 7;
+    }
+
+    function extractContactDetails(text) {
+      const emailMatch = text.match(/[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}/i);
+      const phoneMatch = text.match(/(\+?\d[\d\s\-]{6,}\d)/);
+
+      const email = emailMatch ? emailMatch[0].trim() : "";
+      const phoneRaw = phoneMatch ? phoneMatch[0] : "";
+      const phone = phoneRaw ? phoneRaw.trim() : "";
+
+      let name = text;
+      if (email) name = name.replace(email, "");
+      if (phoneRaw) name = name.replace(phoneRaw, "");
+      name = name.replace(/[,;|]+/g, " ").trim();
+
+      return { name, email, phone };
+    }
+
+    function sendContactToServer(contact) {
+      const formData = new FormData();
+      formData.append("name", contact.name);
+      formData.append("email", contact.email);
+      formData.append("phone", contact.phone);
+      formData.append("form_type", "Chatbot Lead");
+      if (firstIntentText) {
+        formData.append(
+          "query",
+          "Chatbot first question: " + firstIntentText
+        );
+      } else {
+        formData.append("query", "Chatbot lead from 5Trainers website");
+      }
+
+      appendMessage(
+        "Thank you! We are submitting your details to our counselor team.",
+        "bot"
+      );
+
+      fetch(sendmailUrl, {
+        method: "POST",
+        body: formData,
+      })
+        .then((res) => {
+          if (!res.ok) {
+            throw new Error("Network response was not ok");
+          }
+          appendMessage(
+            "Your details have been shared successfully. Our team will contact you shortly.",
+            "bot"
+          );
+          // After successful submit, continue with the original question if we have it
+          if (firstIntentText) {
+            setTimeout(() => botReply(firstIntentText), 400);
+            firstIntentText = "";
+          }
+        })
+        .catch(() => {
+          appendMessage(
+            "We could not submit your details due to a technical issue. Please try again in a moment or call us at +91 8283840606.",
+            "bot"
+          );
+        });
+    }
+
+    function handleContactStep(text) {
+      const contact = extractContactDetails(text);
+
+      const errors = [];
+      const nameLettersOnly = contact.name
+        ? contact.name.replace(/[^a-zA-Z]/g, "")
+        : "";
+      if (!nameLettersOnly || nameLettersOnly.length < 4) {
+        errors.push("Name (minimum 4 letters)");
+      }
+      if (!contact.email || !isValidEmail(contact.email)) {
+        errors.push("E-mail");
+      }
+      if (!contact.phone || !isValidPhone(contact.phone)) {
+        errors.push("Phone Number");
+      }
+
+      if (errors.length > 0) {
+        appendMessage(
+          "It looks like I couldn't read your " +
+            errors.join(", ") +
+            ".<br />Please share them again in one line like:<br /><strong>John Doe, john@example.com, 9876543210</strong>.",
+          "bot"
+        );
+        return;
+      }
+
+      awaitingContactDetails = false;
+      sendContactToServer(contact);
+    }
+
     function handleSend() {
       const text = (inputEl.value || "").trim();
       if (!text) return;
+
       appendMessage(text, "user");
       inputEl.value = "";
+
+      // First user question: ask for contact details
+      if (!hasAskedContact) {
+        hasAskedContact = true;
+        awaitingContactDetails = true;
+        firstIntentText = text;
+        appendMessage(
+          "May I ask your:- Name, E-mail and Phone Number?<br /><small>Please share them in one line, e.g. <strong>John Doe, john@example.com, 9876543210</strong>.</small>",
+          "bot"
+        );
+        return;
+      }
+
+      // If we are waiting for contact info, treat this message as contact details
+      if (awaitingContactDetails) {
+        handleContactStep(text);
+        return;
+      }
+
+      // Normal conversation after contact is captured
       setTimeout(() => botReply(text), 400);
     }
 
@@ -157,8 +287,33 @@
     quickBtns.forEach((btn) => {
       btn.addEventListener("click", () => {
         const intent = btn.getAttribute("data-intent") || "";
-        appendMessage(btn.innerText, "user");
-        setTimeout(() => botReply(intent), 300);
+        const label = btn.innerText;
+
+        appendMessage(label, "user");
+
+        // First interaction via quick button -> ask for contact
+        if (!hasAskedContact) {
+          hasAskedContact = true;
+          awaitingContactDetails = true;
+          firstIntentText = intent || label;
+          appendMessage(
+            "May I ask your:- Name, E-mail and Phone Number?<br /><small>Please share them in one line, e.g. <strong>John Doe, john@example.com, 9876543210</strong>.</small>",
+            "bot"
+          );
+          return;
+        }
+
+        if (awaitingContactDetails) {
+          // If user presses a quick button while we are waiting for contact,
+          // treat it like a normal message but remind them what we need.
+          appendMessage(
+            "Please share your Name, E-mail and Phone Number so we can assist you better.",
+            "bot"
+          );
+          return;
+        }
+
+        setTimeout(() => botReply(intent || label), 300);
       });
     });
 
@@ -170,4 +325,3 @@
     });
   })();
 </script>
-
