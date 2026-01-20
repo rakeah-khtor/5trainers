@@ -10,12 +10,16 @@ require __DIR__ . '/PHPMailer/src/SMTP.php';
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     // Sanitize inputs with safe defaults
-    $name = isset($_POST['name']) ? htmlspecialchars(trim($_POST['name'])) : '';
+    $rawName = isset($_POST['name']) ? trim($_POST['name']) : '';
+    $name = htmlspecialchars($rawName);
     $email = isset($_POST['email']) ? htmlspecialchars(trim($_POST['email'])) : '';
-    $phone = isset($_POST['phone_number']) ? htmlspecialchars(trim($_POST['phone_number'])) : '';
-    if ($phone === '' && isset($_POST['phone'])) {
-        $phone = htmlspecialchars(trim($_POST['phone']));
+    $rawPhone = '';
+    if (isset($_POST['phone_number'])) {
+        $rawPhone = trim($_POST['phone_number']);
+    } elseif (isset($_POST['phone'])) {
+        $rawPhone = trim($_POST['phone']);
     }
+    $phone = htmlspecialchars($rawPhone);
 
     $profession = isset($_POST['profession']) ? htmlspecialchars(trim($_POST['profession'])) : '';
     $query = isset($_POST['query']) ? htmlspecialchars(trim($_POST['query'])) : '';
@@ -28,6 +32,37 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $course = htmlspecialchars(trim($_POST['form_type']));
     } else {
         $course = 'Not Selected';
+    }
+
+    // Basic server-side validation
+    $errors = [];
+
+    // Name: at least 4 non-space characters
+    $nameNoSpaces = preg_replace('/\s+/u', '', $rawName);
+    if ($nameNoSpaces === '' || mb_strlen($nameNoSpaces, 'UTF-8') < 4) {
+        $errors[] = 'Name must be at least 4 characters.';
+    }
+
+    // Require at least one contact method
+    if ($email === '' && $rawPhone === '') {
+        $errors[] = 'Please provide at least an email or phone number.';
+    }
+
+    // Email format when provided
+    if ($email !== '' && !filter_var($email, FILTER_VALIDATE_EMAIL)) {
+        $errors[] = 'Please provide a valid email address.';
+    }
+
+    // Phone: digits only, 10 digits if provided
+    if ($rawPhone !== '' && !preg_match('/^[0-9]{10}$/', $rawPhone)) {
+        $errors[] = 'Phone number must be a 10-digit number.';
+    }
+
+    if (!empty($errors)) {
+        // Client-side validation should prevent invalid submissions.
+        // For extra safety, reject quietly without rendering a separate error page.
+        http_response_code(400);
+        exit;
     }
 
     $safeName = $name !== '' ? $name : 'Visitor';

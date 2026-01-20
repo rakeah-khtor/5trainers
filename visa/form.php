@@ -8,17 +8,34 @@ require __DIR__ . '/PHPMailer/src/PHPMailer.php';
 require __DIR__ . '/PHPMailer/src/SMTP.php';
 
 if ($_SERVER["REQUEST_METHOD"] === "POST") {
-    $name = isset($_POST['name']) ? htmlspecialchars(trim($_POST['name'])) : '';
+    $rawName = isset($_POST['name']) ? trim($_POST['name']) : '';
+    $name = htmlspecialchars($rawName);
     $email = isset($_POST['email']) ? htmlspecialchars(trim($_POST['email'])) : '';
-    $phone = isset($_POST['phone']) ? htmlspecialchars(trim($_POST['phone'])) : '';
+    $rawPhone = isset($_POST['phone']) ? trim($_POST['phone']) : '';
+    $phone = htmlspecialchars($rawPhone);
     $country = isset($_POST['country']) ? htmlspecialchars(trim($_POST['country'])) : '';
     $service = isset($_POST['service']) ? htmlspecialchars(trim($_POST['service'])) : '';
     $interest = isset($_POST['interest']) ? htmlspecialchars(trim($_POST['interest'])) : '';
     $city = isset($_POST['city']) ? htmlspecialchars(trim($_POST['city'])) : '';
     $messageText = isset($_POST['message']) ? htmlspecialchars(trim($_POST['message'])) : '';
 
-    if ($name === '' || $email === '' || $phone === '') {
-        echo "<h3>Please complete all required fields.</h3>";
+    $errors = [];
+
+    $nameNoSpaces = preg_replace('/\s+/u', '', $rawName);
+    if ($nameNoSpaces === '' || mb_strlen($nameNoSpaces, 'UTF-8') < 4) {
+        $errors[] = 'Full Name must be at least 4 characters.';
+    }
+
+    if ($email === '' || !filter_var($email, FILTER_VALIDATE_EMAIL)) {
+        $errors[] = 'Please provide a valid email address.';
+    }
+
+    if ($rawPhone === '' || !preg_match('/^[0-9]{10}$/', $rawPhone)) {
+        $errors[] = 'Phone number must be a 10-digit number.';
+    }
+
+    if (!empty($errors)) {
+        http_response_code(400);
         exit;
     }
 

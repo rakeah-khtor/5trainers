@@ -1280,7 +1280,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
             <input type="hidden" name="form_type" value="Free Consultation">
             <div class="form-group">
                 <label>Full Name</label>
-                <input type="text" name="name" class="form-control" placeholder="Full Name" required>
+                <input type="text" name="name" class="form-control" placeholder="Full Name" required minlength="4">
             </div>
             <div class="form-group">
                 <label>Email ID</label>

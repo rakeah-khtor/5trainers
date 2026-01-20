@@ -54,8 +54,8 @@ include __DIR__ . '/../header.php';
   <h3>Comments</h3>
   <form id="commentForm" class="comment-form" novalidate>
     <label>
-      Name*
-      <input type="text" id="cName" name="name" autocomplete="name">
+        Name*
+        <input type="text" id="cName" name="name" autocomplete="name" minlength="4">
       <span id="errName" class="field-error"></span>
     </label>
 

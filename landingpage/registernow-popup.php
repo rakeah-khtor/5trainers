@@ -56,7 +56,7 @@
                             <div class="form-group">
                                 <label>name</label>
                                 <input type="text" name="name" required="required" placeholder="Name"
-                                    class="form-control">
+                                     class="form-control" minlength="4">
                             </div>
                         </div>
                         <div class="col-lg-12 col-md-12">

@@ -11,8 +11,8 @@
         <div class="col-12 col-md-6">
           <div class="form-group">
             <label for="name">Full Name</label>
-            <input type="text" id="name" name="name" placeholder="Name" class="form-control" required>
-            <small class="error-message">Please enter a valid name (at least 3 letters).</small>
+            <input type="text" id="name" name="name" placeholder="Name" class="form-control" required minlength="4">
+            <small class="error-message">Please enter a valid name (at least 4 letters).</small>
           </div>
         </div>
 

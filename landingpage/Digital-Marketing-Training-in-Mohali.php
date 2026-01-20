@@ -799,7 +799,7 @@
                                 <h2>Request Callback</h2>
                                 <form action="sendmail.php" method="POST">
                                     <input type="hidden" name="form_type" value="Callback Request">
-                                    <input type="text" name="name" placeholder="Your Name" required>
+                                    <input type="text" name="name" placeholder="Your Name" required minlength="4">
                                     <input type="tel" name="phone_number" placeholder="Phone Number" required>
                                     <button>Submit</button>
                                 </form>

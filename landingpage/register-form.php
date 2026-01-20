@@ -3,7 +3,7 @@
         <div class="col-lg-6 col-md-6">
             <div class="form-group">
                 <label>Full Name</label>
-                <input type="text" name="name" required="" placeholder="Name" class="form-control">
+                <input type="text" name="name" required="" placeholder="Name" class="form-control" minlength="4">
             </div>
         </div>
 

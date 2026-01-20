@@ -162,6 +162,8 @@ body {
   max-height: 260px;
   overflow-y: auto;
   background: #f9fafb;
+  display: flex;
+  flex-direction: column;
 }
 
 .vt-chatbot-message {
