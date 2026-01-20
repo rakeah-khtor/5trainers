@@ -38,7 +38,7 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Chandi
     <!--/logo-->
     <!--Slider-->
     <section class="setbgs mtt"  id="transcroller-body">
-        <div class="custom-container width80">
+        <div class="custom-container width90">
             <div class="">
                 <div class="row">
                     <div class="col-lg-7">
@@ -138,7 +138,7 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Chandi
 
     <span id="top mt-5"></span>
     <section class="container-fluid slider-hding">
-        <div class="custom-container width80">
+        <div class="custom-container width90">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="buildText">
@@ -152,7 +152,7 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Chandi
     </section><!--/slider Heading-->
 
     <section class="features-2 pt pb">
-        <div class="custom-container width80">
+        <div class="custom-container width90">
             <div class="row align-items-center">
                 <div class="col-12 col-xl-6">
                     <div class="row mtm-30">
@@ -238,7 +238,7 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Chandi
     </section>
 
     <section class="container-fluid about-sec pt pb aos-all" id="transcroller-body">
-        <div class="no-container width80">
+        <div class="no-container width90">
             <div class="row">
                 <div class="col-sm-9 col-md-9 col-lg-9 align-self-center">
                     <div class="about-us-info-wrap">
@@ -309,7 +309,7 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Chandi
         </div>
     </section><!--/about -->
   <section class="contaianer-fluid pt pb skill-cover">
-    <div class="cutom-container width80">
+    <div class="cutom-container width90">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area text-center centerhding">
@@ -409,7 +409,7 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Chandi
 
     <!--  -->
     <section class="py-5 bg-light">
-        <div class="cutom-container width80">
+        <div class="cutom-container width90">
             <div class="text-center mb-5">
                 <h2 class="fw-bold">Digital Marketing Course in Chandigarh – What You Will Learn</h2>
                 <p class="text-muted text-center">
@@ -505,7 +505,7 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Chandi
 
 
     <section class="contaianer-fluid pt pb howitwork">
-        <div class="cutom-container width80">
+        <div class="cutom-container width90">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area whitetext centerhding">
@@ -580,7 +580,7 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Chandi
 
 
     <section class="contaianer-fluid pt pb studentParticipation" style="display:none;">
-        <div class="cutom-container width80">
+        <div class="cutom-container width90">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area text-center">
@@ -656,7 +656,7 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Chandi
     </section><!--/Project Agile Activity with Student Participation-->
 
     <section class="contaianer-fluid pt pb skill-cover">
-        <div class="cutom-container width80">
+        <div class="cutom-container width90">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area text-center centerhding">
@@ -753,7 +753,7 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Chandi
     </section><!--/placement-->
 
     <section class="container-fluid download">
-        <div class="custom-container width80">
+        <div class="custom-container width90">
             <div class="row">
                 <div class="col-md-8 col-lg-6">
                     <h2 data-aos="fade-up" data-aos-duration="800" class="section-title">Take your career to the next
@@ -783,7 +783,7 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Chandi
 
     <!--/breadcrumbs start-->
     <section class="continer-fluid pb about5trainer ">
-        <div class="nocontainer width80">
+        <div class="nocontainer width90">
             <div class="row aboutrowhding">
                 <div class="col-lg-5 col-md-12 col-sm-12">
                     <div class="about5trainerImage">
@@ -934,7 +934,7 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Chandi
     </section>
 
     <section class="container-fluid pt pb certificateProgram">
-        <div class="custom-container width80">
+        <div class="custom-container width90">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area">
@@ -997,7 +997,7 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Chandi
     </section><!--/Globally recognized certificate program-->
 
     <section class="container-fluid pt pb haveQuestion">
-        <div class="custom-container width80">
+        <div class="custom-container width90">
             <div class="row">
                 <div class="col-lg-5">
                     <div class="haveQues-image">
@@ -1045,7 +1045,7 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Chandi
     </section>
     <!--  -->
     <section class="our-location py-5">
-  <div class="no-container width80">
+  <div class="no-container width90">
     <h2 class="text-center mb-4 fw-bold">Our Location</h2>
 
     <div class="row g-4">
@@ -1105,7 +1105,7 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Chandi
 </section>
     <!-- faq -->
     <section class="container-fluid pt pb faq">
-        <div class="custom-container width80">
+        <div class="custom-container width90">
             <span class="section-subtitle section-subtitle-2 text-center">Frequently Asked Questions (FAQs) – Chandigarh</span>
             <div class="row">
 
