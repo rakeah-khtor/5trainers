@@ -35,7 +35,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-airport-
     <!-- End Google Tag Manager (noscript) -->
 
     
-    <section  class="setbg mtt" id="transcroller-body">
+    <section  class="setbgs mtt" id="transcroller-body">
         <div class="custom-container width90">
             <div class="">
                 <div class="row">
