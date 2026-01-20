@@ -163,8 +163,8 @@ function validateCommentForm() {
   if (!name) {
     setFieldError(els.cName, els.errName, "Name is required.");
     ok = false;
-  } else if (name.length < 2) {
-    setFieldError(els.cName, els.errName, "Name must be at least 2 characters.");
+  } else if (name.length < 4) {
+    setFieldError(els.cName, els.errName, "Name must be at least 4 characters.");
     ok = false;
   } else {
     setFieldError(els.cName, els.errName, "");

@@ -6,7 +6,7 @@
             <div class="col-lg-12 col-md-12">
                 <div class="form-group">
                     <label>Name</label>
-                    <input type="text" name="name" required placeholder="Name" class="form-control">
+                    <input type="text" name="name" required placeholder="Name" class="form-control" minlength="4">
                 </div>
             </div>
             <div class="col-lg-12 col-md-12">

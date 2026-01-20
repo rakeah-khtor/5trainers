@@ -27,7 +27,7 @@ form.addEventListener("submit", function (e) {
   // Full name validation
   const name = document.getElementById("name");
   const nameError = name.nextElementSibling;
-  if (!/^[a-zA-Z ]{3,}$/.test(name.value.trim())) {
+  if (!/^[a-zA-Z ]{4,}$/.test(name.value.trim())) {
     nameError.style.display = "block";
     valid = false;
   } else {

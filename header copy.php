@@ -196,7 +196,7 @@
 
                       <div class="mb-3 d-flex popup-form">
                         <i class="fa fa-user"></i>
-                        <input type="text" name="name" id="name" class="form-control" placeholder="Name" required>
+                        <input type="text" name="name" id="name" class="form-control" placeholder="Name" required minlength="4">
                       </div>
 
                       <div class="mb-3 d-flex popup-form">

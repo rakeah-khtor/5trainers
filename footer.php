@@ -169,6 +169,7 @@
 <script src="<?php echo $footerAssetPrefix; ?>assets/js/scrolltop.js"></script>
 <script src="<?php echo $footerAssetPrefix; ?>assets/js/fixed-header.js"></script>
 <script src="<?php echo $footerAssetPrefix; ?>assets/js/call-request.js"></script>
+<script src="<?php echo $footerAssetPrefix; ?>assets/js/global-validation.js"></script>
 <script src="<?php echo $footerAssetPrefix; ?>landingpage/assets/js/vertical-tab.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.1.1/owl.carousel.min.js"></script>
 <script>

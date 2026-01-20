@@ -1284,37 +1284,42 @@ $canonical_url = "https://www.5trainers.com/index.php";
         <h3 id="consultationTitle">Get a Free Consultation</h3>
         <form action="sendmail.php" method="POST">
             <input type="hidden" name="form_type" value="Free Consultation">
-            <div class="form-row">
-                <div class="form-group">
-                    <label>Full Name</label>
-                    <input type="text" name="name" class="form-control border" placeholder="Mark Andrew" required>
-                </div>
-                <div class="form-group">
-                    <label>Email ID</label>
-                    <input type="email" name="email" class="form-control border" placeholder="Exampal@gmail.com" required>
-                </div>
+            <div class="form-group">
+                <label>Full Name</label>
+                <input type="text" name="name" class="form-control" placeholder="Full Name" required minlength="4">
             </div>
-            <div class="form-row">
-                <div class="form-group">
-                    <label>Mobile Number</label>
-                    <input type="tel" name="phone_number" class="form-control border" placeholder="9876543210" required>
-                </div>
-                <div class="form-group">
-                    <label>Select Course</label>
-                    <select name="course" class="form-control border" required>
-                        <option value="">Select Course</option>
-                        <option value="Digital Marketing">Digital Marketing</option>
-                        <option value="Google Ads">Google Ads</option>
-                        <option value="Meta Ads">Meta Ads</option>
-                        <option value="SEO">SEO</option>
-                        <option value="SMM">SMM</option>
-                        <option value="Artificial Intelligence">Artificial Intelligence</option>
-                        <option value="Data Science">Data Science</option>
-                        <option value="Data Analytics">Data Analytics</option>
-                        <option value="Full Stack Web Development">Full Stack Web Development</option>
-                        <option value="Web Development">Web Development</option>
-                    </select>
-                </div>
+            <div class="form-group">
+                <label>Email ID</label>
+                <input type="email" name="email" class="form-control" placeholder="Email ID" required>
+            </div>
+            <div class="form-group">
+                <label>Mobile Number</label>
+                <input type="tel" name="phone_number" class="form-control" placeholder="Mobile Number" required>
+            </div>
+            <div class="form-group">
+                <label>Select Course</label>
+                <select name="course" class="form-control" required>
+                    <option value="">Select Course</option>
+                    <option value="Digital Marketing">Digital Marketing</option>
+                    <option value="Google Ads">Google Ads</option>
+                    <option value="Meta Ads">Meta Ads</option>
+                    <option value="SEO">SEO</option>
+                    <option value="SMM">SMM</option>
+                    <option value="Artificial Intelligence">Artificial Intelligence</option>
+                    <option value="Data Science">Data Science</option>
+                    <option value="Data Analytics">Data Analytics</option>
+                    <option value="Full Stack Web Development">Full Stack Web Development</option>
+                    <option value="Web Development">Web Development</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label>Profession</label>
+                <input type="text" name="profession" class="form-control" placeholder="Profession" required>
+            </div>
+            <div class="form-group">
+                <label>Other Query (optional)</label>
+                <textarea name="query" class="form-control" maxlength="250" rows="3"
+                    placeholder="Your query (max 250 characters)"></textarea>
             </div>
             <input type="submit" class="submitbtn btn btn-primary" value="Submit">
         </form>

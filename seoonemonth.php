@@ -105,7 +105,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
                                         <div class="form-group">
                                             <label>name</label>
                                             <input type="text" name="name" required="required" placeholder="Name"
-                                                class="form-control">
+                                                  class="form-control" minlength="4">
                                         </div>
                                     </div>
                                     <div class="col-lg-12 col-md-12">
@@ -694,7 +694,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
                             <h2>Request Callback</h2>
                             <form action="sendmail.php" method="POST">
                                 <input type="hidden" name="form_type" value="Callback Request">
-                                <input type="text" name="name" placeholder="Your Name" required>
+                                <input type="text" name="name" placeholder="Your Name" required minlength="4">
                                 <input type="tel" name="phone_number" placeholder="Phone Number" required>
                                 <button>Submit</button>
                             </form>
@@ -787,7 +787,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
                                     <div class="form-group">
                                         <label>name</label>
                                         <input type="text" name="name" required="required" placeholder="Name"
-                                            class="form-control">
+                                              class="form-control" minlength="4">
                                     </div>
                                 </div>
                                 <div class="col-lg-12 col-md-12">

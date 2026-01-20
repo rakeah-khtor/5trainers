@@ -8,7 +8,7 @@
 
                     <form action="form.php" method="POST">
                         <label for="name">Full Name</label>
-                        <input type="text" id="name" name="name" placeholder="Your full name">
+                        <input type="text" id="name" name="name" placeholder="Your full name" minlength="4">
 
                         <label for="phone">Mobile Number</label>
                         <input type="tel" id="phone" name="phone" placeholder="+91">
@@ -37,6 +37,7 @@
                             Submit Request
                         </button>
                     </form>
+                    <script src="../assets/js/global-validation.js"></script>
 
                     <p class="footer-small" style="margin-top:8px;">
                         We respect your privacy and only contact you with genuine updates.

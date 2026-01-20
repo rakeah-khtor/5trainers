@@ -35,7 +35,7 @@ include 'header.php';
                     <h3>Request a Callback</h3>
                     <form action="form.php" method="POST">
                         <label for="name">Full Name</label>
-                        <input type="text" id="name" name="name" placeholder="Your full name">
+                        <input type="text" id="name" name="name" placeholder="Your full name" minlength="4">
 
                         <label for="phone">Mobile Number</label>
                         <input type="tel" id="phone" name="phone" placeholder="+91">
