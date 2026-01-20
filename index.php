@@ -107,7 +107,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
 
 <!--About-->
 <section class="container-fluid about-sec pt aos-all" id="transcroller-body">
-    <div class="no-container width80">
+    <div class="no-container width90">
         <div class="row">
             <div class="col-sm-5 col-md-12 col-lg-5 align-self-center">
                 <div data-aos="fade-up" data-aos-duration="800" class="about-us-img-wrap about-img-left">
@@ -145,9 +145,9 @@ $canonical_url = "https://www.5trainers.com/index.php";
     </div>
 </section><!--/about -->
 <section class="container-fluid pt pb meetOurExperts loading='lazy' ">
-    <div class="no-container width80">
+    <div class="no-container width90">
         <div class="row">
-            <div class="col-lg-7">
+            <div class="col-lg-6">
                 <div class="section-title-area white-heading ">
                     <h3 data-aos="fade-up" data-aos-duration="1000" class="section-title">Explore Our Courses</h3>
                     <p data-aos="fade-up" data-aos-duration="1700" class="aos-init aos-animate">At 5Trainers, we
@@ -159,7 +159,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
             </div><!--/col-->
         </div><!--/row-->
         <div class="row mt-40">
-            <div class="col-lg-7 col-md-12 col-sm-8">
+            <div class="col-lg-6 col-md-12 col-sm-7">
                 <div class="row">
                     <div class="col-lg-6 col-md-6">
                         <div class="single-instructor-member mb-30">
@@ -238,7 +238,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
 <section class="features-area pt pb">
     <div class="shape-6"><img src="assets/image/shape/shape-6.png" alt="Icon" /></div>
     <div class="shape-7"><img src="assets/image/shape/shape-7.png" alt="Icon" /></div>
-    <div class="custom-container width80">
+    <div class="custom-container width90">
         <div class="row align-items-center">
             <div class="col-lg-7 col-md-12">
                 <div class="features-inner-content">
@@ -285,7 +285,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
 </section><!--/Career Counselling-->
 
 <section class="container-fluid pt pb whyChooseUs">
-    <div class="no-container width80">
+    <div class="no-container width90">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area centerhding white-heading">
@@ -300,7 +300,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
     </div>
 </section>
 <section class="container-fluid whyChooseUsContent">
-    <div class="no-container width80">
+    <div class="no-container width90">
         <div class="row">
             <div class="col-lg-4 col-md-6">
                 <div data-aos="fade-up" data-aos-duration="800"
@@ -447,7 +447,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
 </section><!--/fees Schedule-->
 
 <section class="container-fluid pt pb registrationProcess">
-    <div class="no-container width80">
+    <div class="no-container width90">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area centerhding white-heading">
@@ -529,7 +529,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
 </section><!--/Registration Process-->
 
 <section class="container-fluid pt  our-student-Into" style="padding-bottom:80px;">
-    <div class="no-container width80">
+    <div class="no-container width90">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area centerhding">
@@ -605,7 +605,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
     <div class="shape-7"><img src="assets/image/shape/shape-7.png" alt="icon"></div>
     <div class="shape-6"><img src="assets/image/shape/shape-3.png" alt="icon"></div>
     <div class="shape1"></div>
-    <div class="custom-container width80">
+    <div class="custom-container width90">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area centerhding">
@@ -720,7 +720,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
 
 
 <section class="container-fluid pt pb placementAssistance">
-    <div class="no-container width80">
+    <div class="no-container width90">
         <div class="row">
             <div class="col-lg-8">
                 <div class="section-title-area">
@@ -791,7 +791,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
 </section><!--/Placement Assistance-->
 
 <section class="container-fluid pt pb consultExpert">
-    <div class="no-container width80">
+    <div class="no-container width90">
         <div class="row">
             <div class="col-lg-6">
                 <div class="section-title-area setwidth90">
@@ -873,7 +873,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
 </section><!--/Create a Form Consult with Expert -->
 
 <section class="container-fluid pt pb blogsec">
-    <div class="no-container width80">
+    <div class="no-container width90">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area centerhding">
@@ -992,7 +992,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
 <!--/blog-->
 
 <section class="container-fluid pt pb faq">
-    <div class="custom-container width80">
+    <div class="custom-container width90">
         <div class="row">
             <div class="col-sm-5 col-lg-6">
                 <div class="section-title-area">

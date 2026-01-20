@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-
+ 
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -62,21 +62,21 @@
   <link href="<?php echo $assetPrefix; ?>assets/css/responsive.css" type="text/css" rel="stylesheet" />
   <link href="<?php echo $assetPrefix; ?>assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
   <!-- course-page -->
-
-
+ 
+ 
   <!-- floating -->
   <link href="<?php echo $assetPrefix; ?>assets/css/floating-icons.css" type="text/css" rel="stylesheet" />
-
+ 
   <link href="<?php echo $assetPrefix; ?>assets/css/animate.css" rel="stylesheet">
   <link href="<?php echo $assetPrefix; ?>assets/css/aos.css" rel="stylesheet">
   <link rel="shortcut icon" href="<?php echo $assetPrefix; ?>assets/image/favicon32.png">
   <meta name="msvalidate.01" content="7EDD16BE0E2EBADEEBC8AE5E6248694D" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
-
+ 
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
-
+ 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
-
+ 
   <!-- Google Tag Manager -->
   <script>(function (w, d, s, l, i) {
       w[l] = w[l] || []; w[l].push({
@@ -87,42 +87,48 @@
           'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
     })(window, document, 'script', 'dataLayer', 'GTM-K3N4DF4B');</script>
   <!-- End Google Tag Manager -->
-
-<meta name="msvalidate.01" content="1D32BB5A7A457855CF9CB3009136A516" />
+ 
+ 
 </head>
-
+ 
 <body class="aos-all" id="transcroller-body">
     <nav>
-      
-     <div class="no-container width80 top-contact-bar " style=" background-color: white; justify-content: end ;display:flex;">
+     
 
-        <div class="width90 d-flex" style="justify-content: end;">
-            <div>
-            <i class="fa-solid fa-phone icon"></i>
-            <a href="tel:+91 8283840606" class="text-black mr-4" style="text-decoration: none;" >+91 8283840606</a>
-          </div>
-          <div>
-            <i class="fa-solid fa-envelope"></i>
-            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=info@5trainers.com" class="text-black" style="text-decoration: none;" target="_blank">info@5trainers.com</a>
-          </div>
-        </div>
-       
-      </div>
-
-      <div class="nocontainer width80">
+ 
+      <div class="nocontainer width90">
         <div class="wrapper">
           <div class="logo">
             <a href="<?php echo $linkPrefix; ?>index.php"><img src="<?php echo $assetPrefix; ?>assets/image/Final-logo.png" alt="" class="img-fluid"></a>
           </div>
-
+ 
           <input type="radio" name="slider" id="menu-btn">
           <input type="radio" name="slider" id="close-btn">
+ 
+          <div>
+            <div class="no-container  top-contact-bar " style=" background-color: white; justify-content: end ;display:flex; border-radius:0px 0px 5px 5px;">
+      <div class="" style="background-color: #ff8503; width:45%; justify-content: end; margin-right: 16px;border-radius:0px 0px 5px 5px;">
+        <div class="width90 d-flex" style="justify-content: end;height:40px; align-items: center;">
+            <div class="text-white">
+            <i class="text-white fa-solid fa-phone icon"></i>
+            <a href="tel:+91 8283840606" class="text-white mr-4" style="text-decoration: none;" >+91 8283840606</a>
+          </div>
+          <div>
+            <i class="text-white fa-solid fa-envelope"></i>
+            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=info@5trainers.com" class="text-white" style="text-decoration: none;" target="_blank">info@5trainers.com</a>
+          </div>
 
+        </div>
+      </div>
+       
+      </div>
+         
+ 
           <ul class="nav-links menu_box  py-2 ">
             <label for="close-btn" class="btn close-btn close_icon"><img src="<?php echo $assetPrefix; ?>assets/image/icon/close.png"></label>
-
+ 
             <li><a href="<?php echo $linkPrefix; ?>index.php" class="home">Home</a></li>
-
+ 
             <!-- About dropdown -->
             <li>
               <a href="<?php echo $linkPrefix; ?>about.php" class="desktop-item">About <span><img
@@ -135,7 +141,7 @@
                 <li><a href="<?php echo $linkPrefix; ?>founder.php">Our Founder</a></li>
               </ul>
             </li>
-
+ 
             <!--  Courses dropdown -->
             <li>
               <a href="<?php echo $linkPrefix; ?>course.php" class="desktop-item">Courses <span><img
@@ -157,7 +163,7 @@
                 <li><a href="<?php echo $linkPrefix; ?>data-analytics-6months.php">Data Analytics</a></li>
               </ul>
             </li>
-
+ 
             <!--  Counseling dropdown -->
             <li>
               <a href="#" class="desktop-item">Counseling <span><img
@@ -176,34 +182,34 @@
             <button type="button" class="brochure-btn d-block" data-bs-toggle="modal"
               data-bs-target="#staticBackdrop">Brochure</button>
           </ul>
-
+          </div>
           <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
             aria-labelledby="staticBackdropLabel" aria-hidden="true">
             <div class="modal-dialog">
               <div class="modal-content">
-
+ 
                 <!-- Modal Header -->
                 <div class="modal-header">
                   <h1 class="modal-title fs-5" id="staticBackdropLabel">Download Brochure</h1>
                   <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
-
+ 
                 <!-- Modal Body -->
                 <div class="modal-body">
                   <div class="bnrform">
                     <form action="pdfform.php" method="POST" id="emailForm">
-
+ 
                       <div class="mb-3 d-flex popup-form">
                         <i class="fa fa-user"></i>
                         <input type="text" name="name" id="name" class="form-control" placeholder="Name" required>
                       </div>
-
+ 
                       <div class="mb-3 d-flex popup-form">
                         <i class="fa fa-envelope"></i>
                         <input type="email" name="email" id="email" class="form-control" placeholder="Email Id"
                           required>
                       </div>
-
+ 
                       <div class="mb-3 d-flex popup-form">
                         <i class="fa fa-phone"></i>
                         <input type="tel" name="number" id="number" class="form-control" placeholder="Phone Number"
@@ -221,12 +227,11 @@
               </div>
             </div>
           </div>
-
           <label for="menu-btn" class="btn menu-btn"><img src="<?php echo $assetPrefix; ?>assets/image/icon/toggle.png" alt=""></label>
         </div>
       </div>
     </nav>
-
+ 
 </body>
-
+ 
 </html>

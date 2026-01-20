@@ -1,6 +1,6 @@
 #slide-show {
-  height: 110vh;
-  min-height: 110vh;
+  height: 95vh;
+  min-height: 95vh;
   overflow: hidden;
   width: 100%;
   /* top: 90px; */
@@ -21,8 +21,8 @@
   background-attachment: scroll !important;
   /* background: rgba(21, 133, 164,0.8); */
   background-color: #0f79be;
-  height: 110vh;
-  min-height: 110vh;
+  height: 95vh;
+  min-height: 95vh;
   overflow: hidden;
   width: 100vw;
   min-width: 100vw !important;
@@ -180,7 +180,7 @@ a.contb:hover {
 .slider-center {
   position: absolute;
   /* height: 15%; */
-  width: 80%;
+  width: 90%;
   left: 50%;
   top: 58%;
   background-color: transparent;

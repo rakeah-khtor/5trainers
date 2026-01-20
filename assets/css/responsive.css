@@ -153,8 +153,8 @@
     /* margin-top: 10px !important; */
   }
   #slide-show {
-    height: 80vh !important;
-    min-height: 80vh !important;
+    height: 90vh !important;
+    min-height: 90vh !important;
     top: 0px;
   }
   .bg1,
@@ -167,7 +167,7 @@
   .slider-center {
     /* width: 100%; */
     left: 55%;
-    top: 44% !important;
+    top: 53% !important;
   }
   .slideshow-nav a span img {
     width: 20px;
