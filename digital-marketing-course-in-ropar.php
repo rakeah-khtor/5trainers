@@ -422,120 +422,84 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ropar.ph
             <div class="row ">
                 <!-- SEO -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm">
+                    <div class="card h-100 shadow-sm Digital-card">
                         <div class="card-body">
                             <h5 class="card-title">SEO Training in Ropar:</h5>
                             <p class="card-text">
                                Master on-page, off-page, technical, and local SEO. Learn keyword research, website optimization, and strategies to rank businesses locally and nationally.
                             </p>
-                            <!-- <ul>
-                                <li>Keyword research</li>
-                                <li>On-page SEO</li>
-                                <li>Off-page SEO</li>
-                                <li>Technical SEO</li>
-                                <li>Local SEO</li>
-                            </ul> -->
+                           
                         </div>
                     </div>
                 </div>
 
                 <!-- SMM -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm">
+                    <div class="card h-100 shadow-sm digital-card-new">
                         <div class="card-body">
                             <h5 class="card-title">Social Media Marketing (SMM) Training in Ropar: </h5>
                             <p class="card-text">
                                 Plan and execute complete brand strategies across Facebook, Instagram, LinkedIn, and YouTube. Learn content creation, paid advertising, community management, and performance analytics.
                             </p>
-                            <!-- <ul>
-                                <li>Facebook</li>
-                                <li>Instagram</li>
-                                <li>LinkedIn</li>
-                                <li>YouTube</li>
-                               
-                            </ul> -->
+                          
                         </div>
                     </div>
                 </div>
 
                 <!-- PPC -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm">
+                    <div class="card h-100 shadow-sm Digital-card">
                         <div class="card-body">
                             <h5 class="card-title">PPC & Google Ads Training in Ropar:</h5>
                             <p class="card-text">
                                 Create, manage, and optimize high-ROI paid campaigns on Google Search and Display networks. Master budgeting, targeting strategies, ad creation, and conversion tracking.
                             </p>
-                            <!-- <ul>
-                                <li>Google Search Ads</li>
-                                <li>Display Ads</li>
-                                <li>YouTube Ads</li>
-                                <li>Social media paid campaigns</li>
-                            </ul> -->
+                          
                         </div>
                     </div>
                 </div>
 
                 <!-- Content Marketing -->
                 <div class="col-md-6 col-lg-4 mt-4">
-                    <div class="card h-100 shadow-sm">
+                    <div class="card h-100 shadow-sm digital-card-new">
                         <div class="card-body">
                             <h5 class="card-title">Content Marketing Training in Ropar:</h5>
                             <p class="card-text">
                                 Develop compelling content strategies that drive traffic and engagement. Learn blog writing, video content creation, SEO-optimized copy, and content calendar management.
                             </p>
-                            <!-- <ul>
-                                <li>Blogs</li>
-                                <li>Website content</li>
-                                <li>Social media posts</li>
-                                <li>Basic copywriting for ads and landing pages</li>
-                            </ul> -->
+                         
                         </div>
                     </div>
                 </div>
 
                 <!-- Email Marketing -->
                 <div class="col-md-6 col-lg-4 mt-4">
-                    <div class="card h-100 shadow-sm">
+                    <div class="card h-100 shadow-sm Digital-card">
                         <div class="card-body">
                             <h5 class="card-title">Email Marketing Training in Ropar:</h5>
                             <p class="card-text">
                                 Build effective email marketing campaigns, design engaging newsletters, write high-converting copy, and analyze performance using industry tools.
                             </p>
-                            <!-- <ul>
-                                <li>Build email lists</li>
-                                <li>Design email campaigns</li>
-                                <li>Write effective emails</li>
-                                <li>Track open rates and conversions</li>
-                            </ul> -->
+                          
                         </div>
                     </div>
                 </div>
 
                 <!-- Analytics & AI -->
                 <div class="col-md-6 col-lg-4 mt-4">
-                    <div class="card h-100 shadow-sm">
+                    <div class="card h-100 shadow-sm digital-card-new">
                         <div class="card-body">
                             <h5 class="card-title">Analytics & AI Tools Training in Ropar:</h5>
                             <p class="card-text">
                                 Use Google Analytics 4 and Search Console to track performance and leverage AI tools for content creation, ad optimization, and data-driven decisions.
                             </p>
-                            <!-- <ul>
-                                <li>Google Analytics</li>
-                                <li>Google Search Console</li>
-                                <li>AI-powered marketing tools</li>
-                                <li>Reporting & performance analysis</li>
-                            </ul> -->
+                        
                         </div>
                     </div>
                 </div>
             </div>
 
-            <!-- <div class="text-center mt-5">
-                <a href="#" class="btn slider px-4 py-2 text-white">
-                    Enroll Now
-                </a>
-            </div> -->
+
         </div>
     </section>
 
@@ -626,105 +590,73 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ropar.ph
                 </p>
             </div>
 
-            <div class="row g-4">
-                <!-- Card 1 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
-                        <h5 class="fw-semibold">Learn from Certified Industry Experts</h5>
-                        <p class="text-muted">
-                            Our trainers are active digital marketers who bring real campaign experience and current industry insights to the classroom.
-                        </p>
-                    </div>
+        <section class="container-fluid ">
+    <div class="no-container width90">
+        <div class="row">
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="800"
+                    class="aos-init aos-animate chooseContentBox cyangreenbg">
+                    <h5>Learn from Certified Industry Experts</h5>
+                    <p class="text-center"> Our trainers are active digital marketers who bring real campaign experience and current industry insights to the classroom.</p>
                 </div>
-
-                <!-- Card 2 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
-                        <h5 class="fw-semibold">100% Live Project-Based Training:</h5>
-                        <p class="text-muted"> Execute real SEO audits, manage Google Ads campaigns, run social media strategies, and create content portfolios during your training.</p>
-                        <!-- <ul class="text-muted ps-3">
-            <li>Live websites</li>
-            <li>SEO audits</li>
-            <li>Google Ads campaigns</li>
-            <li>Social media marketing</li>
-            <li>Content creation & analytics</li>
-          </ul> -->
-                    </div>
+            </div><!--/col-->
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="1000" class="aos-init aos-animate chooseContentBox whitebg">
+                    <h5>100% Live Project-Based Training:</h5>
+                    <p class="text-center">Execute real SEO audits, manage Google Ads campaigns, run social media strategies, and create content portfolios during your training.</p>
                 </div>
-
-                <!-- Card 3 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
-                        <h5 class="fw-semibold">Beginner to Professional Learning Path:</h5>
-                        <p class="text-muted">
-                         No prior technical knowledge required. We start with fundamentals and build your skills step-by-step in a supportive environment.
-                        </p>
-                    </div>
+            </div><!--/col-->
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="1200"
+                    class="aos-init aos-animate chooseContentBox cyangreenbg">
+                    <h5>Beginner to Professional Learning Path:</h5>
+                    <p class="text-center"> No prior technical knowledge required. We start with fundamentals and build your skills step-by-step in a supportive environment.</p>
                 </div>
-
-                <!-- Card 4 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
-                        <h5 class="fw-semibold">Complete Career & Freelance Support:</h5>
-                        <p class="text-muted"> Receive dedicated guidance for resume building, interview preparation, freelancing setup, and job placement assistance for local and remote opportunities.</p>
-                        <!-- <ul class="text-muted ps-3">
-            <li>Job interview preparation</li>
-            <li>Resume & portfolio building</li>
-            <li>Freelancing platform guidance</li>
-            <li>Client handling basics</li>
-          </ul> -->
-                    </div>
+            </div><!--/col-->
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="1400" class="aos-init aos-animate chooseContentBox whitebg">
+                    <h5>Complete Career & Freelance Support:</h5>
+                    <p class="text-center">Receive dedicated guidance for resume building, interview preparation, freelancing setup, and job placement assistance for local and remote opportunities.</p>
                 </div>
-
-                <!-- Card 5 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
-                        <h5 class="fw-semibold">Training Based on Real Market Needs:</h5>
-                        <p class="text-muted">
-                           Curriculum is tailored to support local businesses, service industries, e-commerce, and remote job requirements relevant to Ropar and surrounding regions.
-                        </p>
-                    </div>
+            </div><!--/col-->
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="1600"
+                    class="aos-init aos-animate chooseContentBox cyangreenbg">
+                    <h5>Training Based on Real Market Needs:</h5>
+                    <p class="text-center">Curriculum is tailored to support local businesses, service industries, e-commerce, and remote job requirements relevant to Ropar and surrounding regions.</p>
                 </div>
-
-                <!-- Card 6 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
-                        <h5 class="fw-semibold">Hands-On Experience with Essential Tools:</h5>
-                        <p class="text-muted">
-                            Gain proficiency in Google Analytics, Google Ads, Meta Business Suite, Canva, SEO tools, and AI-powered marketing platforms.
-                        </p>
-                    </div>
+            </div><!--/col-->
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="1800" class="aos-init aos-animate chooseContentBox whitebg">
+                    <h5>Hands-On Experience with Essential Tools:</h5>
+                    <p class="text-center">Gain proficiency in Google Analytics, Google Ads, Meta Business Suite, Canva, SEO tools, and AI-powered marketing platforms.</p>
                 </div>
-                <!-- Card 7 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
-                        <h5 class="fw-semibold">Simple, Jargon-Free Learning Approach: </h5>
-                        <p class="text-muted">
-                             We break down complex digital concepts into easy-to-understand, actionable steps perfect for beginners.
-                        </p>
-                    </div>
+            </div><!--/col-->
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="1800" class="aos-init aos-animate chooseContentBox whitebg">
+                    <h5>Simple, Jargon-Free Learning Approach:</h5>
+                    <p class="text-center">We break down complex digital concepts into easy-to-understand, actionable steps perfect for beginners.</p>
                 </div>
-                <!-- Card 8 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
-                        <h5 class="fw-semibold">Personalized Attention in Small Batches:</h5>
-                        <p class="text-muted">
-                            Our limited class sizes ensure individual mentorship, regular doubt-clearing sessions, and direct interaction with trainers.
-                        </p>
-                    </div>
+            </div><!--/col-->
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="1800" class="aos-init aos-animate chooseContentBox whitebg">
+                    <h5>Personalized Attention in Small Batches:</h5>
+                    <p class="text-center"> Our limited class sizes ensure individual mentorship, regular doubt-clearing sessions, and direct interaction with trainers.</p>
                 </div>
-                <!-- Card 0-->
-                <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
-                        <h5 class="fw-semibold">Honest Local & Remote Career Guidance: </h5>
-                        <p class="text-muted">
-                         Get transparent advice about Ropar’s job market, remote work opportunities, freelancing potential, and realistic growth pathways.
-                        </p>
-                    </div>
+            </div><!--/col-->
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="1800" class="aos-init aos-animate chooseContentBox whitebg">
+                    <h5>Honest Local & Remote Career Guidance:</h5>
+                    <p class="text-center">Get transparent advice about Ropar’s job market, remote work opportunities, freelancing potential, and realistic growth pathways.</p>
                 </div>
+            </div><!--/col-->
+        </div><!--/row-->
+    </div>
+</section><!--/Why Choose Us-->
 
 
-            </div>
+
+          
         </div>
     </section>
     <!--  -->

@@ -1287,21 +1287,21 @@ $canonical_url = "https://www.5trainers.com/index.php";
             <div class="form-row">
                 <div class="form-group">
                     <label>Full Name</label>
-                    <input type="text" name="name" class="form-control" placeholder="Full Name" required minlength="4">
+                    <input type="text" name="name" class="form-control border" placeholder="Jordan Belfort " required minlength="4">
                 </div>
                 <div class="form-group">
                     <label>Email ID</label>
-                    <input type="email" name="email" class="form-control" placeholder="Email ID" required>
+                    <input type="email" name="email" class="form-control border" placeholder="Example@gmail.com" required>
                 </div>
             </div>
             <div class="form-row">
                 <div class="form-group">
                     <label>Mobile Number</label>
-                    <input type="tel" name="phone_number" class="form-control" placeholder="Mobile Number" required>
+                    <input type="tel" name="phone_number" class="form-control border" placeholder="9874563210" required>
                 </div>
                 <div class="form-group">
                     <label>Select Course</label>
-                    <select name="course" class="form-control" required>
+                    <select name="course" class="form-control border" required>
                         <option value="">Select Course</option>
                         <option value="Digital Marketing">Digital Marketing</option>
                         <option value="Google Ads">Google Ads</option>

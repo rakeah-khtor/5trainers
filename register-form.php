@@ -3,21 +3,21 @@
         <div class="col-lg-6 col-md-6">
             <div class="form-group">
                 <label>Full Name</label>
-                <input type="text" name="name" placeholder="Name" class="form-control" required minlength="4">
+                <input type="text" name="name" placeholder="Jordan Belfort" class="form-control" required minlength="4">
             </div>
         </div>
 
         <div class="col-lg-6 col-md-6">
             <div class="form-group">
                 <label>Email ID *</label>
-                <input type="email" name="email" placeholder="Email" class="form-control" required>
+                <input type="email" name="email" placeholder="Example@gmail.com" class="form-control" required>
             </div>
         </div>
 
         <div class="col-lg-6 col-md-6">
             <div class="form-group">
                 <label>Mobile Number</label>
-                <input type="tel" name="phone_number" placeholder="Phone" class="form-control" required>
+                <input type="tel" name="phone_number" placeholder="9874563210" class="form-control" required>
             </div>
         </div>
 

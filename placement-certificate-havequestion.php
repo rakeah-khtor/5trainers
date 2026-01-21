@@ -188,22 +188,22 @@
                                 <div class="col-lg-12 col-md-12">
                                     <div class="form-group">
                                           <label>name</label>
-                                          <input type="text" name="name" required="required" placeholder="Name"
-                                              class="form-control" minlength="4">
+                                          <input type="text" name="name" required="required" placeholder="Jordan Belfort"
+                                              class="form-control border" minlength="4">
                                     </div>
                                 </div>
                                 <div class="col-lg-12 col-md-12">
                                     <div class="form-group">
                                         <label>email</label>
-                                        <input type="email" name="email" required="required" placeholder="Email"
-                                            class="form-control">
+                                        <input type="email" name="email" required="required" placeholder="Example@gmail.com"
+                                            class="form-control border">
                                     </div>
                                 </div>
                                 <div class="col-lg-12 col-md-12">
                                     <div class="form-group">
                                         <label>phone number</label>
                                         <input type="tel" name="phone_number" required="required"
-                                            placeholder="Phone Number" class="form-control">
+                                            placeholder="9874563210" class="form-control border">
                                     </div>
                                 </div>
                                 <div class="col-lg-12 col-md-12">

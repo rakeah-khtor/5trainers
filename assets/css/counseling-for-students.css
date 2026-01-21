@@ -232,7 +232,7 @@
   background: #0f79be;
   /* background: #1F9CBD; */
   color: #fff;
-  position: sticky;
+  /* position: sticky; */
   top: 75px;
   z-index: 2;
 }
