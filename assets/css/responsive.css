@@ -4222,12 +4222,12 @@
     width: 180px;
   }
   #slide-show{
-        height: 100vh;
-    min-height: 100vh;
+        height: 110vh;
+    min-height: 110vh;
   }
   .bg1, .bg2, .bg3, .bg4{
-     height: 100vh;
-    min-height: 100vh;
+     height: 110vh;
+    min-height: 110vh;
   }
   .slider-center{
         top: 62%;
