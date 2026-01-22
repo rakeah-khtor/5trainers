@@ -107,13 +107,15 @@
     url("../fonts/PoppinsBold.ttf") format("truetype"),
     url("../fonts/PoppinsBold.svg#PoppinsBold") format("svg");
 }
-
+.nav__bar{
+  background-image: url(../image/header_bg.png);height: auto;width: 100%;background-position:center; background-size: contain; padding: 10px 0px;    background-repeat: repeat-x;
+}
 .fixed-header {
   position: fixed;
   top: 0;
   left: 0;
   width: 100%;
-  background-color: #ffffff;
+  /* background-color: #ffffff; */
 }
 
 a {
@@ -157,7 +159,7 @@ header nav .nocontainer.width90 {
 }
 
 .top-contact-bar {
- background-color: white; 
+ /* background-color: white;  */
  justify-content: end ;
  display:flex;
  border-radius:0px 0px 5px 5px;
@@ -220,7 +222,7 @@ nav.fixed-header .logo {
   }
 
   nav .wrapper {
-    background-color: #ffffff;
+    /* background-color: #ffffff; */
     /* border-radius: 9999px; */
     padding: 0px 0px 0px 10px;
     width: 100%;

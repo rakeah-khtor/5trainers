@@ -5,7 +5,144 @@ $canonical_url = "https://www.5trainers.com/index.php";
 ?>
 <?php include('header.php'); ?>
 
-<section id="slide-show">
+<style>
+ 
+.banner-img-box img {
+    width: 100%;
+}
+.banner-img-box {
+    width: 620px;
+    position: absolute;
+    right: 140px;
+    bottom: 20px;
+}
+ 
+@media screen and (max-width: 1400px) {
+.banner-img-box {
+    width: 500px;
+    position: absolute;
+    right: 140px;
+    bottom: 0px !important;
+}
+}
+ 
+@media screen and (max-width: 1200px) {
+.banner-img-box {
+    width: 500px;
+    position: absolute;
+    right: 140px;
+    bottom: 0px !important;
+}
+#slide-show {
+    height: auto;
+    min-height: auto;
+}
+}
+ 
+@media screen and (max-width: 991px) {
+.banner-img-box {
+    width: 350px;
+    position: absolute;
+    right: 100px;
+    bottom: 0px !important;
+}
+ 
+}
+@media screen and (max-width: 850px) {
+.banner-img-box {
+    width: 300px;
+    position: absolute;
+    right: 80px;
+    bottom: 0px !important;
+}
+ 
+}
+@media screen and (max-width: 768px) {
+#slide-show {
+    height: auto !important;
+    min-height: auto !important;
+    overflow: hidden;
+    width: 100%;
+    /* top: 90px; */
+    /* position: relative; */
+    /* background: #F9F7F7; */
+    background: #0f79be;
+    z-index: 0;
+    overflow: hidden;
+}
+.slide-text h2 {
+    /* font-size: 30px !important; */
+    line-height: 38px;
+    margin: 0 0 5px 0;
+}
+ 
+.slide-text {
+    padding-bottom: 60px;
+}
+}
+ 
+ 
+@media screen and (max-width: 576px) {
+.banner-img-box {
+    width: 320px;
+    right: 50%;
+    bottom: 0px !important;
+    left: 20%;
+}
+ 
+.slide-text {
+    padding-bottom: 80px;
+}
+ 
+}
+ 
+@media screen and (max-width: 480px) {
+.banner-img-box {
+    width: 320px;
+    right: 50%;
+    bottom: 0px !important;
+    left: 10%;
+}
+.slide-text {
+    padding-bottom: 200px;
+          font-size: 23px !important;
+ 
+}
+.slider-center{
+ left: 55%;
+        top: 50% !important;
+    
+}
+ 
+       
+ 
+}
+ 
+@media screen and (max-width: 360px) {
+.banner-img-box {
+    width: 320px;
+    right: 50%;
+    bottom: 0px !important;
+    left: 0%;
+     
+}
+.slide-text {
+    padding-bottom: 230px;
+      font-size: 23px !important;
+    line-height: 3px;
+}
+.slider-center{
+ left: 55%;
+        top: 54% !important;
+    
+}
+ 
+}
+ 
+ 
+</style>
+
+<!-- <section id="slide-show">
     <div class="slidex activx">
         <div class="bg1">
             <div class="slider-center row">
@@ -19,14 +156,38 @@ $canonical_url = "https://www.5trainers.com/index.php";
                 </div>
                 <div class="col-sm-6 col-md-6 col-lg-5">
                     <div class="banner-img-box">
-                        <!-- <img src="assets/image/slider/benner.png" loading="lazy" class="bannerimg img-fluid" alt="image"> -->
+                     
                         <img src="assets/image/slider/benners.png" loading="lazy" class="bannerimg img-fluid" alt="image">
                     </div>
                 </div>
             </div>
         </div>
     </div>
+</section> -->
+
+
+<section id="slide-show">
+    <div class="slidex activx">
+        <div class="bg1">
+            <div class="slider-center row">
+                <div class="col-12  col-md-6 col-lg-7 slide-text">
+                    <h2>Knowledge is power, and digital knowledge is game-changing power.</h2>
+                    <p class="mt-5">Guiding you towards success, every step of the way</p>
+ 
+                    <div class="two-btns text-center  mt-5">
+                        <a class="getst btn" id="openConsultationModal" href="#">Get a Free Consultation</a>
+                    </div>
+                </div>
+               
+            </div>
+            <div class="banner-img-box">
+                    <!-- <img src="assets/image/slider/benner.png" loading="lazy" class="bannerimg img-fluid" alt="image"> -->
+                    <img src="assets/image/slider/benners.png" loading="lazy" class="bannerimg" alt="image">
+            </div>
+        </div>
+    </div>
 </section>
+
 
 <span id="top"></span>
 <!--Key Point-->
