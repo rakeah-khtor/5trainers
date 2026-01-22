@@ -96,7 +96,7 @@
      
 
  
-      <div class="nocontainer width90">
+      <div class="nocontainer width90 nav__bar">
         <div class="wrapper">
           <div class="logo">
             <a href="<?php echo $linkPrefix; ?>index.php"><img src="<?php echo $assetPrefix; ?>assets/image/Final-logo.png" alt="" class="img-fluid"></a>
