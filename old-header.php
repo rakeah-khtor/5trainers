@@ -248,7 +248,7 @@
       </div>
     </div>
 
-    <div class="nocontainer width90">
+    <div class="nocontainer width80">
       <div class="wrapper">
         <div class="logo">
           <a href="index.php"><img src="assets/image/Final-logo.png" alt="" class="img-fluid"></a>

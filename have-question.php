@@ -1,5 +1,5 @@
 <section class="container-fluid pt haveQuestion">
-    <div class="custom-container width90">
+    <div class="custom-container width80">
         <div class="row">
             <div class="col-lg-5">
                 <div class="section-title-area">

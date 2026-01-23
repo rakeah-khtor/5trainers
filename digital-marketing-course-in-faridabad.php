@@ -36,7 +36,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
 
     <!--Slider-->
     <section class="setbgs-landing mtt" id="transcroller-body">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="">
                 <div class="row">
                     <div class="col-lg-7">
@@ -49,13 +49,13 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
                                     <h2 style="font-size: 45px ;"><a href="https://5trainers.com/"
                                             style="text-decoration: none; color:white;">Digital Marketing </a> Training in
                                         Faridabad</h2>
-                                    <h4 class="mt-4 text-white"><a href="https://5trainers.com/"
-                                            style="text-decoration: none; color:white;">Digital Marketing </a> Training in Faridabad – Top Institute with 100% Placement Support</h4>
+                                    <h4 class="mt-4 " style="color: #ff8503;"><a href="https://5trainers.com/"
+                                            style="text-decoration: none; color:#ff8503;">Digital Marketing </a> Training in Faridabad – Top Institute with 100% Placement Support</h4>
                                 </div>
                                 <!-- <p class="coDetail">Digital Marketing Course with Guaranteed Placement Support <br> Perfect for Both Freshers &  Working Professionals.</p> -->
                                 <p class="coDetail">Become a certified digital marketing expert with Faridabad's most trusted training institute. Master SEO, Google Ads, Social Media Marketing, AI-powered tools, and advanced analytics through a completely practical, project-driven curriculum designed to launch your career.</p>
                                 <!--for Both Freshers &-->
-                                <h4 class="text-white">Develop Industry-Ready Digital Skills for High-Growth Careers</h4>
+                                <h4 style="color: #ff8503;">Develop Industry-Ready Digital Skills for High-Growth Careers</h4>
                             </div><!--/slider text-->
 
 
@@ -111,12 +111,12 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
 
     <span id="top mt-5"></span>
     <section class="container-fluid slider-hding">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="buildText">
                         <h2>You Are One Step Closer To Building A Thriving Career As <span>Digital Marketing
-                                Expert!</span></h2>
+                                Expert in Faridabad !</span></h2>
                         <!-- <a href="#" style="text-decoration: none;">Register Now </a> -->
                     </div>
                 </div><!--col-->
@@ -125,7 +125,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
     </section><!--/slider Heading-->
 
     <section class="features-2 pt pb">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="row align-items-center">
                 <div class="col-12 col-xl-6">
                     <div class="row mtm-30">
@@ -218,7 +218,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
     </section>
 
     <section class="container-fluid about-sec pt pb aos-all" id="transcroller-body">
-        <div class="no-container width90">
+        <div class="no-container width80">
             <div class="row">
                 <div class="col-sm-9 col-md-9 col-lg-9 align-self-center">
                     <div class="about-us-info-wrap">
@@ -303,7 +303,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
         </div>
     </section><!--/about -->
    <section class="contaianer-fluid pt pb skill-cover">
-    <div class="cutom-container width90">
+    <div class="cutom-container width80">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area text-center centerhding">
@@ -403,7 +403,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
 
     <!--  -->
     <section class="py-5 bg-light">
-        <div class="cutom-container width90">
+        <div class="cutom-container width80">
             <div class="text-center mb-5">
                 <h2 class="fw-bold">Digital Marketing Course in Faridabad – Comprehensive Curriculum</h2>
                 <p class="text-muted text-center mt-2">
@@ -538,7 +538,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
 
 
     <section class="contaianer-fluid pt pb howitwork">
-        <div class="cutom-container width90">
+        <div class="cutom-container width80">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area whitetext centerhding">
@@ -612,7 +612,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
 
     <!--  -->
     <section class="py-5 bg-light">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="text-center mb-5">
                 <h2 class="fw-bold">Why 5Trainers is the #1 Choice for Digital Marketing Training in Faridabad</h2>
                 <p class="text-muted mt-2 text-center">
@@ -623,7 +623,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
             <div class="row g-4">
                 <!-- Card 1 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 Digital-card">
                         <h5 class="fw-semibold">Training Grounded in Live Campaigns: </h5>
                         <p class="text-muted">
                              Lessons are based on current industry practices, algorithm updates, and real-time campaign data—no outdated theory.
@@ -633,7 +633,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
 
                 <!-- Card 2 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 digital-card-new">
                         <h5 class="fw-semibold">Master Industry-Standard Tools:</h5>
                         <p class="text-muted"> Gain hands-on experience with Google Ads, Google Analytics, Meta Business Suite, Canva, SEMrush, and modern AI marketing platforms.</p>
                         <!-- <ul class="text-muted ps-3">
@@ -648,7 +648,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
 
                 <!-- Card 3 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 Digital-card">
                         <h5 class="fw-semibold">Clear, Practical Instruction: </h5>
                         <p class="text-muted">
                            We simplify complex topics into actionable steps with zero jargon—perfect for beginners and career-changers.
@@ -658,7 +658,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
 
                 <!-- Card 4 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 digital-card-new">
                         <h5 class="fw-semibold">Personalized Attention in Small Batches</h5>
                         <p class="text-muted">  Limited class sizes ensure you get individual mentorship and timely doubt resolution.
                         </p>
@@ -673,7 +673,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
 
                 <!-- Card 5 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 Digital-card">
                         <h5 class="fw-semibold">Honest Career Pathways: </h5>
                         <p class="text-muted">
                             Receive transparent guidance about job roles, salary expectations, and growth opportunities in Faridabad’s digital landscape.
@@ -683,7 +683,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
 
                 <!-- Card 6 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 digital-card-new">
                         <h5 class="fw-semibold">Lifelong Learning & Support:</h5>
                         <p class="text-muted">
                             Access to updated resources, job alerts, and expert guidance even after course completion.
@@ -692,7 +692,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
                 </div>
                 <!-- Card 7 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 Digital-card">
                         <h5 class="fw-semibold">Trusted by Faridabad’s Learners:</h5>
                         <p class="text-muted">
                             Highly recommended for practical training that translates directly into career success.
@@ -701,7 +701,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
                 </div>
                 <!-- Card 8 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 digital-card-new">
                         <h5 class="fw-semibold">Personalized Attention in Small Batches:</h5>
                         <p class="text-muted">
                             Limited class sizes ensure individual mentorship, regular doubt-clearing sessions, and
@@ -711,7 +711,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
                 </div>
                 <!-- Card 0-->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 Digital-card">
                         <h5 class="fw-semibold">Transparent Career Roadmap: </h5>
                         <p class="text-muted">
                             Get honest guidance about Faridabad's digital job market, salary expectations, and realistic
@@ -727,7 +727,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
     <!--  -->
 
     <section class="contaianer-fluid pt pb studentParticipation" style="display:none;">
-        <div class="cutom-container width90">
+        <div class="cutom-container width80">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area text-center">
@@ -803,7 +803,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
     </section><!--/Project Agile Activity with Student Participation-->
 
     <section class="contaianer-fluid pt pb skill-cover">
-        <div class="cutom-container width90">
+        <div class="cutom-container width80">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area text-center centerhding">
@@ -900,7 +900,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
     </section><!--/placement-->
 
     <section class="container-fluid download">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="row">
                 <div class="col-md-8 col-lg-6">
                     <h2 data-aos="fade-up" data-aos-duration="800" class="section-title">Take your career to the next
@@ -930,7 +930,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
 
     <!--/breadcrumbs start-->
     <section class="continer-fluid pb about5trainer ">
-        <div class="nocontainer width90">
+        <div class="nocontainer width80">
             <div class="row aboutrowhding">
                 <div class="col-lg-5 col-md-12 col-sm-12">
                     <div class="about5trainerImage">
@@ -1032,10 +1032,11 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
                                 <!-- <img src="assets/image/icon/mission-about.png" class="img-fluid" alt="Icon"> -->
                             </div>
                             <h3>Who Should Join This Digital Marketing Training in Faridabad?</h3>
-                            <ul class="p mt-4" style="padding: 0px;">
+                            <ul class="p " style="padding: 0px;">
                                 <li class="text-white">Students and recent graduates looking to build a strong digital career</li>
                                 <li class="text-white">Job seekers and professionals aiming to switch to high-growth digital roles
                                 </li>
+                                <li class="text-white">Business owners, shop owners, and entrepreneurs wanting to grow online</li>
                                 <li class="text-white">Business owners, shop owners, and entrepreneurs wanting to grow online</li>
                                 <li class="text-white">Freelancers, bloggers, and influencers seeking to monetize their skills</li>
                                 <li class="text-white">Working professionals in sales, IT, or marketing looking to upskill</li>
@@ -1074,7 +1075,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
                Contact us now to secure your seat or attend a free demo session for our Digital Marketing Training in Faridabad.
             </p>
 
-            <a href="#" class="btn btn-warning btn-lg fw-semibold px-4">
+            <a href="contact.php" class="btn  btn-lg fw-semibold px-4" style="backgroundcolor: #ff8503;">
                  Enroll Now 
             </a>
 
@@ -1082,7 +1083,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
     </section>
 
     <section class="container-fluid pt pb certificateProgram">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area">
@@ -1145,7 +1146,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
     </section><!--/Globally recognized certificate program-->
 
     <section class="container-fluid pt pb haveQuestion">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="row">
                 <div class="col-lg-5">
                     <div class="haveQues-image">
@@ -1189,14 +1190,14 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
                         Training in Ghaziabad.
                     </p>
 
-                    <a href="#" class="btn btn-outline-light btn-lg px-4">Free Demo Class</a>
+                    <!-- <a href="#" class="btn btn-outline-light btn-lg px-4">Free Demo Class</a> -->
                 </div>
             </div>
         </div>
     </section>
     <!--  -->
     <section class="our-location py-5">
-  <div class="no-container width90">
+  <div class="no-container width80">
     <h2 class="text-center mb-4 fw-bold">Our Location</h2>
 
     <div class="row g-4">
@@ -1256,7 +1257,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
 </section>
     <!-- faq -->
     <section class="container-fluid pt pb faq">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <span class="section-subtitle section-subtitle-2 text-center">Frequently Asked Questions (FAQs) – Faridabad</span>
             <div class="row">
 

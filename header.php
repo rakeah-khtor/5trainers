@@ -96,7 +96,7 @@
      
 
  
-      <div class="nocontainer width90">
+      <div class="nocontainer width80 nav__bar">
         <div class="wrapper">
           <div class="logo">
             <a href="<?php echo $linkPrefix; ?>index.php"><img src="<?php echo $assetPrefix; ?>assets/image/Final-logo.png" alt="" class="img-fluid"></a>
@@ -110,13 +110,24 @@
       <div class="main-top-contect" >
         <div class="width90 d-flex main-contact-bar">
             <div class="text-white">
-            <i class="text-white fa-solid fa-phone icon"></i>
-            <a href="tel:+91 8283840606" class="text-white mr-4" style="text-decoration: none;" >+91 8283840606</a>
+            <i class=" fa-solid fa-phone icon" style="color: #fff;"></i>
+            <a href="tel:+91 8283840606" class=" mr-4" style="text-decoration: none; color: #fff;" >+91 8283840606</a>
           </div>
           <div>
-            <i class="text-white fa-solid fa-envelope"></i>
-            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=info@5trainers.com" class="text-white" style="text-decoration: none;" target="_blank">info@5trainers.com</a>
+            <i class=" fa-solid fa-envelope" style="color: #fff;"></i>
+            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=info@5trainers.com" class="" style="text-decoration: none; color: #fff;" target="_blank">info@5trainers.com</a>
           </div>
+          <ul class="d-flex m-0">
+            <li style="padding:0px 10px"><a href="https://www.facebook.com/profile.php?id=61576550454616" target="_blank"><span>
+                  <i class="text-white fa-brands fa-facebook-f"></i>
+                  </span></a></li>
+             <li style="padding:0px 5px"><a href="https://x.com/_5trainers" target="_blank"><span>
+           <i class="text-white fa-brands fa-twitter"></i>
+            </span></a></li>
+             <li style="padding:0px 10px"><a href="https://www.linkedin.com/company/5trainer" target="_blank"><span>
+               <i class="text-white fa-brands fa-linkedin-in"></i>
+            </span></a></li>
+          </ul>
 
         </div>
       </div>
@@ -175,9 +186,10 @@
                 <li><a href="<?php echo $linkPrefix; ?>counseling-for-students.php">For Students</a></li>
                 <li><a href="<?php echo $linkPrefix; ?>professionals.php">For Professionals</a></li>
                 <li><a href="<?php echo $linkPrefix; ?>institutions.php">For Institutions</a></li>
+               <li><a href="<?php echo $linkPrefix; ?>blog/">Blog</a></li>
               </ul>
             </li>
-            <li><a href="<?php echo $linkPrefix; ?>blog/">Blog</a></li>
+            
             <li><a href="<?php echo $linkPrefix; ?>contact.php">Contact Us</a></li>
             <button type="button" class="brochure-btn d-block" data-bs-toggle="modal"
               data-bs-target="#staticBackdrop">Brochure</button>

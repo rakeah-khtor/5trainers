@@ -1,7 +1,8 @@
 @font-face {
   font-family: "NunitoMedium";
   src: url("../fonts/NunitoMedium.eot");
-  src: url("../fonts/NunitoMedium.eot") format("embedded-opentype"),
+  src:
+    url("../fonts/NunitoMedium.eot") format("embedded-opentype"),
     url("../fonts/NunitoMedium.woff2") format("woff2"),
     url("../fonts/NunitoMedium.woff") format("woff"),
     url("../fonts/NunitoMedium.ttf") format("truetype");
@@ -11,7 +12,8 @@
 @font-face {
   font-family: "NunitoBold";
   src: url("../fonts/NunitoBold.eot");
-  src: url("../fonts/NunitoBold.eot") format("embedded-opentype"),
+  src:
+    url("../fonts/NunitoBold.eot") format("embedded-opentype"),
     url("../fonts/NunitoBold.woff2") format("woff2"),
     url("../fonts/NunitoBold.woff") format("woff"),
     url("../fonts/NunitoBold.ttf") format("truetype"),
@@ -21,7 +23,8 @@
 @font-face {
   font-family: "RubikMedium";
   src: url("../fonts/RubikMedium.eot");
-  src: url("../fonts/RubikMedium.eot") format("embedded-opentype"),
+  src:
+    url("../fonts/RubikMedium.eot") format("embedded-opentype"),
     url("../fonts/RubikMedium.woff2") format("woff2"),
     url("../fonts/RubikMedium.woff") format("woff"),
     url("../fonts/RubikMedium.ttf") format("truetype"),
@@ -31,7 +34,8 @@
 @font-face {
   font-family: "NunitoExtraBold";
   src: url("../fonts/NunitoExtraBold.eot");
-  src: url("../fonts/NunitoExtraBold.eot") format("embedded-opentype"),
+  src:
+    url("../fonts/NunitoExtraBold.eot") format("embedded-opentype"),
     url("../fonts/NunitoExtraBold.woff2") format("woff2"),
     url("../fonts/NunitoExtraBold.woff") format("woff"),
     url("../fonts/NunitoExtraBold.ttf") format("truetype"),
@@ -41,7 +45,8 @@
 @font-face {
   font-family: "LexendBold";
   src: url("../fonts/LexendBold.eot");
-  src: url("../fonts/LexendBold.eot") format("embedded-opentype"),
+  src:
+    url("../fonts/LexendBold.eot") format("embedded-opentype"),
     url("../fonts/LexendBold.woff2") format("woff2"),
     url("../fonts/LexendBold.woff") format("woff"),
     url("../fonts/LexendBold.ttf") format("truetype"),
@@ -51,7 +56,8 @@
 @font-face {
   font-family: "LexendMedium";
   src: url("../fonts/LexendMedium.eot");
-  src: url("../fonts/LexendMedium.eot") format("embedded-opentype"),
+  src:
+    url("../fonts/LexendMedium.eot") format("embedded-opentype"),
     url("../fonts/LexendMedium.woff2") format("woff2"),
     url("../fonts/LexendMedium.woff") format("woff"),
     url("../fonts/LexendMedium.ttf") format("truetype"),
@@ -61,7 +67,8 @@
 @font-face {
   font-family: "LexendRegular";
   src: url("../fonts/LexendRegular.eot");
-  src: url("../fonts/LexendRegular.eot") format("embedded-opentype"),
+  src:
+    url("../fonts/LexendRegular.eot") format("embedded-opentype"),
     url("../fonts/LexendRegular.woff2") format("woff2"),
     url("../fonts/LexendRegular.woff") format("woff"),
     url("../fonts/LexendRegular.ttf") format("truetype"),
@@ -71,7 +78,8 @@
 @font-face {
   font-family: "JosefinSansBold";
   src: url("../fonts/JosefinSansBold.eot");
-  src: url("../fonts/JosefinSansBold.eot") format("embedded-opentype"),
+  src:
+    url("../fonts/JosefinSansBold.eot") format("embedded-opentype"),
     url("../fonts/JosefinSansBold.woff2") format("woff2"),
     url("../fonts/JosefinSansBold.woff") format("woff"),
     url("../fonts/JosefinSansBold.ttf") format("truetype"),
@@ -81,7 +89,8 @@
 @font-face {
   font-family: "PoppinsRegular";
   src: url("../fonts/PoppinsRegular.eot");
-  src: url("../fonts/PoppinsRegular.eot") format("embedded-opentype"),
+  src:
+    url("../fonts/PoppinsRegular.eot") format("embedded-opentype"),
     url("../fonts/PoppinsRegular.woff2") format("woff2"),
     url("../fonts/PoppinsRegular.woff") format("woff"),
     url("../fonts/PoppinsRegular.ttf") format("truetype"),
@@ -91,7 +100,8 @@
 @font-face {
   font-family: "PoppinsMedium";
   src: url("../fonts/PoppinsMedium.eot");
-  src: url("../fonts/PoppinsMedium.eot") format("embedded-opentype"),
+  src:
+    url("../fonts/PoppinsMedium.eot") format("embedded-opentype"),
     url("../fonts/PoppinsMedium.woff2") format("woff2"),
     url("../fonts/PoppinsMedium.woff") format("woff"),
     url("../fonts/PoppinsMedium.ttf") format("truetype"),
@@ -101,19 +111,30 @@
 @font-face {
   font-family: "PoppinsBold";
   src: url("../fonts/PoppinsBold.eot");
-  src: url("../fonts/PoppinsBold.eot") format("embedded-opentype"),
+  src:
+    url("../fonts/PoppinsBold.eot") format("embedded-opentype"),
     url("../fonts/PoppinsBold.woff2") format("woff2"),
     url("../fonts/PoppinsBold.woff") format("woff"),
     url("../fonts/PoppinsBold.ttf") format("truetype"),
     url("../fonts/PoppinsBold.svg#PoppinsBold") format("svg");
 }
-
+.nav__bar {
+  /* background-image: url(../image/header_bg.png); */
+  background-color: #fff;
+  height: auto;
+  width: 100%;
+  /* background-position: center; */
+  background-size: contain;
+  /* padding: 20px 0px; */
+  background-repeat: repeat-x;
+      border-radius: 0px 0px 5px 5px;
+}
 .fixed-header {
   position: fixed;
   top: 0;
   left: 0;
   width: 100%;
-  background-color: #ffffff;
+  /* background-color: #ffffff; */
 }
 
 a {
@@ -140,7 +161,7 @@ ul {
 }
 
 .logo {
-  width: 180px;
+  width: 200px;
 }
 
 nav {
@@ -148,7 +169,7 @@ nav {
   z-index: 99;
   width: 100%;
   top: 0;
-  background-color: #ffffff;
+  /* background-color: #ffffff; */
 }
 
 header nav .nocontainer.width90 {
@@ -157,21 +178,22 @@ header nav .nocontainer.width90 {
 }
 
 .top-contact-bar {
- background-color: white; 
- justify-content: end ;
- display:flex;
- border-radius:0px 0px 5px 5px;
+  /* background-color: white;  */
+  justify-content: end;
+  display: flex;
+  border-radius: 0px 0px 5px 5px;
 }
-.main-top-contect{
+.main-top-contect {
   background-color: #ff8503;
-  width:50%;
+  width: 80%;
   margin-right: 16px;
-  border-radius:0px 0px 5px 5px;
+  border-radius: 0px 0px 5px 5px;
 }
-.main-contact-bar{
+.main-contact-bar {
   justify-content: center;
-   height:40px; 
-   align-items: center;
+  height: 40px;
+  align-items: center;
+  letter-spacing: 2px;
 }
 
 nav.fixed-header .top-contact-bar {
@@ -197,14 +219,19 @@ nav .wrapper.visible-title {
 
 nav.fixed-header {
   /* --tw-shadow: 0px 4px 9px 1px #00000040; */
-  
+
   --tw-shadow-colored: 0px 4px 9px 1px var(--tw-shadow-color);
-  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000),
-    var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+  box-shadow:
+    var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000),
+    var(--tw-shadow);
 }
 
 nav.fixed-header .logo {
-  width: 180px;
+  /* width: 180px; */
+  width: 200px;
+}
+nav.fixed-header .wrapper{
+  padding: 10px 0px;
 }
 
 .wrapper .nav-links {
@@ -220,7 +247,7 @@ nav.fixed-header .logo {
   }
 
   nav .wrapper {
-    background-color: #ffffff;
+    /* background-color: #ffffff; */
     /* border-radius: 9999px; */
     padding: 0px 0px 0px 10px;
     width: 100%;
@@ -233,15 +260,17 @@ nav.fixed-header .logo {
 
   nav.fixed-header .nocontainer.width90 {
     width: 100%;
+    padding: 10px 0px;
   }
 
   nav.fixed-header {
-    background-color: #ffffff;
+    /* background-color: #ffffff;
+    margin-top: 20px; */
   }
 
   nav.fixed-header .wrapper {
     border-radius: 0;
-    width: 90%;
+    width: 100%;
   }
 }
 
@@ -427,6 +456,7 @@ nav.fixed-header .logo {
 
   nav {
     top: 10px;
+    background-color: #fff;
   }
 
   .wrapper .btn {
@@ -900,7 +930,7 @@ a {
   left: 0;
   top: 0px;
 }
-.footer-icon{
+.footer-icon {
   width: 15px !important;
 }
 

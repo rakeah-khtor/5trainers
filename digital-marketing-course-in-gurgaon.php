@@ -33,7 +33,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-gurgaon.
     <!-- End Google Tag Manager (noscript) -->
 
     <section class="setbgs-landing mtt"  id="transcroller-body">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="">
                 <div class="row">
                     <div class="col-lg-7">
@@ -45,13 +45,13 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-gurgaon.
                             <h2> with AI</h2> -->
                                     <h2 style="font-size: 45px ;"><a href="https://5trainers.com/"
                                             style="text-decoration: none; color:white;">Digital Marketing </a> Training in Gurgaon </h2>
-                                    <h4 class="mt-4 text-white"><a href="https://5trainers.com/"
-                                            style="text-decoration: none; color:white;">Digital Marketing </a> Training in Gurgaon –Premier Institute with 100% Placement Assistance</h4>
+                                    <h4 class="mt-4 " style="color: #ff8503;"><a href="https://5trainers.com/"
+                                            style="text-decoration: none; color:#ff8503;">Digital Marketing </a> Training in Gurgaon –Premier Institute with 100% Placement Assistance</h4>
                                 </div>
                                 <!-- <p class="coDetail">Digital Marketing Course with Guaranteed Placement Support <br> Perfect for Both Freshers &  Working Professionals.</p> -->
                                 <p class="coDetail">Join the leading digital marketing institute in Gurgaon and master the latest tools and strategies—including SEO, Google Ads, Social Media Marketing, and AI-driven automation—through hands-on, project-based training.</p>
                                 <!--for Both Freshers &-->
-                                <h4 class="text-white">Build High-Demand Skills for the Digital Economy</h4>
+                                <h4 style="color: #ff8503;">Build High-Demand Skills for the Digital Economy</h4>
                             </div><!--/slider text-->
 
 
@@ -108,12 +108,12 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-gurgaon.
 
     <span id="top mt-5"></span>
     <section class="container-fluid slider-hding">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="buildText">
                         <h2>You Are One Step Closer To Building A Thriving Career As <span>Digital Marketing
-                                Expert!</span></h2>
+                                Expert in Gurgaon !</span></h2>
                         <!-- <a href="#" style="text-decoration: none;">Register Now </a> -->
                     </div>
                 </div><!--col-->
@@ -122,7 +122,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-gurgaon.
     </section><!--/slider Heading-->
 
     <section class="features-2 pt pb">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="row align-items-center">
                 <div class="col-12 col-xl-6">
                     <div class="row mtm-30">
@@ -215,7 +215,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-gurgaon.
     </section>
 
     <section class="container-fluid about-sec pt pb aos-all" id="transcroller-body">
-        <div class="no-container width90">
+        <div class="no-container width80">
             <div class="row">
                 <div class="col-sm-9 col-md-9 col-lg-9 align-self-center">
                     <div class="about-us-info-wrap">
@@ -301,7 +301,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-gurgaon.
     </section><!--/about -->
 
      <section class="contaianer-fluid pt pb skill-cover">
-    <div class="cutom-container width90">
+    <div class="cutom-container width80">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area text-center centerhding">
@@ -401,7 +401,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-gurgaon.
 
     <!--  -->
     <section class="py-5 bg-light">
-        <div class="cutom-container width90">
+        <div class="cutom-container width80">
             <div class="text-center mb-5">
                 <h2 class="fw-bold">Digital Marketing Course in Gurgaon – Comprehensive Modules</h2>
                 <p class="text-muted text-center">
@@ -534,7 +534,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-gurgaon.
 
 
     <section class="contaianer-fluid pt pb howitwork">
-        <div class="cutom-container width90">
+        <div class="cutom-container width80">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area whitetext centerhding">
@@ -608,7 +608,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-gurgaon.
 
     <!--  -->
     <section class="py-5 bg-light">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="text-center mb-5">
                 <h2 class="fw-bold">Why 5Trainers is the Top Choice for Digital Marketing Training in Gurgaon</h2>
                 <p class="text-muted mt-2 text-center">
@@ -619,7 +619,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-gurgaon.
             <div class="row g-4">
                 <!-- Card 1 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 Digital-card">
                         <h5 class="fw-semibold">Learn from Corporate Digital Experts:</h5>
                         <p class="text-muted">
                             Our trainers are seasoned professionals actively managing campaigns for national and international brands.
@@ -629,7 +629,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-gurgaon.
 
                 <!-- Card 2 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 digital-card-new">
                         <h5 class="fw-semibold">100% Live Project-Based Learning:</h5>
                         <p class="text-muted"> Execute real SEO audits, run Google Ads campaigns, and manage social media strategies for actual businesses during training.</p>
                         <!-- <ul class="text-muted ps-3">
@@ -644,7 +644,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-gurgaon.
 
                 <!-- Card 3 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 Digital-card">
                         <h5 class="fw-semibold">Zero to Advanced Learning Path:</h5>
                         <p class="text-muted">
                              Perfect for beginners. We start from foundational concepts and progressively build up to advanced digital strategies.
@@ -654,7 +654,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-gurgaon.
 
                 <!-- Card 4 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 digital-card-new">
                         <h5 class="fw-semibold">Corporate Career & Freelance Launchpad:</h5>
                         <p class="text-muted"> Get dedicated support in resume building, interview preparation, and establishing your freelance consultancy.
                         </p>
@@ -669,7 +669,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-gurgaon.
 
                 <!-- Card 5 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 Digital-card">
                         <h5 class="fw-semibold">Training Grounded in Real Campaigns:</h5>
                         <p class="text-muted">
                            Learn from marketers who handle active campaigns daily—ensuring you receive the latest industry knowledge.
@@ -679,7 +679,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-gurgaon.
 
                 <!-- Card 6 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 digital-card-new">
                         <h5 class="fw-semibold">Tool-Centric Practical Exposure:</h5>
                         <p class="text-muted">
                            Gain proficiency with essential platforms: Google Ads, Analytics, Search Console, Meta Business Suite, and AI marketing tools.
@@ -688,7 +688,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-gurgaon.
                 </div>
                 <!-- Card 7 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 Digital-card">
                         <h5 class="fw-semibold">Clarity Over Jargon: </h5>
                         <p class="text-muted">
                              We break down complex topics into simple, actionable steps that anyone can understand and apply immediately.
@@ -697,7 +697,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-gurgaon.
                 </div>
                 <!-- Card 8 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 digital-card-new">
                         <h5 class="fw-semibold">Small Batches, Mentor-Led Sessions: </h5>
                         <p class="text-muted">
                             Enjoy personalized attention, regular doubt-clearing, and direct access to your trainer.
@@ -706,7 +706,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-gurgaon.
                 </div>
                 <!-- Card 0-->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 Digital-card">
                         <h5 class="fw-semibold">Transparent Career Roadmap: </h5>
                         <p class="text-muted">
                             Receive honest insights into Gurgaon's job market, salary benchmarks, and growth opportunities in digital roles.
@@ -721,7 +721,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-gurgaon.
     <!--  -->
 
     <section class="contaianer-fluid pt pb studentParticipation" style="display:none;">
-        <div class="cutom-container width90">
+        <div class="cutom-container width80">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area text-center">
@@ -797,7 +797,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-gurgaon.
     </section><!--/Project Agile Activity with Student Participation-->
 
     <section class="contaianer-fluid pt pb skill-cover">
-        <div class="cutom-container width90">
+        <div class="cutom-container width80">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area text-center centerhding">
@@ -894,7 +894,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-gurgaon.
     </section><!--/placement-->
 
     <section class="container-fluid download">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="row">
                 <div class="col-md-8 col-lg-6">
                     <h2 data-aos="fade-up" data-aos-duration="800" class="section-title">Take your career to the next
@@ -924,7 +924,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-gurgaon.
 
     <!--/breadcrumbs start-->
     <section class="continer-fluid pb about5trainer ">
-        <div class="nocontainer width90">
+        <div class="nocontainer width80">
             <div class="row aboutrowhding">
                 <div class="col-lg-5 col-md-12 col-sm-12">
                     <div class="about5trainerImage">
@@ -1026,10 +1026,11 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-gurgaon.
                                 <!-- <img src="assets/image/icon/mission-about.png" class="img-fluid" alt="Icon"> -->
                             </div>
                             <h3>Who is This Digital Marketing Training in Gurgaon For?</h3>
-                            <ul class="p mt-4" style="padding: 0px;">
+                            <ul class="p " style="padding: 0px;">
                                 <li class="text-white">Students and recent graduates looking to start a corporate career</li>
                                 <li class="text-white">Professionals aiming to upskill or switch to high-growth digital roles
                                 </li>
+                                <li class="text-white">Entrepreneurs and business owners seeking to grow their brand online</li>
                                 <li class="text-white">Entrepreneurs and business owners seeking to grow their brand online</li>
                                 <li class="text-white">Freelancers and consultants wanting to expand their service offerings</li>
                                 <li class="text-white">Marketing professionals aiming to update their digital skill set</li>
@@ -1070,7 +1071,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-gurgaon.
                 in Gurgaon.
             </p>
 
-            <a href="#" class="btn btn-warning btn-lg fw-semibold px-4">
+            <a href="contact.php" class="btn  btn-lg fw-semibold px-4" style="background-color: #ff8503;">
              Enroll Now 
             </a>
 
@@ -1078,7 +1079,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-gurgaon.
     </section>
 
     <section class="container-fluid pt pb certificateProgram">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area">
@@ -1141,7 +1142,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-gurgaon.
     </section><!--/Globally recognized certificate program-->
 
     <section class="container-fluid pt pb haveQuestion">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="row">
                 <div class="col-lg-5">
                     <div class="haveQues-image">
@@ -1183,14 +1184,14 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-gurgaon.
                          Contact us now to secure your spot in the next batch of Digital Marketing Training in Gurgaon.
                     </p>
 
-                    <a href="#" class="btn btn-outline-light btn-lg px-4">Free Demo Class</a>
+                    <!-- <a href="#" class="btn btn-outline-light btn-lg px-4">Free Demo Class</a> -->
                 </div>
             </div>
         </div>
     </section>
     <!--  -->
     <section class="our-location py-5">
-  <div class="no-container width90">
+  <div class="no-container width80">
     <h2 class="text-center mb-4 fw-bold">Our Location</h2>
 
     <div class="row g-4">
@@ -1250,7 +1251,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-gurgaon.
 </section>
     <!-- faq -->
     <section class="container-fluid pt pb faq">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <span class="section-subtitle section-subtitle-2 text-center">Frequently Asked Questions (FAQs) – Gurgaon</span>
             <div class="row">
 

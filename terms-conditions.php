@@ -35,7 +35,7 @@ $canonical_url = "https://www.5trainers.com/terms-conditions.php";
 		</div>
 	</section><!--/breadcrumbs-->
 	<section class="continer-fluid pb policyPage comm-margin">
-		<div class="nocontainer width90">
+		<div class="nocontainer width80">
 			<div class="row aboutrowhding">
 				<div class="col-lg-12 col-md-12 col-sm-12">
 					<div class="policyPageBox">

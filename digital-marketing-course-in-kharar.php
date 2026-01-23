@@ -23,7 +23,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
 
 
 <section class="setbgs-landing aos-all mtt" id="transcroller-body">
-    <div class="custom-container width90">
+    <div class="custom-container width80">
         <div class="">
             <div class="row">
                 <div class="col-lg-7">
@@ -36,8 +36,8 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
                                 <h2 style="font-size: 45px ;"><a href="https://5trainers.com/"
                                         style="text-decoration: none; color:white;">Digital Marketing </a> Training in
                                     Kharar</h2>
-                                <h4 class="mt-4 text-white"><a href="https://5trainers.com/"
-                                        style="text-decoration: none; color:white;">Digital Marketing </a> Training in
+                                <h4 class="mt-4 " style="color: #ff8503;"><a href="https://5trainers.com/"
+                                        style="text-decoration: none; color:#ff8503;">Digital Marketing </a> Training in
                                     Kharar – Best Institute with 100% Practical Training</h4>
                             </div>
                             <!-- <p class="coDetail">Digital Marketing Course with Guaranteed Placement Support <br> Perfect for Both Freshers &  Working Professionals.</p> -->
@@ -46,7 +46,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
                                 our completely practical, project-based curriculum designed to launch careers and grow
                                 local businesses.</p>
                             <!--for Both Freshers &-->
-                            <h4 class="text-white">Build In-Demand Digital Skills for Today’s Job Market</h4>
+                            <h4 style="color: #ff8503;">Build In-Demand Digital Skills for Today’s Job Market</h4>
                         </div><!--/slider text-->
 
                         <div>
@@ -102,12 +102,12 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
 
 <span id="top mt-5"></span>
 <section class="container-fluid slider-hding">
-    <div class="custom-container width90">
+    <div class="custom-container width80">
         <div class="row">
             <div class="col-lg-12">
                 <div class="buildText">
                     <h2>You Are One Step Closer To Building A Thriving Career As <span>Digital Marketing
-                            Expert!</span></h2>
+                            Expert in Kharar !</span></h2>
                     <!-- <a href="#" style="text-decoration: none;">Register Now </a> -->
                 </div>
             </div><!--col-->
@@ -116,7 +116,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
 </section><!--/slider Heading-->
 
 <section class="features-2 pt pb">
-    <div class="custom-container width90">
+    <div class="custom-container width80">
         <div class="row align-items-center">
             <div class="col-12 col-xl-6">
                 <div class="row mtm-30">
@@ -209,7 +209,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
 </section>
 
 <section class="container-fluid about-sec pt pb aos-all" id="transcroller-body">
-    <div class="no-container width90">
+    <div class="no-container width80">
         <div class="row">
             <div class="col-sm-9 col-md-9 col-lg-9 align-self-center">
                 <div class="about-us-info-wrap">
@@ -294,7 +294,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
 </section><!--/about -->
 
 <section class="contaianer-fluid pt pb skill-cover">
-    <div class="cutom-container width90">
+    <div class="cutom-container width80">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area text-center centerhding">
@@ -394,7 +394,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
 
 <!--  -->
 <section class="py-5 bg-light">
-    <div class="cutom-container width90">
+    <div class="cutom-container width80">
         <div class="text-center mb-5">
             <h2 class="fw-bold">Digital Marketing Course in Kharar – Complete Curriculum</h2>
             <p class="text-muted text-center">
@@ -533,7 +533,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
 
 
 <section class="contaianer-fluid pt pb howitwork">
-    <div class="cutom-container width90">
+    <div class="cutom-container width80">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area whitetext centerhding">
@@ -607,7 +607,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
 
 <!--  -->
 <section class="py-5 bg-light">
-    <div class="no-container width90">
+    <div class="no-container width80">
         <div class="text-center mb-5">
             <h2 class="fw-bold">Why Choose 5Trainers for Digital Marketing Training in Kharar?</h2>
             <p class="text-muted mt-2 text-center">
@@ -618,7 +618,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
         <div class="row g-4">
             <!-- Card 1 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card h-100 shadow-sm border-0 p-3">
+                <div class="card h-100 shadow-sm border-0 p-3 Digital-card">
                     <h5 class="fw-semibold">Learn from Industry Practitioners:</h5>
                     <p class="text-muted">
                         Train with certified digital marketers who manage real campaigns and share current industry
@@ -629,7 +629,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
 
             <!-- Card 2 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card h-100 shadow-sm border-0 p-3">
+                <div class="card h-100 shadow-sm border-0 p-3 digital-card-new">
                     <h5 class="fw-semibold">100% Live Project-Based Learning:</h5>
                     <p class="text-muted"> Execute real SEO audits, run Google Ads campaigns, manage social media
                         accounts, and work on live websites during training.</p>
@@ -645,7 +645,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
 
             <!-- Card 3 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card h-100 shadow-sm border-0 p-3">
+                <div class="card h-100 shadow-sm border-0 p-3 Digital-card">
                     <h5 class="fw-semibold">Beginner-Friendly Approach:</h5>
                     <p class="text-muted">
                         No prior experience needed. We start from basics and progress step-by-step to advanced digital
@@ -656,7 +656,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
 
             <!-- Card 4 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card h-100 shadow-sm border-0 p-3">
+                <div class="card h-100 shadow-sm border-0 p-3 digital-card-new">
                     <h5 class="fw-semibold">Complete Career & Freelance Support</h5>
                     <p class="text-muted"> Get dedicated help with resume building, interview preparation, freelancing
                         setup, and job placement assistance.</p>
@@ -671,7 +671,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
 
             <!-- Card 5 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card h-100 shadow-sm border-0 p-3">
+                <div class="card h-100 shadow-sm border-0 p-3 Digital-card">
                     <h5 class="fw-semibold">Real-World Training Methodology:</h5>
                     <p class="text-muted">
                         Learn strategies that work for local businesses, e-commerce, and service industries relevant to
@@ -682,7 +682,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
 
             <!-- Card 6 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card h-100 shadow-sm border-0 p-3">
+                <div class="card h-100 shadow-sm border-0 p-3 digital-card-new">
                     <h5 class="fw-semibold">Hands-On Tool Mastery: </h5>
                     <p class="text-muted">
                         Gain proficiency in Google Analytics, Google Ads, Meta Business Suite, Canva, SEO tools, and AI
@@ -692,7 +692,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
             </div>
             <!-- Card 7 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card h-100 shadow-sm border-0 p-3">
+                <div class="card h-100 shadow-sm border-0 p-3 Digital-card">
                     <h5 class="fw-semibold">Simple, Clear Instruction </h5>
                     <p class="text-muted">
                         We break down complex topics into easy-to-understand concepts without confusing jargon.
@@ -701,7 +701,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
             </div>
             <!-- Card 8 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card h-100 shadow-sm border-0 p-3">
+                <div class="card h-100 shadow-sm border-0 p-3 digital-card-new">
                     <h5 class="fw-semibold">Personalized Attention in Small Batches </h5>
                     <p class="text-muted">
                         Limited class sizes ensure individual mentorship and regular doubt-clearing sessions.
@@ -710,7 +710,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
             </div>
             <!-- Card 0-->
             <div class="col-md-6 col-lg-4">
-                <div class="card h-100 shadow-sm border-0 p-3">
+                <div class="card h-100 shadow-sm border-0 p-3 Digital-card">
                     <h5 class="fw-semibold">Honest Career Guidance</h5>
                     <p class="text-muted">
                         Get realistic advice about local job opportunities, remote work possibilities, and freelancing
@@ -726,7 +726,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
 <!--  -->
 
 <section class="contaianer-fluid pt pb studentParticipation" style="display:none;">
-    <div class="cutom-container width90">
+    <div class="cutom-container width80">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area text-center">
@@ -802,7 +802,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
 </section><!--/Project Agile Activity with Student Participation-->
 
 <section class="contaianer-fluid pt pb skill-cover">
-    <div class="cutom-container width90">
+    <div class="cutom-container width80">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area text-center centerhding">
@@ -899,7 +899,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
 </section><!--/placement-->
 
 <section class="container-fluid download">
-    <div class="custom-container width90">
+    <div class="custom-container width80">
         <div class="row">
             <div class="col-md-8 col-lg-6">
                 <h2 data-aos="fade-up" data-aos-duration="800" class="section-title">Take your career to the next
@@ -929,7 +929,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
 
 <!--/breadcrumbs start-->
 <section class="continer-fluid pb about5trainer ">
-    <div class="nocontainer width90">
+    <div class="nocontainer width80">
         <div class="row aboutrowhding">
             <div class="col-lg-5 col-md-12 col-sm-12">
                 <div class="about5trainerImage">
@@ -1032,8 +1032,9 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
                             <!-- <img src="assets/image/icon/mission-about.png" class="img-fluid" alt="Icon"> -->
                         </div>
                         <h3>Who Should Join This Digital Marketing Training in Kharar?</h3>
-                        <ul class="p mt-4 p-0">
+                        <ul class="p p-0">
                             <li Class="text-white">Students and graduates looking to start a digital career</li>
+                            <li Class="text-white">Job seekers aiming for local or remote opportunities</li>
                             <li Class="text-white">Job seekers aiming for local or remote opportunities</li>
                             <li Class="text-white">Business owners and entrepreneurs wanting to grow online</li>
                             <li Class="text-white">Freelancers and content creators looking to expand services </li>
@@ -1062,7 +1063,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
             Contact us today to enroll in Digital Marketing Training in Kharar.
         </p>
 
-        <a href="#" class="btn btn-warning btn-lg fw-semibold px-4">
+        <a href="contact.php" class="btn  btn-lg fw-semibold px-4" style="background-color: #ff8503;">
             Enroll Now
         </a>
 
@@ -1070,7 +1071,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
 </section>
 
 <section class="container-fluid pt pb certificateProgram">
-    <div class="custom-container width90">
+    <div class="custom-container width80">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area">
@@ -1130,7 +1131,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
 </section><!--/Globally recognized certificate program-->
 
 <section class="container-fluid pt pb haveQuestion">
-    <div class="custom-container width90">
+    <div class="custom-container width80">
         <div class="row">
             <div class="col-lg-5">
                 <div class="haveQues-image">
@@ -1175,14 +1176,14 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
                         campaigns</strong>, so you gain confidence to handle real clients and job roles.
                 </p>
 
-                <a href="#" class="btn btn-outline-light btn-lg px-4">Free Demo Class</a>
+                <!-- <a href="#" class="btn btn-outline-light btn-lg px-4">Free Demo Class</a> -->
             </div>
         </div>
     </div>
 </section>
 <!--  -->
     <section class="our-location py-5">
-  <div class="no-container width90">
+  <div class="no-container width80">
     <h2 class="text-center mb-4 fw-bold">Our Location</h2>
 
     <div class="row g-4">
@@ -1242,7 +1243,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
 </section>
 <!-- faq -->
 <section class="container-fluid pt pb faq">
-    <div class="custom-container width90">
+    <div class="custom-container width80">
         <span class="section-subtitle section-subtitle-2 text-center">Frequently Asked Questions (FAQs) – Kharar</span>
         <div class="row">
 

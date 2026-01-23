@@ -45,7 +45,7 @@
   font-weight: 400;
 }
 .slide-text h2 {
-  margin: 15px 0;
+  /* margin: 15px 0; */
   font-family: "PoppinsBold";
   font-size: 42px !important;
   text-align: left;
@@ -180,7 +180,7 @@ a.contb:hover {
 .slider-center {
   position: absolute;
   /* height: 15%; */
-  width: 90%;
+  width: 80%;
   left: 50%;
   top: 58%;
   background-color: transparent;

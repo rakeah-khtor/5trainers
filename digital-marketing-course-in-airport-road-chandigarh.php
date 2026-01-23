@@ -36,7 +36,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-airport-
 
     
     <section  class="setbgs-landing mtt" id="transcroller-body">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="">
                 <div class="row">
                     <div class="col-lg-7">
@@ -46,17 +46,17 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-airport-
                                 <div class="sliderHeading mb-20">
                                     <!-- <h2>Digital Marketing Courses</h2>
                             <h2> with AI</h2> -->
-                                    <h2 style="font-size: 45px ;"><a href="https://5trainers.com/"
+                                    <h2 style="font-size: 30px ;"><a href="https://5trainers.com/"
                                             style="text-decoration: none; color:white;">Digital Marketing </a> Course in
                                         Airport Road Chandigarh</h2>
-                                    <h4 class="mt-4 text-white"><a href="https://5trainers.com/"
-                                            style="text-decoration: none; color:white;">Digital Marketing </a> Course in
+                                    <h4 class="mt-4 " style="color: #ff8503;"><a href="https://5trainers.com/"
+                                            style="text-decoration: none; color:#ff8503;">Digital Marketing </a> Course in
                                         Airport Road Chandigarh – Practical Training with Placement Support</h4>
                                 </div>
                                 <!-- <p class="coDetail">Digital Marketing Course with Guaranteed Placement Support <br> Perfect for Both Freshers &  Working Professionals.</p> -->
                                 <p class="coDetail">If you are searching for a Digital Marketing Course in Airport Road Chandigarh, you’re in the right place. At 5Trainers, we offer a career-focused, practical digital marketing program designed to help you gain real skills that companies actually hire for.</p>
                                 <!--for Both Freshers &-->
-                                <h4 class="text-white">Job-Oriented Digital Marketing Training Near Airport Road Chandigarh
+                                <h4 style="color: #ff8503;">Job-Oriented Digital Marketing Training Near Airport Road Chandigarh
                                 </h4>
                             </div><!--/slider text-->
 
@@ -113,12 +113,12 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-airport-
 
     <span id="top mt-5"></span>
     <section class="container-fluid slider-hding">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="buildText">
                         <h2>You Are One Step Closer To Building A Thriving Career As <span>Digital Marketing
-                                Expert!</span></h2>
+                                Expert in Airport Road Chandigarh !</span></h2>
                         <!-- <a href="contact.php" style="text-decoration: none;">Register Now </a> -->
                     </div>
                 </div><!--col-->
@@ -127,7 +127,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-airport-
     </section><!--/slider Heading-->
 
     <section class="features-2 pt pb">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="row align-items-center">
                 <div class="col-12 col-xl-6">
                     <div class="row mtm-30">
@@ -220,7 +220,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-airport-
     </section>
 
     <section class="container-fluid about-sec pt pb aos-all" id="transcroller-body">
-        <div class="no-container width90">
+        <div class="no-container width80">
             <div class="row">
                 <div class="col-sm-9 col-md-9 col-lg-9 align-self-center">
                     <div class="about-us-info-wrap">
@@ -306,7 +306,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-airport-
     </section><!--/about -->
 
     <section class="contaianer-fluid pt pb skill-cover">
-        <div class="cutom-container width90">
+        <div class="cutom-container width80">
            
         <div class="row">
             <div class="col-lg-12">
@@ -407,7 +407,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-airport-
 
     <!--  -->
     <section class="py-5 bg-light">
-        <div class="cutom-container width90">
+        <div class="cutom-container width80">
             <div class="text-center mb-5">
                 <h2 class="fw-bold">Digital Marketing Training in Airport Road Chandigarh – Course Modules</h2>
                 <p class="text-muted text-center">
@@ -540,7 +540,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-airport-
 
 
     <section class="contaianer-fluid pt pb howitwork">
-        <div class="cutom-container width90">
+        <div class="cutom-container width80">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area whitetext centerhding">
@@ -614,7 +614,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-airport-
 
     <!--  -->
     <section class="py-5 bg-light">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="text-center mb-5">
                 <h2 class="fw-bold">Why Choose 5Trainers for a Digital Marketing Course in Airport Road Chandigarh?</h2>
                 <p class="text-muted mt-2 text-center">
@@ -623,8 +623,8 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-airport-
 
             <div class="row g-4">
                 <!-- Card 1 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                <div class="col-md-6 col-lg-4 ">
+                    <div class="card h-100 shadow-sm border-0 p-3 Digital-card">
                         <h5 class="fw-semibold">Industry-Experienced Trainers: </h5>
                         <p class="text-muted">
                             Learn from professionals actively managing SEO, ads, and social media campaigns.
@@ -634,7 +634,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-airport-
 
                 <!-- Card 2 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 digital-card-new">
                         <h5 class="fw-semibold">100% Practical Learning Model:</h5>
                         <p class="text-muted"> Work on live websites, paid ad campaigns, and real-time analytics.</p>
                         <!-- <ul class="text-muted ps-3">
@@ -649,7 +649,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-airport-
 
                 <!-- Card 3 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 Digital-card">
                         <h5 class="fw-semibold">Beginner-Friendly Training: </h5>
                         <p class="text-muted">
                            No technical or marketing background required. We start from the basics.
@@ -659,7 +659,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-airport-
 
                 <!-- Card 4 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 digital-card-new">
                         <h5 class="fw-semibold">Placement & Freelance Guidance :</h5>
                         <p class="text-muted"> Resume preparation, interview training, freelancing setup, and job referrals.
                         </p>
@@ -674,7 +674,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-airport-
 
                 <!-- Card 5 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 Digital-card">
                         <h5 class="fw-semibold">Latest Tools & AI Training: </h5>
                         <p class="text-muted">
                            Google Ads, GA4, Search Console, Meta Ads, Canva, SEMrush, and AI marketing tools.
@@ -684,7 +684,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-airport-
 
                 <!-- Card 6 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 digital-card-new">
                         <h5 class="fw-semibold">Small Batches, Personal Mentorship</h5>
                         <p class="text-muted">
                            Individual attention and proper doubt-clearing sessions.
@@ -693,7 +693,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-airport-
                 </div>
                 <!-- Card 7 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 Digital-card">
                         <h5 class="fw-semibold">Lifetime Support:</h5>
                         <p class="text-muted">
                           Continued guidance, updates, and job alerts even after course completion.
@@ -702,7 +702,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-airport-
                 </div>
                 <!-- Card 8 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 digital-card-new">
                         <h5 class="fw-semibold">Personalized Attention in Small Batches:</h5>
                         <p class="text-muted">
                             Limited class sizes ensure individual mentorship, regular doubt-clearing sessions, and
@@ -712,7 +712,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-airport-
                 </div>
                 <!-- Card 0-->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 Digital-card">
                         <h5 class="fw-semibold">Transparent Career Roadmap: </h5>
                         <p class="text-muted">
                             Get honest guidance about Airport Road Chandigarh's digital job market, salary expectations, and realistic
@@ -728,7 +728,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-airport-
     <!--  -->
 
     <section class="contaianer-fluid pt pb studentParticipation" style="display:none;">
-        <div class="cutom-container width90">
+        <div class="cutom-container width80">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area text-center">
@@ -804,7 +804,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-airport-
     </section><!--/Project Agile Activity with Student Participation-->
 
     <section class="contaianer-fluid pt pb skill-cover">
-        <div class="cutom-container width90">
+        <div class="cutom-container width80">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area text-center centerhding">
@@ -901,7 +901,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-airport-
     </section><!--/placement-->
 
     <section class="container-fluid download">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="row">
                 <div class="col-md-8 col-lg-6">
                     <h2 data-aos="fade-up" data-aos-duration="800" class="section-title">Take your career to the next
@@ -931,7 +931,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-airport-
 
     <!--/breadcrumbs start-->
     <section class="continer-fluid pb about5trainer ">
-        <div class="nocontainer width90">
+        <div class="nocontainer width80">
             <div class="row aboutrowhding">
                 <div class="col-lg-5 col-md-12 col-sm-12">
                     <div class="about5trainerImage">
@@ -1033,13 +1033,14 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-airport-
                                 <!-- <img src="assets/image/icon/mission-about.png" class="img-fluid" alt="Icon"> -->
                             </div>
                             <h3>Who Should Join This Digital Marketing Course?</h3>
-                            <ul class="p mt-4" style="padding: 0px;">
+                            <ul class="p " style="padding: 0px;">
                                 <li class="text-white">Students and fresh graduates</li>
                                 <li class="text-white">Job seekers and career switchers
                                 </li>
                                 <li class="text-white">Business owners and entrepreneurs</li>
                                 <li class="text-white">Freelancers, bloggers, and influencers</li>
                                 <li class="text-white">Working professionals from sales, IT, or marketing</li>
+                                 <li class="text-white">Working professionals looking to upgrade their digital expertise for better opportunities</li>
                             </ul>
                             <p class="text-white">No prior experience required.</p>
                         </div>
@@ -1065,7 +1066,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-airport-
                 Contact us today to book your seat or attend a free demo class.
             </p>
 
-            <a href="#" class="btn btn-warning btn-lg fw-semibold px-4">
+            <a href="contact.php" class="btn  btn-lg fw-semibold px-4" style="background-color: #ff8503;">
                  Enroll Now
             </a>
 
@@ -1073,7 +1074,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-airport-
     </section>
 
     <section class="container-fluid pt pb certificateProgram">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area">
@@ -1136,7 +1137,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-airport-
     </section><!--/Globally recognized certificate program-->
 
     <section class="container-fluid pt pb haveQuestion">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="row">
                 <div class="col-lg-5">
                     <div class="haveQues-image">
@@ -1180,14 +1181,14 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-airport-
                         Training in Airport Road Chandigarh.
                     </p>
 
-                    <a href="#" class="btn btn-outline-light btn-lg px-4">Free Demo Class</a>
+                    <!-- <a href="#" class="btn btn-outline-light btn-lg px-4">Free Demo Class</a> -->
                 </div>
             </div>
         </div>
     </section>
     <!--  -->
     <section class="our-location py-5">
-  <div class="no-container width90">
+  <div class="no-container width80">
     <h2 class="text-center mb-4 fw-bold">Our Location</h2>
 
     <div class="row g-4">
@@ -1247,7 +1248,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-airport-
 </section>
     <!-- faq -->
     <section class="container-fluid pt pb faq">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <span class="section-subtitle section-subtitle-2 text-center">Frequently Asked Questions (FAQs) –
                 Airport Road Chandigarh</span>
             <div class="row">

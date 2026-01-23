@@ -214,7 +214,7 @@ $canonical_url = "https://www.5trainers.com/smm.php";
 </section><!--/SMM Course-->
 
 <section class="continer-fluid pt pb CI-7">
-	<div class="no-container width90">
+	<div class="no-container width80">
 		<div class="row">
 			<div class="col-lg-12">
 				<div class="section-title-area centerhding">

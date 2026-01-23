@@ -38,7 +38,7 @@ $canonical_url = "https://www.5trainers.com/professionals.php";
 <!--/Breadcrumbs-->
 
 <section class="continer-fluid pt pb comm-margin counseling">
-    <div class="no-container width90">
+    <div class="no-container width80">
         <div class="row">
             <div class="col-lg-7">
                 <div class="section-title-area">
@@ -75,7 +75,7 @@ $canonical_url = "https://www.5trainers.com/professionals.php";
 <!--/Counselling-->
 
 <section class="container-fluid learning-paths">
-    <div class="no-container width90">
+    <div class="no-container width80">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area text-center">
@@ -186,7 +186,7 @@ $canonical_url = "https://www.5trainers.com/professionals.php";
 <!--/Personalized Learning Paths To Success-->
 
 <section class="container-fluid pt pb learning-paths">
-    <div class="no-container width90">
+    <div class="no-container width80">
         <div class="row serviceProcess">
             <div class="col-lg-4">
                 <div class="content-wrapper servicePBox">
@@ -331,7 +331,7 @@ $canonical_url = "https://www.5trainers.com/professionals.php";
 </section>
 
 <section class="container-fluid pt pb ourAssessment">
-    <div class="no-container width90">
+    <div class="no-container width80">
         <div class="row">
             <div class="col-lg-12">
                 <div class="ourAssemtContainer">
@@ -437,7 +437,7 @@ $canonical_url = "https://www.5trainers.com/professionals.php";
 <!--/Our Student Got Into-->
 
 <section class="container-fluid pt pb faqSection">
-    <div class="no-container width90">
+    <div class="no-container width80">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area white-heading">

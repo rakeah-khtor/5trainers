@@ -37,7 +37,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-panchkul
   
     <!--Slider-->
     <section  class="setbgs-landing mtt" id="transcroller-body">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="">
                 <div class="row">
                     <div class="col-lg-7">
@@ -49,8 +49,8 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-panchkul
                             <h2> with AI</h2> -->
                                     <h2 style="font-size: 45px ;"><a href="https://5trainers.com/"
                                             style="text-decoration: none; color:white;">Digital Marketing </a> Course in Panchkula</h2>
-                                    <h4 class="mt-4 text-white"><a href="https://5trainers.com/"
-                                            style="text-decoration: none; color:white;">Digital Marketing </a> Course in Panchkula – Learn Practically with 100% Placement Support</h4>
+                                    <h4 class="mt-4 " style="color: #ff8503;"><a href="https://5trainers.com/"
+                                            style="text-decoration: none; color:#ff8503;">Digital Marketing </a> Course in Panchkula – Learn Practically with 100% Placement Support</h4>
                                 </div>
                                 <!-- <p class="coDetail">Digital Marketing Course with Guaranteed Placement Support <br> Perfect for Both Freshers &  Working Professionals.</p> -->
                                 <p class="coDetail">Become a certified digital marketing expert with Panchkula's leading
@@ -59,7 +59,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-panchkul
                                     launch your career or grow your local business.
                                 </p>
                                 <!--for Both Freshers &-->
-                                <h4 class="text-white">Build In-Demand Digital Skills for Today’s Opportunities</h4>
+                                <h4 style="color: #ff8503;">Build In-Demand Digital Skills for Today’s Opportunities</h4>
                             </div><!--/slider text-->
 
 
@@ -119,12 +119,12 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-panchkul
 
     <span id="top mt-5"></span>
     <section class="container-fluid slider-hding">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="buildText">
                         <h2>You Are One Step Closer To Building A Thriving Career As <span>Digital Marketing
-                                Expert!</span></h2>
+                                Expert in Panchkula!</span></h2>
                         <!-- <a href="#" style="text-decoration: none;">Register Now </a> -->
                     </div>
                 </div><!--col-->
@@ -133,7 +133,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-panchkul
     </section><!--/slider Heading-->
 
     <section class="features-2 pt pb">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="row align-items-center">
                 <div class="col-12 col-xl-6">
                     <div class="row mtm-30">
@@ -226,7 +226,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-panchkul
     </section>
 
     <section class="container-fluid about-sec pt pb aos-all" id="transcroller-body">
-        <div class="no-container width90">
+        <div class="no-container width80">
             <div class="row">
                 <div class="col-sm-9 col-md-9 col-lg-9 align-self-center">
                     <div class="about-us-info-wrap">
@@ -312,7 +312,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-panchkul
     </section><!--/about -->
 
      <section class="contaianer-fluid pt pb skill-cover">
-    <div class="cutom-container width90">
+    <div class="cutom-container width80">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area text-center centerhding">
@@ -412,7 +412,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-panchkul
 
     <!--  -->
     <section class="py-5 bg-light">
-        <div class="cutom-container width90">
+        <div class="cutom-container width80">
             <div class="text-center mb-5">
                 <h2 class="fw-bold">Digital Marketing Course in Panchkula – Complete Curriculum</h2>
                 <p class="text-muted text-center">
@@ -545,7 +545,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-panchkul
 
 
     <section class="contaianer-fluid pt pb howitwork">
-        <div class="cutom-container width90">
+        <div class="cutom-container width80">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area whitetext centerhding">
@@ -619,7 +619,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-panchkul
 
     <!--  -->
     <section class="py-5 bg-light">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="text-center mb-5">
                 <h2 class="fw-bold">Why Choose 5Trainers for a Digital Marketing Course in Panchkula?</h2>
                 <p class="text-muted mt-2 text-center">
@@ -630,7 +630,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-panchkul
             <div class="row g-4">
                 <!-- Card 1 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 Digital-card">
                         <h5 class="fw-semibold">Certified & Experienced Trainers:</h5>
                         <p class="text-muted">
                              Learn from industry experts who actively manage digital marketing campaigns.
@@ -640,7 +640,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-panchkul
 
                 <!-- Card 2 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 digital-card-new">
                         <h5 class="fw-semibold">100% Practical & Project-Based Learning:</h5>
                         <p class="text-muted">  Run SEO audits, Google Ads, and social media campaigns on real projects.</p>
                         <!-- <ul class="text-muted ps-3">
@@ -655,7 +655,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-panchkul
 
                 <!-- Card 3 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 Digital-card">
                         <h5 class="fw-semibold">Beginner-Friendly Course Structure:</h5>
                         <p class="text-muted">
                              No technical background required. Start from basics and progress to advanced levels.
@@ -665,7 +665,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-panchkul
 
                 <!-- Card 4 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 digital-card-new">
                         <h5 class="fw-semibold">100% Placement & Freelance Support:</h5>
                         <p class="text-muted">  Resume building, interview preparation, freelancing guidance, and job referrals.</p>
                         <!-- <ul class="text-muted ps-3">
@@ -679,7 +679,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-panchkul
 
                 <!-- Card 5 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 Digital-card">
                         <h5 class="fw-semibold">Live Campaign & Latest Tools Training:</h5>
                         <p class="text-muted">
                           Learn Google Ads, GA4, Search Console, Meta Ads, Canva, SEMrush, and AI tools.
@@ -689,7 +689,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-panchkul
 
                 <!-- Card 6 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 digital-card-new">
                         <h5 class="fw-semibold">Small Batches & Personal Mentorship:</h5>
                         <p class="text-muted">
                            Individual attention and proper doubt-clearing support.
@@ -698,7 +698,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-panchkul
                 </div>
                 <!-- Card 7 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 Digital-card">
                         <h5 class="fw-semibold">Lifetime Learning Assistance </h5>
                         <p class="text-muted">
                             Continued guidance, updates, and job alerts even after course completion.
@@ -707,7 +707,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-panchkul
                 </div>
                 <!-- Card 8 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 digital-card-new">
                         <h5 class="fw-semibold">Personalized Attention in Small Batches:</h5>
                         <p class="text-muted">
                             Our limited class sizes ensure individual mentorship, regular doubt-clearing sessions, and
@@ -717,7 +717,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-panchkul
                 </div>
                 <!-- Card 0-->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 Digital-card">
                         <h5 class="fw-semibold">Honest Local & Remote Career Guidance: </h5>
                         <p class="text-muted">
                             Get transparent advice about Panchkula's job market, remote work opportunities, freelancing potential, and realistic salary expectations.
@@ -732,7 +732,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-panchkul
     <!--  -->
 
     <section class="contaianer-fluid pt pb studentParticipation" style="display:none;">
-        <div class="cutom-container width90">
+        <div class="cutom-container width80">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area text-center">
@@ -808,7 +808,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-panchkul
     </section><!--/Project Agile Activity with Student Participation-->
 
     <section class="contaianer-fluid pt pb skill-cover">
-        <div class="cutom-container width90">
+        <div class="cutom-container width80">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area text-center centerhding">
@@ -905,7 +905,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-panchkul
     </section><!--/placement-->
 
     <section class="container-fluid download">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="row">
                 <div class="col-md-8 col-lg-6">
                     <h2 data-aos="fade-up" data-aos-duration="800" class="section-title">Take your career to the next
@@ -935,7 +935,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-panchkul
 
     <!--/breadcrumbs start-->
     <section class="continer-fluid pb about5trainer ">
-        <div class="nocontainer width90">
+        <div class="nocontainer width80">
             <div class="row aboutrowhding">
                 <div class="col-lg-5 col-md-12 col-sm-12">
                     <div class="about5trainerImage">
@@ -1068,7 +1068,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-panchkul
               Contact us today to book your seat or attend a free demo class.
             </p>
 
-            <a href="#" class="btn btn-warning btn-lg fw-semibold px-4">
+            <a href="contact.php" class="btn btn-lg fw-semibold px-4" style="background-color: #ff8503;">
                  Enroll Now 
             </a>
 
@@ -1076,7 +1076,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-panchkul
     </section>
 
     <section class="container-fluid pt pb certificateProgram">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area">
@@ -1139,7 +1139,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-panchkul
     </section><!--/Globally recognized certificate program-->
 
     <section class="container-fluid pt pb haveQuestion">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="row">
                 <div class="col-lg-5">
                     <div class="haveQues-image">
@@ -1184,14 +1184,14 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-panchkul
                             active ad campaigns</strong>, so you gain confidence to handle real clients and job roles.
                     </p>
 
-                    <a href="#" class="btn btn-outline-light btn-lg px-4">Free Demo Class</a>
+                    <!-- <a href="#" class="btn btn-outline-light btn-lg px-4">Free Demo Class</a> -->
                 </div>
             </div>
         </div>
     </section>
     <!--  -->
     <section class="our-location py-5">
-  <div class="no-container width90">
+  <div class="no-container width80">
     <h2 class="text-center mb-4 fw-bold">Our Location</h2>
 
     <div class="row g-4">
@@ -1251,7 +1251,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-panchkul
 </section>
     <!-- faq -->
     <section class="container-fluid pt pb faq">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <span class="section-subtitle section-subtitle-2 text-center">Frequently Asked Questions (FAQs) – Panchkula</span>
             <div class="row">
 

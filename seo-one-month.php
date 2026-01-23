@@ -11,7 +11,7 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
 <link href="landingpage/assets/css/coursedetails.css" type="text/css" rel="stylesheet" />
 <!--Slider-->
 <section id="slide-shows" class="setbgs landignsetbg">
-    <div class="custom-container width90">
+    <div class="custom-container width80">
         <div>
             <div class="hero-main row">
                 <div class="col-lg-7 ">
@@ -106,7 +106,7 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
 </section><!--/Slider-->
 <span id="top"></span>
 <section class="container-fluid slider-hding">
-    <div class="custom-container width90">
+    <div class="custom-container width80">
         <div class="row">
             <div class="col-lg-12">
                 <div class="buildText">
@@ -119,7 +119,7 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
 </section><!--/slider Heading-->
 
 <section class="container-fluid about-sec seopage pt pb aos-all" id="transcroller-body">
-    <div class="no-container width90">
+    <div class="no-container width80">
         <div class="row">
             <div class="col-sm-12 col-md-12 col-lg-12 align-self-center">
                 <div class="about-us-info-wrap">
@@ -156,7 +156,7 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
 </section><!--/SEO Course Overview-->
 
 <section class="contaianer-fluid pt pb courseModules">
-    <div class="cutom-container width90">
+    <div class="cutom-container width80">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area">
@@ -421,7 +421,7 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
 </section><!--/courseModules-->
 
 <section class="features-2 pt pb">
-    <div class="custom-container width90">
+    <div class="custom-container width80">
         <div class="row align-items-center">
             <div class="col-12 col-xl-6">
                 <div class="row mtm-30">
@@ -509,7 +509,7 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
 <?php include('placement-certificate-havequestion.php'); ?>
 
 <section id="faqSec" class="container-fluid pt pb faq">
-    <div class="custom-container width90">
+    <div class="custom-container width80">
         <div class="row">
             <div class="col-sm-12 col-lg-12">
                 <div class="section-title-area text-center">

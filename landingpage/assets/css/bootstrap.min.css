@@ -4052,6 +4052,10 @@ input[type="submit"].btn-block {
    color: white !important;
     transition: all 0.3s ease;
 }
+.Digital-card h5{
+   color: white !important;
+    transition: all 0.3s ease;
+}
 .Digital-card:hover{
   background-color: white !important;
   color: #0f79be !important;
@@ -4060,6 +4064,10 @@ input[type="submit"].btn-block {
 .Digital-card:hover p{
   color: #0f79be !important; 
    transition: all 0.3s ease;
+}
+.Digital-card:hover h5{
+   color: #0f79be !important;
+    transition: all 0.3s ease;
 }
 .digital-card-new{
   background-color: white !important;
@@ -4070,6 +4078,9 @@ input[type="submit"].btn-block {
   color: #000 !important;
   transition: all 0.3s ease;
 }
+.digital-card-new h5{
+  color: #000 !important;
+}
 .digital-card-new:hover{
   background-color: #0f79be !important;
   color: white !important;
@@ -4078,6 +4089,9 @@ input[type="submit"].btn-block {
 .digital-card-new:hover p{
   color: white !important;
   transition: all 0.3s ease;
+}
+.digital-card-new:hover h5{
+  color: white !important;
 }
 .card > hr {
   margin-right: 0;

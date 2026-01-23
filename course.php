@@ -35,7 +35,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
     <section class="continer-fluid pb pt course-sec1 comm-margin">
         <div class="service-circle"></div>
         <div class="shape1"><img src="assets/image/shape/arrow-three.png"></div>
-        <div class="no-container width90">
+        <div class="no-container width80">
             <div class="row service-sec-rw mt-80">
                 <div class="col-md-12 mb-5">
                     <div class="section-title-area width200 mb-5">
@@ -155,7 +155,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
             </div>
         </div>
 
-        <div class="no-container width90">
+        <div class="no-container width80">
             <div class="row service-sec-rw mt-80">
                 <div class="col-lg-12 col-md-12">
                     <div class="section-title-area">
@@ -337,7 +337,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
     </section><!--/course list-->
     <!--faq-suction-start-->
     <section class="container-fluid pt pb faqSection ">
-        <div class="no-container width90">
+        <div class="no-container width80">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area white-heading">

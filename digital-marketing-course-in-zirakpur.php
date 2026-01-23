@@ -37,7 +37,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-zirakpur
     
     <!--Slider-->
     <section  class="setbgs-landing mtt" id="transcroller-body">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="">
                 <div class="row">
                     <div class="col-lg-7">
@@ -50,8 +50,8 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-zirakpur
                                     <h2 style="font-size: 45px ;"><a href="https://5trainers.com/"
                                             style="text-decoration: none; color:white;">Digital Marketing </a> Course in
                                         Zirakpur </h2>
-                                    <h4 class="mt-4 text-white"><a href="https://5trainers.com/"
-                                            style="text-decoration: none; color:white;">Digital Marketing </a> Course in
+                                    <h4 class="mt-4 " style="color: #ff8503;"><a href="https://5trainers.com/"
+                                            style="text-decoration: none; color:#ff8503;">Digital Marketing </a> Course in
                                         Zirakpur | Learn SEO, Ads & AI Tools</h4>
                                 </div>
                                 <!-- <p class="coDetail">Digital Marketing Course with Guaranteed Placement Support <br> Perfect for Both Freshers &  Working Professionals.</p> -->
@@ -61,7 +61,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-zirakpur
                                     and advanced analytics through a 100% practical, project-based learning approach.
                                 </p>
                                 <!--for Both Freshers &-->
-                                <h4 class="text-white">Learn Industry-Ready Digital Skills for High-Growth Careers
+                                <h4 style="color: #ff8503;">Learn Industry-Ready Digital Skills for High-Growth Careers
                                 </h4>
                             </div><!--/slider text-->
 
@@ -123,12 +123,12 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-zirakpur
 
     <span id="top mt-5"></span>
     <section class="container-fluid slider-hding">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="buildText">
                         <h2>You Are One Step Closer To Building A Thriving Career As <span>Digital Marketing
-                                Expert!</span></h2>
+                                Expert in Zirakpur !</span></h2>
                         <!-- <a href="#" style="text-decoration: none;">Register Now </a> -->
                     </div>
                 </div><!--col-->
@@ -137,7 +137,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-zirakpur
     </section><!--/slider Heading-->
 
     <section class="features-2 pt pb">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="row align-items-center">
                 <div class="col-12 col-xl-6">
                     <div class="row mtm-30">
@@ -230,7 +230,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-zirakpur
     </section>
 
     <section class="container-fluid about-sec pt pb aos-all" id="transcroller-body">
-        <div class="no-container width90">
+        <div class="no-container width80">
             <div class="row">
                 <div class="col-sm-9 col-md-9 col-lg-9 align-self-center">
                     <div class="about-us-info-wrap">
@@ -316,7 +316,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-zirakpur
     </section><!--/about -->
 
     <section class="contaianer-fluid pt pb skill-cover">
-    <div class="cutom-container width90">
+    <div class="cutom-container width80">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area text-center centerhding">
@@ -416,7 +416,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-zirakpur
 
     <!--  -->
     <section class="py-5 bg-light">
-        <div class="cutom-container width90">
+        <div class="cutom-container width80">
             <div class="text-center mb-5">
                 <h2 class="fw-bold">Digital Marketing Course in Zirakpur – Complete Curriculum</h2>
                 <p class="text-muted text-center">
@@ -555,7 +555,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-zirakpur
 
 
     <section class="contaianer-fluid pt pb howitwork">
-        <div class="cutom-container width90">
+        <div class="cutom-container width80">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area whitetext centerhding">
@@ -629,7 +629,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-zirakpur
 
     <!--  -->
     <section class="py-5 bg-light">
-        <div class="cutom-container width90">
+        <div class="cutom-container width80">
             <div class="text-center mb-5">
                 <h2 class="fw-bold">Why 5Trainers is the Best Choice for a Digital Marketing Course in Zirakpur</h2>
                 <p class="text-muted mt-2 text-center">
@@ -641,7 +641,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-zirakpur
             <div class="row g-4">
                 <!-- Card 1 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 Digital-card">
                         <h5 class="fw-semibold">Learn from Certified Industry Experts: </h5>
                         <p class="text-muted">
                             Our trainers are active digital marketers managing real campaigns for real businesses.
@@ -651,7 +651,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-zirakpur
 
                 <!-- Card 2 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 digital-card-new">
                         <h5 class="fw-semibold">100% Practical & Project-Based Training:</h5>
                         <p class="text-muted"> Perform live SEO audits, run Google Ads, manage social media pages, and
                             track campaign performance.</p>
@@ -667,7 +667,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-zirakpur
 
                 <!-- Card 3 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 Digital-card">
                         <h5 class="fw-semibold">Beginner-Friendly (Zero to Advanced): </h5>
                         <p class="text-muted">
                             No prior experience needed. We start from the basics and gradually move to advanced
@@ -678,7 +678,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-zirakpur
 
                 <!-- Card 4 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 digital-card-new">
                         <h5 class="fw-semibold">100% Placement & Freelance Support</h5>
                         <p class="text-muted"> Resume building, interview preparation, freelancing guidance, and job
                             referrals in Zirakpur & Tricity.
@@ -694,7 +694,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-zirakpur
 
                 <!-- Card 5 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 Digital-card">
                         <h5 class="fw-semibold">Live Campaign Learning: </h5>
                         <p class="text-muted">
                             Training based on current algorithms, tools, and real-time data—not outdated theory.
@@ -704,7 +704,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-zirakpur
 
                 <!-- Card 6 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 digital-card-new">
                         <h5 class="fw-semibold">Hands-On Tool Training:</h5>
                         <p class="text-muted">
                             Google Ads, GA4, Search Console, Meta Business Suite, Canva, SEMrush, and AI marketing
@@ -714,7 +714,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-zirakpur
                 </div>
                 <!-- Card 7 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 Digital-card">
                         <h5 class="fw-semibold">Small Batches & Personal Mentorship:</h5>
                         <p class="text-muted">
                             Individual attention, clear doubt resolution, and one-on-one guidance.
@@ -723,7 +723,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-zirakpur
                 </div>
                 <!-- Card 8 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 digital-card-new">
                         <h5 class="fw-semibold">Honest Career Guidance:</h5>
                         <p class="text-muted">
                             Clear insights on job roles, salaries, and career growth in digital marketing.
@@ -732,7 +732,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-zirakpur
                 </div>
                 <!-- Card 0-->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 Digital-card">
                         <h5 class="fw-semibold">Lifetime Learning Support: </h5>
                         <p class="text-muted">
                             Continued access to updated content, job alerts, and expert support after course
@@ -748,7 +748,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-zirakpur
     <!--  -->
 
     <section class="contaianer-fluid pt pb studentParticipation" style="display:none;">
-        <div class="cutom-container width90">
+        <div class="cutom-container width80">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area text-center">
@@ -824,7 +824,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-zirakpur
     </section><!--/Project Agile Activity with Student Participation-->
 
     <section class="contaianer-fluid pt pb skill-cover">
-        <div class="cutom-container width90">
+        <div class="cutom-container width80">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area text-center centerhding">
@@ -921,7 +921,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-zirakpur
     </section><!--/placement-->
 
     <section class="container-fluid download">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="row">
                 <div class="col-md-8 col-lg-6">
                     <h2 data-aos="fade-up" data-aos-duration="800" class="section-title">Take your career to the next
@@ -951,7 +951,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-zirakpur
 
     <!--/breadcrumbs start-->
     <section class="continer-fluid pb about5trainer ">
-        <div class="nocontainer width90">
+        <div class="nocontainer width80">
             <div class="row aboutrowhding">
                 <div class="col-lg-5 col-md-12 col-sm-12">
                     <div class="about5trainerImage">
@@ -1087,13 +1087,13 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-zirakpur
                 Contact us today to book your seat or attend a free demo class.
             </p>
 
-            <a href="#" class="btn btn-warning btn-lg fw-semibold px-4"> Enroll Now </a>
+            <a href="contact.php" class="btn  btn-lg fw-semibold px-4" style="background-color: #ff8503;"> Enroll Now </a>
 
         </div>
     </section>
 
     <section class="container-fluid pt pb certificateProgram">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area">
@@ -1156,7 +1156,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-zirakpur
     </section><!--/Globally recognized certificate program-->
 
     <section class="container-fluid pt pb haveQuestion">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="row">
                 <div class="col-lg-5">
                     <div class="haveQues-image">
@@ -1200,14 +1200,14 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-zirakpur
                         Training in Zirakpur.
                     </p>
 
-                    <a href="#" class="btn btn-outline-light btn-lg px-4">Free Demo Class</a>
+                    <!-- <a href="#" class="btn btn-outline-light btn-lg px-4">Free Demo Class</a> -->
                 </div>
             </div>
         </div>
     </section>
     <!--  -->
     <section class="our-location py-5">
-  <div class="no-container width90">
+  <div class="no-container width80">
     <h2 class="text-center mb-4 fw-bold">Our Location</h2>
 
     <div class="row g-4">
@@ -1267,7 +1267,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-zirakpur
 </section>
     <!-- faq -->
     <section class="container-fluid pt pb faq">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <span class="section-subtitle section-subtitle-2 text-center">Frequently Asked Questions (FAQs)</span>
             <div class="row">
 

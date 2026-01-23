@@ -781,7 +781,7 @@ p {
 .fresherJob .left-fixed {
   position: sticky;
   top: 0;
-  height: 100vh;
+  /* height: 100vh; */
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1210,7 +1210,7 @@ p.certip {
   text-align: left;
   line-height: 25px;
   letter-spacing: 0em;
-  display: flex;
+  /* display: flex; */
   position: relative;
   z-index: 1;
   padding: 0 0 0 20px;

@@ -37,7 +37,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ghaziaba
 
     <!--Slider-->
     <section class="setbgs-landing mtt" id="transcroller-body">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="">
                 <div class="row">
                     <div class="col-lg-7">
@@ -50,8 +50,8 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ghaziaba
                                     <h2 style="font-size: 45px ;"><a href="https://5trainers.com/"
                                             style="text-decoration: none; color:white;">Digital Marketing </a> Training in
                                         Ghaziabad</h2>
-                                    <h4 class="mt-4 text-white"><a href="https://5trainers.com/"
-                                            style="text-decoration: none; color:white;">Digital Marketing </a> Training in
+                                    <h4 class="mt-4 " style="color: #ff8503;"><a href="https://5trainers.com/"
+                                            style="text-decoration: none; color:#ff8503;">Digital Marketing </a> Training in
                                         Ghaziabad – Premier Institute with 100% Placement Support</h4>
                                 </div>
                                 <!-- <p class="coDetail">Digital Marketing Course with Guaranteed Placement Support <br> Perfect for Both Freshers &  Working Professionals.</p> -->
@@ -60,7 +60,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ghaziaba
                                     AI-powered automation, and data analytics through a hands-on, project-driven
                                     curriculum designed for immediate career impact.</p>
                                 <!--for Both Freshers &-->
-                                <h4 class="text-white">Build Market-Ready Skills for Ghaziabad's Digital Economy</h4>
+                                <h4 style="color: #ff8503;">Build Market-Ready Skills for Ghaziabad's Digital Economy</h4>
                             </div><!--/slider text-->
 
 
@@ -120,12 +120,12 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ghaziaba
 
     <span id="top mt-5"></span>
     <section class="container-fluid slider-hding">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="buildText">
                         <h2>You Are One Step Closer To Building A Thriving Career As <span>Digital Marketing
-                                Expert!</span></h2>
+                                Expert in Ghaziabad !</span></h2>
                         <!-- <a href="#" style="text-decoration: none;">Register Now </a> -->
                     </div>
                 </div><!--col-->
@@ -134,7 +134,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ghaziaba
     </section><!--/slider Heading-->
 
     <section class="features-2 pt pb">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="row align-items-center">
                 <div class="col-12 col-xl-6">
                     <div class="row mtm-30">
@@ -227,7 +227,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ghaziaba
     </section>
 
     <section class="container-fluid about-sec pt pb aos-all" id="transcroller-body">
-        <div class="no-container width90">
+        <div class="no-container width80">
             <div class="row">
                 <div class="col-sm-9 col-md-9 col-lg-9 align-self-center">
                     <div class="about-us-info-wrap">
@@ -313,7 +313,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ghaziaba
     </section><!--/about -->
 
    <section class="contaianer-fluid pt pb skill-cover">
-    <div class="cutom-container width90">
+    <div class="cutom-container width80">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area text-center centerhding">
@@ -413,7 +413,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ghaziaba
 
     <!--  -->
     <section class="py-5 bg-light">
-        <div class="cutom-container width90">
+        <div class="cutom-container width80">
             <div class="text-center mb-5">
                 <h2 class="fw-bold">Digital Marketing Course in Ghaziabad – Complete Curriculum</h2>
                 <p class="text-muted">
@@ -555,7 +555,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ghaziaba
 
 
     <section class="contaianer-fluid pt pb howitwork">
-        <div class="cutom-container width90">
+        <div class="cutom-container width80">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area whitetext centerhding">
@@ -629,10 +629,10 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ghaziaba
 
     <!--  -->
     <section class="py-5 bg-light">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="text-center mb-5">
                 <h2 class="fw-bold">Why 5Trainers is the Trusted Choice for Digital Marketing Training in Ghaziabad</h2>
-                <p class="text-muted mt-2">
+                <p class="text-muted mt-2 text-center">
                     We deliver a results-oriented learning experience tailored to Ghaziabad's professional landscape.
                 </p>
             </div>
@@ -640,7 +640,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ghaziaba
             <div class="row g-4">
                 <!-- Card 1 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 Digital-card">
                         <h5 class="fw-semibold">Learn from Active Industry Practitioners: </h5>
                         <p class="text-muted">
                             Our trainers are certified professionals managing live campaigns for diverse industries,
@@ -651,7 +651,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ghaziaba
 
                 <!-- Card 2 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 digital-card-new">
                         <h5 class="fw-semibold">100% Live Project-Based Training:</h5>
                         <p class="text-muted"> Execute real SEO audits, manage Google Ads campaigns with allocated
                             budgets, and run social media strategies for actual businesses during your course.</p>
@@ -667,7 +667,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ghaziaba
 
                 <!-- Card 3 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 Digital-card">
                         <h5 class="fw-semibold">Beginner to Pro Learning Path:</h5>
                         <p class="text-muted">
                             No prior experience required. We start from absolute fundamentals and progress
@@ -678,7 +678,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ghaziaba
 
                 <!-- Card 4 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 digital-card-new">
                         <h5 class="fw-semibold">Comprehensive Career & Freelance Launchpad:</h5>
                         <p class="text-muted"> Receive dedicated placement support including resume building, mock
                             interviews, freelancing setup, and job referrals within Ghaziabad and NCR.
@@ -694,7 +694,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ghaziaba
 
                 <!-- Card 5 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 Digital-card">
                         <h5 class="fw-semibold">Training Grounded in Real-World Application: </h5>
                         <p class="text-muted">
                             Curriculum is continuously updated based on live campaign data, algorithm changes, and
@@ -705,7 +705,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ghaziaba
 
                 <!-- Card 6 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 digital-card-new">
                         <h5 class="fw-semibold">Hands-On Mastery of Essential Tools:</h5>
                         <p class="text-muted">
                             Gain proficiency in Google Analytics 4, Google Ads, Meta Business Suite, Canva, SEO tools,
@@ -715,7 +715,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ghaziaba
                 </div>
                 <!-- Card 7 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 Digital-card">
                         <h5 class="fw-semibold">Clear, Jargon-Free Instruction: </h5>
                         <p class="text-muted">
                             We break down complex digital concepts into simple, actionable steps that are easy to
@@ -725,7 +725,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ghaziaba
                 </div>
                 <!-- Card 8 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 digital-card-new">
                         <h5 class="fw-semibold">Personalized Attention in Small Batches:</h5>
                         <p class="text-muted">
                             Limited class sizes ensure individual mentorship, regular doubt-clearing sessions, and
@@ -735,7 +735,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ghaziaba
                 </div>
                 <!-- Card 0-->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
+                    <div class="card h-100 shadow-sm border-0 p-3 Digital-card">
                         <h5 class="fw-semibold">Transparent Career Roadmap: </h5>
                         <p class="text-muted">
                             Get honest guidance about Ghaziabad's digital job market, salary expectations, and realistic
@@ -751,7 +751,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ghaziaba
     <!--  -->
 
     <section class="contaianer-fluid pt pb studentParticipation" style="display:none;">
-        <div class="cutom-container width90">
+        <div class="cutom-container width80">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area text-center">
@@ -827,7 +827,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ghaziaba
     </section><!--/Project Agile Activity with Student Participation-->
 
     <section class="contaianer-fluid pt pb skill-cover">
-        <div class="cutom-container width90">
+        <div class="cutom-container width80">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area text-center centerhding">
@@ -924,7 +924,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ghaziaba
     </section><!--/placement-->
 
     <section class="container-fluid download">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="row">
                 <div class="col-md-8 col-lg-6">
                     <h2 data-aos="fade-up" data-aos-duration="800" class="section-title">Take your career to the next
@@ -954,7 +954,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ghaziaba
 
     <!--/breadcrumbs start-->
     <section class="continer-fluid pb about5trainer ">
-        <div class="nocontainer width90">
+        <div class="nocontainer width80">
             <div class="row aboutrowhding">
                 <div class="col-lg-5 col-md-12 col-sm-12">
                     <div class="about5trainerImage">
@@ -1058,7 +1058,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ghaziaba
                                 <!-- <img src="assets/image/icon/mission-about.png" class="img-fluid" alt="Icon"> -->
                             </div>
                             <h3>Who Should Join This Digital Marketing Training in Ghaziabad?</h3>
-                            <ul class="p mt-4" style="padding: 0px;">
+                            <ul class="p " style="padding: 0px;">
                                 <li class="text-white">Students and recent graduates looking to launch a digital career</li>
                                 <li  class="text-white">Job seekers and professionals aiming to transition into high-growth digital roles
                                 </li>
@@ -1105,7 +1105,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ghaziaba
                 in Ghaziabad.
             </p>
 
-            <a href="#" class="btn btn-warning btn-lg fw-semibold px-4">
+            <a href="contact.php" class="btn  btn-lg fw-semibold px-4" style="background-color: #ff8503;">
                  Enroll Now 
             </a>
 
@@ -1113,7 +1113,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ghaziaba
     </section>
 
     <section class="container-fluid pt pb certificateProgram">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area">
@@ -1176,7 +1176,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ghaziaba
     </section><!--/Globally recognized certificate program-->
 
     <section class="container-fluid pt pb haveQuestion">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="row">
                 <div class="col-lg-5">
                     <div class="haveQues-image">
@@ -1220,14 +1220,14 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ghaziaba
                         Training in Ghaziabad.
                     </p>
 
-                    <a href="#" class="btn btn-outline-light btn-lg px-4">Free Demo Class</a>
+                    <!-- <a href="#" class="btn btn-outline-light btn-lg px-4">Free Demo Class</a> -->
                 </div>
             </div>
         </div>
     </section>
     <!--  -->
     <section class="our-location py-5">
-  <div class="no-container width90">
+  <div class="no-container width80">
     <h2 class="text-center mb-4 fw-bold">Our Location</h2>
 
     <div class="row g-4">
@@ -1287,7 +1287,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ghaziaba
 </section>
     <!-- faq -->
     <section class="container-fluid pt pb faq">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <span class="section-subtitle section-subtitle-2 text-center">Frequently Asked Questions (FAQs) –
                 Ghaziabad</span>
             <div class="row">

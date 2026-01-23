@@ -236,15 +236,16 @@ a:hover {
 }
 
 .brochure-btn {
-  background-color: #0f79be;
-  border-radius: 3px;
-  padding: 0px 20px;
-  height: 60px;
-  border: none;
-  color: white;
-  font-weight: 600;
-  font-size: 17px;
-  margin: 0px 15px;
+    background-color: #0f79be;
+    border-radius: 3px;
+    padding: 0px 20px;
+    /* height: 60px; */
+    border: none;
+    color: white;
+    font-weight: 600;
+    font-size: 17px;
+    margin: 0px 15px;
+    padding: 12px 30px;
 }
 
 .popup-form {
@@ -835,6 +836,7 @@ a:hover {
   text-align: center;
   letter-spacing: 0.03em;
   text-transform: capitalize;
+  margin-top: 20px;
 }
 .section-subtitle-2::before {
   position: absolute;
@@ -2074,7 +2076,7 @@ a:hover {
   border-bottom: 5px solid #0f79be;
   border-radius: 0.75rem;
   text-align: center;
-  padding: 40px 30px;
+  padding: 40px 15px;
   margin: 25px 0 0;
   z-index: 1;
   position: relative;
@@ -2413,6 +2415,17 @@ a:hover {
   z-index: 1;
   transition: 0.5s;
   margin: 0 0 30px;
+}
+.blog-read-more{
+  color:#fff;
+   text-decoration: none;
+    background-color: #0f79be; 
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+.blog-read-more:hover{
+  color: #fff;
+  text-decoration: none;
 }
 .single-instructor-member .member-content {
   padding: 15px 25px 25px 25px;

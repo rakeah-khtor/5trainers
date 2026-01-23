@@ -17,12 +17,12 @@
   width: 135px;
   padding: 20px 0px !important;
 }
-.ftrlogo img{
+.ftrlogo img {
   width: 170px;
   padding: 20px 0px !important;
 }
 .footer-icon {
-    width: 15px !important;
+  width: 15px !important;
 }
 .intro-details {
   height: 100%;
@@ -44,16 +44,15 @@
   width: 100%;
   background: #0f79be;
   padding: 200px 0px 70px 0;
-   height: 90vh !important;
+  height: 90vh !important;
   min-height: 90vh !important;
-
 }
-.setbgs-landing{
+.setbgs-landing {
   position: relative;
   width: 100%;
   background: #0f79be;
   padding: 200px 0px 70px 0;
-   height: 105vh !important;
+  height: 105vh !important;
   min-height: 105vh !important;
 }
 .setbgs-landing::before {
@@ -205,9 +204,9 @@
   text-align: left;
   letter-spacing: 2px;
 }
-.hero-main{
-   position: absolute;
-   width: 90%;
+.hero-main {
+  position: absolute;
+  width: 80%;
   /* top: 7%; */
   top: 22%;
 }
@@ -381,7 +380,9 @@
   background-clip: padding-box;
   border: 1px solid #ced4da;
   border-radius: 0.25rem;
-  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  transition:
+    border-color 0.15s ease-in-out,
+    box-shadow 0.15s ease-in-out;
 }
 .form-screen .form-group label {
   font-size: 14px;
@@ -402,16 +403,14 @@
 /*  Smartphones (portrait and landscape) */
 
 @media only screen and (min-device-width: 300px) and (max-device-width: 400px) {
-
-
-  .setbgs{
-      height: 190vh !important;
-  min-height: 190vh !important;
+  .setbgs {
+    height: 190vh !important;
+    min-height: 190vh !important;
   }
-  .setbgs-landing{
-     height: 250vh !important;
-  min-height: 250vh !important;
-  padding: 135px 0px 70px 0;
+  .setbgs-landing {
+    height: 250vh !important;
+    min-height: 250vh !important;
+    padding: 135px 0px 70px 0;
   }
   /*Slider*/
   .mb-20 {
@@ -512,7 +511,7 @@
     margin: 5px 0;
     color: #feb600;
   }
-  .sliderHeading h1{
+  .sliderHeading h1 {
     font-size: 20px;
   }
 }
@@ -567,12 +566,12 @@
     height: 150vh !important;
     min-height: 150vh !important;
   }
-  .setbgs-landing{
+  .setbgs-landing {
     padding: 0;
     height: 170vh !important;
     min-height: 170vh !important;
   }
-  .mtt{
+  .mtt {
     margin-top: 100px;
   }
   #slide-show {
@@ -635,15 +634,12 @@
   }
 }
 @media only screen and (min-device-width: 1200px) and (max-device-width: 1399px) {
-
-.setbgs {
-   height: 125vh !important;
-  min-height: 125vh !important;
-
-}
-.setbgs-landing{
-   height: 170vh !important;
-  min-height: 170vh !important;
-}
-
+  .setbgs {
+    height: 140vh !important;
+    min-height: 140vh !important;
+  }
+  .setbgs-landing {
+    height: 170vh !important;
+    min-height: 170vh !important;
+  }
 }

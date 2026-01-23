@@ -32,7 +32,7 @@ $canonical_url = "https://www.5trainers.com/founder.php";
 	</div>
 </section><!--/breadcrumbs-->
 <section class="continer-fluid pt pb aboutfounder comm-margin">
-	<div class="nocontainer width90">
+	<div class="nocontainer width80">
 		<div class="row" style="display:none;">
 			<div class="col-lg-12">
 				<div class="row rowfounder">

@@ -96,7 +96,7 @@
       
      <div class="no-container width80 top-contact-bar " style=" background-color: white; justify-content: end ;display:flex;">
       <div class="" style="background-color: #ff8503; width:40%; border-radius:0px 0px 0px 0px; justify-content: end; margin-right: 16px; padding: 10px 15px;     clip-path: polygon(4% 0, 101% 0, 100% 100%, 0% 100%, 0 100%);">
-        <div class="width90 d-flex" style="justify-content: end;">
+        <div class="width80 d-flex" style="justify-content: end;">
             <div>
             <i class="fa-solid fa-phone icon"></i>
             <a href="tel:+91 8283840606" class="text-black mr-4" style="text-decoration: none;" >+91 8283840606</a>

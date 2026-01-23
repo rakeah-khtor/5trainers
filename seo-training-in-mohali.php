@@ -18,7 +18,7 @@ $canonical_url = "https://www.5trainers.com/seo-training-in-mohali.php";
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
 
     <section class="setbg mtt" id="transcroller-body">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="">
                 <div class="row">
                     <div class="col-lg-7">
@@ -152,7 +152,7 @@ $canonical_url = "https://www.5trainers.com/seo-training-in-mohali.php";
     </section><!--/Slider-->
     <span id="top"></span>
     <section class="container-fluid slider-hding">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="buildText">
@@ -165,7 +165,7 @@ $canonical_url = "https://www.5trainers.com/seo-training-in-mohali.php";
     </section><!--/slider Heading-->
 
     <section class="container-fluid about-sec pt pb aos-all" id="transcroller-body">
-        <div class="no-container width90">
+        <div class="no-container width80">
             <div class="row">
                 <div class="col-sm-12 col-md-12 col-lg-12 align-self-center">
                     <div class="about-us-info-wrap">
@@ -205,7 +205,7 @@ $canonical_url = "https://www.5trainers.com/seo-training-in-mohali.php";
     </section><!--/SEO Course Overview-->
 
     <section class="contaianer-fluid pt pb courseModules">
-        <div class="cutom-container width90">
+        <div class="cutom-container width80">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area">
@@ -473,7 +473,7 @@ $canonical_url = "https://www.5trainers.com/seo-training-in-mohali.php";
     </section><!--/courseModules-->
 
     <section class="features-2 pt pb">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="row align-items-center">
                 <div class="col-12 col-xl-6">
                     <div class="row mtm-30">
@@ -559,7 +559,7 @@ $canonical_url = "https://www.5trainers.com/seo-training-in-mohali.php";
     </section>
 
     <section class="container-fluid about-sec pt pb aos-all" id="transcroller-body">
-        <div class="no-container width90">
+        <div class="no-container width80">
             <div class="row">
                 <div class="col-sm-9 col-md-9 col-lg-9 align-self-center">
                     <div class="about-us-info-wrap">
@@ -722,7 +722,7 @@ $canonical_url = "https://www.5trainers.com/seo-training-in-mohali.php";
         </div>
     </section><!--/about -->
    <section class="contaianer-fluid pt pb skill-cover">
-    <div class="cutom-container width90">
+    <div class="cutom-container width80">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area text-center centerhding">
@@ -820,7 +820,7 @@ $canonical_url = "https://www.5trainers.com/seo-training-in-mohali.php";
     </div>
 </section><!--/skill cover-->
     <section class="container-fluid pt pb certificateProgram">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="row">
 
                 <div class="col-lg-7">
@@ -874,7 +874,7 @@ $canonical_url = "https://www.5trainers.com/seo-training-in-mohali.php";
     </section><!--/Globally recognized certificate program-->
 
     <section class="contaianer-fluid pt pb skill-cover">
-        <div class="cutom-container width90">
+        <div class="cutom-container width80">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area text-center centerhding">
@@ -979,7 +979,7 @@ $canonical_url = "https://www.5trainers.com/seo-training-in-mohali.php";
     </section><!--/placement-->
 
     <section class="container-fluid download">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="row">
                 <div class="col-md-8 col-lg-6">
                     <h2 data-aos="fade-up" data-aos-duration="800" class="section-title">Take your career to the next
@@ -1009,7 +1009,7 @@ $canonical_url = "https://www.5trainers.com/seo-training-in-mohali.php";
 
 
     <section class="slider">
-        <div class="custom-container width90 ">
+        <div class="custom-container width80 ">
             <div class="text-center">
                 <h2 data-aos="fade-up" data-aos-duration="800" style="color:white; margin-bottom:50px">Student
                     Testimonials for 5Trainers – SEO Training in Mohali</h2>
@@ -1179,7 +1179,7 @@ $canonical_url = "https://www.5trainers.com/seo-training-in-mohali.php";
 
     <section class="container-fluid pt haveQuestion">
 
-        <div class="custom-container width90">
+        <div class="custom-container width80">
 
             <div class="row">
                 <div class="section-title-area col-md-12 text-center">
@@ -1269,7 +1269,7 @@ $canonical_url = "https://www.5trainers.com/seo-training-in-mohali.php";
     </section>
     <!-- faq -->
     <section class="container-fluid pt pb faq">
-        <div class="custom-container width90">
+        <div class="custom-container width80">
             <div class="row">
                 <span class="section-subtitle section-subtitle-2 text-center">SEO FAQ Section (Optimized for Featured
                     Snippets)</span>

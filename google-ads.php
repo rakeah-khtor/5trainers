@@ -35,7 +35,7 @@ $canonical_url = "https://www.5trainers.com/google-ads.php";
 
 	<section class="continer-fluid pt pb google-ads-sec comm-margin over-dm">
 		<div class="over-dm-circle"></div>
-		<div class="nocontainer width90">
+		<div class="nocontainer width80">
 			<div class="row">
 				<div class="col-lg-7">
 					<div class="cta-wrap red-bg">
@@ -269,7 +269,7 @@ $canonical_url = "https://www.5trainers.com/google-ads.php";
 	</section><!--/Career Opportunities-->
 
 	<section class="continer-fluid pt pb why-choose-us">
-		<div class="nocontainer width90">
+		<div class="nocontainer width80">
 			<div class="row">
 				<div class="col-lg-12">
 					<div class="section-title-area centerhding">
