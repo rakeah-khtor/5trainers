@@ -4232,12 +4232,17 @@
   }
   .slider-center{
         top: 62%;
+        width: 90%;
   }
   .mtb-40{
         margin: 10px 0 !important;
   }
   .slide-text h2 {
     font-size: 28px !important;
+    line-height: 40px;
+  }
+  .slide-text p{
+    font-size: 15px;
   }
 
   .nav-links li a {
