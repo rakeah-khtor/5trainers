@@ -434,9 +434,11 @@ $canonical_url = "https://www.5trainers.com/digital_marketing_institute.php";
         </p>
         <p class="lead mb-4 text-white text-center mb-1">
             <strong>Contact Our Digital Marketing Institute:</strong><br>
-            Call/WhatsApp: +91 8283840606<br>
+            <i class=" fa-solid fa-phone">+91 8283840606</i><br>
             Email: info@5trainers.com<br>
-            Address: [Your Physical Institute Address Here]
+            <a href="https://maps.app.goo.gl/LxiJCYbjsekGvrQw9" class="theme-btn mt-2" style="color: #fff;">
+                            Get Directions to Mohali Center
+                        </a>
         </p>
         <a href="mailto:info@5trainers.com" class="btn btn-lg fw-semibold px-4 me-2" style="background-color: #ff8503; border-radius: 3px;">
             Email Your Query Now

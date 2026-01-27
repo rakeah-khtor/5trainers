@@ -633,7 +633,7 @@ $canonical_url = "https://www.5trainers.com/digital_marketing_institute_in_mohal
                     <p class="mt-3">
                         <strong>Visit Us:</strong><br>
                         5Trainers Digital Marketing Institute<br>
-                        [Complete Address with Landmark]<br>
+                        <!-- [Complete Address with Landmark]<br> -->
                         Phase 7, Mohali, Punjab - 160062
                     </p>
                     <p class="mb-1"><strong>Mohali Helpline:</strong> +91 8283840606</p>
@@ -644,8 +644,8 @@ $canonical_url = "https://www.5trainers.com/digital_marketing_institute_in_mohal
                         <a href="https://wa.me/918283840606" target="_blank" class="theme-btn">
                             WhatsApp for Mohali Institute Details
                         </a>
-                        <a href="#" class="theme-btn mt-2">
-                            🗺️ Get Directions to Mohali Center
+                        <a href="https://maps.app.goo.gl/LxiJCYbjsekGvrQw9" class="theme-btn mt-2">
+                            Get Directions to Mohali Center
                         </a>
                     </p>
                 </div>
