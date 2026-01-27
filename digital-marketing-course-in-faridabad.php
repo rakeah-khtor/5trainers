@@ -46,7 +46,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
                                 <div class="sliderHeading ">
                                     <!-- <h2>Digital Marketing Courses</h2>
                             <h2> with AI</h2> -->
-                                    <h2 style="font-size: 45px ;">Digital Marketing Training in
+                                    <h2 style="font-size: 40px ;">Digital Marketing Training in
                                         Faridabad</h2>
                                     <h4 class="mt-4 "  style="color: #0a6da5; background-color:white; padding:20px; border-radius:8px">Digital Marketing </a> Training in Faridabad – Top Institute with 100% Placement Support</h4>
                                 </div>

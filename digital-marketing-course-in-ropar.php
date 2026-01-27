@@ -632,7 +632,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ropar.ph
                 </div>
             </div><!--/col-->
             <div class="col-lg-4 col-md-6">
-                <div data-aos="fade-up" data-aos-duration="1800" class="aos-init aos-animate chooseContentBox whitebg">
+                <div data-aos="fade-up" data-aos-duration="1800" class="aos-init aos-animate chooseContentBox cyangreenbg">
                     <h5>Simple, Jargon-Free Learning Approach:</h5>
                     <p class="text-center">We break down complex digital concepts into easy-to-understand, actionable steps perfect for beginners.</p>
                 </div>
@@ -644,7 +644,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ropar.ph
                 </div>
             </div><!--/col-->
             <div class="col-lg-4 col-md-6">
-                <div data-aos="fade-up" data-aos-duration="1800" class="aos-init aos-animate chooseContentBox whitebg">
+                <div data-aos="fade-up" data-aos-duration="1800" class="aos-init aos-animate chooseContentBox cyangreenbg">
                     <h5>Honest Local & Remote Career Guidance:</h5>
                     <p class="text-center">Get transparent advice about Ropar’s job market, remote work opportunities, freelancing potential, and realistic growth pathways.</p>
                 </div>

@@ -250,7 +250,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
 
 
 <!--About-->
-<section class="container-fluid about-sec  aos-all" id="transcroller-body">
+<section class="container-fluid about-sec  pt pb aos-all" id="transcroller-body">
     <div class="no-container width80">
         <div class="row">
             <div class="col-sm-5 col-md-12 col-lg-5 align-self-center">
