@@ -1160,7 +1160,7 @@ p.certip {
 .servicecol {
   display: flex;
   margin-top: 25px;
-  min-height: 320px;
+  min-height: 220px;
   transition: all 0.3s;
   border: 1px solid rgba(238, 238, 238, 0.7);
   position: relative;
@@ -1169,6 +1169,11 @@ p.certip {
   transition: all 0.3s ease-out;
   box-shadow: 0 5px 15px 3px rgb(0 0 0 / 5%);
   flex-direction: column;
+  justify-content: center;
+
+  /* :hover{
+    background-color: #0f79be;
+  } */
 }
 .servicecol:hover {
   box-shadow: 0px 0px 10px 2px rgb(0 0 0 / 15%);

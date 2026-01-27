@@ -1008,7 +1008,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ropar.ph
                  Contact us now to book a free demo session or enroll in our upcoming batch of Digital Marketing Training in Ropar.
             </p>
 
-            <a href="#" class="btn btn-warning btn-lg fw-semibold px-4">
+            <a href="#" class="btn btn-lg fw-semibold px-4" style="background-color: #ff8503; border-radius: 3px;">
                  Enroll Now 
             </a>
 
