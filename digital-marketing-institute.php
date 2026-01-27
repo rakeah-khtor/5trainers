@@ -148,84 +148,102 @@ $canonical_url = "https://www.5trainers.com/digital_marketing_institute.php";
         </div>
         <div class="row mt-4">
             <div class="col-md-6 col-lg-4 mb-4">
-                <div class="servicecol h-100">
-                    <div class="service-info">
-                        <h5>Digital Marketing Master Course</h5>
-                        <p>Go from beginner to a proficient digital marketer in one comprehensive program. This flagship course covers SEO, SMM, PPC, Content, Email, and Analytics, making you a versatile asset to any team.</p>
-                        <!-- <p class="mb-0"><strong>Keywords:</strong> Digital Marketing Master Program, Comprehensive Digital Marketing Training, Institute Certification.</p> -->
+                <a href="digitalmarketingcourse.php">
+                    <div class="servicecol h-100">
+                        <div class="service-info">
+                            <h5>Digital Marketing Master Course</h5>
+                            <p>Go from beginner to a proficient digital marketer in one comprehensive program. This flagship course covers SEO, SMM, PPC, Content, Email, and Analytics, making you a versatile asset to any team.</p>
+                            <!-- <p class="mb-0"><strong>Keywords:</strong> Digital Marketing Master Program, Comprehensive Digital Marketing Training, Institute Certification.</p> -->
+                        </div>
                     </div>
+                </a>
+            </div>
+            <div class="col-md-6 col-lg-4 mb-4">
+                <div class="servicecol h-100">
+                    <a href="seo-one-month.php">
+                        <div class="service-info">
+                            <h5>Professional SEO Course</h5>
+                            <p>Learn to rank websites higher on search engines. Master On-Page &amp; Off-Page SEO, technical audits, keyword research, and local SEO strategies designed by experts who have ranked businesses on Google&apos;s first page.</p>
+                            <!-- <p class="mb-0"><strong>Keywords:</strong> SEO Training Institute, Search Engine Optimization Course, Professional SEO Certification.</p> -->
+                        </div>
+                    </a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-4 mb-4">
                 <div class="servicecol h-100">
-                    <div class="service-info">
-                        <h5>Professional SEO Course</h5>
-                        <p>Learn to rank websites higher on search engines. Master On-Page &amp; Off-Page SEO, technical audits, keyword research, and local SEO strategies designed by experts who have ranked businesses on Google&apos;s first page.</p>
-                        <!-- <p class="mb-0"><strong>Keywords:</strong> SEO Training Institute, Search Engine Optimization Course, Professional SEO Certification.</p> -->
-                    </div>
+                    <a href="smm.php">
+                        <div class="service-info">
+                            <h5>SMO &amp; SMM Course</h5>
+                            <p>Boost brand visibility with Social Media Optimization &amp; Marketing. Learn to organically optimize brand presence (SMO) and run paid, high-ROI campaigns (SMM) on Facebook, Instagram, LinkedIn, Twitter, and more.</p>
+                            <!-- <p class="mb-0"><strong>Keywords:</strong> SMO Course, Social Media Marketing Institute, SMM Training, Brand Visibility Course.</p> -->
+                        </div>
+                    </a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-4 mb-4">
                 <div class="servicecol h-100">
-                    <div class="service-info">
-                        <h5>SMO &amp; SMM Course</h5>
-                        <p>Boost brand visibility with Social Media Optimization &amp; Marketing. Learn to organically optimize brand presence (SMO) and run paid, high-ROI campaigns (SMM) on Facebook, Instagram, LinkedIn, Twitter, and more.</p>
-                        <!-- <p class="mb-0"><strong>Keywords:</strong> SMO Course, Social Media Marketing Institute, SMM Training, Brand Visibility Course.</p> -->
-                    </div>
+                    <a href="google-ads-30days.php">
+                        <div class="service-info">
+                            <h5>Google Ads Certification Course</h5>
+                            <p>Run profitable and data-driven campaigns using Google Ads. Learn Search, Display, Video, and Shopping Ads along with smart bidding strategies to drive measurable sales and leads.</p>
+                            <!-- <p class="mb-0"><strong>Keywords:</strong> Google Ads Training, PPC Course, Google Certification Institute, Paid Advertising Course.</p> -->
+                        </div>
+                    </a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-4 mb-4">
                 <div class="servicecol h-100">
-                    <div class="service-info">
-                        <h5>Google Ads Certification Course</h5>
-                        <p>Run profitable and data-driven campaigns using Google Ads. Learn Search, Display, Video, and Shopping Ads along with smart bidding strategies to drive measurable sales and leads.</p>
-                        <!-- <p class="mb-0"><strong>Keywords:</strong> Google Ads Training, PPC Course, Google Certification Institute, Paid Advertising Course.</p> -->
-                    </div>
+                    <a href="meta-ads-30days.php">
+                        <div class="service-info">
+                            <h5>Meta Ads Specialist Course</h5>
+                            <p>Beginner to Pro: Master Meta Ads the smart way. Learn advanced audience targeting, creative strategy, campaign structuring, and conversion tracking on Facebook &amp; Instagram Ads Manager.</p>
+                            <!-- <p class="mb-0"><strong>Keywords:</strong> Facebook Ads Course, Meta Ads Training, Instagram Advertising, Social Media Ads Institute.</p> -->
+                        </div>
+                    </a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-4 mb-4">
                 <div class="servicecol h-100">
-                    <div class="service-info">
-                        <h5>Meta Ads Specialist Course</h5>
-                        <p>Beginner to Pro: Master Meta Ads the smart way. Learn advanced audience targeting, creative strategy, campaign structuring, and conversion tracking on Facebook &amp; Instagram Ads Manager.</p>
-                        <!-- <p class="mb-0"><strong>Keywords:</strong> Facebook Ads Course, Meta Ads Training, Instagram Advertising, Social Media Ads Institute.</p> -->
-                    </div>
+                    <a href="full-stack-webdevelopment.php">
+                        <div class="service-info">
+                            <h5>Full Stack Development Course</h5>
+                            <p>Build the web from front-end to back-end. Learn HTML, CSS, JavaScript, Node.js, React, and databases to become a job-ready full stack developer.</p>
+                            <!-- <p class="mb-0"><strong>Keywords:</strong> Full Stack Developer Course, Web Development Institute, Coding Bootcamp, MERN Stack Training.</p> -->
+                        </div>
+                    </a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-4 mb-4">
                 <div class="servicecol h-100">
-                    <div class="service-info">
-                        <h5>Full Stack Development Course</h5>
-                        <p>Build the web from front-end to back-end. Learn HTML, CSS, JavaScript, Node.js, React, and databases to become a job-ready full stack developer.</p>
-                        <!-- <p class="mb-0"><strong>Keywords:</strong> Full Stack Developer Course, Web Development Institute, Coding Bootcamp, MERN Stack Training.</p> -->
-                    </div>
+                    <a href="data-science-professional-training-6-months.php">
+                        <div class="service-info">
+                            <h5>Data Science Course</h5>
+                            <p>Shape the future with the power of data science. Turn raw data into strategic insights with Python, statistics, machine learning, data visualization, and real-world analytics projects.</p>
+                            <!-- <p class="mb-0"><strong>Keywords:</strong> Data Science Institute, Machine Learning Course, Python for Data Science, Data Science Certification.</p> -->
+                        </div>
+                    </a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-4 mb-4">
                 <div class="servicecol h-100">
-                    <div class="service-info">
-                        <h5>Data Science Course</h5>
-                        <p>Shape the future with the power of data science. Turn raw data into strategic insights with Python, statistics, machine learning, data visualization, and real-world analytics projects.</p>
-                        <!-- <p class="mb-0"><strong>Keywords:</strong> Data Science Institute, Machine Learning Course, Python for Data Science, Data Science Certification.</p> -->
-                    </div>
+                    <a href="artificial-intelligence.php">
+                        <div class="service-info">
+                            <h5>Artificial Intelligence (AI) Course</h5>
+                            <p>Master the fundamentals of modern AI. Dive into machine learning, neural networks, NLP, and AI applications to build a career in one of the world&apos;s most transformative fields.</p>
+                            <!-- <p class="mb-0"><strong>Keywords:</strong> AI and ML Course, Artificial Intelligence Training, AI Institute, Machine Learning Certification.</p> -->
+                        </div>
+                    </a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-4 mb-4">
                 <div class="servicecol h-100">
-                    <div class="service-info">
-                        <h5>Artificial Intelligence (AI) Course</h5>
-                        <p>Master the fundamentals of modern AI. Dive into machine learning, neural networks, NLP, and AI applications to build a career in one of the world&apos;s most transformative fields.</p>
-                        <!-- <p class="mb-0"><strong>Keywords:</strong> AI and ML Course, Artificial Intelligence Training, AI Institute, Machine Learning Certification.</p> -->
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4 mb-4">
-                <div class="servicecol h-100">
-                    <div class="service-info">
-                        <h5>Data Analytics Course</h5>
-                        <p>Drive business decisions with actionable data insights. Learn Excel, SQL, Tableau, and Power BI for roles in business intelligence, marketing analytics, and data analysis.</p>
-                        <!-- <p class="mb-0"><strong>Keywords:</strong> Data Analytics Training, Business Analytics Course, Tableau Training, Data Analyst Institute.</p> -->
-                    </div>
+                    <a href="data-analytics-6months.php">
+                        <div class="service-info">
+                            <h5>Data Analytics Course</h5>
+                            <p>Drive business decisions with actionable data insights. Learn Excel, SQL, Tableau, and Power BI for roles in business intelligence, marketing analytics, and data analysis.</p>
+                            <!-- <p class="mb-0"><strong>Keywords:</strong> Data Analytics Training, Business Analytics Course, Tableau Training, Data Analyst Institute.</p> -->
+                        </div>
+                    </a>
                 </div>
             </div>
         </div>
@@ -434,9 +452,11 @@ $canonical_url = "https://www.5trainers.com/digital_marketing_institute.php";
         </p>
         <p class="lead mb-4 text-white text-center mb-1">
             <strong>Contact Our Digital Marketing Institute:</strong><br>
-            Call/WhatsApp: +91 8283840606<br>
-            Email: info@5trainers.com<br>
-            Address: [Your Physical Institute Address Here]
+            <!-- <i class=" fa-solid fa-phone">+91 8283840606</i><br>
+            Email: info@5trainers.com<br> -->
+            <a href="https://maps.app.goo.gl/LxiJCYbjsekGvrQw9" class="theme-btn mt-2" style="color: #fff;">
+                            Get Directions to Mohali Center
+                        </a>
         </p>
         <a href="mailto:info@5trainers.com" class="btn btn-lg fw-semibold px-4 me-2" style="background-color: #ff8503; border-radius: 3px;">
             Email Your Query Now
