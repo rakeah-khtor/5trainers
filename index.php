@@ -1260,7 +1260,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
     }
 </script>
 
-<script>
+<!-- <script>
     const API_KEY = '02d486fe-1adf-45e9-9198-e407799a9cbf';
     const SERVER_URL = 'https://pushads123.com';
 
@@ -1298,11 +1298,11 @@ $canonical_url = "https://www.5trainers.com/index.php";
     } else {
         loadNotificationSDK();
     }
-</script>
+</script> -->
 
 
 
-<script>
+<!-- <script>
     document.getElementById("enablePush").addEventListener("click", async () => {
         try {
             const result = await PN.subscribe();
@@ -1314,7 +1314,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
             alert("Failed: " + error.message);
         }
     });
-</script>
+</script> -->
 
 <style>
     .consultation-modal {
