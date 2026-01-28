@@ -55,6 +55,11 @@
 <!-- Chatbot Script -->
 <script>
   (function () {
+    // Disable visa chatbot on very small screens (425px or below)
+    if (window.innerWidth <= 425) {
+      return;
+    }
+
     const chatbot = document.querySelector(".vt-chatbot");
     if (!chatbot) return;
 

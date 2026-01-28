@@ -52,15 +52,16 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
             // Send the email
             $mail->send();
-            echo 'Email has been sent';
 
             // Log data to a log file
             $logFile = 'form-submissions.log';
             $logData = date("Y-m-d H:i:s") . " | Name: $name, Email: $email, Phone Number: $number" . PHP_EOL;
             file_put_contents($logFile, $logData, FILE_APPEND);
 
-            // Redirect to thankyou.php after form submission
-            header("Location: thankupagebrochure.php?pdf=true");
+            // For header brochure modal: stay on the same page.
+            // Front-end JS will handle showing a message / triggering the PDF download.
+            http_response_code(200);
+            echo 'OK';
             exit();
 
         } catch (Exception $e) {
