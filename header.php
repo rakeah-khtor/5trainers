@@ -243,7 +243,52 @@
         </div>
       </div>
     </nav>
- 
+
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        var brochureForm = document.getElementById("emailForm");
+        if (!brochureForm) return;
+
+        brochureForm.addEventListener("submit", function (e) {
+          e.preventDefault();
+
+          var formData = new FormData(brochureForm);
+
+          fetch(brochureForm.action, {
+            method: "POST",
+            body: formData
+          })
+            .then(function (res) {
+              if (!res.ok) {
+                throw new Error("Network response was not ok");
+              }
+
+              // Trigger brochure PDF download without leaving the current page
+              var link = document.createElement("a");
+              link.href = "<?php echo $assetPrefix; ?>assets/uploads/5trainers_course.pdf";
+              link.download = "5trainers_course.pdf";
+              document.body.appendChild(link);
+              link.click();
+              document.body.removeChild(link);
+
+              // Close the modal if Bootstrap is available
+              if (typeof bootstrap !== "undefined") {
+                var modalEl = document.getElementById("staticBackdrop");
+                if (modalEl) {
+                  var modal = bootstrap.Modal.getInstance(modalEl) || new bootstrap.Modal(modalEl);
+                  modal.hide();
+                }
+              }
+
+              brochureForm.reset();
+            })
+            .catch(function () {
+              alert("There was a problem submitting the form. Please try again.");
+            });
+        });
+      });
+    </script>
+
 </body>
- 
+
 </html>

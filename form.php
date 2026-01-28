@@ -21,10 +21,19 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     // Basic validation
     $errors = [];
 
-    // Name: at least 4 non-space characters
+    // Name: at least 4 non-space characters (mbstring-safe)
     $nameNoSpaces = preg_replace('/\s+/u', '', $rawName);
-    if ($nameNoSpaces === '' || mb_strlen($nameNoSpaces, 'UTF-8') < 4) {
+    if ($nameNoSpaces === '') {
         $errors[] = 'Full Name must be at least 4 characters.';
+    } else {
+        if (function_exists('mb_strlen')) {
+            $nameLength = mb_strlen($nameNoSpaces, 'UTF-8');
+        } else {
+            $nameLength = strlen($nameNoSpaces);
+        }
+        if ($nameLength < 4) {
+            $errors[] = 'Full Name must be at least 4 characters.';
+        }
     }
 
     // Email

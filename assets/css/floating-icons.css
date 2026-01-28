@@ -260,3 +260,10 @@ body {
     width: 280px;
   }
 }
+
+/* Hide main-site chatbot completely on very small screens */
+@media (max-width: 425px) {
+  .vt-chatbot {
+    display: none !important;
+  }
+}
